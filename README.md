@@ -1,2 +1,1 @@
-# Orthrus-BlockList
-List to block ads, trackers, statistics &amp; malwares
+![Cover](https://github.com/marcusminus/Orthrus-BlockList/raw/master/layout/head.png)
