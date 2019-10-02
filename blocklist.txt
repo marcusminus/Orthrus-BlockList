@@ -7300,6 +7300,7 @@
 ||ad-apac.doubleclick.net^
 ||ad-api-v01.uliza.jp^
 ||ad-api.ad-stir.com^
+||ad-api.ehawk.com^
 ||ad-arata.com^
 ||ad-arata.s3.amazonaws.com^
 ||ad-audit.tubemogul.com^
@@ -17957,6 +17958,7 @@
 ||area51.unity.amobee.com^
 ||areametrics.com^
 ||areamobile.de.intellitxt.com^
+||areantaid.site^
 ||arearmark.club^
 ||areasins.com^
 ||areasnap.com^
@@ -18768,6 +18770,7 @@
 ||aunica.d1.sc.omtrdc.net^
 ||aunicav15.d1.sc.omtrdc.net^
 ||aunmdhxrco.com^
+||auqefmhsutnldv.com^
 ||aurabom.ru^
 ||aureate.com^
 ||aurelius.httpool.com^
@@ -30686,6 +30689,7 @@
 ||d169bbxks24g2u.cloudfront.net^
 ||d16fk4ms6rqz1v.cloudfront.net^
 ||d16s8pqtk4uodx.cloudfront.net^
+||d16xpr36wrmcmk.cloudfront.net^
 ||d17m68fovwmgxj.cloudfront.net^
 ||d17rlarvg2khuc.cloudfront.net^
 ||d18p8z0ptb8qab.cloudfront.net^
@@ -35328,6 +35332,7 @@
 ||egcsbdrj.com^
 ||egencia-d.openx.net^
 ||egeszsegespont.hu^
+||egfbynnwhco.com^
 ||eggplant.cloud^
 ||eghuntsrizvbt.com^
 ||egkkeahdzjqy.com^
@@ -38737,6 +38742,7 @@
 ||fhddhfhz.com^
 ||fhg.digitaldesire.com^
 ||fhgfffdsf9.appspot.com^
+||fhidehpl.com^
 ||fhludwigshafen.eu.qualtrics.com^
 ||fhluqrhmqs.com^
 ||fhlyo.voluumtrk.com^
@@ -40596,6 +40602,7 @@
 ||fzcyyqvrbrpk.com^
 ||fzeahussyd.com^
 ||fzgitqrqrsyyiv.com^
+||fzhxi.com^
 ||fzmogmfqh.com^
 ||fznpq.com^
 ||fzofckmbwguarteciq1npieeiss1p1514431012.nuid.imrworldwide.com^
@@ -43160,6 +43167,7 @@
 ||gscounters.us1.gigya.com^
 ||gscsystemwithdarren.com^
 ||gsdolqvdjr.com^
+||gsdsccoo.com^
 ||gse.qualtrics.com^
 ||gsecondscreen.com^
 ||gserv.cneteu.net^
@@ -43379,6 +43387,7 @@
 ||gvdjqwahgh.com^
 ||gve-r.tlnk.io^
 ||gverjfuapaag.com^
+||gvesgrun.online^
 ||gvfubsvgdodrj.com^
 ||gvgakxvukmrm.com^
 ||gvhqnlti.com^
@@ -43427,6 +43436,8 @@
 ||gwovohvkzay.com^
 ||gwp.nuggad.net^
 ||gwquuagkjxbq.com^
+||gwrtdp-tn690BFAdt.tclclouds.com^
+||gwrtdp-tn690bfadt.tclclouds.com^
 ||gwrtdp.tclclouds.com^
 ||gwsfo.smaato.net^
 ||gwsomeiyywaz.com^
@@ -43907,6 +43918,7 @@
 ||hcfcardriverstg2.112.2o7.net^
 ||hcg82f2b.com^
 ||hcggkyhzxzsv.com^
+||hcgtkmes.com^
 ||hchrmain.112.2o7.net^
 ||hci.co1.qualtrics.com^
 ||hci.qualtrics.com^
@@ -44952,6 +44964,7 @@
 ||horizon.mashable.com^
 ||horizon.qualtrics.com^
 ||horizonasi.com^
+||horjhksl.com^
 ||hormati.com^
 ||hormebets.info^
 ||hornmisi.info^
@@ -50288,6 +50301,7 @@
 ||js.hotlog.ru^
 ||js.hs-analytics.net^
 ||js.hs-scripts.com^
+||js.hsadspixel.net^
 ||js.hscollectedforms.net^
 ||js.hscta.net^
 ||js.hsleadflows.net^
@@ -50735,6 +50749,7 @@
 ||jycingenieria.cl^
 ||jydbctzvbqrh.com^
 ||jyezgitcx.com^
+||jyfthtacsxkbp.com^
 ||jyhfuqoh.info^
 ||jyijwgsqj.com^
 ||jyknnhll.yearbrazil.com^
@@ -52494,6 +52509,7 @@
 ||launch.adserver.yahoo.com^
 ||launchbit.com^
 ||launcher-us.yeshen.com^
+||launcher.us.yeshen.com^
 ||launchers.network^
 ||launchmedia-d.openx.net^
 ||launchpoint.marketo.com^
@@ -59039,6 +59055,7 @@
 ||monitis.com^
 ||monitor-targeting-failures.sqrt-5041.de^
 ||monitor.ad4game.com^
+||monitor.adcaffe.com^
 ||monitor.admicro.vn^
 ||monitor.oewabox.at^
 ||monitor.outbrain.com^
@@ -60332,6 +60349,7 @@
 ||mzrhjbbikqm.com^
 ||mzvxlpf76f.kameleoon.eu^
 ||mzwaqcfbx.com^
+||mzwmdaadjf.com^
 ||mzxexigxkb.com^
 ||mzzouiciajems.com^
 ||n-ad.work^
@@ -65285,6 +65303,7 @@
 ||oxen.hillcountrytexas.com^
 ||oxfam.intelli-direct.com^
 ||oxfjlzyhxjihk.com^
+||oxfpvhulqwv.com^
 ||oxidy.com^
 ||oxjapan-d.openx.net^
 ||oxlerco.info^
@@ -69575,6 +69594,7 @@
 ||prime535.com^
 ||primead.jp^
 ||primeagentsites.com^
+||primebc1.website^
 ||primecaster.net^
 ||primechoice.ru^
 ||primediabusiness.122.2o7.net^
@@ -70864,6 +70884,7 @@
 ||pvf.tubemogul.com^
 ||pviztjecuczh.com^
 ||pvmax.net^
+||pvnyzrvvzgy.com^
 ||pvoplkodbxra.com^
 ||pvp-pro.space^
 ||pvpqgjkgvszq.com^
@@ -76425,6 +76446,7 @@
 ||seaoocyjpq.com^
 ||search-phentermine.hpage.net^
 ||search.abclauncher.com^
+||search.adcaffe.com^
 ||search.addthis.com^
 ||search.adjust.com^
 ||search.batmobi.net^
@@ -80134,6 +80156,7 @@
 ||srs.targetpoint.com^
 ||srslogisticts.com^
 ||srt-srv.xlisting.jp^
+||srtb.msn.com^
 ||srtk.net^
 ||sru4c3g1-5656abfa27cac64f410196568323b7b85d6af767-am1.d.aa.online-metrix.net^
 ||sru4c3g1-8e136dcfc9b6d5bfad58a47819eeb2841a632161-am1.d.aa.online-metrix.net^
@@ -80977,6 +81000,7 @@
 ||ssp.face2trade.com^
 ||ssp.lkgd.net^
 ||ssp.lkqd.net^
+||ssp.mediation.trnox.com^
 ||ssp.rambler.ru^
 ||ssp.streamrail.net^
 ||ssp.vertamedia.com^
@@ -81334,6 +81358,7 @@
 ||stat.komoona.com^
 ||stat.kununu.cz^
 ||stat.letv.com^
+||stat.m.360.cn^
 ||stat.m.jd.com^
 ||stat.maalaimalar.com^
 ||stat.matichon.co.th^
@@ -81838,6 +81863,7 @@
 ||statravelde.widget.criteo.com^
 ||statredpic.ru^
 ||stats-*.p2pnow.ru^
+||stats-a.maxthon.com^
 ||stats-analytics.info^
 ||stats-dc1.frz.io^
 ||stats-messages.gifs.com^
@@ -84385,7 +84411,7 @@
 ||te.trb.com^
 ||te.versiontracker.com^
 ||te.wsls.com^
-||tea.pornolomka.sex^
+||tea.pornolomka.video^
 ||teachac.com^
 ||teachscape.vo.llnwd.net^
 ||teads.tv^
@@ -94840,6 +94866,7 @@
 ||wjkwjcmeymu.com^
 ||wjmckfsdcxpj.com^
 ||wjnkvhlgvixx.com^
+||wjodtshzu.com^
 ||wjpdgueqasdgeq.com^
 ||wjuowevxibmg.com^
 ||wjvwxcnavjodj.com^
