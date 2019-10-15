@@ -101496,17 +101496,12 @@
 ||zylstina.xyz^
 ||zymerget.bi^
 ||zymerget.bid^
-||zymerget.date
 ||zymerget.date^
-||zymerget.faith
 ||zymerget.faith^
 ||zymerget.pa^
-||zymerget.party
 ||zymerget.party^
 ||zymerget.st^
-||zymerget.stream
 ||zymerget.stream^
-||zymerget.win
 ||zymerget.win^
 ||zymro.com^
 ||zynga-d.openx.net^
