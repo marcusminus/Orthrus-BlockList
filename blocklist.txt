@@ -95446,7 +95446,6 @@
 ||watson.microsoft.com^
 ||watson.microsoft.comwebpooldm21a08.infra.lync.comwww.linkedin.comwww.msn.comx.skimresources.com^
 ||watson.ppe.telemetry.microsoft.com^
-||watson.telemetry.microsoft.com^
 ||watson.telemetry.microsoft.comuser.ora.tv^
 ||watson2.alpha.telemetry.microsoft.com^
 ||watson7.alpha.telemetry.microsoft.com^
