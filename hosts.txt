@@ -16120,7 +16120,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics-v2.anvato.com
 0.0.0.0 analytics-v2.trafficjunky.net
 0.0.0.0 analytics-writer.smartlook.com
-0.0.0.0 analytics.163.com
 0.0.0.0 analytics.1and1.com
 0.0.0.0 analytics.1und1.de
 0.0.0.0 analytics.21cn.com
@@ -16176,7 +16175,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.archive.org
 0.0.0.0 analytics.arinetapi.com
 0.0.0.0 analytics.artirix.com
-0.0.0.0 analytics.arubamediamarketing.it
 0.0.0.0 analytics.arvert.online
 0.0.0.0 analytics.arz.at
 0.0.0.0 analytics.atdmt.com
@@ -16453,10 +16451,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.mapline.com
 0.0.0.0 analytics.marketingpiper.com.re.getclicky.com
 0.0.0.0 analytics.matchbin.com
-0.0.0.0 analytics.mbusa.com
 0.0.0.0 analytics.mecloud.vn
 0.0.0.0 analytics.mediamath.com
-0.0.0.0 analytics.mefeedia.com
 0.0.0.0 analytics.meituan.net
 0.0.0.0 analytics.metalocator.com
 0.0.0.0 analytics.metaps.com
@@ -16471,14 +16467,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.mli.me
 0.0.0.0 analytics.mlstatic.com
 0.0.0.0 analytics.mmosite.com
-0.0.0.0 analytics.mobadme.jp
 0.0.0.0 analytics.mobile.walmart.com
 0.0.0.0 analytics.mobile.webvisor.com
 0.0.0.0 analytics.mobile.yandex.net
 0.0.0.0 analytics.mobileacademy.com
 0.0.0.0 analytics.mobimanage.com
 0.0.0.0 analytics.modul.ac.at
-0.0.0.0 analytics.moneycontrol.com
 0.0.0.0 analytics.monkeytracker.cz
 0.0.0.0 analytics.mopub.com
 0.0.0.0 analytics.morethanrewards.com.re.getclicky.com
@@ -16733,7 +16727,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.trustyou.com
 0.0.0.0 analytics.trutv.com
 0.0.0.0 analytics.tube8.phncdn.com
-0.0.0.0 analytics.turn.com
 0.0.0.0 analytics.turnto.com
 0.0.0.0 analytics.tv189.cn
 0.0.0.0 analytics.twitter.com
@@ -31635,6 +31628,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d1t9uctetvi0tu.cloudfront.net
 0.0.0.0 d1uanozc5el74n.cloudfront.net
 0.0.0.0 d1uvhm532ipx9t.cloudfront.net
+0.0.0.0 d1uw69x4c2zrim.cloudfront.net
 0.0.0.0 d1uy7uzra011au.cloudfront.net
 0.0.0.0 d1v6js7bjzmhoa.cloudfront.net
 0.0.0.0 d1v9u0bgi1uimx.cloudfront.net
@@ -36773,6 +36767,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 embed.insticator.com
 0.0.0.0 embed.sendtonews.com
 0.0.0.0 embed.tawk.to
+0.0.0.0 embed.tonews.org
 0.0.0.0 embed.vietad.vn
 0.0.0.0 embeddedanalytics.com
 0.0.0.0 emberads.com
@@ -50168,6 +50163,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 isaca.tt.omtrdc.net
 0.0.0.0 isapi.solutions
 0.0.0.0 isb.qualtrics.com
+0.0.0.0 isbnwq.com
 0.0.0.0 isbzjaedbdjr.com
 0.0.0.0 iscaebizkzyd.com
 0.0.0.0 isdlyvhegxxz.com
@@ -62305,6 +62301,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nbsnu.co1.qualtrics.com
 0.0.0.0 nbstatic.com
 0.0.0.0 nbvbblmksiahf.com
+0.0.0.0 nbvcb.xyz
 0.0.0.0 nbxfvfeanq.com
 0.0.0.0 nbxpuziszhqz.com
 0.0.0.0 nbylhvbswplcj.com
@@ -64096,6 +64093,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nsfund.mn
 0.0.0.0 nshes.ru
 0.0.0.0 nsis.bisrv.com
+0.0.0.0 nsjpu.com
 0.0.0.0 nslinking.com
 0.0.0.0 nsm.dell.com
 0.0.0.0 nsm.shinobi.jp
@@ -85531,7 +85529,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 t.kctag.net
 0.0.0.0 t.leady.com
 0.0.0.0 t.leady.cz
-0.0.0.0 t.lpf.ninja
 0.0.0.0 t.macadlinkingnow.com
 0.0.0.0 t.mdn2015x1.com
 0.0.0.0 t.mdn2015x2.com
@@ -88540,7 +88537,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 track.adpredictive.net
 0.0.0.0 track.adrevolver.com
 0.0.0.0 track.adrianalynnrush.net
-0.0.0.0 track.adrpanel.es
 0.0.0.0 track.adservingfactory.com
 0.0.0.0 track.adsfast.com
 0.0.0.0 track.adsmain.com
@@ -88666,7 +88662,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 track.chanret.com
 0.0.0.0 track.childrensalon.com
 0.0.0.0 track.china.com
-0.0.0.0 track.cinestar.de
 0.0.0.0 track.circuspenis.com
 0.0.0.0 track.cj.akadns.net
 0.0.0.0 track.clariad.com
@@ -88719,7 +88714,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 track.customer.io
 0.0.0.0 track.custora.com
 0.0.0.0 track.cux.io
-0.0.0.0 track.cxdigitalmedia.com
 0.0.0.0 track.dalenetwork.com
 0.0.0.0 track.dankcash.com
 0.0.0.0 track.dannixxx.com
@@ -88865,7 +88859,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 track.iconfinder.com
 0.0.0.0 track.ideatrck.com
 0.0.0.0 track.idtargeting.com
-0.0.0.0 track.igg.com
 0.0.0.0 track.ilovecpa.com
 0.0.0.0 track.impactfive.com
 0.0.0.0 track.in.omgpm.com
@@ -89212,7 +89205,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 track.redirect.rocks
 0.0.0.0 track.redirecting2.net
 0.0.0.0 track.reference.com
-0.0.0.0 track.reinvigorate.net
 0.0.0.0 track.requestresults.com
 0.0.0.0 track.resala1.com
 0.0.0.0 track.reson8.com
@@ -89405,7 +89397,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 track.unwtc.com
 0.0.0.0 track.upaknee.com
 0.0.0.0 track.us.org
-0.0.0.0 track.v2.sslsecure1.com
 0.0.0.0 track.v2.sslsecure2.com
 0.0.0.0 track.vatgia.com
 0.0.0.0 track.vdo.ai
@@ -89439,7 +89430,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 track.webprodeals.cf
 0.0.0.0 track.websiteceo.com
 0.0.0.0 track.webstatistik-bw.de
-0.0.0.0 track.webtrekk.net
 0.0.0.0 track.wendywilliamsxxx.com
 0.0.0.0 track.wesdk.co
 0.0.0.0 track.wesell.co.il
@@ -89469,7 +89459,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 track.yellostrom.de
 0.0.0.0 track.yeprevenue.com
 0.0.0.0 track.yfret.com
-0.0.0.0 track.yieldmgr.com
 0.0.0.0 track.yieldsoftware.com
 0.0.0.0 track.youdutou.cn
 0.0.0.0 track.young-and-healthy.com
