@@ -27568,7 +27568,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 click.advertnative.com
 0.0.0.0 click.adzcore.com
 0.0.0.0 click.affiliate.ameba.jp
-0.0.0.0 click.aliexpress.com$image,script
 0.0.0.0 click.aliyun.com
 0.0.0.0 click.am1.adm.cnzz.net
 0.0.0.0 click.amanad.adtdp.com
