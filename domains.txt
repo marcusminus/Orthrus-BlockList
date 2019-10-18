@@ -16104,7 +16104,6 @@ analytics-udg.netdna-ssl.com
 analytics-v2.anvato.com
 analytics-v2.trafficjunky.net
 analytics-writer.smartlook.com
-analytics.163.com
 analytics.1and1.com
 analytics.1und1.de
 analytics.21cn.com
@@ -16160,7 +16159,6 @@ analytics.appypie.com
 analytics.archive.org
 analytics.arinetapi.com
 analytics.artirix.com
-analytics.arubamediamarketing.it
 analytics.arvert.online
 analytics.arz.at
 analytics.atdmt.com
@@ -16437,10 +16435,8 @@ analytics.map.qq.com
 analytics.mapline.com
 analytics.marketingpiper.com.re.getclicky.com
 analytics.matchbin.com
-analytics.mbusa.com
 analytics.mecloud.vn
 analytics.mediamath.com
-analytics.mefeedia.com
 analytics.meituan.net
 analytics.metalocator.com
 analytics.metaps.com
@@ -16455,14 +16451,12 @@ analytics.miva.com
 analytics.mli.me
 analytics.mlstatic.com
 analytics.mmosite.com
-analytics.mobadme.jp
 analytics.mobile.walmart.com
 analytics.mobile.webvisor.com
 analytics.mobile.yandex.net
 analytics.mobileacademy.com
 analytics.mobimanage.com
 analytics.modul.ac.at
-analytics.moneycontrol.com
 analytics.monkeytracker.cz
 analytics.mopub.com
 analytics.morethanrewards.com.re.getclicky.com
@@ -16717,7 +16711,6 @@ analytics.truecarbon.org
 analytics.trustyou.com
 analytics.trutv.com
 analytics.tube8.phncdn.com
-analytics.turn.com
 analytics.turnto.com
 analytics.tv189.cn
 analytics.twitter.com
@@ -31619,6 +31612,7 @@ d1ssbq1bwjg5ux.cloudfront.net
 d1t9uctetvi0tu.cloudfront.net
 d1uanozc5el74n.cloudfront.net
 d1uvhm532ipx9t.cloudfront.net
+d1uw69x4c2zrim.cloudfront.net
 d1uy7uzra011au.cloudfront.net
 d1v6js7bjzmhoa.cloudfront.net
 d1v9u0bgi1uimx.cloudfront.net
@@ -36757,6 +36751,7 @@ embed-stats.rbl.ms
 embed.insticator.com
 embed.sendtonews.com
 embed.tawk.to
+embed.tonews.org
 embed.vietad.vn
 embeddedanalytics.com
 emberads.com
@@ -50152,6 +50147,7 @@ isaca.sc.omtrdc.net
 isaca.tt.omtrdc.net
 isapi.solutions
 isb.qualtrics.com
+isbnwq.com
 isbzjaedbdjr.com
 iscaebizkzyd.com
 isdlyvhegxxz.com
@@ -62289,6 +62285,7 @@ nbsntu.eu.qualtrics.com
 nbsnu.co1.qualtrics.com
 nbstatic.com
 nbvbblmksiahf.com
+nbvcb.xyz
 nbxfvfeanq.com
 nbxpuziszhqz.com
 nbylhvbswplcj.com
@@ -64080,6 +64077,7 @@ nsevermatold.info
 nsfund.mn
 nshes.ru
 nsis.bisrv.com
+nsjpu.com
 nslinking.com
 nsm.dell.com
 nsm.shinobi.jp
@@ -85515,7 +85513,6 @@ t.kck.st
 t.kctag.net
 t.leady.com
 t.leady.cz
-t.lpf.ninja
 t.macadlinkingnow.com
 t.mdn2015x1.com
 t.mdn2015x2.com
@@ -88524,7 +88521,6 @@ track.adpredictive.com
 track.adpredictive.net
 track.adrevolver.com
 track.adrianalynnrush.net
-track.adrpanel.es
 track.adservingfactory.com
 track.adsfast.com
 track.adsmain.com
@@ -88650,7 +88646,6 @@ track.celtra.com
 track.chanret.com
 track.childrensalon.com
 track.china.com
-track.cinestar.de
 track.circuspenis.com
 track.cj.akadns.net
 track.clariad.com
@@ -88703,7 +88698,6 @@ track.crowmobi.com
 track.customer.io
 track.custora.com
 track.cux.io
-track.cxdigitalmedia.com
 track.dalenetwork.com
 track.dankcash.com
 track.dannixxx.com
@@ -88849,7 +88843,6 @@ track.icheck.com.vn
 track.iconfinder.com
 track.ideatrck.com
 track.idtargeting.com
-track.igg.com
 track.ilovecpa.com
 track.impactfive.com
 track.in.omgpm.com
@@ -89196,7 +89189,6 @@ track.redhairsex.com
 track.redirect.rocks
 track.redirecting2.net
 track.reference.com
-track.reinvigorate.net
 track.requestresults.com
 track.resala1.com
 track.reson8.com
@@ -89389,7 +89381,6 @@ track.untd.com
 track.unwtc.com
 track.upaknee.com
 track.us.org
-track.v2.sslsecure1.com
 track.v2.sslsecure2.com
 track.vatgia.com
 track.vdo.ai
@@ -89423,7 +89414,6 @@ track.webmatics.info
 track.webprodeals.cf
 track.websiteceo.com
 track.webstatistik-bw.de
-track.webtrekk.net
 track.wendywilliamsxxx.com
 track.wesdk.co
 track.wesell.co.il
@@ -89453,7 +89443,6 @@ track.xuite.net
 track.yellostrom.de
 track.yeprevenue.com
 track.yfret.com
-track.yieldmgr.com
 track.yieldsoftware.com
 track.youdutou.cn
 track.young-and-healthy.com
