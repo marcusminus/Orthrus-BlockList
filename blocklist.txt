@@ -7376,7 +7376,6 @@
 ||ad-deliver.yomedia.vn^
 ||ad-delivery.net^
 ||ad-dev.360in.com^
-||ad-emea.doubleclick.net/
 ||ad-emea.doubleclick.net^
 ||ad-ettoday.cdn.hinet.net^
 ||ad-feed.com^
@@ -13570,7 +13569,6 @@
 ||adsys.adk2x.com^
 ||adsys.insert.bg^
 ||adsys.townnews.com^
-||adsyst.biz/
 ||adsyst.biz^
 ||adsyst.net^
 ||adsyst.ru^
@@ -19401,6 +19399,7 @@
 ||aujourdhui.refr.adgtw.orangeads.fr^
 ||aujourdhui.widget.criteo.com^
 ||aulist.com^
+||aulrains.com^
 ||aultemeztokc.com^
 ||aumo123usedcarscom.112.2o7.net^
 ||aumoautomobilemagcom.112.2o7.net^
@@ -31957,7 +31956,6 @@
 ||d6y5.ads.pof.com^
 ||d7.video-ak.cdn.spotify.com^
 ||d7.zedo.com^
-||d71e6dd31a026d45.com*^
 ||d71e6dd31a026d45.com^
 ||d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com^
 ||d7e10fa2099.com^
@@ -44878,6 +44876,7 @@
 ||handelsblatt01.webtrekk.net^
 ||handf.mirtesen.ru^
 ||handicap.central-messages.com^
+||handiest-logic.com^
 ||handlerhackz.tk^
 ||handleteeth.com^
 ||handll-d.openx.net^
@@ -49902,10 +49901,8 @@
 ||inyour.accountkit.com^
 ||inzn.ru^
 ||io-test.rayjump.com^
-||io.narrative.io/?
 ||io.narrative.io^
 ||ioads.ero-advertising.com^
-||ioam.de/?
 ||ioam.de^
 ||ioatyggwaypq.com^
 ||iocdn.coremetrics.com^
@@ -50923,7 +50920,6 @@
 ||jdtufqcyumvb.com^
 ||jducqfnxeypyw.com^
 ||jdzw3frs.com^
-||je.revolvermaps.com/
 ||je.revolvermaps.com^
 ||jea.co1.qualtrics.com^
 ||jeacustomerfeedback.co1.qualtrics.com^
@@ -51827,7 +51823,6 @@
 ||jsmentry.com^
 ||jsmjmp.com^
 ||jsn.24smi.net^
-||jsn.24smi.org/
 ||jsn.24smi.org^
 ||jsn.dt00.net^
 ||jsn.dt07.net^
@@ -52879,6 +52874,7 @@
 ||kitspdlkfmh.xyz^
 ||kittyscash.com^
 ||kittystore.net^
+||kiupoo.stroeerdp.de^
 ||kiwe-analytics.com^
 ||kiwi.sharethis.com^
 ||kiwi237au.tk^
@@ -59813,7 +59809,6 @@
 ||mixedreading.com^
 ||mixi-d.openx.net^
 ||mixi.media^
-||mixmarket.biz/
 ||mixmarket.biz^
 ||mixology.pw^
 ||mixpo.com^
@@ -61909,7 +61904,6 @@
 ||n.ad-back.net^
 ||n.admagnet.net^
 ||n.admob.com^
-||n.adonweb.ru/
 ||n.adonweb.ru^
 ||n.ads1-adnow.com^
 ||n.ads2-adnow.com^
@@ -65367,6 +65361,7 @@
 ||oh.5.p2l.info^
 ||oh.tags.crwdcntrl.net^
 ||ohchat.net^
+||ohcohz.stroeerdp.de^
 ||ohdoxowrbkyd.com^
 ||ohecnqpldvuw.com^
 ||ohed.qualtrics.com^
@@ -68766,6 +68761,7 @@
 ||phhigelii.com^
 ||phi.novaon.asia^
 ||phiambczsg.com^
+||phiesi.stroeerdp.de^
 ||phikunprogramming.com^
 ||philadelphia.in-viacom18.videoplaza.tv^
 ||philadelphia_cbslocal.us.intellitxt.com^
@@ -72411,7 +72407,6 @@
 ||pulpix.com^
 ||pulpyads.com^
 ||puls-sukcesu.net^
-||puls.lv/
 ||puls.lv^
 ||pulsar-forum.de.intellitxt.com^
 ||pulsarads.go2affise.com^
@@ -76365,7 +76360,6 @@
 ||ru.ucweb.com^
 ||ru.velti.com^
 ||ru2.hit.stat24.com^
-||ru4.com/
 ||ru4.com^
 ||ruad.net^
 ||ruamupr.com^
@@ -83042,7 +83036,6 @@
 ||st.n.ads8-adnow.com^
 ||st.n.ads9-adnow.com^
 ||st.n.lc2ads.ru^
-||st.pay-click.ru/
 ||st.pay-click.ru^
 ||st.pba.xl.pt^
 ||st.pc.adonweb.ru^
@@ -95672,7 +95665,6 @@
 ||vz-cdn2.contentabc.com^
 ||vz-img.applovin.com^
 ||vz-vid.applovin.com^
-||vzarabotke.ru/
 ||vzarabotke.ru^
 ||vzglad.mirtesen.ru^
 ||vzhbfwpo.com^
