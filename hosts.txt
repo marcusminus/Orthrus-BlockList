@@ -2542,6 +2542,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 4360661.fls.doubleclick.net
 0.0.0.0 436225220.keywordblocks.com
 0.0.0.0 436281632.keywordblocks.com
+0.0.0.0 43711cffd26816e.com
 0.0.0.0 437137435.keywordblocks.com
 0.0.0.0 437287270.keywordblocks.com
 0.0.0.0 437769.ortb.adtelligent.com
@@ -13167,6 +13168,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adservice.google.tm
 0.0.0.0 adservice.google.tn
 0.0.0.0 adservice.google.to
+0.0.0.0 adservice.google.tr
 0.0.0.0 adservice.google.tt
 0.0.0.0 adservice.google.tw
 0.0.0.0 adservice.google.ua
@@ -22595,6 +22597,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bmhvaoxr.com
 0.0.0.0 bmichkohfqtnvq.com
 0.0.0.0 bmjccqfxlabturkmpzzokhsahleqqrysudwpuzqjbxbqeakgnf.com
+0.0.0.0 bmjpxyrpiyq.com
 0.0.0.0 bmjwsrcxvnsjne.com
 0.0.0.0 bmlmedia.com
 0.0.0.0 bmmetrix.com
@@ -24506,6 +24509,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ca.altitude-arena.com
 0.0.0.0 ca.clcknads.pro
 0.0.0.0 ca.cqcounter.com
+0.0.0.0 ca.iadsdk.apple.com
 0.0.0.0 ca.intentmedia.net
 0.0.0.0 ca.minexmr.com
 0.0.0.0 ca.ssl.d1.sc.omtrdc.net
@@ -25402,6 +25406,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdm.unnoticeablegangrene.com
 0.0.0.0 cdmjjvqzurn.com
 0.0.0.0 cdmstudy.site
+0.0.0.0 cdn*.swaxis.com
 0.0.0.0 cdn-01.yumenetworks.com
 0.0.0.0 cdn-1.convertexperiments.com
 0.0.0.0 cdn-1.trafficfabrik.com
@@ -30368,6 +30373,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cqjnxsbuplcqri.com
 0.0.0.0 cqkqukynmny.com
 0.0.0.0 cqlupb.com
+0.0.0.0 cqnhmccy.com
 0.0.0.0 cqoyvpldkmqt.com
 0.0.0.0 cqpmmfxvibjr.com
 0.0.0.0 cquotient.com
@@ -30746,6 +30752,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cs.exposedontape.com
 0.0.0.0 cs.genieesspv.jp
 0.0.0.0 cs.gssprt.jp
+0.0.0.0 cs.iadsdk.apple.com
 0.0.0.0 cs.luckyorange.net
 0.0.0.0 cs.marinsm.com
 0.0.0.0 cs.media.net
@@ -30926,6 +30933,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ctouw.com
 0.0.0.0 ctpjfacao.com
 0.0.0.0 ctplyvuuzdcv.com
+0.0.0.0 ctqoduhdji.com
 0.0.0.0 ctr-iwb.nmg.de
 0.0.0.0 ctr-media.info
 0.0.0.0 ctr-media.net
@@ -30962,6 +30970,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ctxtad.tribalfusion.com
 0.0.0.0 ctyzd.com
 0.0.0.0 ctzkvca0fupsrhd.ru
+0.0.0.0 ctzs.pw
 0.0.0.0 ctzvtevpcssx.com
 0.0.0.0 cua.com.102.112.2o7.net
 0.0.0.0 cubchannel.com
@@ -33860,6 +33869,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 djiufagozzla.com
 0.0.0.0 djjckavq.com
 0.0.0.0 djjohal.video
+0.0.0.0 djjyyqgsnnfa.com
 0.0.0.0 djmarket.co.uk
 0.0.0.0 djmazacomcom.imageshack.host
 0.0.0.0 djnroblmpyxrh.com
@@ -39618,6 +39628,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fevgukzwvjam.com
 0.0.0.0 fevitum.pl
 0.0.0.0 fevrbniqa.com
+0.0.0.0 fewmphbwt.com
 0.0.0.0 fexclick.baidu.com
 0.0.0.0 fexiaen.com
 0.0.0.0 fexperies.info
@@ -47806,6 +47817,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 iffzxqnhd.com
 0.0.0.0 ifgnsrtjcz.com
 0.0.0.0 ifhths.mirtesen.ru
+0.0.0.0 ifhxmaazmylfx.com
 0.0.0.0 ifilefinder.com
 0.0.0.0 iflndvke.com
 0.0.0.0 iflow-api.uc.cn
@@ -53065,6 +53077,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kpascf.mirtesen.ru
 0.0.0.0 kpchywhqcrkz.com
 0.0.0.0 kpdn.ru
+0.0.0.0 kpehltcnwo.com
 0.0.0.0 kpeterstudio.com
 0.0.0.0 kpgjogkbwjpmz.com
 0.0.0.0 kpi.d2.sc.omtrdc.net
@@ -55749,6 +55762,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lpga.d1.sc.omtrdc.net
 0.0.0.0 lpgforum.de.intellitxt.com
 0.0.0.0 lpiqwtsuduhh.com
+0.0.0.0 lpiwenesruwn.com
 0.0.0.0 lpla-ext-tf.rlcdn.com
 0.0.0.0 lpla.rlcdn.com
 0.0.0.0 lplfinancial.d1.sc.omtrdc.net
@@ -60704,6 +60718,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mpay69.com
 0.0.0.0 mpay69.pw
 0.0.0.0 mpays.pw
+0.0.0.0 mpbjbeueinytao.com
 0.0.0.0 mpc.nicequest.com
 0.0.0.0 mpcs.inq.com
 0.0.0.0 mpe.ad4game.com
@@ -62760,6 +62775,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 news.gnezdo.ru
 0.0.0.0 news.govorjat.ru
 0.0.0.0 news.hypernite.com
+0.0.0.0 news.iadsdk.apple.com
 0.0.0.0 news.mediaplex.com
 0.0.0.0 news.mirtesen.ru
 0.0.0.0 news.msnbc.us.intellitxt.com
@@ -66061,6 +66077,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 opflriars.com
 0.0.0.0 opfrjkmmvqmm.com
 0.0.0.0 opgg-d.openx.net
+0.0.0.0 opgolan.com
 0.0.0.0 ophan.theguardian.com
 0.0.0.0 ophpbseelohv.com
 0.0.0.0 ophttps.rayjump.com
@@ -83598,6 +83615,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 staticadm.leju.sina.com.cn
 0.0.0.0 staticads.btopenworld.com
 0.0.0.0 staticb.mydirtyhobby.com
+0.0.0.0 staticcache.org
 0.0.0.0 staticcfstg.adsafeprotected.com
 0.0.0.0 staticcontent.phando.com
 0.0.0.0 staticd.cdn.adblade.com
@@ -84565,6 +84583,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 su.addthis.com
 0.0.0.0 su.bdimg.com
 0.0.0.0 su.bdstatic.com
+0.0.0.0 su.iadsdk.apple.com
 0.0.0.0 sualzmze.com
 0.0.0.0 suarankri.me
 0.0.0.0 suavalds.com
@@ -88434,7 +88453,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 track.24heures.ch
 0.0.0.0 track.33networks.com
 0.0.0.0 track.360tracking.fr
-0.0.0.0 track.47news.jp
 0.0.0.0 track.4smobi.com
 0.0.0.0 track.58.com
 0.0.0.0 track.941tracking.com
@@ -88467,7 +88485,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 track.adform.com
 0.0.0.0 track.adform.net
 0.0.0.0 track.adformdsp.net
-0.0.0.0 track.adhost.com
 0.0.0.0 track.adintend.com
 0.0.0.0 track.adition.com
 0.0.0.0 track.adjal.com
@@ -88532,7 +88549,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 track.asian-courting.com
 0.0.0.0 track.asiantease.com
 0.0.0.0 track.aso1.net
-0.0.0.0 track.asus.com
 0.0.0.0 track.atgstores.com
 0.0.0.0 track.atnah.com
 0.0.0.0 track.atom-data.io
@@ -88551,7 +88567,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 track.beeketing.com
 0.0.0.0 track.beginb.net
 0.0.0.0 track.bernerzeitung.ch
-0.0.0.0 track.bestbuy.com
 0.0.0.0 track.bestpromobiapps.com
 0.0.0.0 track.bestwesternlex.com
 0.0.0.0 track.beyondmenu.com
@@ -88602,7 +88617,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 track.cedsdigital.it
 0.0.0.0 track.celebrity-xxx.com
 0.0.0.0 track.celtra.com
-0.0.0.0 track.chanret.com
 0.0.0.0 track.childrensalon.com
 0.0.0.0 track.china.com
 0.0.0.0 track.circuspenis.com
@@ -88700,7 +88714,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 track.ecommerce-holding.com
 0.0.0.0 track.effiliation.com
 0.0.0.0 track.eg-innovations.net
-0.0.0.0 track.electrasong.com
 0.0.0.0 track.emailsvc.net
 0.0.0.0 track.emerse.com
 0.0.0.0 track.engagesciences.com
@@ -89046,7 +89059,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 track.mypcbackup.com
 0.0.0.0 track.mysavingsmedia.net
 0.0.0.0 track.myvoluum.website
-0.0.0.0 track.naifeda.com
 0.0.0.0 track.natassia-dreams.com
 0.0.0.0 track.naturalxl.pl
 0.0.0.0 track.neckermann.de
@@ -89334,8 +89346,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 track.ultravpn.com
 0.0.0.0 track.umeng.com
 0.0.0.0 track.understandsolar.com
-0.0.0.0 track.unear.net
-0.0.0.0 track.unionbig.com
 0.0.0.0 track.uniqodo.com
 0.0.0.0 track.untd.com
 0.0.0.0 track.unwtc.com
@@ -91806,6 +91816,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uemjnvyn.com
 0.0.0.0 uenpibqyjvim.com
 0.0.0.0 ueopesa.ga
+0.0.0.0 ueopjincquazoo.com
 0.0.0.0 ueosdjscxucj.com
 0.0.0.0 uepc.co1.qualtrics.com
 0.0.0.0 ueptzgugtxis.com
@@ -93140,6 +93151,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ut.5.p2l.info
 0.0.0.0 ut.actonsoftware.com
 0.0.0.0 ut.addthis.com
+0.0.0.0 ut.iadsdk.apple.com
 0.0.0.0 ut.o2.pl
 0.0.0.0 ut1.qualtrics.com
 0.0.0.0 uta.qualtrics.com
@@ -95063,6 +95075,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 voluumtrk3.com
 0.0.0.0 volvelle.tech
 0.0.0.0 volvog900002.112.2o7.net
+0.0.0.0 volyze.com
 0.0.0.0 vom.sitescout.com
 0.0.0.0 vomit.facilitandosonhos.com.br
 0.0.0.0 vomitgirl.org
