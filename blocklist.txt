@@ -2527,6 +2527,7 @@
 ||4360661.fls.doubleclick.net^
 ||436225220.keywordblocks.com^
 ||436281632.keywordblocks.com^
+||43711cffd26816e.com^
 ||437137435.keywordblocks.com^
 ||437287270.keywordblocks.com^
 ||437769.ortb.adtelligent.com^
@@ -13162,6 +13163,7 @@
 ||adservice.google.tm^
 ||adservice.google.tn^
 ||adservice.google.to^
+||adservice.google.tr^
 ||adservice.google.tt^
 ||adservice.google.tw^
 ||adservice.google.ua^
@@ -22609,6 +22611,7 @@
 ||bmhvaoxr.com^
 ||bmichkohfqtnvq.com^
 ||bmjccqfxlabturkmpzzokhsahleqqrysudwpuzqjbxbqeakgnf.com^
+||bmjpxyrpiyq.com^
 ||bmjwsrcxvnsjne.com^
 ||bmlmedia.com^
 ||bmmetrix.com^
@@ -24523,6 +24526,7 @@
 ||ca.altitude-arena.com^
 ||ca.clcknads.pro^
 ||ca.cqcounter.com^
+||ca.iadsdk.apple.com^
 ||ca.intentmedia.net^
 ||ca.minexmr.com^
 ||ca.ssl.d1.sc.omtrdc.net^
@@ -25420,6 +25424,7 @@
 ||cdm.unnoticeablegangrene.com^
 ||cdmjjvqzurn.com^
 ||cdmstudy.site^
+||cdn*.swaxis.com^
 ||cdn-01.yumenetworks.com^
 ||cdn-1.convertexperiments.com^
 ||cdn-1.trafficfabrik.com^
@@ -30397,6 +30402,7 @@
 ||cqjnxsbuplcqri.com^
 ||cqkqukynmny.com^
 ||cqlupb.com^
+||cqnhmccy.com^
 ||cqoyvpldkmqt.com^
 ||cqpmmfxvibjr.com^
 ||cquotient.com^
@@ -30775,6 +30781,7 @@
 ||cs.exposedontape.com^
 ||cs.genieesspv.jp^
 ||cs.gssprt.jp^
+||cs.iadsdk.apple.com^
 ||cs.luckyorange.net^
 ||cs.marinsm.com^
 ||cs.media.net^
@@ -30955,6 +30962,7 @@
 ||ctouw.com^
 ||ctpjfacao.com^
 ||ctplyvuuzdcv.com^
+||ctqoduhdji.com^
 ||ctr-iwb.nmg.de^
 ||ctr-media.info^
 ||ctr-media.net^
@@ -30991,6 +30999,7 @@
 ||ctxtad.tribalfusion.com^
 ||ctyzd.com^
 ||ctzkvca0fupsrhd.ru^
+||ctzs.pw^
 ||ctzvtevpcssx.com^
 ||cua.com.102.112.2o7.net^
 ||cubchannel.com^
@@ -33894,6 +33903,7 @@
 ||djiufagozzla.com^
 ||djjckavq.com^
 ||djjohal.video^
+||djjyyqgsnnfa.com^
 ||djmarket.co.uk^
 ||djmazacomcom.imageshack.host^
 ||djnroblmpyxrh.com^
@@ -39659,6 +39669,7 @@
 ||fevgukzwvjam.com^
 ||fevitum.pl^
 ||fevrbniqa.com^
+||fewmphbwt.com^
 ||fexclick.baidu.com^
 ||fexiaen.com^
 ||fexperies.info^
@@ -47860,6 +47871,7 @@
 ||iffzxqnhd.com^
 ||ifgnsrtjcz.com^
 ||ifhths.mirtesen.ru^
+||ifhxmaazmylfx.com^
 ||ifilefinder.com^
 ||iflndvke.com^
 ||iflow-api.uc.cn^
@@ -53129,6 +53141,7 @@
 ||kpascf.mirtesen.ru^
 ||kpchywhqcrkz.com^
 ||kpdn.ru^
+||kpehltcnwo.com^
 ||kpeterstudio.com^
 ||kpgjogkbwjpmz.com^
 ||kpi.d2.sc.omtrdc.net^
@@ -55817,6 +55830,7 @@
 ||lpga.d1.sc.omtrdc.net^
 ||lpgforum.de.intellitxt.com^
 ||lpiqwtsuduhh.com^
+||lpiwenesruwn.com^
 ||lpla-ext-tf.rlcdn.com^
 ||lpla.rlcdn.com^
 ||lplfinancial.d1.sc.omtrdc.net^
@@ -60786,6 +60800,7 @@
 ||mpay69.com^
 ||mpay69.pw^
 ||mpays.pw^
+||mpbjbeueinytao.com^
 ||mpc.nicequest.com^
 ||mpcs.inq.com^
 ||mpe.ad4game.com^
@@ -62842,6 +62857,7 @@
 ||news.gnezdo.ru^
 ||news.govorjat.ru^
 ||news.hypernite.com^
+||news.iadsdk.apple.com^
 ||news.mediaplex.com^
 ||news.mirtesen.ru^
 ||news.msnbc.us.intellitxt.com^
@@ -66144,6 +66160,7 @@
 ||opflriars.com^
 ||opfrjkmmvqmm.com^
 ||opgg-d.openx.net^
+||opgolan.com^
 ||ophan.theguardian.com^
 ||ophpbseelohv.com^
 ||ophttps.rayjump.com^
@@ -83705,6 +83722,7 @@
 ||staticadm.leju.sina.com.cn^
 ||staticads.btopenworld.com^
 ||staticb.mydirtyhobby.com^
+||staticcache.org^
 ||staticcfstg.adsafeprotected.com^
 ||staticcontent.phando.com^
 ||staticd.cdn.adblade.com^
@@ -84675,6 +84693,7 @@
 ||su.addthis.com^
 ||su.bdimg.com^
 ||su.bdstatic.com^
+||su.iadsdk.apple.com^
 ||sualzmze.com^
 ||suarankri.me^
 ||suavalds.com^
@@ -88552,7 +88571,6 @@
 ||track.24heures.ch^
 ||track.33networks.com^
 ||track.360tracking.fr^
-||track.47news.jp^
 ||track.4smobi.com^
 ||track.58.com^
 ||track.941tracking.com^
@@ -88585,7 +88603,6 @@
 ||track.adform.com^
 ||track.adform.net^
 ||track.adformdsp.net^
-||track.adhost.com^
 ||track.adintend.com^
 ||track.adition.com^
 ||track.adjal.com^
@@ -88650,7 +88667,6 @@
 ||track.asian-courting.com^
 ||track.asiantease.com^
 ||track.aso1.net^
-||track.asus.com^
 ||track.atgstores.com^
 ||track.atnah.com^
 ||track.atom-data.io^
@@ -88669,7 +88685,6 @@
 ||track.beeketing.com^
 ||track.beginb.net^
 ||track.bernerzeitung.ch^
-||track.bestbuy.com^
 ||track.bestpromobiapps.com^
 ||track.bestwesternlex.com^
 ||track.beyondmenu.com^
@@ -88720,7 +88735,6 @@
 ||track.cedsdigital.it^
 ||track.celebrity-xxx.com^
 ||track.celtra.com^
-||track.chanret.com^
 ||track.childrensalon.com^
 ||track.china.com^
 ||track.circuspenis.com^
@@ -88818,7 +88832,6 @@
 ||track.ecommerce-holding.com^
 ||track.effiliation.com^
 ||track.eg-innovations.net^
-||track.electrasong.com^
 ||track.emailsvc.net^
 ||track.emerse.com^
 ||track.engagesciences.com^
@@ -89164,7 +89177,6 @@
 ||track.mypcbackup.com^
 ||track.mysavingsmedia.net^
 ||track.myvoluum.website^
-||track.naifeda.com^
 ||track.natassia-dreams.com^
 ||track.naturalxl.pl^
 ||track.neckermann.de^
@@ -89452,8 +89464,6 @@
 ||track.ultravpn.com^
 ||track.umeng.com^
 ||track.understandsolar.com^
-||track.unear.net^
-||track.unionbig.com^
 ||track.uniqodo.com^
 ||track.untd.com^
 ||track.unwtc.com^
@@ -91930,6 +91940,7 @@
 ||uemjnvyn.com^
 ||uenpibqyjvim.com^
 ||ueopesa.ga^
+||ueopjincquazoo.com^
 ||ueosdjscxucj.com^
 ||uepc.co1.qualtrics.com^
 ||ueptzgugtxis.com^
@@ -93265,6 +93276,7 @@
 ||ut.5.p2l.info^
 ||ut.actonsoftware.com^
 ||ut.addthis.com^
+||ut.iadsdk.apple.com^
 ||ut.o2.pl^
 ||ut1.qualtrics.com^
 ||uta.qualtrics.com^
@@ -95189,6 +95201,7 @@
 ||voluumtrk3.com^
 ||volvelle.tech^
 ||volvog900002.112.2o7.net^
+||volyze.com^
 ||vom.sitescout.com^
 ||vomit.facilitandosonhos.com.br^
 ||vomitgirl.org^
