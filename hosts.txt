@@ -18795,6 +18795,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aseadnet.com
 0.0.0.0 aseanlegaltech.com
 0.0.0.0 asecxggulyrf.com
+0.0.0.0 asenytuhlhwrwz.com
 0.0.0.0 aserve.directorym.com
 0.0.0.0 aservices.pa
 0.0.0.0 aservices.party
@@ -30375,6 +30376,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cqbabfsyfqse.com
 0.0.0.0 cqbphspgvhuk.com
 0.0.0.0 cqcounter.com
+0.0.0.0 cqflplcldh.com
 0.0.0.0 cqfnvznw.info
 0.0.0.0 cqhciif9bjtplrc.ru
 0.0.0.0 cqhxrlnhzlda.com
@@ -31183,6 +31185,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cxense.com
 0.0.0.0 cxgwwsapihlo.com
 0.0.0.0 cxhfzipv.com
+0.0.0.0 cxhtodgorrq.com
 0.0.0.0 cxiqf.voluumtrk.com
 0.0.0.0 cxmakekcesubep.com
 0.0.0.0 cxmedia.co
@@ -56374,11 +56377,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.vn88.com
 0.0.0.0 m.vpadn.com
 0.0.0.0 m.vylcanclub.com
+0.0.0.0 m.wangliqin.top
 0.0.0.0 m.watchmovie.fun
 0.0.0.0 m.webtrends.com
 0.0.0.0 m.wyl1ccany.com
 0.0.0.0 m.xvideos.by
 0.0.0.0 m.yanglaopt.net
+0.0.0.0 m.yangzhenpeng.top
 0.0.0.0 m.yap.yahoo.com
 0.0.0.0 m.yyfymj.com
 0.0.0.0 m.zeroredirect.com
@@ -71497,6 +71502,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 prolinker.ru
 0.0.0.0 proludimpup.com
 0.0.0.0 prom.ecato.net
+0.0.0.0 promclickapp.biz
 0.0.0.0 promediagrp-d.openx.net
 0.0.0.0 promenadd.ru
 0.0.0.0 promethean.api.smartlauncher.net
@@ -86553,7 +86559,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 telemetry.gfe.nvidia.com
 0.0.0.0 telemetry.jivosite.com
 0.0.0.0 telemetry.layer.com
-0.0.0.0 telemetry.malwarebytes.com
 0.0.0.0 telemetry.microsoft.com
 0.0.0.0 telemetry.mozilla.org
 0.0.0.0 telemetry.nvidia.com
@@ -95156,6 +95161,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vosteran.com
 0.0.0.0 vosteransearch.com
 0.0.0.0 vote.sparklit.com
+0.0.0.0 votetoda.com
 0.0.0.0 votistics.com
 0.0.0.0 votum-sa.pl
 0.0.0.0 vouchercodes.co.uk.d1.sc.omtrdc.net
