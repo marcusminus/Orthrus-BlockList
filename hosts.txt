@@ -8967,6 +8967,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adextent.com
 0.0.0.0 adeytheg4x9rpsjho5ekzjggfwlf41507500802.nuid.imrworldwide.com
 0.0.0.0 adeyujimmmh.com
+0.0.0.0 adezrvjcbyu.com
 0.0.0.0 adf.ero-advertising.com
 0.0.0.0 adf.fc2.com
 0.0.0.0 adf.hdkinoshka.net
@@ -26595,6 +26596,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cfg.cml.ksmobile.com
 0.0.0.0 cfg.datafastguru.info
 0.0.0.0 cfg.flurry.com
+0.0.0.0 cfg.imtt.qq.com
 0.0.0.0 cfgr1.com
 0.0.0.0 cfgr2.com
 0.0.0.0 cfhchqayl8x7tfdx6otx4hqpm0p9s1516680285.nuid.imrworldwide.com
@@ -33660,6 +33662,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dioperu.com
 0.0.0.0 dip.demdex.net
 0.0.0.0 dip.umeng.com
+0.0.0.0 diplomahawaii.com
 0.0.0.0 dipsbbygv.com
 0.0.0.0 dir.opank.com
 0.0.0.0 dirbg.hit.gemius.pl
@@ -37367,6 +37370,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 escuelainfantilladelicia.es
 0.0.0.0 escuro.com.br
 0.0.0.0 esdbwhh.com
+0.0.0.0 esdesignewebnet.info
 0.0.0.0 esdoutlet.com
 0.0.0.0 esdykqhupjp.com
 0.0.0.0 esearchvision.com
@@ -44802,7 +44806,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 handelsblatt01.webtrekk.net
 0.0.0.0 handf.mirtesen.ru
 0.0.0.0 handicap.central-messages.com
-0.0.0.0 handiest-logic.com
 0.0.0.0 handlerhackz.tk
 0.0.0.0 handleteeth.com
 0.0.0.0 handll-d.openx.net
@@ -52918,6 +52921,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kmnjdcrcfhu.com
 0.0.0.0 kmpcmafvqf.com
 0.0.0.0 kmpiframe.keepmeposted.com.mt
+0.0.0.0 kmpxgnnoom.com
 0.0.0.0 kmrc.qualtrics.com
 0.0.0.0 kmsexporters.com
 0.0.0.0 kmtubsbmwdep.com
@@ -54505,7 +54509,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 lichyela.ru
 0.0.0.0 lickafiliados.com.brˆ
 0.0.0.0 lickbylick.com
-0.0.0.0 licked-alphabet.eu
 0.0.0.0 liczniki.org
 0.0.0.0 lidea-today.b.appier.net
 0.0.0.0 liders.biz
@@ -60318,7 +60321,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mohqurakhwvf.com
 0.0.0.0 moijs.com
 0.0.0.0 moimir2.mirtesen.ru
-0.0.0.0 moist-thunderstorm.com
 0.0.0.0 mojadedra.pl
 0.0.0.0 mojadietanamase.pl
 0.0.0.0 mojastrana.mirtesen.ru
@@ -78684,6 +78686,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 seedtag.com
 0.0.0.0 seegamese.com
 0.0.0.0 seehits.com
+0.0.0.0 seeip.org
 0.0.0.0 seekads.net
 0.0.0.0 seekbang.com
 0.0.0.0 seekingalpha-d.openx.net
@@ -81201,6 +81204,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 solutions.marketo.com
 0.0.0.0 solutions.nitro.bunchball.net
 0.0.0.0 solutionscore.com
+0.0.0.0 solutionshindsight.net
 0.0.0.0 solutionswide-d.openx.net
 0.0.0.0 solutionswide2-d.openx.net
 0.0.0.0 solutionzip.info
@@ -82656,6 +82660,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 srv.buysellads.com
 0.0.0.0 srv.carbonads.net
 0.0.0.0 srv.clickfuse.com
+0.0.0.0 srv.dc-1.net
 0.0.0.0 srv.imonomy.com
 0.0.0.0 srv.juiceadv.com
 0.0.0.0 srv.offers-tracking.com
