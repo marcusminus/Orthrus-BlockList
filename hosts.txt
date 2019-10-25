@@ -21261,6 +21261,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 beaconin2.notinote.me
 0.0.0.0 beacons.brandads.net
 0.0.0.0 beacons.gcp.gvt2.com
+0.0.0.0 beacons.gvt2.com
 0.0.0.0 beacons.helium.com
 0.0.0.0 beacons.hottraffic.nl
 0.0.0.0 beacons.mediamelon.com
@@ -26267,7 +26268,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn7.rocks
 0.0.0.0 cdn7.space
 0.0.0.0 cdn77.cityads.com
-0.0.0.0 cdn77.org
 0.0.0.0 cdn7now.com
 0.0.0.0 cdn8.emediate.eu
 0.0.0.0 cdn8.vizury.com
