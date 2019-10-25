@@ -21273,6 +21273,7 @@
 ||beaconin2.notinote.me^
 ||beacons.brandads.net^
 ||beacons.gcp.gvt2.com^
+||beacons.gvt2.com^
 ||beacons.helium.com^
 ||beacons.hottraffic.nl^
 ||beacons.mediamelon.com^
@@ -26286,7 +26287,6 @@
 ||cdn7.rocks^
 ||cdn7.space^
 ||cdn77.cityads.com^
-||cdn77.org^
 ||cdn7now.com^
 ||cdn8.emediate.eu^
 ||cdn8.vizury.com^
