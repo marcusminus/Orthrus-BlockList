@@ -8880,6 +8880,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 addiply.com
 0.0.0.0 addirector.vindicosuite.com
 0.0.0.0 additcinggames.com
+0.0.0.0 additionalmedia.com
 0.0.0.0 addjump.com
 0.0.0.0 addkt.com
 0.0.0.0 addlnk.com
@@ -17075,6 +17076,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 anunturi.top
 0.0.0.0 anupsych.co1.qualtrics.com
 0.0.0.0 anvilwarofheroes.tlnk.io
+0.0.0.0 anvtnqpbkjyk.com
 0.0.0.0 anwufkjjja.com
 0.0.0.0 anxiety.1.p2l.info
 0.0.0.0 anxiousapples.com
@@ -23406,6 +23408,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 btnibbler.com
 0.0.0.0 btopenworld.com
 0.0.0.0 btovopyov.com
+0.0.0.0 btpnav.com
 0.0.0.0 btprmnav.com
 0.0.0.0 btqwmdinav.com
 0.0.0.0 btr.domywife.com
@@ -33698,6 +33701,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 directline.touchcommerce.com
 0.0.0.0 directlink.jp
 0.0.0.0 directlnk.org
+0.0.0.0 directnavbt.com
 0.0.0.0 directnow.me
 0.0.0.0 directoffers.go2cloud.org
 0.0.0.0 director.adcolony.com
@@ -33950,6 +33954,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dklvewbgjksyy.com
 0.0.0.0 dkm6b5q0h53z4.cloudfront.net
 0.0.0.0 dkmdklhu.com
+0.0.0.0 dkorusxgputkrb.com
 0.0.0.0 dkrhsftochvzqryurlptloayhlpftkogvzptcmjlwjgymcfrmv.com
 0.0.0.0 dkroonzvxvansw.com
 0.0.0.0 dkspqpprnsmmte.com
@@ -34632,6 +34637,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dpoulbxouhor.com
 0.0.0.0 dppcevxbshdl.com
 0.0.0.0 dppm69v99cbc4sidvthuof245apod1508268681.nuid.imrworldwide.com
+0.0.0.0 dprtb.com
 0.0.0.0 dps-reach.com
 0.0.0.0 dps.sc.omtrdc.net
 0.0.0.0 dpsk12.co1.qualtrics.com
@@ -37092,6 +37098,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 epernepojkle.com
 0.0.0.0 epersonalizado.com
 0.0.0.0 epesogtigole.com
+0.0.0.0 epexcjdkzcl.com
 0.0.0.0 epgokiocquxf.com
 0.0.0.0 epgooipixbbo.com
 0.0.0.0 ephotozine-uk.intellitxt.com
@@ -37149,6 +37156,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 eqfnhtthkog.com
 0.0.0.0 eqhawyidkdug.com
 0.0.0.0 eqmob.com
+0.0.0.0 eqnqxfrxsmuy.com
 0.0.0.0 eqology.com
 0.0.0.0 eqrauafet.com
 0.0.0.0 eqrbfjwnmxpy.com
@@ -41572,6 +41580,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fvenxjtzuaxu.com
 0.0.0.0 fveugxikrgrbsh.com
 0.0.0.0 fvffhcyxc.com
+0.0.0.0 fvflgigyryacgp.com
 0.0.0.0 fvgfcotnmj.com
 0.0.0.0 fvhxlrcd.com
 0.0.0.0 fvid.atm.youku.com
@@ -46479,6 +46488,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hsobnopwsh3xuvevl9igqm4kklxqb1508677390.nuid.imrworldwide.com
 0.0.0.0 hsoyrqqsludd.com
 0.0.0.0 hsqslxewsnga.com
+0.0.0.0 hsqujerwg.com
 0.0.0.0 hsqvofrzwluvns.com
 0.0.0.0 hsshire.widget.criteo.com
 0.0.0.0 hsslx.com
@@ -50048,6 +50058,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 iqtestuj.glt.pl
 0.0.0.0 iqtewa.ru
 0.0.0.0 iqtgh8lgu0.kameleoon.eu
+0.0.0.0 iqtygxmjgbakm.com
 0.0.0.0 iqupy.voluumtrk.com
 0.0.0.0 iqwczlbxvtcnh.com
 0.0.0.0 iqwrmwssizr.com
@@ -53380,6 +53391,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kvdguzclhatdul.com
 0.0.0.0 kvdjcnerhxzb.com
 0.0.0.0 kvflzevaaco.com
+0.0.0.0 kvhnsbkhxhlgkv.com
 0.0.0.0 kvhxckkd.com
 0.0.0.0 kvinit-prod.api.kochava.com
 0.0.0.0 kvirgytkit.com
@@ -64101,6 +64113,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nstat.tudou.com
 0.0.0.0 nster.net
 0.0.0.0 nstjenxcpvm.com
+0.0.0.0 nstlnjtrufu.com
 0.0.0.0 nstracking.com
 0.0.0.0 nsvfl7p9.com
 0.0.0.0 nswnseld.com
@@ -64113,6 +64126,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ntbanner.digitalriver.com
 0.0.0.0 ntbftkhrsrh.com
 0.0.0.0 ntcompatible.us.intellitxt.com
+0.0.0.0 ntdbjlngermplx.com
 0.0.0.0 ntduattgboduk.com
 0.0.0.0 ntent.com
 0.0.0.0 ntetguxoeuvevp.com
@@ -68115,6 +68129,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pb.pubnative.net
 0.0.0.0 pb.s3wfg.com
 0.0.0.0 pb.tynt.com
+0.0.0.0 pbbl.co
 0.0.0.0 pbbutsvpzqza.com
 0.0.0.0 pbc.automatad.com
 0.0.0.0 pbc5q4kgzato8hhm1m887qtuk1n4d1507571450.nuid.imrworldwide.com
@@ -70592,6 +70607,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 popmyad.com
 0.0.0.0 popmyads.com
 0.0.0.0 popmycash.com
+0.0.0.0 popnc.com
 0.0.0.0 popoholic.us.intellitxt.com
 0.0.0.0 poponclick.com
 0.0.0.0 poponthepop.us.intellitxt.com
@@ -75951,6 +75967,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rs2.qq.com
 0.0.0.0 rs3abn5v5zaumlflfvw7rzpjnvwvs1509512001.nuid.imrworldwide.com
 0.0.0.0 rsa.demdex.net
+0.0.0.0 rsalcch.com
 0.0.0.0 rsalcdp.com
 0.0.0.0 rsalchk.com
 0.0.0.0 rsawada.demdex.net
@@ -76182,6 +76199,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rtbsystem.com
 0.0.0.0 rtbterra.com
 0.0.0.0 rtbtest.nexage.com
+0.0.0.0 rtbtracking.com
 0.0.0.0 rtbtraf.com
 0.0.0.0 rtbvideobox.com
 0.0.0.0 rtbweb.com
@@ -85973,6 +85991,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 taodggarfrmd.com
 0.0.0.0 taodropship.com
 0.0.0.0 taosvhdstorage.blob.core.windows.net
+0.0.0.0 taowjygwtm.com
 0.0.0.0 tap-cdn.rubiconproject.com
 0.0.0.0 tap-nexus.appspot.com
 0.0.0.0 tap-secure.rubiconproject.com
@@ -87776,6 +87795,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tmp.mgid.com
 0.0.0.0 tmp3.nexac.com
 0.0.0.0 tmpjmp.com
+0.0.0.0 tmpnencifbe.com
 0.0.0.0 tmpopenclose.click
 0.0.0.0 tmqhw.us
 0.0.0.0 tmrqhn6v4qjsi2xe3g8aagmcgwhda1516679330.nuid.imrworldwide.com
@@ -93427,6 +93447,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uyfsqkwhpihm.com
 0.0.0.0 uygya.voluumtrk.com
 0.0.0.0 uyiyuiyuiy.com
+0.0.0.0 uymjshdxxneu.com
 0.0.0.0 uymkdz9s.com
 0.0.0.0 uymxsbbh.com
 0.0.0.0 uyqzlnmdtfpnqskyyvidmllmzauitvaijcgqjldwcwvewjgwfj.com
@@ -93958,6 +93979,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vcr.staging.crazyegg.com
 0.0.0.0 vcr.staging2.crazyegg.com
 0.0.0.0 vcslotoplay.com
+0.0.0.0 vctgwjsgivo.com
 0.0.0.0 vcu.collserve.com
 0.0.0.0 vcube-vvp.com
 0.0.0.0 vcupsych.co1.qualtrics.com
@@ -96807,6 +96829,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wfbqjdwwunle.com
 0.0.0.0 wfbvgl6uvikaw18i7zcfqtlq0tkql1516688578.nuid.imrworldwide.com
 0.0.0.0 wfcu.ca.102.112.2o7.net
+0.0.0.0 wfcvhhmumb.com
 0.0.0.0 wfcxcblmy.com
 0.0.0.0 wffiuoyzo.com
 0.0.0.0 wfghrgscs.com
@@ -99934,6 +99957,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xwetmeeynns.com
 0.0.0.0 xwhfvjlqfy.com
 0.0.0.0 xwmbaxufcdxb.com
+0.0.0.0 xwoexbipp.com
 0.0.0.0 xwonghmweu.com
 0.0.0.0 xwrmlohlri.com
 0.0.0.0 xwrtizo5tu8.proxy.teads.tv
@@ -100721,6 +100745,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 youtube.cleverads.vn
 0.0.0.0 youtube2top.com
 0.0.0.0 youtuhe.com
+0.0.0.0 youview.io
 0.0.0.0 youwatchtools.com
 0.0.0.0 youyong.gq
 0.0.0.0 youyou.ezimar.com
