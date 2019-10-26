@@ -6738,6 +6738,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aaxdetect.com
 0.0.0.0 aaxtuhit.com
 0.0.0.0 aayaknbn.com
+0.0.0.0 aayeljzpuu.com
 0.0.0.0 aazwugtom.com
 0.0.0.0 ab-ee-api.marketo.com
 0.0.0.0 ab-gb.adskeeper.co.uk
@@ -14127,6 +14128,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 advmaker.su
 0.0.0.0 advmanager.techfun.pl
 0.0.0.0 advmd.com
+0.0.0.0 advmedia.io
 0.0.0.0 advmedialtd.com
 0.0.0.0 advmob.cn
 0.0.0.0 advmusic.net
@@ -14759,6 +14761,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 afqwfxkjmgwv.com
 0.0.0.0 afraidlanguage.com
 0.0.0.0 afraidtoask.us.intellitxt.com
+0.0.0.0 afrfndbumyyt.com
 0.0.0.0 africal.info
 0.0.0.0 africanmango.pl
 0.0.0.0 africanmango900.pl
@@ -23900,6 +23903,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bzrpvk.com
 0.0.0.0 bzrsybcg.com
 0.0.0.0 bzsbtfiz.com
+0.0.0.0 bzspzpdrqjopj.com
 0.0.0.0 bzsukdfbotd.com
 0.0.0.0 bzvimexwdle.com
 0.0.0.0 bzyrhqbdldds.com
@@ -31045,6 +31049,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 curaleani.club
 0.0.0.0 curancience.com
 0.0.0.0 curate.nestedmedia.com
+0.0.0.0 curated.fieldtest.cc
 0.0.0.0 curativ.co
 0.0.0.0 cure.cryptopools.com
 0.0.0.0 curiosity.gratis
@@ -32626,6 +32631,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dcneohtx.com
 0.0.0.0 dco-pix.mathtag.com
 0.0.0.0 dco.atomex.net
+0.0.0.0 dcoxxsbn.com
 0.0.0.0 dcplayeza.pw
 0.0.0.0 dcplayf.com
 0.0.0.0 dcproxy1.thrunet.com
@@ -33410,6 +33416,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dfpa1te.thebestplayer.mobi
 0.0.0.0 dfpapi.doubleclick.net
 0.0.0.0 dfpdashboard.doubleclick.net
+0.0.0.0 dfpejgtwrgawen.com
 0.0.0.0 dfrcdywe.com
 0.0.0.0 dfrekewe.com
 0.0.0.0 dfrs12kz9qye2.cloudfront.net
@@ -39375,6 +39382,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fbweryfikacja123.blogspot.com
 0.0.0.0 fbwswktiaxmldz.com
 0.0.0.0 fbxhuvjepucusnvbwya76akvizvzf1507500622.nuid.imrworldwide.com
+0.0.0.0 fbxnqsviqujxv.com
 0.0.0.0 fbybc.voluumtrk.com
 0.0.0.0 fc-eu.adsymptotic.com
 0.0.0.0 fc-feed.cdn.bcebos.com
@@ -39764,6 +39772,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fhr.data.mozilla.com
 0.0.0.0 fhsohqtif.com
 0.0.0.0 fhtlyoqzyjjof.com
+0.0.0.0 fhtoxxda.com
 0.0.0.0 fhylnqzxwsbo.com
 0.0.0.0 fi-mtv.videoplaza.tv
 0.0.0.0 fi-mtv3.cdn.videoplaza.tv
@@ -55889,6 +55898,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lsdgtifuqrwjax.com
 0.0.0.0 lse.eu.qualtrics.com
 0.0.0.0 lse.uk.intellitxt.com
+0.0.0.0 lseddehpo.com
 0.0.0.0 lsegvhvzrpqc.com
 0.0.0.0 lsfinteractive.com
 0.0.0.0 lshwezesshks.com
@@ -59921,6 +59931,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mmpstats.mirror-image.com
 0.0.0.0 mmptrack.com
 0.0.0.0 mmqataru.qualtrics.com
+0.0.0.0 mmqidlebc.com
 0.0.0.0 mms.al.com
 0.0.0.0 mms.cbslocal.com
 0.0.0.0 mms.cleveland.com
@@ -64377,6 +64388,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nycvideo-ext.fwmrm.net
 0.0.0.0 nydailynews.d1.sc.omtrdc.net
 0.0.0.0 nyhs3.voluumtrk.com
+0.0.0.0 nyibqkuhqdz.com
 0.0.0.0 nyidt.adsafeprotected.com
 0.0.0.0 nykaa.i.adx.io
 0.0.0.0 nykredit.dk.d1.sc.omtrdc.net
@@ -66887,6 +66899,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 oyiqkjsjmmde.com
 0.0.0.0 oyiqurfqulhuq.com
 0.0.0.0 oylqnzunnw.com
+0.0.0.0 oymlttqg.com
 0.0.0.0 oyndqimgof.com
 0.0.0.0 oynmftlgufr.com
 0.0.0.0 oyojeelxp1n0p2w4fhugtusfwu00u1511205910.nuid.imrworldwide.com
@@ -72955,6 +72968,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qfsutura.com
 0.0.0.0 qftdsg.com
 0.0.0.0 qfubwupddefjw.com
+0.0.0.0 qfymuoqugz.com
 0.0.0.0 qfypbqbumu.com
 0.0.0.0 qgaaaa2.admaym.com
 0.0.0.0 qgawivqfotfyrw.com
@@ -73437,6 +73451,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qvilmdus.com
 0.0.0.0 qvivzreleolawc.com
 0.0.0.0 qvrfxlskqr.com
+0.0.0.0 qvrpqwrp.com
 0.0.0.0 qvsbroqoaggw.com
 0.0.0.0 qvsogqqd.com
 0.0.0.0 qvsshkcr.com
@@ -95587,6 +95602,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vz-img.applovin.com
 0.0.0.0 vz-vid.applovin.com
 0.0.0.0 vzarabotke.ru
+0.0.0.0 vzbbzzasjtn.com
 0.0.0.0 vzglad.mirtesen.ru
 0.0.0.0 vzhbfwpo.com
 0.0.0.0 vzhjnorkudcxbiy.com
@@ -97473,6 +97489,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wmzona.com
 0.0.0.0 wn.pos.baidu.com
 0.0.0.0 wnbdbmqyerfqs.com
+0.0.0.0 wndwhzjmfshthv.com
 0.0.0.0 wnmtmdlvqqscs.com
 0.0.0.0 wnmyerzbjhu.ru
 0.0.0.0 wnp.com
@@ -100577,6 +100594,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yn.news-subscribe.com
 0.0.0.0 yncu.com.102.112.2o7.net
 0.0.0.0 yndxstat.ru
+0.0.0.0 ynebbsldruvfb.com
 0.0.0.0 ynewcdjtop.com
 0.0.0.0 yngtvbtzxzmoc.com
 0.0.0.0 ynhetcoypgnl.com
