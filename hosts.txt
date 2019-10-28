@@ -28919,6 +28919,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cyhners.ero-advertising.com
 0.0.0.0 cyhtr.com
 0.0.0.0 cyingv.com
+0.0.0.0 cyjybkrmzstpid.com
 0.0.0.0 cylance.demdex.net
 0.0.0.0 cymeeoolym.com
 0.0.0.0 cymuxbcnhinm.com
@@ -55880,6 +55881,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 moevideo.net
 0.0.0.0 moffsets.com
 0.0.0.0 mofox.com
+0.0.0.0 mofzedjmlhds.com
 0.0.0.0 moggattice.com
 0.0.0.0 moginhstnxswt.com
 0.0.0.0 mogointeractive-insight.adsrvr.org
@@ -70209,6 +70211,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 roat6ngixmjsiodmmzxvewsrqsuhu1508211022.nuid.imrworldwide.com
 0.0.0.0 robaduvulo.com
 0.0.0.0 robcalwith.ru
+0.0.0.0 robcohatru.ru
 0.0.0.0 robertboschllc.d1.sc.omtrdc.net
 0.0.0.0 robertsguide.com
 0.0.0.0 robinkornett.com
