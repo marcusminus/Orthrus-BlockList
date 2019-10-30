@@ -14930,6 +14930,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.dolansoft.org
 0.0.0.0 analytics.donaukurier.de
 0.0.0.0 analytics.doubleverify.com
+0.0.0.0 analytics.dpd.com
 0.0.0.0 analytics.dspunion.com
 0.0.0.0 analytics.dugun.com
 0.0.0.0 analytics.dvidshub.net
@@ -17652,6 +17653,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 atas.io
 0.0.0.0 atatus.com
 0.0.0.0 ataufekxogxr.com
+0.0.0.0 atavas.ru
 0.0.0.0 atax.askmen.com
 0.0.0.0 atax.gamespy.com
 0.0.0.0 atax.gamestats.com
@@ -34493,7 +34495,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 eos.co1.qualtrics.com
 0.0.0.0 eosads.com
 0.0.0.0 eotbkgjqu.com
-0.0.0.0 eotech-yoqblou5gqrdrn.netdna-ssl.com
 0.0.0.0 eovkzcueutgf.com
 0.0.0.0 eozbwwxniksmb.com
 0.0.0.0 eozegbfpvhasf.com
@@ -49476,6 +49477,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kumekqeccmob.com
 0.0.0.0 kumjidmumktzq.com
 0.0.0.0 kumpulblogger.com
+0.0.0.0 kumpzfcczy.com
 0.0.0.0 kumtwckyq.com
 0.0.0.0 kunay.nullrefexcep.com
 0.0.0.0 kunlun.co
@@ -53785,6 +53787,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 meatspin.com
 0.0.0.0 mebablo.com
 0.0.0.0 mebed.dm.gg
+0.0.0.0 meborangot.ru
 0.0.0.0 mecash.ru
 0.0.0.0 mecha.engineering
 0.0.0.0 mecod.expresslinkcourier.online
@@ -58926,6 +58929,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 noadblock.org
 0.0.0.0 noah.reddion.com
 0.0.0.0 noakauhe.com
+0.0.0.0 noamiscience.pro
 0.0.0.0 noblemagnition.com
 0.0.0.0 nobleppc.com
 0.0.0.0 noblock.pro
@@ -66327,6 +66331,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 privacysecurityprotection.com
 0.0.0.0 privatamateure.com
 0.0.0.0 private-id.tk
+0.0.0.0 private-show.live
 0.0.0.0 private.atlanticgam.es
 0.0.0.0 private.hotelcesenaticobooking.info
 0.0.0.0 private4.com
@@ -70321,6 +70326,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 roar.com
 0.0.0.0 roastedvoice.com
 0.0.0.0 roat6ngixmjsiodmmzxvewsrqsuhu1508211022.nuid.imrworldwide.com
+0.0.0.0 rob.megaopen.ru
 0.0.0.0 robaduvulo.com
 0.0.0.0 robcalwith.ru
 0.0.0.0 robcohatru.ru
@@ -81201,6 +81207,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 toftforcal.com
 0.0.0.0 toftinhapsandrit.info
 0.0.0.0 toftofcal.com
+0.0.0.0 togenron.com
 0.0.0.0 togfcqfvarpq.com
 0.0.0.0 toggl.com.re.getclicky.com
 0.0.0.0 togroltu.net
@@ -84999,7 +85006,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 udbtmvuoncdtrg.com
 0.0.0.0 udbwpgvnalth.com
 0.0.0.0 udc.msn.com
-0.0.0.0 udc.yahoo.com
 0.0.0.0 udcufwvt.com
 0.0.0.0 udekxuo1uqgk2lppdipyq5b57xkn91516627650.nuid.imrworldwide.com
 0.0.0.0 udenver.qualtrics.com
@@ -89225,6 +89231,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 webfinance-d.openx.net
 0.0.0.0 webflowmetrics.com
 0.0.0.0 webforensics.co.uk
+0.0.0.0 webforumtik1.com
 0.0.0.0 webgains.com
 0.0.0.0 webgate.tn
 0.0.0.0 webgekeniuos.com
@@ -93870,6 +93877,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zavu.work
 0.0.0.0 zavzlen.ru
 0.0.0.0 zawvukyxyfmi.com
+0.0.0.0 zaxdnhfdchet.com
 0.0.0.0 zayhipbcxig.com
 0.0.0.0 zayoei.co1.qualtrics.com
 0.0.0.0 zb.news-subscribe.com
@@ -94101,6 +94109,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zfqpjxuycxdl.com
 0.0.0.0 zfrpmiqby.com
 0.0.0.0 zfrzdepuaqebzlenihciadhdjzujnexvnksksqtazbaywgmzwl.com
+0.0.0.0 zfsfkp.com
 0.0.0.0 zftgljkhrdze.com
 0.0.0.0 zfvklk.ru
 0.0.0.0 zfvrrodxfb.com
