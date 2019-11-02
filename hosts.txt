@@ -13577,6 +13577,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aftonbladet.se.d1.sc.omtrdc.net
 0.0.0.0 aftonbladetnya.sc.omtrdc.net
 0.0.0.0 aftrk.com
+0.0.0.0 aftv-serving.bid
 0.0.0.0 afuiw.com
 0.0.0.0 afunnygames.com
 0.0.0.0 afvcugqaulh.co
@@ -14252,6 +14253,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 allergy.1.p2l.info
 0.0.0.0 allergycenter.info
 0.0.0.0 alleron.andree.free.fr
+0.0.0.0 alleyarm.com
 0.0.0.0 allfet.info
 0.0.0.0 allfiles.pl
 0.0.0.0 allfontshere.press
@@ -17189,6 +17191,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 arlime.com
 0.0.0.0 arllvzkoh.com
 0.0.0.0 arm2pie.com
+0.0.0.0 armaimapt.club
 0.0.0.0 armame.info
 0.0.0.0 armanix.white.prohosting.com
 0.0.0.0 armantark.com
@@ -17427,6 +17430,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ash.creativecdn.com
 0.0.0.0 ashallaim.club
 0.0.0.0 asham.tourstogo.us
+0.0.0.0 ashamparm.site
 0.0.0.0 ashemeth.com
 0.0.0.0 ashlynnbrookevideos.com
 0.0.0.0 ashot.txxx.com
@@ -22209,6 +22213,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 c.cokhach.com
 0.0.0.0 c.company-target.com
 0.0.0.0 c.compete.com
+0.0.0.0 c.contentsitesrv.com
 0.0.0.0 c.cpa5.ru
 0.0.0.0 c.cpa6.ru
 0.0.0.0 c.cpl1.ru
@@ -23899,6 +23904,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.constafun.com
 0.0.0.0 cdn.content.exoticads.com
 0.0.0.0 cdn.contentabc.com
+0.0.0.0 cdn.contentsitesrv.com
 0.0.0.0 cdn.contentspread.net
 0.0.0.0 cdn.cookiescript.info
 0.0.0.0 cdn.cpiera.com
@@ -27136,6 +27142,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 config.quantumgraph.com
 0.0.0.0 config.safedk.com
 0.0.0.0 config.samqaicongen.com
+0.0.0.0 config.samsungads.com
 0.0.0.0 config.sensic.net
 0.0.0.0 config.tremorhub.com
 0.0.0.0 config.uca.cloud.unity3d.com
@@ -27352,6 +27359,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 contents.purelovers.com
 0.0.0.0 contentsearch.de.espotting.com
 0.0.0.0 contentsfeed.com
+0.0.0.0 contentsitesrv.com
 0.0.0.0 contentspread.net
 0.0.0.0 contentsquare.net
 0.0.0.0 contenture.com
@@ -35223,6 +35231,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 evelynswonderland.com
 0.0.0.0 evenexcite.com
 0.0.0.0 evenghadrinhisbe.pro
+0.0.0.0 evengledritrophap.pro
 0.0.0.0 evengparme.com
 0.0.0.0 evengtofundrew.pro
 0.0.0.0 event-api.contactatonce.co.uk
@@ -45494,6 +45503,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 increase-marketing.com
 0.0.0.0 increaserev.com
 0.0.0.0 incrediblesugar.com
+0.0.0.0 incrediblethebest.online
 0.0.0.0 incstone.com
 0.0.0.0 incstone.top
 0.0.0.0 indabox.pl
@@ -51311,9 +51321,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 lofentous.com
 0.0.0.0 loft2126.dedicatedpanel.com
 0.0.0.0 log-01.ec2.us.east.liverail.com
+0.0.0.0 log-1.samsungacr.com
+0.0.0.0 log-2.samsungacr.com
+0.0.0.0 log-3.samsungacr.com
 0.0.0.0 log-abroad.avlyun.sec.miui.com
 0.0.0.0 log-b.liverail.com
+0.0.0.0 log-config.samsungacr.com
 0.0.0.0 log-eap-in.coloros.com
+0.0.0.0 log-ingestion-eu.samsungacr.com
 0.0.0.0 log-ingestion.samsungacr.com
 0.0.0.0 log-ird.outbrain.com
 0.0.0.0 log-live.direct.ly
@@ -51364,6 +51379,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 log.idnes.cz
 0.0.0.0 log.indiamart.com
 0.0.0.0 log.infonet.vn
+0.0.0.0 log.internetat.tv
 0.0.0.0 log.invodo.com
 0.0.0.0 log.isnssdk.com
 0.0.0.0 log.iyunmai.com
@@ -51517,6 +51533,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 logger-04.vty.dailymotion.com
 0.0.0.0 logger.admixer.co.kr
 0.0.0.0 logger.adotmob.com
+0.0.0.0 logger.baofeng.com
 0.0.0.0 logger.c1oudmobi.net
 0.0.0.0 logger.cloudmobi.net
 0.0.0.0 logger.co.kr
@@ -55271,6 +55288,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 millionairedream.co
 0.0.0.0 millioncounter.com
 0.0.0.0 millionways.duckdns.org
+0.0.0.0 milotree.com
 0.0.0.0 milparota.com
 0.0.0.0 miltqbfqstsf.com
 0.0.0.0 milwaukee.qualtrics.com
@@ -57775,6 +57793,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 napiujsag.hu
 0.0.0.0 naplo-extra.com
 0.0.0.0 napraw-laptopa.waw.pl
+0.0.0.0 naradxb.com
 0.0.0.0 narod-vrach.ru
 0.0.0.0 narrangel.com
 0.0.0.0 narrow.azenergyforum.com
@@ -59388,6 +59407,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nqtyrwyklcmh.com
 0.0.0.0 nquchhfyex.com
 0.0.0.0 nqvlw.com
+0.0.0.0 nqwiee2covdmgv.ru
 0.0.0.0 nqxdnmsp.com
 0.0.0.0 nqzmtrwend.com
 0.0.0.0 nqzmumesrbiy.com
@@ -61080,6 +61100,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 oneadvertising-d.openx.net
 0.0.0.0 oneandonlynetwork.com
 0.0.0.0 oneapi-qa.advertising.com
+0.0.0.0 oneblackjocker.online
 0.0.0.0 onecoin.eu
 0.0.0.0 onedigitalad.com
 0.0.0.0 onedirect7710893.widget.criteo.com
@@ -68497,6 +68518,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 quangcaotructuyen247.com
 0.0.0.0 quanjing.cnzz.com
 0.0.0.0 quant.jp
+0.0.0.0 quanta-wave.com
 0.0.0.0 quantcast584928381.s.moatpixel.com
 0.0.0.0 quantcount.com
 0.0.0.0 quantserve.com
@@ -72404,6 +72426,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 samsung.demdex.net
 0.0.0.0 samsung3.solution.weborama.fr
 0.0.0.0 samsungacr.com
+0.0.0.0 samsungadhub.com
 0.0.0.0 samsungads.com
 0.0.0.0 samsungindiaelectronics.demdex.net
 0.0.0.0 samsungmsc.d1.sc.omtrdc.net
@@ -76394,6 +76417,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sportowy-stream.pl
 0.0.0.0 sportowystream.pl
 0.0.0.0 sportplus.pro
+0.0.0.0 sportradarserving.com
 0.0.0.0 sports-bonuspath.com
 0.0.0.0 sports-fitness-rewardpath.com
 0.0.0.0 sports-offer.com
@@ -87267,6 +87291,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vdqarbfqauec.com
 0.0.0.0 vdrpwkycbla.com
 0.0.0.0 vdtaajlfocecy.com
+0.0.0.0 vdterms.samsungcloudsolution.com
 0.0.0.0 vdtrack.com
 0.0.0.0 vdula.czystykod.pl
 0.0.0.0 vdumpcunfa.com
@@ -94553,6 +94578,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zijaipse.com
 0.0.0.0 zijnobynjmcs.com
 0.0.0.0 zillalike.com
+0.0.0.0 zilogora.com
 0.0.0.0 zilzolachi.com
 0.0.0.0 zim-zim-zam.com
 0.0.0.0 zimbra.corp.appnexus.com
