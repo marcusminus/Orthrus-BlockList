@@ -8354,6 +8354,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adlink.wf
 0.0.0.0 adlinktech.com
 0.0.0.0 adlinx.info
+0.0.0.0 adlipacbrakmjp.com
 0.0.0.0 adlisher.com
 0.0.0.0 adlive.io
 0.0.0.0 adlmerge.com
@@ -13268,6 +13269,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 afbfoxmwzlqa.com
 0.0.0.0 afclickoffers.com
 0.0.0.0 afco2go.com
+0.0.0.0 afcxojqr.com
 0.0.0.0 afcyhf.com
 0.0.0.0 afd.baidu.com
 0.0.0.0 afdads.com
@@ -13589,6 +13591,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 afvcugqaulh.co
 0.0.0.0 afx.tagcdn.com
 0.0.0.0 afxtcajgtzcugb.com
+0.0.0.0 afxvaqbbd.com
 0.0.0.0 afy11.net
 0.0.0.0 afyonturkreklam.com
 0.0.0.0 afzkqajwcbub.com
@@ -14387,6 +14390,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 altusalliance.actonsoftware.com
 0.0.0.0 alvdtjrb.com
 0.0.0.0 alvenda.com
+0.0.0.0 alvfzqwkb.com
 0.0.0.0 alvieromartiniesaldi.com
 0.0.0.0 alvivigqrogq.com
 0.0.0.0 alvoportas.com.br
@@ -20028,6 +20032,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bewovdhiubnk.com
 0.0.0.0 bewtqjkrfo.com
 0.0.0.0 bexbpzultczaa.com
+0.0.0.0 bexrnrxbgh.com
 0.0.0.0 bextra-store.shengen.ru
 0.0.0.0 bextra.ourtablets.com
 0.0.0.0 beyond.t.domdex.com
@@ -24519,6 +24524,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cebwa.d2.sc.omtrdc.net
 0.0.0.0 cecash.com
 0.0.0.0 ced.sascdn.com
+0.0.0.0 cedcdoqkrjabs.com
 0.0.0.0 cedemo.com
 0.0.0.0 cedexis-radar.net
 0.0.0.0 cedexis.com
@@ -32466,6 +32472,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dsmartvietnam.com
 0.0.0.0 dsmeo.cf
 0.0.0.0 dsmmadvantage.com
+0.0.0.0 dsmxwgmkj.com
 0.0.0.0 dsmysdzjhxot.com
 0.0.0.0 dsn-fishki.ru
 0.0.0.0 dsn-vgtrk.ru
@@ -37347,6 +37354,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fmcwqmwdaubb.com
 0.0.0.0 fmebili.info
 0.0.0.0 fmg.pl
+0.0.0.0 fmgdzqpcaliqs.com
 0.0.0.0 fmkfzc.com
 0.0.0.0 fmkyi6kmhhcyglrlr9ch7nnfhx7o31509178711.nuid.imrworldwide.com
 0.0.0.0 fmnetwork.nl
@@ -37360,6 +37368,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fmp-sg.mobvista.com
 0.0.0.0 fmp.mobvista.com
 0.0.0.0 fmpbeta.mobvista.com
+0.0.0.0 fmpevnvced.com
 0.0.0.0 fmpreview.mobvista.com
 0.0.0.0 fmptest.mobvista.com
 0.0.0.0 fmpub.net
@@ -44502,6 +44511,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 igligan.info
 0.0.0.0 igloohq.com
 0.0.0.0 iglwibwbjxuoflrczfvpibhihwuqneyvmhzeqbmdmujmirdkae.com
+0.0.0.0 igmsjgadiz.com
 0.0.0.0 ign.us.intellitxt.com
 0.0.0.0 ignitad.com
 0.0.0.0 ignite.adtima.vn
@@ -50446,6 +50456,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 leguidegroup-leguidecom-fra.t.domdex.com
 0.0.0.0 leguinge.info
 0.0.0.0 lehanusepardo.info
+0.0.0.0 lehfzuosurakj.com
 0.0.0.0 lehigh.co1.qualtrics.com
 0.0.0.0 leica-microsystems5.actonsoftware.com
 0.0.0.0 leigls.mirtesen.ru
@@ -74917,6 +74928,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 siuletrtmkk.com
 0.0.0.0 sivqblzejhx.com
 0.0.0.0 siwbori.info
+0.0.0.0 siwtbongdxve.com
 0.0.0.0 siwtuvvgraum.com
 0.0.0.0 sixapart.112.2o7.net
 0.0.0.0 sixapart.adbureau.net
@@ -88157,6 +88169,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vitrines.globo.com
 0.0.0.0 viuboin4.com
 0.0.0.0 viumbe-d.openx.net
+0.0.0.0 viunypnvhcw.com
 0.0.0.0 viurihkwo.com
 0.0.0.0 vivadgo.ru
 0.0.0.0 vivamob.net
@@ -94957,6 +94970,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zrh.bewilderinglyalbumin.com
 0.0.0.0 zrhskqzfh.com
 0.0.0.0 zricmrcrlmdeg.com
+0.0.0.0 zridsfev.com
 0.0.0.0 zrlcr.com
 0.0.0.0 zroitracker.com
 0.0.0.0 zrosbqwecw.com
