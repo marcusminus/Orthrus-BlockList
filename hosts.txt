@@ -16013,6 +16013,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 apdrive.win
 0.0.0.0 ape-tagit.timeinc.net
 0.0.0.0 ape78cn2.com
+0.0.0.0 apearmare.site
 0.0.0.0 apearmark.online
 0.0.0.0 apelsin-photo.mirtesen.ru
 0.0.0.0 apepix.com
@@ -21061,6 +21062,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bobwjhcuavqklk.com
 0.0.0.0 bocconi360.qualtrics.com
 0.0.0.0 bocksnabswdq.com
+0.0.0.0 bocpqkpmez.com
 0.0.0.0 bocqmlgslzoo.com
 0.0.0.0 bod0m.bemobtrk.com
 0.0.0.0 bodaybo.net
@@ -22174,6 +22176,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 byuwoap7dmgofle.ru
 0.0.0.0 byvngx98ssphwzkrrtsjhnbyz5zss81dxygxvlqd05.com
 0.0.0.0 byxlivaqzo.com
+0.0.0.0 byyanmaor.com
 0.0.0.0 byzgoso.ru
 0.0.0.0 byzoo.org
 0.0.0.0 bza.co
@@ -39042,6 +39045,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gatekeeper.outbrain.com
 0.0.0.0 gateway-banner.eravage.com
 0.0.0.0 gateway.122.2o7.net
+0.0.0.0 gateway.foresee.com
 0.0.0.0 gateway.proxyportal.eu
 0.0.0.0 gateway.speedera.net
 0.0.0.0 gateway.supersonicads.com
@@ -41600,6 +41604,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hamjgkzgycmur.com
 0.0.0.0 hammerhearing.com
 0.0.0.0 hamphlete.com
+0.0.0.0 hamtugin.com
 0.0.0.0 hamwhatsappcom.imageshack.host
 0.0.0.0 hanabishi.net
 0.0.0.0 hananokai.tv
@@ -48717,6 +48722,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kassabravo.com
 0.0.0.0 kasterborous.us.intellitxt.com
 0.0.0.0 katariyaconsultancy.com
+0.0.0.0 katelinna.m.biqubao.com
 0.0.0.0 katharina-von-bora.de
 0.0.0.0 katia-paliotti.com
 0.0.0.0 katiagirl.free.fr
@@ -51261,6 +51267,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ljxsex8pmrti232svzkqahsisn9731516214012.nuid.imrworldwide.com
 0.0.0.0 ljzhxfurwibo.com
 0.0.0.0 ljzsucmiodrro.com
+0.0.0.0 lk.4jzl.cn
 0.0.0.0 lk9.timcaffe.it
 0.0.0.0 lkaarvdprhzx.com
 0.0.0.0 lkamujrx.com
@@ -64772,7 +64779,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 piximedia.com
 0.0.0.0 pixiv.org
 0.0.0.0 pixjqfvlsqvu.com
-0.0.0.0 pixlee.com
 0.0.0.0 pixon.ads-pixiv.net
 0.0.0.0 pixtrack.in
 0.0.0.0 pixxur.com
@@ -79501,6 +79507,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sywwplqqumjgm.com
 0.0.0.0 syxcbevp.com
 0.0.0.0 syxojpztar.com
+0.0.0.0 syyycc.com
 0.0.0.0 syznate.ru
 0.0.0.0 sz-loc.ushareit.com
 0.0.0.0 sz-maga-upaas.uc.cn
@@ -79931,6 +79938,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 takeprofitsystem.com
 0.0.0.0 takethisoffer.com
 0.0.0.0 taking-technology.com
+0.0.0.0 takmuany.com
 0.0.0.0 takoomi-d.openx.net
 0.0.0.0 takru.com
 0.0.0.0 talab.org
@@ -85362,6 +85370,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 u.uc123.com
 0.0.0.0 u.ucfly.com
 0.0.0.0 u.videoamp.com
+0.0.0.0 u.xogu.cn
 0.0.0.0 u0.extreme-dm.com
 0.0.0.0 u0003321.cp.regruhosting.ru
 0.0.0.0 u002fz.moatads.com
@@ -90874,6 +90883,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wntpgjzwg.com
 0.0.0.0 wnuvhicameqiso.com
 0.0.0.0 wnxyusrvcoosqi.com
+0.0.0.0 wnybornxeukq.com
 0.0.0.0 wnzmauurgol.com
 0.0.0.0 wnzxwgatxjuf.com
 0.0.0.0 wnzzxwysay.com
