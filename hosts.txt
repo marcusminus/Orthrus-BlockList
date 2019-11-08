@@ -5735,6 +5735,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aaa.japanxvideos.mobi
 0.0.0.0 aaa.qualtrics.com
 0.0.0.0 aaacompany.net
+0.0.0.0 aaadealstoday.com
 0.0.0.0 aaaf.jp
 0.0.0.0 aaannuairex.com
 0.0.0.0 aaashoeschina.com
@@ -9038,6 +9039,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads-b.use1.prod.vidible.tv
 0.0.0.0 ads-b.vidible.tv
 0.0.0.0 ads-bidder-api.twitter.com
+0.0.0.0 ads-brand-postback.unityads.unity3d.com
 0.0.0.0 ads-businessinsider.adhese.com
 0.0.0.0 ads-by.madadsmedia.com
 0.0.0.0 ads-by.yieldselect.com
@@ -9065,6 +9067,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads-fa.spotify.com
 0.0.0.0 ads-for-free.com
 0.0.0.0 ads-game-187f4.firebaseapp.com
+0.0.0.0 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
 0.0.0.0 ads-hl.noktamedya.com.tr
 0.0.0.0 ads-i2i.jp
 0.0.0.0 ads-im-netz.de
@@ -17842,6 +17845,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 atwola.com
 0.0.0.0 atxd.adgear.com
 0.0.0.0 atyss.barginginfrance.net
+0.0.0.0 atzcmddc.com
 0.0.0.0 au-cdn.effectivemeasure.net
 0.0.0.0 au-gb.mgid.com
 0.0.0.0 au-insight.ants.vn
@@ -23747,6 +23751,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn-config.taplytics.com
 0.0.0.0 cdn-content.ampproject.org
 0.0.0.0 cdn-creatives-akamai-prd.unityads.unity3d.com
+0.0.0.0 cdn-creatives-highwinds-prd.unityads.unity3d.com
+0.0.0.0 cdn-creatives-prd.unityads.unity3d.com
 0.0.0.0 cdn-cs.media.net
 0.0.0.0 cdn-custom.optimonk.com
 0.0.0.0 cdn-d.amazon-adsystem.com
@@ -23794,12 +23800,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn-static-test.optimonk.com
 0.0.0.0 cdn-static.optimonk.com
 0.0.0.0 cdn-store-icons-akamai-prd.unityads.unity3d.com
+0.0.0.0 cdn-store-icons-highwinds-prd.unityads.unity3d.com
 0.0.0.0 cdn-t.amazon-adsystem.com
 0.0.0.0 cdn-tb2.adform.net
 0.0.0.0 cdn-test.wshareit.com
 0.0.0.0 cdn-us.mouseflow.com
 0.0.0.0 cdn-v3.conductrics.com
 0.0.0.0 cdn-vfw-us-test.amazon-adsystem.com
+0.0.0.0 cdn-webview-pge.unityads.unity3d.com
 0.0.0.0 cdn-ycs.vidible.tv
 0.0.0.0 cdn-yjp.taboola.com
 0.0.0.0 cdn.3lift.com
@@ -25082,6 +25090,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 chiliadv.com
 0.0.0.0 chilyregistrycleaner.com
 0.0.0.0 chimachinenow.com
+0.0.0.0 china-cdn3.unityads.unity3d.com
 0.0.0.0 china-netwave.com
 0.0.0.0 china.inmobi.com
 0.0.0.0 chinaenter.cn
@@ -30030,6 +30039,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 data-ingress-ae1.tapad.com
 0.0.0.0 data-ingress-euw1.tapad.com
 0.0.0.0 data-ipv6.flurry.com
+0.0.0.0 data-optout-service.uca.cloud.unity3d.com
 0.0.0.0 data-provider.alfa.smartlook.com
 0.0.0.0 data-provider.beta.smartlook.com
 0.0.0.0 data-service.mopub.com
@@ -32535,9 +32545,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 dsnr-affiliates.com
 0.0.0.0 dsnrmg.adk2.co
 0.0.0.0 dsp-d.ants.vn
+0.0.0.0 dsp-endscreens.unityads.unity3d.com
 0.0.0.0 dsp-eu.exe.bid
 0.0.0.0 dsp-moderation.adriver.ru
 0.0.0.0 dsp-track.clickhubs.com
+0.0.0.0 dsp-tracking.unityads.unity3d.com
 0.0.0.0 dsp-wa2.mgid.com
 0.0.0.0 dsp.adara.com
 0.0.0.0 dsp.adfarm1.adition.com
@@ -36278,7 +36290,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 farmheroesmobile.king.com
 0.0.0.0 farmius.org
 0.0.0.0 farpeiros.pw
-0.0.0.0 farsihd.pw
 0.0.0.0 farvqaxaoid.com
 0.0.0.0 fas.catholicgreatestinterpret.xyz
 0.0.0.0 fascinatedfeather.com
@@ -37780,6 +37791,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fpfivothg.com
 0.0.0.0 fpherzxrae.com
 0.0.0.0 fphnwvkp.info
+0.0.0.0 fpkcggyczcvix.com
 0.0.0.0 fpluhtibx.com
 0.0.0.0 fpmef.com
 0.0.0.0 fpnxicejwel.com
@@ -38283,6 +38295,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 frrbsrbs.com
 0.0.0.0 frrtrr.banggirls.ru
 0.0.0.0 frsqgvwmzjnun.com
+0.0.0.0 frsuli.com
 0.0.0.0 frtfwlvwuw.com
 0.0.0.0 frtya.com
 0.0.0.0 frtyb.com
@@ -38651,6 +38664,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fzofckmbwguarteciq1npieeiss1p1514431012.nuid.imrworldwide.com
 0.0.0.0 fzoixwmvrwg7iihdspgnlybskqxmz1505446301.nuid.imrworldwide.com
 0.0.0.0 fzoneli.info
+0.0.0.0 fzorwhus.com
 0.0.0.0 fzpseyhkanhopd.com
 0.0.0.0 fzqxefkbjzwiqa.com
 0.0.0.0 fzrcalpbcu.com
@@ -39461,6 +39475,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 geobar.ziffdavisinternational.com
 0.0.0.0 geobeacon.ign.com
 0.0.0.0 geobytes.com
+0.0.0.0 geocdn.unityads.unity3d.com
 0.0.0.0 geoced.smartadserver.com
 0.0.0.0 geocompteur.com
 0.0.0.0 geocontatore.com
@@ -40594,6 +40609,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gooqleapi.com
 0.0.0.0 goossb.com
 0.0.0.0 goozbkcchscvb.com
+0.0.0.0 gop1.co
 0.0.0.0 gopay2.me
 0.0.0.0 gopeds.com
 0.0.0.0 gopjn.com
@@ -43112,6 +43128,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hpsthxyqxqae.com
 0.0.0.0 hpsupport.qualtrics.com
 0.0.0.0 hpufwccrmiwz.com
+0.0.0.0 hpuknttzl.com
 0.0.0.0 hpuswr.mirtesen.ru
 0.0.0.0 hpvivo.com
 0.0.0.0 hpvvn.com
@@ -43540,6 +43557,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hwozm5ro1grgvzwd8kkrj1uitwxlw1513541821.nuid.imrworldwide.com
 0.0.0.0 hwpub.com
 0.0.0.0 hwsbehjaxebh.com
+0.0.0.0 hwstats.unity3d.com
 0.0.0.0 hwvwuoxsosfp.com
 0.0.0.0 hwwhdv.mirtesen.ru
 0.0.0.0 hwww.zweryfiikujdane.tk
@@ -46055,6 +46073,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 installmac.com
 0.0.0.0 installp.com
 0.0.0.0 installtracker.com
+0.0.0.0 installtracker.unityads.unity3d.com
 0.0.0.0 instana.io
 0.0.0.0 instancetour.info
 0.0.0.0 instant-money-tips.com
@@ -46326,6 +46345,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 intuitcare.co1.qualtrics.com
 0.0.0.0 intuitinc.122.2o7.net
 0.0.0.0 intuneads.com
+0.0.0.0 inukjwvwhz.com
 0.0.0.0 inuser.headline.uodoo.com
 0.0.0.0 inuvi.com
 0.0.0.0 inuvo.com
@@ -47029,6 +47049,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 iwhca.ca1.qualtrics.com
 0.0.0.0 iwhca.co1.qualtrics.com
 0.0.0.0 iwhha.top
+0.0.0.0 iwlvufxv.com
 0.0.0.0 iwmonrwpeeku.com
 0.0.0.0 iwon.us.intellitxt.com
 0.0.0.0 iwpxkwojbw.com
@@ -50338,6 +50359,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lbsohfnkqgxo.com
 0.0.0.0 lbtifiprfzy.com
 0.0.0.0 lburmovcjefv.com
+0.0.0.0 lbushibdda.com
 0.0.0.0 lbwtrvpgvqkqc.com
 0.0.0.0 lbypppwfvagq.com
 0.0.0.0 lbytagcqxefsn.com
@@ -52274,6 +52296,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 luckytidy.info
 0.0.0.0 lucyfeed.com
 0.0.0.0 ludifr.widget.criteo.com
+0.0.0.0 ludovwmhazsx.com
 0.0.0.0 luesojz.angelcities.com
 0.0.0.0 lufhansa.com
 0.0.0.0 lufthansaairlines.com
@@ -58869,6 +58892,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ngecity.com
 0.0.0.0 ngf.co1.qualtrics.com
 0.0.0.0 ngfsciiu.com
+0.0.0.0 nginx-auction-prd-gcp.adsx.unityads.unity3d.com
 0.0.0.0 ngkqlfcm.com
 0.0.0.0 nglmedia.com
 0.0.0.0 nglrbsnu.com
@@ -59344,6 +59368,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 noobnoob.ro
 0.0.0.0 noolablkcuyu.com
 0.0.0.0 noowho.com
+0.0.0.0 noproblfr.com
 0.0.0.0 noqukjy.com
 0.0.0.0 noracora.com
 0.0.0.0 norclothes.club
@@ -59577,6 +59602,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nqs-wdc2.youboranqs01.com
 0.0.0.0 nqs-wdc3.youboranqs01.com
 0.0.0.0 nqs.nice264.com
+0.0.0.0 nqtqrnfzvp.com
 0.0.0.0 nqtxbweqb.com
 0.0.0.0 nqtxg.xyz
 0.0.0.0 nqtyrwyklcmh.com
@@ -64100,6 +64126,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pgatoursuperstore.d1.sc.omtrdc.net
 0.0.0.0 pgcode.org
 0.0.0.0 pgdhapctt.com
+0.0.0.0 pge.unityads.unity3d.com
 0.0.0.0 pgepkagfndl.com
 0.0.0.0 pgfxwbgema.com
 0.0.0.0 pgg4a0.emailer.appsflyer.com
@@ -66617,7 +66644,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 prd-collector-anon-video.playbuzz.com
 0.0.0.0 prd-collector-anon.playbuzz.com
 0.0.0.0 prdplock.pl
-0.0.0.0 pre.ads.justpremium.com
 0.0.0.0 pre.mobvista.com
 0.0.0.0 pre3.ads.justpremium.com
 0.0.0.0 preads.skypeassets.net
@@ -67699,6 +67725,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 publish.pizzazzemail.com
 0.0.0.0 publish.web.id
 0.0.0.0 publisher-config.unityads.unity3d.com
+0.0.0.0 publisher-event.ads.prd.ie.internal.unity3d.com
+0.0.0.0 publisher-event.unityads.unity3d.com
 0.0.0.0 publisher-home.prod.pub.pagefair.com
 0.0.0.0 publisher.addictiveads.com
 0.0.0.0 publisher.adgebra.in
@@ -71704,6 +71732,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rwhxz.space
 0.0.0.0 rwjf.d1.sc.omtrdc.net
 0.0.0.0 rwkxvess.com
+0.0.0.0 rwlyiedd.com
 0.0.0.0 rwlzbswwmmh.com
 0.0.0.0 rwmttawspapqcy.com
 0.0.0.0 rwn2elbcqj.kameleoon.eu
@@ -76460,6 +76489,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 spcdnsp.i-mobile.co.jp
 0.0.0.0 spcnv.i-mobile.co.jp
 0.0.0.0 spcode.baidu.com
+0.0.0.0 spcpgtepary.com
 0.0.0.0 spd.atdmt.com
 0.0.0.0 spd.atdmt.speedera.net
 0.0.0.0 spdeapp.com
@@ -76864,6 +76894,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sri.jsintegrity.com
 0.0.0.0 sri.xpanama.net
 0.0.0.0 sriaqmzx.com
+0.0.0.0 srigbxxv.com
 0.0.0.0 srithairack-shelf.com
 0.0.0.0 srizwhcdjruf.com
 0.0.0.0 srkdunvxun.com
@@ -78441,6 +78472,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stc.aeplcdn.com
 0.0.0.0 stc.fx.fastcontentdelivery.com
 0.0.0.0 stc.gammaplatform.com
+0.0.0.0 stc.nas.nixcdn.com
 0.0.0.0 stc.oa.zalo.me
 0.0.0.0 stc.qualtrics.com
 0.0.0.0 stc.store.page.zaloapp.com
@@ -81229,6 +81261,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 thgalecom.112.2o7.net
 0.0.0.0 thietkeweb.mediaz.vn
 0.0.0.0 thiksikr.com
+0.0.0.0 thind-gke-euw.prd.data.corp.unity3d.com
 0.0.0.0 thingswontend.com
 0.0.0.0 thinhvuongmedia.com
 0.0.0.0 think.bouncex.com
@@ -83905,6 +83938,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tracking.pornhd.com
 0.0.0.0 tracking.post.japanpost.jp
 0.0.0.0 tracking.practicefusion.com
+0.0.0.0 tracking.prd.mz.internal.unity3d.com
 0.0.0.0 tracking.prm20cloud.com
 0.0.0.0 tracking.promiflash.de
 0.0.0.0 tracking.propellerads.com
@@ -86772,6 +86806,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 userpanel.g.doubleclick.net
 0.0.0.0 userreplay.com
 0.0.0.0 userreport.com
+0.0.0.0 userreporting.cloud.unity3d.com
 0.0.0.0 users-api.com
 0.0.0.0 users.51.la
 0.0.0.0 users.effectivebrand.com
@@ -91093,6 +91128,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wpnrtnmrewunrtok.xyz
 0.0.0.0 wpold.automatad.com
 0.0.0.0 wppluginspro.com
+0.0.0.0 wpqvggsnc.com
 0.0.0.0 wps.clickadilla.com
 0.0.0.0 wps.zog.link
 0.0.0.0 wpsconfig4svr.elasticbeanstalk.com
@@ -93529,6 +93565,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yaxdboxgsbgh.com
 0.0.0.0 yayastyle.biz
 0.0.0.0 yb0t.com
+0.0.0.0 ybaijkluq.com
 0.0.0.0 ybbqkfzmj.com
 0.0.0.0 ybcoin.com
 0.0.0.0 ybex.com
@@ -94863,6 +94900,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zhtw.admob.com
 0.0.0.0 zhuwawa.net
 0.0.0.0 zhuyuanp.top
+0.0.0.0 zhxdduzdibm.com
 0.0.0.0 zhxdiirwhtico.com
 0.0.0.0 zhxpnywjnltskd.com
 0.0.0.0 ziaxamkssw.com
