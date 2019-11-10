@@ -29962,7 +29962,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 d37s9vd5t6mov7.cloudfront.net
 0.0.0.0 d38dub.ru
 0.0.0.0 d38hmgjgf0kofx.cloudfront.net
-0.0.0.0 d38nbbai6u794i.cloudfront.net
 0.0.0.0 d396ihyrqc81w.cloudfront.net
 0.0.0.0 d39hdzmeufnl50.cloudfront.net
 0.0.0.0 d3a2okcloueqyx.cloudfront.net
@@ -52365,6 +52364,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 litix.io
 0.0.0.0 littel.biz
 0.0.0.0 littel.net
+0.0.0.0 littitte.online
 0.0.0.0 littlefield.logs.roku.com
 0.0.0.0 littlesturgisrally.com
 0.0.0.0 liu46g71.cheerful-mood.mobi
@@ -67977,6 +67977,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 popupclick.
 0.0.0.0 popupclick.ru
 0.0.0.0 popupdomination.com
+0.0.0.0 popupmaker.com
 0.0.0.0 popupme.net
 0.0.0.0 popupmoney.com
 0.0.0.0 popupnation.com
