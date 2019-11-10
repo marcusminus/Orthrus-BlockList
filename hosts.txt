@@ -8063,7 +8063,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adfrika.com
 0.0.0.0 adfrog.info
 0.0.0.0 adfrontiers.com
-0.0.0.0 adfs.htmedia.in	
 0.0.0.0 adfs.htmedia.in
 0.0.0.0 adfs3.htmedia.in
 0.0.0.0 adfu.blockstackers.com
@@ -8125,7 +8124,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adheart.de
 0.0.0.0 adhearus.com
 0.0.0.0 adhese.be
-0.0.0.0 adhese.com		
 0.0.0.0 adhese.com
 0.0.0.0 adhese.gva.be
 0.0.0.0 adhese.hbvl.be
@@ -8146,7 +8144,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adhref.com
 0.0.0.0 adhref.pl
 0.0.0.0 adhslx.com
-0.0.0.0 adhsm.adhese.com	
 0.0.0.0 adhsm.adhese.com
 0.0.0.0 adhub.co.nz
 0.0.0.0 adhub.ru
@@ -9060,7 +9057,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads-b.vidible.tv
 0.0.0.0 ads-bidder-api.twitter.com
 0.0.0.0 ads-brand-postback.unityads.unity3d.com
-0.0.0.0 ads-businessinsider.adhese.com	
 0.0.0.0 ads-businessinsider.adhese.com
 0.0.0.0 ads-by.madadsmedia.com
 0.0.0.0 ads-by.yieldselect.com
@@ -9092,7 +9088,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads-hl.noktamedya.com.tr
 0.0.0.0 ads-i2i.jp
 0.0.0.0 ads-im-netz.de
-0.0.0.0 ads-imp.adhese.com			
 0.0.0.0 ads-imp.adhese.com
 0.0.0.0 ads-ipm.adhese.com
 0.0.0.0 ads-kurir.providus.rs
@@ -9111,7 +9106,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads-nlprofiel.adhese.com
 0.0.0.0 ads-not-by-this-site.de
 0.0.0.0 ads-nrc.adhese.com
-0.0.0.0 ads-orange.adhese.com			
 0.0.0.0 ads-orange.adhese.com
 0.0.0.0 ads-orangegames.adhese.com
 0.0.0.0 ads-pebblemedia.adhese.com
@@ -9125,9 +9119,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads-rolandgarros.com
 0.0.0.0 ads-rouge.haber7.com
 0.0.0.0 ads-roularta.adhese.com
-0.0.0.0 ads-sanoma.adhese.com	
 0.0.0.0 ads-sanoma.adhese.com
-0.0.0.0 ads-sbs.adhese.com		
 0.0.0.0 ads-sbs.adhese.com
 0.0.0.0 ads-sc2-lb10.adsymptotic.com
 0.0.0.0 ads-sc2-lb11.adsymptotic.com
@@ -9148,7 +9140,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads-target.coccoc.com
 0.0.0.0 ads-techeu.adhese.com
 0.0.0.0 ads-test.adhese.com
-0.0.0.0 ads-test2.adhese.com		
 0.0.0.0 ads-test2.adhese.com
 0.0.0.0 ads-tmg.adhese.com
 0.0.0.0 ads-tool.jp
@@ -9165,7 +9156,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads-web.ksosoft.com
 0.0.0.0 ads-web.mail.com
 0.0.0.0 ads-weborama.adhese.com
-0.0.0.0 ads-wetransfer.adhese.com		
 0.0.0.0 ads-wetransfer.adhese.com
 0.0.0.0 ads.20m.es
 0.0.0.0 ads.20minutes.fr
@@ -11661,7 +11651,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adserver.moitepari.bg
 0.0.0.0 adserver.monster.com
 0.0.0.0 adserver.monstersandcritics.com
-0.0.0.0 adserver.mopub.com	
 0.0.0.0 adserver.mopub.com
 0.0.0.0 adserver.motonews.pl
 0.0.0.0 adserver.motorpresse.de
@@ -12182,7 +12171,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adskimomedia.adk2.co
 0.0.0.0 adsklick.de
 0.0.0.0 adskom.com
-0.0.0.0 adskom.genieessp.com	
 0.0.0.0 adskom.genieessp.com
 0.0.0.0 adslala.com
 0.0.0.0 adslidango.com
@@ -15465,7 +15453,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.techweb.com.cn
 0.0.0.0 analytics.teespring.com
 0.0.0.0 analytics.tekbox.cc
-0.0.0.0 analytics.tercept.com	
 0.0.0.0 analytics.tercept.com
 0.0.0.0 analytics.testing.piwik.pro
 0.0.0.0 analytics.thama.eu
@@ -16513,7 +16500,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.smartlauncher.net
 0.0.0.0 api.smartnews-ads.com
 0.0.0.0 api.snoobi.com
-0.0.0.0 api.sonobi.com	
 0.0.0.0 api.sonobi.com
 0.0.0.0 api.south.kontagent.net
 0.0.0.0 api.splkmobile.com
@@ -18235,7 +18221,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 av.adblade.com
 0.0.0.0 av.beap.bc.yahoo.com
 0.0.0.0 av.minnnano-fuzoku.com
-0.0.0.0 av.revcontent.com		
 0.0.0.0 av.revcontent.com
 0.0.0.0 av.tubemogul.com
 0.0.0.0 av0713.tk
@@ -20956,7 +20941,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 blog.adcolony.com
 0.0.0.0 blog.addthis.com
 0.0.0.0 blog.adform.com
-0.0.0.0 blog.adhese.com	
 0.0.0.0 blog.adhese.com
 0.0.0.0 blog.admixer.net
 0.0.0.0 blog.admob.com
@@ -21003,7 +20987,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 blog.with2.net
 0.0.0.0 blog.xiaomi.com
 0.0.0.0 blog104.com
-0.0.0.0 blog2.adhese.com	
 0.0.0.0 blog2.adhese.com
 0.0.0.0 blog2.algolia.com
 0.0.0.0 blogads.com
@@ -26198,7 +26181,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 clicks-adsomenoise.adhese.com
 0.0.0.0 clicks-cadreon.adhese.com
 0.0.0.0 clicks-cloud.ru
-0.0.0.0 clicks-collishop.adhese.com	
 0.0.0.0 clicks-collishop.adhese.com
 0.0.0.0 clicks-colruytgroup.adhese.com
 0.0.0.0 clicks-demo.adhese.com
@@ -26210,9 +26192,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 clicks-nrc.adhese.com
 0.0.0.0 clicks-orangegames.adhese.com
 0.0.0.0 clicks-pebblemedia.adhese.com
-0.0.0.0 clicks-rmb.adhese.com	
 0.0.0.0 clicks-rmb.adhese.com
-0.0.0.0 clicks-roularta.adhese.com	
 0.0.0.0 clicks-roularta.adhese.com
 0.0.0.0 clicks-techeu.adhese.com
 0.0.0.0 clicks-trf.adhese.com
@@ -26228,7 +26208,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 clicks.deskbabes.com
 0.0.0.0 clicks.dichtbij.adhese.com
 0.0.0.0 clicks.emarketmakers.com
-0.0.0.0 clicks.enchante.adhese.com	
 0.0.0.0 clicks.enchante.adhese.com
 0.0.0.0 clicks.equantum.com
 0.0.0.0 clicks.eutopia.traffictrader.net
@@ -26523,7 +26502,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cloud-exploration.com
 0.0.0.0 cloud-iq.com
 0.0.0.0 cloud-observer.ip-label.net
-0.0.0.0 cloud-test.adhese.com			
 0.0.0.0 cloud-test.adhese.com
 0.0.0.0 cloud-us.analytics-egain.com
 0.0.0.0 cloud.getpopunder.com
@@ -27244,7 +27222,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 collector.trendmd.com
 0.0.0.0 collector.xhamster.com
 0.0.0.0 collector.xhamster2.com
-0.0.0.0 collector0.xhamster.com		
 0.0.0.0 collector0.xhamster.com
 0.0.0.0 collector1.xhamster.com
 0.0.0.0 collector1.xhamster.desi
@@ -32919,7 +32896,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 drydrum.com
 0.0.0.0 drzndwmqrgra.com
 0.0.0.0 ds-aksb-a.akamaihd.net
-0.0.0.0 ds-colruytgroup.adhese.com		
 0.0.0.0 ds-colruytgroup.adhese.com
 0.0.0.0 ds-ll.serving-sys.com
 0.0.0.0 ds.247realmedia.com
@@ -40492,7 +40468,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ghygzvdh.bid
 0.0.0.0 ghytjserb.com
 0.0.0.0 ghzylikrcdydf.bid
-0.0.0.0 gi-js.genieessp.com	
 0.0.0.0 gi-js.genieessp.com
 0.0.0.0 gi.news-subscribe.com
 0.0.0.0 gi3b5mvu8h.kameleoon.eu
@@ -43831,7 +43806,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 hostplik.pl
 0.0.0.0 hostpowermedium.112.2o7.net
 0.0.0.0 hostpx.moatads.com
-0.0.0.0 hosts-weborama.adhese.com		
 0.0.0.0 hosts-weborama.adhese.com
 0.0.0.0 hoststats.info
 0.0.0.0 hostujmy.pl
@@ -55779,7 +55753,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mediaffiliation.com
 0.0.0.0 mediafile.pl
 0.0.0.0 mediafilesdownload.com
-0.0.0.0 mediafin-api.adhese.com		
 0.0.0.0 mediafin-api.adhese.com
 0.0.0.0 mediafire-d.openx.net
 0.0.0.0 mediaflire.com
@@ -63526,7 +63499,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 orange.salesmanago.pl
 0.0.0.0 orange.weborama.fr
 0.0.0.0 orangeads.fr
-0.0.0.0 orangegames.adhese.com	
 0.0.0.0 orangegames.adhese.com
 0.0.0.0 orangemovie.link
 0.0.0.0 orangeoperation.com
@@ -64393,7 +64365,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 p198531.clksite.com
 0.0.0.0 p199062.clksite.com
 0.0.0.0 p199706.clksite.com
-0.0.0.0 p1agead2.googlesyndication.com				
 0.0.0.0 p1agead2.googlesyndication.com
 0.0.0.0 p1cluster.cxense.com
 0.0.0.0 p2.assetscdn.stream
@@ -64481,7 +64452,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 p237431.retdaz.fun
 0.0.0.0 p237996.inclk.com
 0.0.0.0 p238993.cdaz.icu
-0.0.0.0 p238993.retdaz.fun	
 0.0.0.0 p238993.retdaz.fun
 0.0.0.0 p239184.cdaz.icu
 0.0.0.0 p239504.inclk.com
@@ -64656,7 +64626,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 p312717.clksite.com
 0.0.0.0 p312973.clksite.com
 0.0.0.0 p313255.cdaz.icu
-0.0.0.0 p313255.retdaz.fun	
 0.0.0.0 p313255.retdaz.fun
 0.0.0.0 p316113.cdaz.icu
 0.0.0.0 p31770.clksite.com
@@ -64691,7 +64660,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 p346623.cdaz.icu
 0.0.0.0 p346649.cdaz.icu
 0.0.0.0 p347187.cdaz.icu
-0.0.0.0 p348005.retdaz.fun	
 0.0.0.0 p348005.retdaz.fun
 0.0.0.0 p348166.cdaz.icu
 0.0.0.0 p348372.cdaz.icu
@@ -64892,7 +64860,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pagead.l.doubleclick.net
 0.0.0.0 pagead.l.google.com
 0.0.0.0 pagead.topobiavi.com
-0.0.0.0 pagead1.googlesyndication.com				
 0.0.0.0 pagead1.googlesyndication.com
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 pagead2.googlesyndication.com
@@ -67785,22 +67752,17 @@ ff02::3 ip6-allhosts
 0.0.0.0 pool-demo.adhese.com
 0.0.0.0 pool-doc.adhese.com
 0.0.0.0 pool-etn.com
-0.0.0.0 pool-ipm.adhese.com	
 0.0.0.0 pool-ipm.adhese.com
 0.0.0.0 pool-lannoo.adhese.com
-0.0.0.0 pool-mannenmedia.adhese.com			
 0.0.0.0 pool-mannenmedia.adhese.com
 0.0.0.0 pool-mediafin.adhese.com
 0.0.0.0 pool-moscow.ru
 0.0.0.0 pool-newsmonkey.adhese.com
 0.0.0.0 pool-nrc.adhese.com
-0.0.0.0 pool-orangegames.adhese.com	
 0.0.0.0 pool-orangegames.adhese.com
 0.0.0.0 pool-pebblemedia.adhese.com
 0.0.0.0 pool-proxy.com
-0.0.0.0 pool-redgames.adhese.com			
 0.0.0.0 pool-redgames.adhese.com
-0.0.0.0 pool-rmb.adhese.com		
 0.0.0.0 pool-rmb.adhese.com
 0.0.0.0 pool-roularta.adhese.com
 0.0.0.0 pool-sbs.adhese.com
@@ -67809,7 +67771,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pool-vrt.adhese.com
 0.0.0.0 pool.4entertainment.adhese.com
 0.0.0.0 pool.adhese.be
-0.0.0.0 pool.adhsm.adhese.com	
 0.0.0.0 pool.adhsm.adhese.com
 0.0.0.0 pool.admedo.com
 0.0.0.0 pool.ads.netlog.com
@@ -67838,7 +67799,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pool.nimiq.watch
 0.0.0.0 pool.nimiqchain.info
 0.0.0.0 pool.nrc.adhese.com
-0.0.0.0 pool.pebblemedia.adhese.com		
 0.0.0.0 pool.pebblemedia.adhese.com
 0.0.0.0 pool.persgroep.adhese.com
 0.0.0.0 pool.porkypool.com
@@ -67848,7 +67808,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pool.sbs.adhese.com
 0.0.0.0 pool.sumokoin.hashvault.pro
 0.0.0.0 pool.supportxmr.com
-0.0.0.0 pool.telenet.be.adhese.com		
 0.0.0.0 pool.telenet.be.adhese.com
 0.0.0.0 pool.thinkmedia.adhese.com
 0.0.0.0 pool.trf.adhese.com
@@ -70028,7 +69987,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 q.cnzz.com
 0.0.0.0 q.crowdynews.com
 0.0.0.0 q.gds.cnzz.com
-0.0.0.0 q.myvisualiq.net	
 0.0.0.0 q.myvisualiq.net
 0.0.0.0 q.search.media.net
 0.0.0.0 q.trafficfabrik.com
@@ -70072,7 +70030,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 qa-craft.advertising.com
 0.0.0.0 qa-tracker.marinsm.com
 0.0.0.0 qa.ads.justpremium.com
-0.0.0.0 qa.myvisualiq.net	
 0.0.0.0 qa.myvisualiq.net
 0.0.0.0 qa.rlcdn.com
 0.0.0.0 qa.stats.webs.com
@@ -77110,7 +77067,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sionicmedia.com
 0.0.0.0 siovv.voluumtrk.com
 0.0.0.0 sip.outbrain.com
-0.0.0.0 sip.revcontent.com	
 0.0.0.0 sip.revcontent.com
 0.0.0.0 sip.sonobi.com
 0.0.0.0 sipa.be
@@ -86701,7 +86657,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 triad-d.openx.net
 0.0.0.0 triad.technorati.com
 0.0.0.0 triadmedianetwork.com
-0.0.0.0 trial.tercept.com	
 0.0.0.0 trial.tercept.com
 0.0.0.0 trialreg.com
 0.0.0.0 triangle.dealsaver.com
@@ -89044,7 +88999,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 usds1.dotomi.com
 0.0.0.0 usdsp1.adzmedia.com
 0.0.0.0 use-data.adsrvr.org
-0.0.0.0 use-sync.adhese.com				
 0.0.0.0 use-sync.adhese.com
 0.0.0.0 use-tor.adsrvr.org
 0.0.0.0 use-va1.adsrvr.org
@@ -89081,9 +89035,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 user-data.apptimize.com
 0.0.0.0 user-grey.com
 0.0.0.0 user-red.com
-0.0.0.0 user-sync-mannenmedia.adhese.com		
 0.0.0.0 user-sync-mannenmedia.adhese.com
-0.0.0.0 user-sync-mycujoo.adhese.com	
 0.0.0.0 user-sync-mycujoo.adhese.com
 0.0.0.0 user-sync-orange.adhese.com
 0.0.0.0 user-sync.adhese.com
