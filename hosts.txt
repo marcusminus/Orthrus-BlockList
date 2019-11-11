@@ -17528,6 +17528,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 asco.d2.sc.omtrdc.net
 0.0.0.0 ascout24.oewabox.at
 0.0.0.0 ascr.nexage.com
+0.0.0.0 ascraftan.com
 0.0.0.0 asctestsj.d1.sc.omtrdc.net
 0.0.0.0 asd.onthe.io
 0.0.0.0 asd.tynt.com
@@ -24817,6 +24818,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdtojdrhoc.bid
 0.0.0.0 cdveeechegws.com
 0.0.0.0 cdvoqspgdp.com
+0.0.0.0 cdwqibctfz.com
 0.0.0.0 cdxbin.vulnerap.com
 0.0.0.0 cdxninteractive.blueadvertise.com
 0.0.0.0 cdy-5.tlnk.io
@@ -32005,6 +32007,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 djjckavq.com
 0.0.0.0 djjohal.video
 0.0.0.0 djjyyqgsnnfa.com
+0.0.0.0 djmaza.in
 0.0.0.0 djmazacomcom.imageshack.host
 0.0.0.0 djnroblmpyxrh.com
 0.0.0.0 djntmaplqzbi.com
@@ -32396,6 +32399,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 doitbetterrightside.icu
 0.0.0.0 doitmoneyforyou.top
 0.0.0.0 dojmlztmbrvp.com
+0.0.0.0 dojomojo.com
+0.0.0.0 dojomojo.ninja
 0.0.0.0 dokaboka.com
 0.0.0.0 dokauzob.top
 0.0.0.0 dokei777.com
@@ -41312,6 +41317,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 goolges.com
 0.0.0.0 goon.graphics
 0.0.0.0 goon.ru
+0.0.0.0 goontex.com
 0.0.0.0 gooo.al
 0.0.0.0 goooooooooogle.com
 0.0.0.0 gooqleapi.com
@@ -43995,6 +44001,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hqnyahlpmehp.com
 0.0.0.0 hqqsnz.mirtesen.ru
 0.0.0.0 hqqyesittgihp.com
+0.0.0.0 hqrsuxsjqycv.info
 0.0.0.0 hqs1.cnzz.com
 0.0.0.0 hqs10.cnzz.com
 0.0.0.0 hqs11.cnzz.com
@@ -44255,6 +44262,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 huewmezzodzdv.com
 0.0.0.0 hufaymllqce.club
 0.0.0.0 huffingtonpost.crwdcntrl.net
+0.0.0.0 huffson-delivery.com
 0.0.0.0 hugde.adocean.pl
 0.0.0.0 huge-cocks.biz
 0.0.0.0 huge-gay-cock.com
@@ -46732,6 +46740,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 info1park.ru
 0.0.0.0 info33.info
 0.0.0.0 info4.a7.org
+0.0.0.0 infoblog.site
 0.0.0.0 infocentro.ru
 0.0.0.0 infoclub.info
 0.0.0.0 infocollect.dk
@@ -55369,6 +55378,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mdamarillo.112.2o7.net
 0.0.0.0 mdbdmbdrjaklht.bid
 0.0.0.0 mdc.meitustat.com
+0.0.0.0 mdcszycw.com
 0.0.0.0 mdctrail.com
 0.0.0.0 mddlhkzkntmmb.com
 0.0.0.0 mddviuqbkwyir.bid
@@ -84425,6 +84435,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 totemcash.com
 0.0.0.0 tothecenter.us.intellitxt.com
 0.0.0.0 totifiquo.com
+0.0.0.0 totogetica.com
 0.0.0.0 totsinuts.ru
 0.0.0.0 totszentmarton.hu
 0.0.0.0 totteventa.online
@@ -95804,6 +95815,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 y9hh1mndvm.kameleoon.eu
 0.0.0.0 y9pm7mji4rijb9qkk8mylu4poyicv1508223641.nuid.imrworldwide.com
 0.0.0.0 y9s2cjy9s69.proxy.teads.tv
+0.0.0.0 ya-counter.ru
 0.0.0.0 ya-googl.ws
 0.0.0.0 ya.domain-vip.net
 0.0.0.0 ya.vteplom.ru
