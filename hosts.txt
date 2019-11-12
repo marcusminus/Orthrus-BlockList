@@ -18948,6 +18948,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ban.mirorgazma.ru
 0.0.0.0 ban.xpays.com
 0.0.0.0 ban.xxxvid.ru
+0.0.0.0 ban.zab.ru
 0.0.0.0 ban3ers.ero-advertising.com
 0.0.0.0 ban4ers.ero-advertising.com
 0.0.0.0 bana01.sakura.ne.jp
@@ -20288,6 +20289,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bg.search.etargetnet.com
 0.0.0.0 bg.static.etargetnet.com
 0.0.0.0 bg6s0.com
+0.0.0.0 bgadx.com
 0.0.0.0 bgarilrzlgez.com
 0.0.0.0 bgbaner.com
 0.0.0.0 bgbdzfeeoko.com
@@ -24956,7 +24958,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ceraitoa.com
 0.0.0.0 ceregete.com
 0.0.0.0 ceromobi.club
-0.0.0.0 ceros.com
 0.0.0.0 cerotop.com
 0.0.0.0 cert-test-alias.algolia.com
 0.0.0.0 certaken.com
@@ -33036,6 +33037,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dt.polyad.net
 0.0.0.0 dt.scanscout.com
 0.0.0.0 dt.sellpoint.net
+0.0.0.0 dt.tuoitre.vn
 0.0.0.0 dt.ushareit.com
 0.0.0.0 dt.vnecdn.com
 0.0.0.0 dt00.net
@@ -35027,6 +35029,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 engager.tmg.nl
 0.0.0.0 engagesrvr.filefactory.com
 0.0.0.0 engagethepower.org
+0.0.0.0 engagetosell.com
 0.0.0.0 engageya.com
 0.0.0.0 engagio.com
 0.0.0.0 engblog.mixpanel.com
@@ -37920,6 +37923,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fliionos.co.uk
 0.0.0.0 flimsycircle.com
 0.0.0.0 flipdigital.ru
+0.0.0.0 flipflap.pro
 0.0.0.0 flipflapflo.
 0.0.0.0 flipkart.d1.sc.omtrdc.net
 0.0.0.0 flipy6sudy.com
@@ -39128,6 +39132,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 funtomic-d.openx.net
 0.0.0.0 funtoonez.com
 0.0.0.0 funzone.by
+0.0.0.0 fuojuw.com
 0.0.0.0 fupgvldb.com
 0.0.0.0 furginator.pw
 0.0.0.0 furniturecom.112.2o7.net
@@ -70448,6 +70453,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qmotkiltrim.com
 0.0.0.0 qmotmcwz.com
 0.0.0.0 qmouzhzz.com
+0.0.0.0 qmsdxo.ru
 0.0.0.0 qmulsciences.qualtrics.com
 0.0.0.0 qmxfurboonxwdb4wiozfejvravjet1507557480.nuid.imrworldwide.com
 0.0.0.0 qmxpttxjv.com
@@ -71914,6 +71920,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 registercom.122.2o7.net
 0.0.0.0 registercom.tt.omtrdc.net
 0.0.0.0 registerdrivegoogle.sytes.net
+0.0.0.0 registered-spotters-build.com
 0.0.0.0 registerguard-d.openx.net
 0.0.0.0 registrati.privalia.com
 0.0.0.0 registrocivilpenal.com
@@ -72375,6 +72382,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 reussissonsensemble.fr
 0.0.0.0 reuters-d.openx.net
 0.0.0.0 reuters.demdex.net
+0.0.0.0 rev-stripe.com
 0.0.0.0 rev.adip.ly
 0.0.0.0 rev.avsforum.com
 0.0.0.0 rev.lanistaads.com
@@ -72401,6 +72409,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 revenuemax.de
 0.0.0.0 revenuepilot.com
 0.0.0.0 revenuescience.com
+0.0.0.0 revenuestripe.com
 0.0.0.0 revenuevids.com
 0.0.0.0 revenuewire.net
 0.0.0.0 reverso.refr.adgtw.orangeads.fr
@@ -78700,6 +78709,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sphere-dev.outbrain.com
 0.0.0.0 sphere.outbrain.com
 0.0.0.0 sphjqakwuteg.com
+0.0.0.0 sphjtw.ru
 0.0.0.0 spi.domainsponsor.com
 0.0.0.0 spider-mich.com
 0.0.0.0 spider.ad
@@ -79598,6 +79608,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stat.komoona.com
 0.0.0.0 stat.kununu.cz
 0.0.0.0 stat.letv.com
+0.0.0.0 stat.livesportbar.net
 0.0.0.0 stat.m.360.cn
 0.0.0.0 stat.m.jd.com
 0.0.0.0 stat.maalaimalar.com
@@ -84092,6 +84103,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 toggl.com.re.getclicky.com
 0.0.0.0 togroltu.net
 0.0.0.0 tohapp.com
+0.0.0.0 tohopes.ru
 0.0.0.0 tohustore.com
 0.0.0.0 tojinr.com
 0.0.0.0 tok-dan-host.com
@@ -87596,6 +87608,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 txknowcznfp.bid
 0.0.0.0 txmoadserver.net
 0.0.0.0 txn.grabnetworks.com
+0.0.0.0 txnpdfvqkuzrd.com
 0.0.0.0 txstate.co1.qualtrics.com
 0.0.0.0 txstate.qualtrics.com
 0.0.0.0 txt.adv.vz.ru
@@ -89436,6 +89449,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uxxtokvw.com
 0.0.0.0 uxyofgcf.com
 0.0.0.0 uxzbsinjyld.com
+0.0.0.0 uxzcwowjd.com
 0.0.0.0 uy.ads.justpremium.com
 0.0.0.0 uy.news-subscribe.com
 0.0.0.0 uy0qjptruifjwmaavfjspdpq6l5r51508678031.nuid.imrworldwide.com
@@ -96745,6 +96759,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 z.applovin.com
 0.0.0.0 z.blogads.com
 0.0.0.0 z.cdn.adbetnet.com
+0.0.0.0 z.cdn.braun634.com
 0.0.0.0 z.ceotrk.com
 0.0.0.0 z.cnzz.com
 0.0.0.0 z.dynad.net
