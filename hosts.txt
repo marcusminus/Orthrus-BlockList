@@ -2726,6 +2726,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 5bde1.v.fwmrm.net
 0.0.0.0 5bec9.v.fwmrm.net
 0.0.0.0 5bee90e0ee.com
+0.0.0.0 5bir9vuqcq.com
 0.0.0.0 5c.video-ak.cdn.spotify.com
 0.0.0.0 5c5757df82c.com
 0.0.0.0 5c7d9.v.fwmrm.net
@@ -13887,6 +13888,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 airbnb.co1.qualtrics.com
 0.0.0.0 airbrake.io
 0.0.0.0 aircraft.evote.cl
+0.0.0.0 airdauks.net
 0.0.0.0 airfhtyo.bid
 0.0.0.0 airflow.maribacaberita.com
 0.0.0.0 airhuarache.pl
@@ -22222,6 +22224,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 buycialisonline.7h.com
 0.0.0.0 buycialisonline.bigsitecity.com
 0.0.0.0 buycom.122.2o7.net
+0.0.0.0 buyeasy.by
 0.0.0.0 buyer.rubiconproject.com
 0.0.0.0 buyfioricet.findmenow.info
 0.0.0.0 buyfioricetonline.7h.com
@@ -22299,6 +22302,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bvnekcpa.bid
 0.0.0.0 bvnmmdelarn.com
 0.0.0.0 bvobtmbziccr.com
+0.0.0.0 bvovcgdwbafgmf.com
 0.0.0.0 bvqfuryhas.bid
 0.0.0.0 bvrdzbzwa.com
 0.0.0.0 bvreosoejjt.bid
@@ -26853,6 +26857,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cnocanoecaprod.112.2o7.net
 0.0.0.0 cnomy.com
 0.0.0.0 cnoompprod.112.2o7.net
+0.0.0.0 cnossxqkdoupxw.com
 0.0.0.0 cnoyq.voluumtrk.com
 0.0.0.0 cnoytvqomyhjz.com
 0.0.0.0 cnpntmju.com
@@ -26978,6 +26983,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 code.xidx.org
 0.0.0.0 code.yengo.com
 0.0.0.0 code2.adtlgc.com
+0.0.0.0 code4us.com
 0.0.0.0 codead.impresionesweb.com
 0.0.0.0 codeadnetwork.com
 0.0.0.0 codeads.com
@@ -36952,6 +36958,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fathern.info
 0.0.0.0 fathomseo.com
 0.0.0.0 fatisin.ru
+0.0.0.0 fatrvclgpnb.com
 0.0.0.0 faucet.works
 0.0.0.0 faultycanvas.com
 0.0.0.0 faultyfowl.com
@@ -39542,6 +39549,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 galv.hit.gemius.pl
 0.0.0.0 gam.adnxs.com
 0.0.0.0 gambero3.cs.tin.it
+0.0.0.0 gambigambiwinwin.com
 0.0.0.0 gamblerush.com
 0.0.0.0 gambling-affiliation.com
 0.0.0.0 gambling911.adrevolver.com
@@ -45606,6 +45614,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ihsmarkit.co1.qualtrics.com
 0.0.0.0 ihstats.cloudapp.net
 0.0.0.0 ihtatthazitg.bid
+0.0.0.0 ihutbqqmjan.com
 0.0.0.0 ihvmcqojoj.com
 0.0.0.0 ihzdrktzyrzq.bid
 0.0.0.0 ihzyxuhgocszv.com
@@ -49002,6 +49011,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jpwvdpvsmhow.com
 0.0.0.0 jpxevzab.com
 0.0.0.0 jpybcyxyepsc.bid
+0.0.0.0 jpyoikrzrjcap.com
 0.0.0.0 jq2.avpris.ru
 0.0.0.0 jq9izok7y5w359dykmavujklds1kn1509463711.nuid.imrworldwide.com
 0.0.0.0 jqanygfhqne.com
@@ -53338,6 +53348,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lovquiz.com
 0.0.0.0 lovvznyhujf.com
 0.0.0.0 low-hacker.popunder.ru
+0.0.0.0 lowaosan.com
 0.0.0.0 lowes.tt.omtrdc.net
 0.0.0.0 lowgraveleron.com
 0.0.0.0 lowqnzsxtmvb.bid
@@ -53747,6 +53758,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lwnpbwds.bid
 0.0.0.0 lwocvazxfnuj.com
 0.0.0.0 lwqwsptepdxy.com
+0.0.0.0 lwsxrphion.com
 0.0.0.0 lwtduavwbep.com
 0.0.0.0 lwtsrwwlfd.com
 0.0.0.0 lwvdeqfhswg.com
@@ -58169,6 +58181,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mpstat.us
 0.0.0.0 mptentry.com
 0.0.0.0 mptri.net
+0.0.0.0 mpudcfnsnpj.com
 0.0.0.0 mpuls.ru
 0.0.0.0 mpuqvoa.com
 0.0.0.0 mpv.sandai.net
@@ -59664,6 +59677,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nctracking.com
 0.0.0.0 nctrk.abmail.com.br
 0.0.0.0 ncu.co1.qualtrics.com
+0.0.0.0 ncvperjurh.com
 0.0.0.0 ncwjhywskph.com
 0.0.0.0 ncxhetu9amkbkn4cza9odxgao24pf1516216460.nuid.imrworldwide.com
 0.0.0.0 ncyemedcazdnol.com
@@ -60958,6 +60972,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 noticiasftpsrv.com
 0.0.0.0 notification-browser.com
 0.0.0.0 notification-browser.tools
+0.0.0.0 notification-list.com
 0.0.0.0 notification-system.tools
 0.0.0.0 notification-time.com
 0.0.0.0 notification.smartadserver.com
@@ -61128,6 +61143,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nqs-wdc2.youboranqs01.com
 0.0.0.0 nqs-wdc3.youboranqs01.com
 0.0.0.0 nqs.nice264.com
+0.0.0.0 nqtnwvwigvo.com
 0.0.0.0 nqtqrnfzvp.com
 0.0.0.0 nqtxbweqb.com
 0.0.0.0 nqtxg.xyz
@@ -61734,6 +61750,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 o2onlinede.widget.criteo.com
 0.0.0.0 o3.outbound.crashlytics.com
 0.0.0.0 o333o.com
+0.0.0.0 o3sndvzo25.com
 0.0.0.0 o4uxrk33.com
 0.0.0.0 o5w51.bemobtrk.com
 0.0.0.0 o6ek91ag15.com
@@ -78930,6 +78947,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sqcolqeo.com
 0.0.0.0 sqcqnwykz.bid
 0.0.0.0 sqjlctmtc.com
+0.0.0.0 sqkrzzggis.com
 0.0.0.0 sql-server-driver.beesearch.info
 0.0.0.0 sql.treasuredata.com
 0.0.0.0 sqlservercentral.us.intellitxt.com
@@ -81155,6 +81173,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 superwebs.pro
 0.0.0.0 superwifi.uodoo.com
 0.0.0.0 supforu.com
+0.0.0.0 supletcedintand.pro
 0.0.0.0 supload.com
 0.0.0.0 supplements.1.p2l.info
 0.0.0.0 supplementsketo.com
@@ -88019,6 +88038,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uedata.amazon.com
 0.0.0.0 ueenfeiu.com
 0.0.0.0 uehdljkrsfaa.bid
+0.0.0.0 uehequcuvujkyf.com
 0.0.0.0 uehkcendtuxt.com
 0.0.0.0 uehtuvguuf.com
 0.0.0.0 uejnzoaayhr.com
@@ -88038,6 +88058,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uerhhgezdrdi.com
 0.0.0.0 uerladwdpkge.com
 0.0.0.0 uescuqejoirsh.com
+0.0.0.0 uesdpbrej.com
 0.0.0.0 uetqkude.com
 0.0.0.0 ueuerea.com
 0.0.0.0 ueutwxdypf.bid
@@ -90793,6 +90814,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vivetivcuggz.com
 0.0.0.0 vivieasy.com
 0.0.0.0 vivistats.com
+0.0.0.0 vivo.sx
 0.0.0.0 vivo1.eu
 0.0.0.0 vivo4.eu
 0.0.0.0 vivocha.com
@@ -97177,6 +97199,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zfrzdepuaqebzlenihciadhdjzujnexvnksksqtazbaywgmzwl.com
 0.0.0.0 zfsfkp.com
 0.0.0.0 zftgljkhrdze.com
+0.0.0.0 zfutrfvgfdr.com
 0.0.0.0 zfvklk.ru
 0.0.0.0 zfvrrodxfb.com
 0.0.0.0 zfwfrpcfvmd.com
