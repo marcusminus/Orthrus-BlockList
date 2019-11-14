@@ -11455,6 +11455,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adserver.4clicks.org
 0.0.0.0 adserver.71i.de
 0.0.0.0 adserver.a.in.monster.com
+0.0.0.0 adserver.a24.com.tr
 0.0.0.0 adserver.abv.bg
 0.0.0.0 adserver.ad-it.dk
 0.0.0.0 adserver.ad4link.com
@@ -18487,6 +18488,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ayada.zapto.org
 0.0.0.0 ayads.co
 0.0.0.0 ayandns.com
+0.0.0.0 ayazstuzc.com
 0.0.0.0 ayboll.com
 0.0.0.0 ayboll.sgsrv.com
 0.0.0.0 ayclinical.com
@@ -18563,6 +18565,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 azorbe.com
 0.0.0.0 azqmmfhmfnpsvb.bid
 0.0.0.0 azrimet.info
+0.0.0.0 azrjdlvlsxihbd.com
 0.0.0.0 azroydhgqcfv.com
 0.0.0.0 azsemkr.com
 0.0.0.0 azsin.ru
@@ -21951,6 +21954,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 btjxbwiehrm.bid
 0.0.0.0 btkaoblylg.bid
 0.0.0.0 btkcdqrzmqca.com
+0.0.0.0 btkxogjoxtd.com
 0.0.0.0 btlaunch.baidu.com
 0.0.0.0 btlsurvey.com
 0.0.0.0 btmcxzanpsi.com
@@ -22072,6 +22076,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bultenler.klscdn.com
 0.0.0.0 bumaikr.com
 0.0.0.0 bumampaid.club
+0.0.0.0 bumbook.xyz
 0.0.0.0 bumerangshowsites.hurriyet.com.tr
 0.0.0.0 bumlam.com
 0.0.0.0 bumpclick-d.openx.net
@@ -24249,6 +24254,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.concert.io
 0.0.0.0 cdn.connectad.io
 0.0.0.0 cdn.constafun.com
+0.0.0.0 cdn.contalyze.com
 0.0.0.0 cdn.content.exoticads.com
 0.0.0.0 cdn.contentabc.com
 0.0.0.0 cdn.contentsitesrv.com
@@ -26945,6 +26951,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 coalimpex.com
 0.0.0.0 coandroid.ru
 0.0.0.0 coatnihon.com
+0.0.0.0 coatobpljh.com
 0.0.0.0 coazuthu.net
 0.0.0.0 cobalten.com
 0.0.0.0 cobaltgroup.com
@@ -39114,7 +39121,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 functionalcrown.com
 0.0.0.0 fundacjawschodslonca.pl
 0.0.0.0 fundingchoices.google.com
-0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 funfone.me
 0.0.0.0 fungalor.com
 0.0.0.0 fungetbag.info
@@ -40492,6 +40498,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ghjwogfexch.com
 0.0.0.0 ghkajgexob.com
 0.0.0.0 ghkhvajwsiy.com
+0.0.0.0 ghkihfwfxb.com
 0.0.0.0 ghlates.info
 0.0.0.0 ghm_bulgaria.hit.gemius.pl
 0.0.0.0 ghmbg.hit.gemius.pl
@@ -49113,6 +49120,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jrqtuk0iravokplxvapb35nnqeo711510243181.nuid.imrworldwide.com
 0.0.0.0 jrrekpskc.com
 0.0.0.0 jrrmwjybfaztct.com
+0.0.0.0 jrsrshjlzdvsk.com
 0.0.0.0 jrtawlpbusyg.com
 0.0.0.0 jrtzehrbg.com
 0.0.0.0 jrunvrfma.com
@@ -50151,6 +50159,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kfsd5.bemobtrk.com
 0.0.0.0 kftbvzlrqkakfo.com
 0.0.0.0 kftmmtuxdtmsv.bid
+0.0.0.0 kfutdsjwtcvnpx.com
 0.0.0.0 kfuwxxspanifp.bid
 0.0.0.0 kfwhcwoc.com
 0.0.0.0 kfwpyyctzmpk.com
@@ -53902,6 +53911,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lzmovatu.com
 0.0.0.0 lzoloro.info
 0.0.0.0 lzopoqzlihfbc.com
+0.0.0.0 lzowrfhqy.com
 0.0.0.0 lzpgstae.com
 0.0.0.0 lzpqpstowpvz.bid
 0.0.0.0 lzpv4rsmat.com
@@ -57997,6 +58007,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 moopoemoe.com
 0.0.0.0 mooseway.com
 0.0.0.0 mootermedia.com
+0.0.0.0 moowouzy.net
 0.0.0.0 mooxar.com
 0.0.0.0 mopo.jp
 0.0.0.0 mopub-dfp.mopub.com
@@ -66529,6 +66540,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pixel.theagency.com
 0.0.0.0 pixel.titjolacruso.info
 0.0.0.0 pixel.tontwiredat.info
+0.0.0.0 pixel.trackverify.com
 0.0.0.0 pixel.tree.com
 0.0.0.0 pixel.typacodosof.info
 0.0.0.0 pixel.usrsync.com
@@ -86565,6 +86577,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 trafficregenerator.com
 0.0.0.0 trafficrevenue.net
 0.0.0.0 trafficsan.com
+0.0.0.0 trafficscanner.pl
 0.0.0.0 trafficsecrets.com
 0.0.0.0 trafficsel.com
 0.0.0.0 trafficshirts.com
@@ -89537,6 +89550,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uyxjnuqbti.com
 0.0.0.0 uyyalzrvkvmtiq.com
 0.0.0.0 uyznjuyfyjc.com
+0.0.0.0 uyzzzeodgommgb.com
 0.0.0.0 uzagahwfnt.com
 0.0.0.0 uzbboiydfzog.com
 0.0.0.0 uzbciwrwzzhs.com
@@ -95276,6 +95290,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xicuxxferbnn.com
 0.0.0.0 xiduek.gq
 0.0.0.0 xidx.org
+0.0.0.0 xidxivhiior.com
 0.0.0.0 xiebddgbseoxa.com
 0.0.0.0 xiepl.com
 0.0.0.0 xifg6h.ru
@@ -97130,6 +97145,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zdesformula.ru
 0.0.0.0 zdf.ivwbox.de
 0.0.0.0 zdfyowkafur.com
+0.0.0.0 zdgmhsahttsj.com
 0.0.0.0 zdhnepeadrwetg.com
 0.0.0.0 zdjkzqwpqvwcmc.com
 0.0.0.0 zdlogs.sphereup.com
