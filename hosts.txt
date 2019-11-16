@@ -18870,6 +18870,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 badservant.guj.de
 0.0.0.0 badshades.com
 0.0.0.0 badshores.com
+0.0.0.0 badsims.com
 0.0.0.0 badskies.com
 0.0.0.0 badslads.com
 0.0.0.0 badslopes.com
@@ -23326,6 +23327,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 campartner.com
 0.0.0.0 campeole.widget.criteo.com
 0.0.0.0 campershoes.club
+0.0.0.0 campervip.top
 0.0.0.0 campeut.com
 0.0.0.0 campingforthefunofit.com
 0.0.0.0 campuslandmark.com
@@ -23659,6 +23661,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 catalog.adgear.com
 0.0.0.0 catalog.qc.coccoc.com
 0.0.0.0 catalystnyc.actonsoftware.com
+0.0.0.0 cataspboa.site
 0.0.0.0 catchtheclick.com
 0.0.0.0 catchvid.info
 0.0.0.0 catchyoutube.toptools100.com
@@ -24466,6 +24469,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.optimonk.com
 0.0.0.0 cdn.optmd.com
 0.0.0.0 cdn.orbengine.com
+0.0.0.0 cdn.osamime.ml
 0.0.0.0 cdn.palomatik.info
 0.0.0.0 cdn.pardot.com
 0.0.0.0 cdn.parsely.com
@@ -25818,6 +25822,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cl5tudale.ru
 0.0.0.0 cl7khotyeny.ru
 0.0.0.0 cl96rwprue.com
+0.0.0.0 claimbit.top
 0.0.0.0 claimfreerewards.com
 0.0.0.0 claitors.com
 0.0.0.0 clakcp.com
@@ -27340,6 +27345,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 comads.de
 0.0.0.0 comadverts.bcmpweb.co.nz
 0.0.0.0 comairairlines.com
+0.0.0.0 comalll.store
 0.0.0.0 comandofilmes.cf
 0.0.0.0 combinationsmart.bid
 0.0.0.0 combitly.com
@@ -31711,6 +31717,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 didtal.com
 0.0.0.0 didtheyreadit.com
 0.0.0.0 die-rankliste.com
+0.0.0.0 diekhxpwngawme.com
 0.0.0.0 dieohupl.com
 0.0.0.0 diet-pills.hut1.ru
 0.0.0.0 diet.mayoclinic.org.d1.sc.omtrdc.net
@@ -32890,6 +32897,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 drkness.net
 0.0.0.0 drmarins.com
 0.0.0.0 drmartens1460.pl
+0.0.0.0 drmartensam.online
 0.0.0.0 drmartensau.com
 0.0.0.0 drmartenshoes.club
 0.0.0.0 drmartenshopsl.club
@@ -40278,6 +40286,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 geoxaventa.com
 0.0.0.0 geoxen.online
 0.0.0.0 geoxes.online
+0.0.0.0 geoxsale.online
 0.0.0.0 geoxshoponline.com
 0.0.0.0 geqcqduubhll.com
 0.0.0.0 geracbv.leohd59.ru
@@ -42010,6 +42019,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gt.ads.justpremium.com
 0.0.0.0 gt.lazyengines.com
 0.0.0.0 gtags.net
+0.0.0.0 gtangen.com
 0.0.0.0 gtaouarrwypu.com
 0.0.0.0 gtb19.acecounter.com
 0.0.0.0 gtb5.acecounter.com
@@ -42250,6 +42260,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gxgnvickedxpuiavkgpisnlsphrcyyvkgtordatszlrspkgppe.com
 0.0.0.0 gxgtmttcaofiq.com
 0.0.0.0 gxgydnhz.com
+0.0.0.0 gxjsnjcwd.myshopify.com
 0.0.0.0 gxklbrtpqqyvy.com
 0.0.0.0 gxkwwbqzsg.com
 0.0.0.0 gxleeixyzlaaab.com
@@ -42297,6 +42308,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gyycgkchjtimu.com
 0.0.0.0 gyzzpyez.bid
 0.0.0.0 gz.adriver.ru
+0.0.0.0 gzabsbddocwn.com
 0.0.0.0 gzakmhhwrkagg.com
 0.0.0.0 gzayyacwy.com
 0.0.0.0 gzhazcfkr.bid
@@ -43666,6 +43678,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hokabranddiscount.club
 0.0.0.0 hokaeshop.com
 0.0.0.0 hokaishop.com
+0.0.0.0 hokaoneonexshop.com
 0.0.0.0 hokashoes.site
 0.0.0.0 hokaybo.com
 0.0.0.0 hokehntutt.bid
@@ -43932,6 +43945,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hotels.tlnk.io
 0.0.0.0 hotelscom.122.2o7.net
 0.0.0.0 hotelscombined.com.au
+0.0.0.0 hotelsdevice.top
 0.0.0.0 hotfacesitting.com
 0.0.0.0 hotfeed.net
 0.0.0.0 hotgiftzone.com
@@ -44391,6 +44405,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hunt-leads.com
 0.0.0.0 hunt4porn.com
 0.0.0.0 hunterdelivery.com
+0.0.0.0 huntereoutlets.com
 0.0.0.0 hunterstyle.pl
 0.0.0.0 hunterstyle24.com
 0.0.0.0 huntingtonbank.tt.omtrdc.net
@@ -45808,6 +45823,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ilqufadqxd.com
 0.0.0.0 ilrxikdjozlk.com
 0.0.0.0 ilsivrexvpyv.com
+0.0.0.0 ilsuuqcab.com
 0.0.0.0 iltevo.info
 0.0.0.0 ilugfyhlfv.com
 0.0.0.0 ilumigrafias.adriancugar.com
@@ -48690,6 +48706,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jkamuwyswgk.com
 0.0.0.0 jkawfxvh.com
 0.0.0.0 jkazaa.cjt1.net
+0.0.0.0 jkbwwwrchsqktk.com
 0.0.0.0 jkciacmcnya.com
 0.0.0.0 jkcvevwvgfopog.com
 0.0.0.0 jkcyrdigvx.com
@@ -49241,6 +49258,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jsads.sina.com.hk
 0.0.0.0 jsak.mmtcdn.com
 0.0.0.0 jsandboxer.cjt1.net
+0.0.0.0 jsblom.com
 0.0.0.0 jsc.adskeeper.co.uk
 0.0.0.0 jsc.dt00.net
 0.0.0.0 jsc.dt07.net
@@ -54409,6 +54427,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 magifirst.com
 0.0.0.0 magiq.com
 0.0.0.0 magiskmanager.com
+0.0.0.0 magliecalciocn.net
 0.0.0.0 magma-analytics.com
 0.0.0.0 magna.ru
 0.0.0.0 magnaki.com
@@ -54724,6 +54743,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 marcycoin.org
 0.0.0.0 mardjxrw.club
 0.0.0.0 marekporwol.pl
+0.0.0.0 marekstore.es
 0.0.0.0 marfeel.com
 0.0.0.0 marfeel.mgr.consensu.org
 0.0.0.0 margadoncat.com
@@ -55885,6 +55905,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 megatraf.biz
 0.0.0.0 megatronmailer.com
 0.0.0.0 megatube.xxx
+0.0.0.0 megatubo.es
 0.0.0.0 megawerbung.de
 0.0.0.0 megawinners.mobi
 0.0.0.0 megazakupy.net
@@ -58855,6 +58876,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mylovelymommy.tk
 0.0.0.0 mylovesister.gq
 0.0.0.0 mylslrkbn.com
+0.0.0.0 mymailco.top
 0.0.0.0 mymediarecommendations.com
 0.0.0.0 mymmsde.widget.criteo.com
 0.0.0.0 mymoneyfixing.top
@@ -62695,6 +62717,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 omnikool.discovery.com
 0.0.0.0 omniscbt.112.2o7.net
 0.0.0.0 omniscientspark.com
+0.0.0.0 omnisphero.com
 0.0.0.0 omnitagjs.com
 0.0.0.0 omnitechsupport.com
 0.0.0.0 omnitraining3.112.2o7.net
@@ -62949,6 +62972,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 onlinewebstats.com
 0.0.0.0 onlinewideo.pl
 0.0.0.0 onlinim.ru
+0.0.0.0 onlink.live
 0.0.0.0 onlivestreams.online
 0.0.0.0 only-hot-girls1.com
 0.0.0.0 only-valium.go.to
@@ -64727,6 +64751,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 padsdel.cdnads.com
 0.0.0.0 padsdel.com
 0.0.0.0 padsdelivery.com
+0.0.0.0 padsips.com
 0.0.0.0 padsquad-d.openx.net
 0.0.0.0 padssup.com
 0.0.0.0 padstm.com
@@ -68303,6 +68328,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 premws-pt11.365lpodds.com
 0.0.0.0 prenvifxzjuo.com
 0.0.0.0 preonesetro.com
+0.0.0.0 prepara
 0.0.0.0 preplbslog.umeng.com
 0.0.0.0 preprod.tubemogul.com
 0.0.0.0 prequire.info
@@ -68681,6 +68707,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 promethean.api.smartlauncher.net
 0.0.0.0 prometheus-shop.com
 0.0.0.0 prometheusreg.d1.sc.omtrdc.net
+0.0.0.0 prominentyouth.com
 0.0.0.0 promo-banner.ru
 0.0.0.0 promo-bc.com
 0.0.0.0 promo-carlsjr.glasgro.com
@@ -71133,6 +71160,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rbdps.com
 0.0.0.0 rbdyu.com
 0.0.0.0 rbefggthfx.com
+0.0.0.0 rbeous.com
 0.0.0.0 rbese.com
 0.0.0.0 rbeus.co
 0.0.0.0 rbfgsoanxw.com
@@ -81857,6 +81885,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 takeprofitsystem.com
 0.0.0.0 takethisoffer.com
 0.0.0.0 taking-technology.com
+0.0.0.0 takmoodmarket.com
 0.0.0.0 takmuany.com
 0.0.0.0 takoomi-d.openx.net
 0.0.0.0 takru.com
@@ -82143,6 +82172,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tccolumbia.qualtrics.com
 0.0.0.0 tcdikyjqdmsb.com
 0.0.0.0 tce.alicdn.com
+0.0.0.0 tcetggiry.com
 0.0.0.0 tcgojxmwkkgm.com
 0.0.0.0 tcgqqmjyg.com
 0.0.0.0 tcgtrkr.com
@@ -88570,6 +88600,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uqbel.qualtrics.com
 0.0.0.0 uqbxjdeeq.com
 0.0.0.0 uqbxznftv.com
+0.0.0.0 uqelijcu.com
 0.0.0.0 uqemcyylvcdrgs.com
 0.0.0.0 uqfot.com
 0.0.0.0 uqgloylf.com
@@ -90629,6 +90660,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vlhdmywfi.com
 0.0.0.0 vlibs.advertising.com
 0.0.0.0 vlibs.eu-central-1.dev.adtech.de
+0.0.0.0 vliplatform.com
 0.0.0.0 vlkdntgqqfjusm.com
 0.0.0.0 vllwccvw.com
 0.0.0.0 vlnaseyii.com
@@ -91847,6 +91879,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wdom.tlnk.io
 0.0.0.0 wdqeh.bemobtrk.com
 0.0.0.0 wdquizratrntwr.com
+0.0.0.0 wdrgqoweorjfp.com
 0.0.0.0 wdrodzenaratunek.pl
 0.0.0.0 wduygininqbu.com
 0.0.0.0 wdwczzyhzra.com
@@ -95670,6 +95703,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yatraonline.sc.omtrdc.net
 0.0.0.0 yatrk.xyz
 0.0.0.0 yattprdmuybn.com
+0.0.0.0 yauatoyuhdb.com
 0.0.0.0 yauc11mqs7i.proxy.teads.tv
 0.0.0.0 yaudience.com
 0.0.0.0 yaujmwnwurdhm.com
@@ -97129,6 +97163,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zmoawpfsz.com
 0.0.0.0 zmogtyau.com
 0.0.0.0 zmotoryzowani24.pl
+0.0.0.0 zmpvyyey.com
 0.0.0.0 zmujsnyzujuy.com
 0.0.0.0 zmutugjqvia.com
 0.0.0.0 zmuyirmzujgk.com
