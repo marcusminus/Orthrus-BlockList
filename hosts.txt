@@ -48729,6 +48729,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jkqhj6g3bc0nl56vuoessxbvixfye1509528041.nuid.imrworldwide.com
 0.0.0.0 jkuuoecpgecwla.com
 0.0.0.0 jkvkhgztow.com
+0.0.0.0 jkxyxiwqdl.com
 0.0.0.0 jkxzawjvp.bid
 0.0.0.0 jkywbooyc.com
 0.0.0.0 jl29jd25sm24mc29.com
@@ -92502,6 +92503,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wheatoncollege.co1.qualtrics.com
 0.0.0.0 wheelches.info
 0.0.0.0 whegadry.com
+0.0.0.0 whegrads.com
 0.0.0.0 whehilru.com
 0.0.0.0 whentheyopened.com
 0.0.0.0 whenu.com
