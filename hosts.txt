@@ -66429,6 +66429,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pixel.vdo.ai
 0.0.0.0 pixel.vmm-satellite2.com
 0.0.0.0 pixel.watch
+0.0.0.0 pixel.welt.de
 0.0.0.0 pixel.westseven.media
 0.0.0.0 pixel.widgetly.com
 0.0.0.0 pixel.wp.pl
@@ -68179,6 +68180,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pp-serve.newsinc.com
 0.0.0.0 pp.free.fr
 0.0.0.0 pp.lp4.io
+0.0.0.0 pp.muzofon-online.com
 0.0.0.0 pp.nrelate.com
 0.0.0.0 pp2.pptv.com
 0.0.0.0 pp8.com
@@ -79363,6 +79365,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 start.fotostrana.ru
 0.0.0.0 start.freeze.com
 0.0.0.0 start.outster.com
+0.0.0.0 start.parimatch.com
 0.0.0.0 start.pcfaster.com
 0.0.0.0 start.placetolearn.io
 0.0.0.0 start.qip.ru
