@@ -66516,6 +66516,7 @@
 ||pixel.vdo.ai^
 ||pixel.vmm-satellite2.com^
 ||pixel.watch^
+||pixel.welt.de^
 ||pixel.westseven.media^
 ||pixel.widgetly.com^
 ||pixel.wp.pl^
@@ -68268,6 +68269,7 @@
 ||pp-serve.newsinc.com^
 ||pp.free.fr^
 ||pp.lp4.io^
+||pp.muzofon-online.com^
 ||pp.nrelate.com^
 ||pp2.pptv.com^
 ||pp8.com^
@@ -79469,6 +79471,7 @@
 ||start.fotostrana.ru^
 ||start.freeze.com^
 ||start.outster.com^
+||start.parimatch.com^
 ||start.pcfaster.com^
 ||start.placetolearn.io^
 ||start.qip.ru^
