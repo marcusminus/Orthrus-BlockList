@@ -27353,6 +27353,7 @@
 ||collect.*.miui.com^
 ||collect.adback.co^
 ||collect.albacross.com^
+||collect.blishtech.co^
 ||collect.data.tm-awx.com^
 ||collect.finanzen.net^
 ||collect.igodigital.com^
@@ -39280,6 +39281,7 @@
 ||ftdyrqgjr.bid^
 ||ftfnchzmnyl.com^
 ||ftgfmbxqkjda.com^
+||ftigholm.site^
 ||ftiresearch.co1.qualtrics.com^
 ||ftisvrpsfu.bid^
 ||ftjcfx.com^
@@ -43138,6 +43140,7 @@
 ||hegarberetrof.pro^
 ||hegreeks.com^
 ||hegrinhar.com^
+||hegtiterbuttons.pro^
 ||hehraybryciyls.com^
 ||hehyqqqxzndwia.com^
 ||heias.com^
@@ -61674,6 +61677,7 @@
 ||nvgcmeqfn.com^
 ||nvhzkdltdxfoax.com^
 ||nvidia.demdex.net^
+||nvikgaormj.com^
 ||nvjjquyylqicp.com^
 ||nvjqm.com^
 ||nvkkjenz.com^
@@ -62516,6 +62520,7 @@
 ||oesotomasyon.com^
 ||oetwplgu.com^
 ||oevery.com^
+||oevltdvzl.com^
 ||oevujdgj.com^
 ||oewa.at^
 ||oewa.oewabox.at^
@@ -62915,6 +62920,7 @@
 ||ollando.com^
 ||olmkmtwet.bid^
 ||olmsoneenh.info^
+||ologyarriedpr.info^
 ||ololen.pw^
 ||olpcbzhvduha.bid^
 ||olpvmzxadjwgk.com^
@@ -69679,6 +69685,7 @@
 ||publir.com^
 ||publish-int.se^
 ||publish.bonzaii.no^
+||publish.iptvz.net^
 ||publish.pizzazzemail.com^
 ||publish.web.id^
 ||publisher-config.unityads.unity3d.com^
@@ -75523,7 +75530,6 @@
 ||sdk.adotmob.com^
 ||sdk.adspruce.com^
 ||sdk.adtiming.com^
-||sdk.api.kaffnet.com^
 ||sdk.appbrain.com^
 ||sdk.appnext.com^
 ||sdk.appsflyer.com^
@@ -83875,6 +83881,7 @@
 ||tinyfileshost.com^
 ||tinyhoneybee.com^
 ||tinystat.ir^
+||tionscofferent.info^
 ||tionsnewsupdate.info^
 ||tiosmqhuuzb.bid^
 ||tiouqzubepuy.com^
@@ -85921,6 +85928,7 @@
 ||tracker.clicktrade.com^
 ||tracker.colpirio.com^
 ||tracker.consumerpackage.net^
+||tracker.convead.io^
 ||tracker.coopt.com^
 ||tracker.cpapath.com^
 ||tracker.data-vp.com^
@@ -88379,6 +88387,7 @@
 ||ujrfwuzv.com^
 ||ujrtwvabum.com^
 ||ujtyosgemtnx.com^
+||ujuclxjkb.com^
 ||ujuqvalvvvof.com^
 ||ujvilagtudat.blogspot.hu^
 ||ujwdwwfuqcgnv.com^
@@ -88549,6 +88558,7 @@
 ||umasspsych.co1.qualtrics.com^
 ||umbc.co1.qualtrics.com^
 ||umbel.com^
+||umbemonop.info^
 ||umboffikfkoc.com^
 ||umbs.ero-advertising.com^
 ||umc360.qualtrics.com^
@@ -88720,6 +88730,7 @@
 ||uniqodo.com^
 ||uniquecaptcha.com^
 ||unisair.qualtrics.com^
+||unisound.cdnvideo.ru^
 ||unister-adservices.com^
 ||unit.content.ad^
 ||unite3tubes.com^
@@ -96340,6 +96351,7 @@
 ||yieldkit.com^
 ||yieldlab.adformdsp.net^
 ||yieldlab.net^
+||yieldlove-ad-serving.net^
 ||yieldlove-d.openx.net^
 ||yieldlove.com^
 ||yieldmanagement.adbooth.net^
