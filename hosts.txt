@@ -27329,6 +27329,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 collect-test.arabam.com
 0.0.0.0 collect.adback.co
 0.0.0.0 collect.albacross.com
+0.0.0.0 collect.blishtech.co
 0.0.0.0 collect.data.tm-awx.com
 0.0.0.0 collect.finanzen.net
 0.0.0.0 collect.igodigital.com
@@ -39236,6 +39237,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ftdyrqgjr.bid
 0.0.0.0 ftfnchzmnyl.com
 0.0.0.0 ftgfmbxqkjda.com
+0.0.0.0 ftigholm.site
 0.0.0.0 ftiresearch.co1.qualtrics.com
 0.0.0.0 ftisvrpsfu.bid
 0.0.0.0 ftjcfx.com
@@ -43087,6 +43089,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hegarberetrof.pro
 0.0.0.0 hegreeks.com
 0.0.0.0 hegrinhar.com
+0.0.0.0 hegtiterbuttons.pro
 0.0.0.0 hehraybryciyls.com
 0.0.0.0 hehyqqqxzndwia.com
 0.0.0.0 heias.com
@@ -61591,6 +61594,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nvgcmeqfn.com
 0.0.0.0 nvhzkdltdxfoax.com
 0.0.0.0 nvidia.demdex.net
+0.0.0.0 nvikgaormj.com
 0.0.0.0 nvjjquyylqicp.com
 0.0.0.0 nvjqm.com
 0.0.0.0 nvkkjenz.com
@@ -62433,6 +62437,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 oesotomasyon.com
 0.0.0.0 oetwplgu.com
 0.0.0.0 oevery.com
+0.0.0.0 oevltdvzl.com
 0.0.0.0 oevujdgj.com
 0.0.0.0 oewa.at
 0.0.0.0 oewa.oewabox.at
@@ -62832,6 +62837,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ollando.com
 0.0.0.0 olmkmtwet.bid
 0.0.0.0 olmsoneenh.info
+0.0.0.0 ologyarriedpr.info
 0.0.0.0 ololen.pw
 0.0.0.0 olpcbzhvduha.bid
 0.0.0.0 olpvmzxadjwgk.com
@@ -69588,6 +69594,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 publir.com
 0.0.0.0 publish-int.se
 0.0.0.0 publish.bonzaii.no
+0.0.0.0 publish.iptvz.net
 0.0.0.0 publish.pizzazzemail.com
 0.0.0.0 publish.web.id
 0.0.0.0 publisher-config.unityads.unity3d.com
@@ -75421,7 +75428,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sdk.adotmob.com
 0.0.0.0 sdk.adspruce.com
 0.0.0.0 sdk.adtiming.com
-0.0.0.0 sdk.api.kaffnet.com
 0.0.0.0 sdk.appbrain.com
 0.0.0.0 sdk.appnext.com
 0.0.0.0 sdk.appsflyer.com
@@ -83758,6 +83764,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tinyfileshost.com
 0.0.0.0 tinyhoneybee.com
 0.0.0.0 tinystat.ir
+0.0.0.0 tionscofferent.info
 0.0.0.0 tionsnewsupdate.info
 0.0.0.0 tiosmqhuuzb.bid
 0.0.0.0 tiouqzubepuy.com
@@ -85803,6 +85810,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tracker.clicktrade.com
 0.0.0.0 tracker.colpirio.com
 0.0.0.0 tracker.consumerpackage.net
+0.0.0.0 tracker.convead.io
 0.0.0.0 tracker.coopt.com
 0.0.0.0 tracker.cpapath.com
 0.0.0.0 tracker.data-vp.com
@@ -88254,6 +88262,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ujrfwuzv.com
 0.0.0.0 ujrtwvabum.com
 0.0.0.0 ujtyosgemtnx.com
+0.0.0.0 ujuclxjkb.com
 0.0.0.0 ujuqvalvvvof.com
 0.0.0.0 ujvilagtudat.blogspot.hu
 0.0.0.0 ujwdwwfuqcgnv.com
@@ -88424,6 +88433,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 umasspsych.co1.qualtrics.com
 0.0.0.0 umbc.co1.qualtrics.com
 0.0.0.0 umbel.com
+0.0.0.0 umbemonop.info
 0.0.0.0 umboffikfkoc.com
 0.0.0.0 umbs.ero-advertising.com
 0.0.0.0 umc360.qualtrics.com
@@ -88595,6 +88605,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uniqodo.com
 0.0.0.0 uniquecaptcha.com
 0.0.0.0 unisair.qualtrics.com
+0.0.0.0 unisound.cdnvideo.ru
 0.0.0.0 unister-adservices.com
 0.0.0.0 unit.content.ad
 0.0.0.0 unite3tubes.com
@@ -96210,6 +96221,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yieldkit.com
 0.0.0.0 yieldlab.adformdsp.net
 0.0.0.0 yieldlab.net
+0.0.0.0 yieldlove-ad-serving.net
 0.0.0.0 yieldlove-d.openx.net
 0.0.0.0 yieldlove.com
 0.0.0.0 yieldmanagement.adbooth.net
