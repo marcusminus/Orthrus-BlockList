@@ -61072,6 +61072,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 notification.smartadserver.com
 0.0.0.0 notification.webengage.com
 0.0.0.0 notifications.website
+0.0.0.0 notifscreen.com
 0.0.0.0 notify-bugs-fra1.rtl.de
 0.0.0.0 notify-monad.com
 0.0.0.0 notify.bugsnag.com
@@ -81111,6 +81112,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sundaycashsaver.com
 0.0.0.0 sundaysky-sync-us.teads.tv
 0.0.0.0 sundaysky.com
+0.0.0.0 sundhopen.site
 0.0.0.0 sunfeed.me
 0.0.0.0 sunflagsteel.com
 0.0.0.0 sunglobal.112.2o7.net
