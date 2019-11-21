@@ -61154,6 +61154,7 @@
 ||notification.smartadserver.com^
 ||notification.webengage.com^
 ||notifications.website^
+||notifscreen.com^
 ||notify-bugs-fra1.rtl.de^
 ||notify-monad.com^
 ||notify.bugsnag.com^
@@ -81222,6 +81223,7 @@
 ||sundaycashsaver.com^
 ||sundaysky-sync-us.teads.tv^
 ||sundaysky.com^
+||sundhopen.site^
 ||sunfeed.me^
 ||sunflagsteel.com^
 ||sunglobal.112.2o7.net^
