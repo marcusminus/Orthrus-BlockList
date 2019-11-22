@@ -12293,6 +12293,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adsinstant.com
 0.0.0.0 adsintl.starwave.com
 0.0.0.0 adsister.com
+0.0.0.0 adsixmedia.fr
 0.0.0.0 adsjudo.com
 0.0.0.0 adsk2.co
 0.0.0.0 adskape.ru
@@ -23191,6 +23192,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 c58.smaato.net
 0.0.0.0 c59.smaato.net
 0.0.0.0 c5a0ea04a74.com
+0.0.0.0 c5dls1in4l1e.ru
 0.0.0.0 c6.amazingcounters.com
 0.0.0.0 c6.edgesuite.net
 0.0.0.0 c6.statcounter.com
@@ -33977,7 +33979,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ea.logging.admicro.vn
 0.0.0.0 ea.qualtrics.com
 0.0.0.0 ea.video-ak.cdn.spotify.com
-0.0.0.0 ea.warnerbros.fr
 0.0.0.0 ea.zebestof.com
 0.0.0.0 eaaqsama.com
 0.0.0.0 eabgoszdtq.com
@@ -34444,6 +34445,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 educing.info
 0.0.0.0 edudktabmq.bid
 0.0.0.0 eduesse-d.openx.net
+0.0.0.0 edugrampromo.com
 0.0.0.0 edvbyybaviln.com
 0.0.0.0 edvlegv1faamdta.ru
 0.0.0.0 edw.edmunds.com
@@ -40445,6 +40447,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 geoipads.com
 0.0.0.0 geoiplookup.wikimedia.org
 0.0.0.0 geojs.io
+0.0.0.0 geolid.com
 0.0.0.0 geoloc.arte.tv
 0.0.0.0 geoloc.hurriyet.com.tr
 0.0.0.0 geoloc11.geovisite.com
@@ -53029,6 +53032,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 logb22.vietad.vn
 0.0.0.0 logb23.vietad.vn
 0.0.0.0 logb3.vietad.vn
+0.0.0.0 logbor.com
 0.0.0.0 logc1.xiti.com
 0.0.0.0 logc11.xiti.com
 0.0.0.0 logc111.xiti.com
@@ -53436,6 +53440,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 louisvil.ur.gcion.com
 0.0.0.0 loutane.com
 0.0.0.0 lovacmar.click
+0.0.0.0 lovad.pro
 0.0.0.0 lovdkmqvoc.bid
 0.0.0.0 love-banner.com
 0.0.0.0 love-money.de
@@ -79594,6 +79599,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stat.adlabs.ru
 0.0.0.0 stat.adlook.me
 0.0.0.0 stat.alibaba.com
+0.0.0.0 stat.analytiall.com
 0.0.0.0 stat.aport.ru
 0.0.0.0 stat.appsgeyser.com
 0.0.0.0 stat.axelspringer.hu
@@ -87151,6 +87157,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ts.visitstats.com
 0.0.0.0 ts.webclicks24.com
 0.0.0.0 ts1.hitbox.com
+0.0.0.0 ts166.net
 0.0.0.0 ts2.hitbox.com
 0.0.0.0 ts2.hockey-talks.com
 0.0.0.0 tsastrmq.com
@@ -96039,6 +96046,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ybaijkluq.com
 0.0.0.0 ybbqkfzmj.com
 0.0.0.0 ybcoin.com
+0.0.0.0 ybcrwm.com
 0.0.0.0 ybex.com
 0.0.0.0 ybgbaxrzxxlr.com
 0.0.0.0 ybhaoglgbgdk.com
