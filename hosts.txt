@@ -60799,6 +60799,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nlccrunsemmvbbv.cinci.rr.com
 0.0.0.0 nlcfowfz.com
 0.0.0.0 nlconsulateorlandoorg.siteprotect.net
+0.0.0.0 nlcriuncacyys.com
 0.0.0.0 nlduyricoemfc.bid
 0.0.0.0 nlfqbfwbfovt.com
 0.0.0.0 nlhayvlqar.bid
@@ -65595,6 +65596,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pc20160522.com
 0.0.0.0 pc2ads.com
 0.0.0.0 pc3ads.com
+0.0.0.0 pc5ads.com
 0.0.0.0 pc8.us
 0.0.0.0 pcads.ru
 0.0.0.0 pcadvisor-uk.intellitxt.com
@@ -96882,6 +96884,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yxvxjtupwlee.com
 0.0.0.0 yxwnopnfgctpr.com
 0.0.0.0 yxxuybaufikz8cesrmtswjhmqgyp31516221461.nuid.imrworldwide.com
+0.0.0.0 yxyfsghyk.com
 0.0.0.0 yyact.uc.cn
 0.0.0.0 yyajvvjrcigf.com
 0.0.0.0 yycikstmz.com
