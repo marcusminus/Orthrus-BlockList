@@ -83788,7 +83788,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 timberlandetienda.online
 0.0.0.0 timberlandmshop.com
 0.0.0.0 timberlandonshops.com
-0.0.0.0 timberlandukshops.com-
 0.0.0.0 timberlandukshops.com
 0.0.0.0 timberlandxshops.com
 0.0.0.0 timbeshops.com
