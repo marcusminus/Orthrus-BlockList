@@ -330,7 +330,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 10394-2468.ampxchange.com
 0.0.0.0 10394-4254.ampxchange.com
 0.0.0.0 103bees.com
-0.0.0.0 104.154.237.93
 0.0.0.0 104231.dtiblog.com
 0.0.0.0 104fe3b0831e.com
 0.0.0.0 105-lyu-731.mktoresp.com
@@ -537,7 +536,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 12zmcgjmzphlxhlzygtqii0tnz72e1511321732.nuid.imrworldwide.com
 0.0.0.0 13.video-ak.cdn.spotify.com
 0.0.0.0 130-hpc-830.mktoresp.com
-0.0.0.0 130.211.230.53
 0.0.0.0 130021722.keywordblocks.com
 0.0.0.0 130187311.keywordblocks.com
 0.0.0.0 130788161.keywordblocks.com
@@ -1849,13 +1847,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 34bogatirya.ru
 0.0.0.0 34c2f22e9503ace.com
 0.0.0.0 34fsb.voluumtrk.com
-0.0.0.0 35.184.169.188
-0.0.0.0 35.184.98.90
-0.0.0.0 35.188.14.213
-0.0.0.0 35.188.59.75
-0.0.0.0 35.193.89.147
-0.0.0.0 35.194.26.233
-0.0.0.0 35.239.57.233
 0.0.0.0 35.video-ak.cdn.spotify.com
 0.0.0.0 350274351.keywordblocks.com
 0.0.0.0 350media.com
@@ -17813,6 +17804,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aspentech.co1.qualtrics.com
 0.0.0.0 aspesa.info
 0.0.0.0 aspgfx.org
+0.0.0.0 aspignitean.com
 0.0.0.0 aspirin.about-tabs.com
 0.0.0.0 aspm.jp
 0.0.0.0 aspxbwteth.com
@@ -19921,6 +19913,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bea4.cnn.com
 0.0.0.0 bea4.v.fwmrm.net
 0.0.0.0 bea4c.v.fwmrm.net
+0.0.0.0 beabsolom.com
 0.0.0.0 beachfront.com
 0.0.0.0 beachfrontio.com
 0.0.0.0 beachfrontmedia.com
@@ -20503,6 +20496,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bgvexbybxxbcao.com
 0.0.0.0 bgvfceqpqzx.com
 0.0.0.0 bgwebads.com
+0.0.0.0 bgwucxto.com
 0.0.0.0 bgxjypaeyocjy.bid
 0.0.0.0 bgybufwnfxkcr.bid
 0.0.0.0 bgzyppwk.com
@@ -24952,6 +24946,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdnba.sokrati.com
 0.0.0.0 cdnbigdata.azureedge.net
 0.0.0.0 cdncache2-a.akamaihd.net
+0.0.0.0 cdncontents.com
 0.0.0.0 cdncounter.top
 0.0.0.0 cdnegc.trafficfactory.biz
 0.0.0.0 cdnes.trafficforce.com
@@ -33996,6 +33991,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 e9ht.tlnk.io
 0.0.0.0 e9mlrvy1.com
 0.0.0.0 ea.logging.admicro.vn
+0.0.0.0 ea.officedepot.fr
 0.0.0.0 ea.qualtrics.com
 0.0.0.0 ea.video-ak.cdn.spotify.com
 0.0.0.0 ea.zebestof.com
@@ -36190,6 +36186,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 events.lbesecapi.com
 0.0.0.0 events.marketo.com
 0.0.0.0 events.marquee-cdn.net
+0.0.0.0 events.mediarithmics.com
 0.0.0.0 events.medio.com
 0.0.0.0 events.ocdn.eu
 0.0.0.0 events.popinfo.jp
@@ -42123,6 +42120,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 grondslag.net
 0.0.0.0 groogloo.net
 0.0.0.0 grooksom.com
+0.0.0.0 groorgex.net
 0.0.0.0 grooveshark.fr
 0.0.0.0 groovinads.com
 0.0.0.0 grosirkecantikan.com
@@ -50994,6 +50992,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 krsdoqvsmgld.com
 0.0.0.0 krtdobasy.com
 0.0.0.0 krtpkaha.com
+0.0.0.0 krum.vsct.fr
 0.0.0.0 krush-d.openx.net
 0.0.0.0 krutilka.net
 0.0.0.0 krxd.net
@@ -52739,6 +52738,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 llsp.gfd80.com
 0.0.0.0 lltrsknoob.click
 0.0.0.0 llu.co1.qualtrics.com
+0.0.0.0 lluythjwk.com
 0.0.0.0 llvidwpt.com
 0.0.0.0 llwemrshzovw.com
 0.0.0.0 llxyamztns.bid
@@ -70800,6 +70800,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qtrial2013.qualtrics.com
 0.0.0.0 qtsmzrnccnwz.com
 0.0.0.0 qtsyxyakun.com
+0.0.0.0 qttbfdygj.com
 0.0.0.0 qttmjwno.com
 0.0.0.0 qtuckpvttvikd.com
 0.0.0.0 qtvnesozf.com
@@ -75048,6 +75049,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 saturnde.widget.criteo.com
 0.0.0.0 saub27i3os.com
 0.0.0.0 sauispjbeisl.com
+0.0.0.0 sautemoo.net
 0.0.0.0 sauwoaptain.com
 0.0.0.0 savclick.ru
 0.0.0.0 save-plan.com
@@ -86314,6 +86316,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tracking.opencandy.com.s3.amazonaws.com
 0.0.0.0 tracking.opienetwork.com
 0.0.0.0 tracking.optimatic.com
+0.0.0.0 tracking.oui.sncf
 0.0.0.0 tracking.pacharge.com
 0.0.0.0 tracking.paymentfindermail.net
 0.0.0.0 tracking.pennystockpicks.net
@@ -96609,6 +96612,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yourlegacy.club
 0.0.0.0 yourlocalguardian-gb.yourlocalguardian.co.uk
 0.0.0.0 yourloganalytics.com
+0.0.0.0 yourlucky.top
 0.0.0.0 yourlustmedia.com
 0.0.0.0 yourofferpro.com
 0.0.0.0 youroffers.win
