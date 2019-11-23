@@ -314,7 +314,6 @@
 ||10394-2468.ampxchange.com^
 ||10394-4254.ampxchange.com^
 ||103bees.com^
-||104.154.237.93^
 ||104231.dtiblog.com^
 ||104fe3b0831e.com^
 ||105-lyu-731.mktoresp.com^
@@ -521,7 +520,6 @@
 ||12zmcgjmzphlxhlzygtqii0tnz72e1511321732.nuid.imrworldwide.com^
 ||13.video-ak.cdn.spotify.com^
 ||130-hpc-830.mktoresp.com^
-||130.211.230.53^
 ||130021722.keywordblocks.com^
 ||130187311.keywordblocks.com^
 ||130788161.keywordblocks.com^
@@ -1834,13 +1832,6 @@
 ||34bogatirya.ru^
 ||34c2f22e9503ace.com^
 ||34fsb.voluumtrk.com^
-||35.184.169.188^
-||35.184.98.90^
-||35.188.14.213^
-||35.188.59.75^
-||35.193.89.147^
-||35.194.26.233^
-||35.239.57.233^
 ||35.video-ak.cdn.spotify.com^
 ||350274351.keywordblocks.com^
 ||350media.com^
@@ -17823,6 +17814,7 @@
 ||aspentech.co1.qualtrics.com^
 ||aspesa.info^
 ||aspgfx.org^
+||aspignitean.com^
 ||aspirin.about-tabs.com^
 ||aspm.jp^
 ||aspxbwteth.com^
@@ -19933,6 +19925,7 @@
 ||bea4.cnn.com^
 ||bea4.v.fwmrm.net^
 ||bea4c.v.fwmrm.net^
+||beabsolom.com^
 ||beachfront.com^
 ||beachfrontio.com^
 ||beachfrontmedia.com^
@@ -20515,6 +20508,7 @@
 ||bgvexbybxxbcao.com^
 ||bgvfceqpqzx.com^
 ||bgwebads.com^
+||bgwucxto.com^
 ||bgxjypaeyocjy.bid^
 ||bgybufwnfxkcr.bid^
 ||bgzyppwk.com^
@@ -24971,6 +24965,7 @@
 ||cdnba.sokrati.com^
 ||cdnbigdata.azureedge.net^
 ||cdncache2-a.akamaihd.net^
+||cdncontents.com^
 ||cdncounter.top^
 ||cdnegc.trafficfactory.biz^
 ||cdnes.trafficforce.com^
@@ -34032,6 +34027,7 @@
 ||e9ht.tlnk.io^
 ||e9mlrvy1.com^
 ||ea.logging.admicro.vn^
+||ea.officedepot.fr^
 ||ea.qualtrics.com^
 ||ea.video-ak.cdn.spotify.com^
 ||ea.zebestof.com^
@@ -36230,6 +36226,7 @@
 ||events.lbesecapi.com^
 ||events.marketo.com^
 ||events.marquee-cdn.net^
+||events.mediarithmics.com^
 ||events.medio.com^
 ||events.ocdn.eu^
 ||events.popinfo.jp^
@@ -42173,6 +42170,7 @@
 ||grondslag.net^
 ||groogloo.net^
 ||grooksom.com^
+||groorgex.net^
 ||grooveshark.fr^
 ||groovinads.com^
 ||grosirkecantikan.com^
@@ -51058,6 +51056,7 @@
 ||krsdoqvsmgld.com^
 ||krtdobasy.com^
 ||krtpkaha.com^
+||krum.vsct.fr^
 ||krush-d.openx.net^
 ||krutilka.net^
 ||krxd.net^
@@ -52804,6 +52803,7 @@
 ||llsp.gfd80.com^
 ||lltrsknoob.click^
 ||llu.co1.qualtrics.com^
+||lluythjwk.com^
 ||llvidwpt.com^
 ||llwemrshzovw.com^
 ||llxyamztns.bid^
@@ -70892,6 +70892,7 @@
 ||qtrial2013.qualtrics.com^
 ||qtsmzrnccnwz.com^
 ||qtsyxyakun.com^
+||qttbfdygj.com^
 ||qttmjwno.com^
 ||qtuckpvttvikd.com^
 ||qtvnesozf.com^
@@ -75150,6 +75151,7 @@
 ||saturnde.widget.criteo.com^
 ||saub27i3os.com^
 ||sauispjbeisl.com^
+||sautemoo.net^
 ||sauwoaptain.com^
 ||savclick.ru^
 ||save-plan.com^
@@ -86435,6 +86437,7 @@
 ||tracking.opencandy.com.s3.amazonaws.com^
 ||tracking.opienetwork.com^
 ||tracking.optimatic.com^
+||tracking.oui.sncf^
 ||tracking.pacharge.com^
 ||tracking.paymentfindermail.net^
 ||tracking.pennystockpicks.net^
@@ -96739,6 +96742,7 @@
 ||yourlegacy.club^
 ||yourlocalguardian-gb.yourlocalguardian.co.uk^
 ||yourloganalytics.com^
+||yourlucky.top^
 ||yourlustmedia.com^
 ||yourofferpro.com^
 ||youroffers.win^
