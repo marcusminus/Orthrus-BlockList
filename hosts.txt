@@ -56263,6 +56263,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 melnikfreezeman.xyz
 0.0.0.0 meloads.com
 0.0.0.0 melodyrun.music.s.xoxknct.com
+0.0.0.0 melohxphr.com
 0.0.0.0 melonmail.melon.com.au
 0.0.0.0 melqdjqiekcv.com
 0.0.0.0 meltdsp.com
@@ -72947,6 +72948,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rj.baidu.com
 0.0.0.0 rj.m.taobao.co
 0.0.0.0 rj.m.taobao.com
+0.0.0.0 rjbfjwjxwsbhho.com
 0.0.0.0 rjdv7omg40pvtgwl7ux2zvv2o7a9b1516628223.nuid.imrworldwide.com
 0.0.0.0 rjeksrigwzm.com
 0.0.0.0 rjeysspqsslf.com
@@ -74064,6 +74066,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rylnirfbokjd.com
 0.0.0.0 ryminos.com
 0.0.0.0 rypamigbr.ru
+0.0.0.0 ryquhezrbhfp.com
 0.0.0.0 ryrecdiretbet.info
 0.0.0.0 ryrrhgpmlif.com
 0.0.0.0 rythmxchange.com
@@ -95721,6 +95724,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xnurqg2bwwm.proxy.teads.tv
 0.0.0.0 xnuuzwthzaol.com
 0.0.0.0 xnvsheyceyjv.com
+0.0.0.0 xnwndbef.com
 0.0.0.0 xnwqhydt.com
 0.0.0.0 xnydasvpdqn.com
 0.0.0.0 xnyiljkfdwgu.com
