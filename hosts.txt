@@ -26108,6 +26108,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 clevermining.com
 0.0.0.0 clevernet.vn
 0.0.0.0 clevernt.com
+0.0.0.0 cleverusenet.club
 0.0.0.0 clevi.com
 0.0.0.0 clevv.com
 0.0.0.0 clgserv.pro
@@ -39106,6 +39107,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 freetracker.biz
 0.0.0.0 freetrafficsystem.com
 0.0.0.0 freeuploader.ml
+0.0.0.0 freeusenet.rocks
 0.0.0.0 freeusersonline.com
 0.0.0.0 freevbuckx.com
 0.0.0.0 freevideo.biz.nf
@@ -39398,6 +39400,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 functionalcrown.com
 0.0.0.0 fundacjawschodslonca.pl
 0.0.0.0 fundingchoices.google.com
+0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 funfone.me
 0.0.0.0 fungalor.com
 0.0.0.0 fungetbag.info
@@ -42073,6 +42076,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 greatsexcontent.dk
 0.0.0.0 greatsimplicity.com
 0.0.0.0 greatsong.cdn.videoplaza.tv
+0.0.0.0 greatusenetoffer.agency
 0.0.0.0 greatviews.de
 0.0.0.0 grebanise.pw
 0.0.0.0 grebibablo.com
@@ -45327,6 +45331,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 icanoptout.com
 0.0.0.0 icapabloidsety.club
 0.0.0.0 icartory.info
+0.0.0.0 iccdytfvhd.com
 0.0.0.0 iccee.com
 0.0.0.0 icck.d1.sc.omtrdc.net
 0.0.0.0 icdirect.com
@@ -47670,6 +47675,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 iokggekuz.bid
 0.0.0.0 iol.io
 0.0.0.0 iolam.it
+0.0.0.0 iolautrf.com
 0.0.0.0 iolzwhbf.bid
 0.0.0.0 iomixrscvtw.bid
 0.0.0.0 ioms.bfmio.com
@@ -50394,6 +50400,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 khonosta.info
 0.0.0.0 khoteris.ru
 0.0.0.0 khpgychzfdmpm.bid
+0.0.0.0 khprspkouotscd.com
 0.0.0.0 khudagi.info
 0.0.0.0 khuyenmaitet.ad360.vn
 0.0.0.0 khvfg.com
@@ -54692,6 +54699,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 madserver.net
 0.0.0.0 madserving.com
 0.0.0.0 madskis.com
+0.0.0.0 madslims.com
 0.0.0.0 madsone.com
 0.0.0.0 madsuk.at.atwola.com
 0.0.0.0 madvertise-d.openx.net
@@ -55489,6 +55497,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mcd-su-2.mos.ru
 0.0.0.0 mcdelivery-co-in.b.appier.net
 0.0.0.0 mcdelivery-com-tw.b.appier.net
+0.0.0.0 mcdlks.com
 0.0.0.0 mcdn.batmobi.net
 0.0.0.0 mcdomainalot.com
 0.0.0.0 mcdonalds.activate.ensighten.com
@@ -56211,6 +56220,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 megatronmailer.com
 0.0.0.0 megatube.xxx
 0.0.0.0 megatubo.es
+0.0.0.0 megausenet.pro
+0.0.0.0 megausenet.services
 0.0.0.0 megawerbung.de
 0.0.0.0 megawinners.mobi
 0.0.0.0 megazakupy.net
@@ -60763,6 +60774,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 njgogjkwlzroh.com
 0.0.0.0 njjdnqhehvlzjd.bid
 0.0.0.0 njjybqyiuotl.com
+0.0.0.0 njkgqdxavz.com
 0.0.0.0 njkiho.info
 0.0.0.0 njlltkkaavws.com
 0.0.0.0 njmaq.com
@@ -70778,6 +70790,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qrlmvqlxh.com
 0.0.0.0 qrlsx.com
 0.0.0.0 qrnfkw9qwfzoovqdpopr2dvdawx8w1516348540.nuid.imrworldwide.com
+0.0.0.0 qrnpjjkwjqbl.com
 0.0.0.0 qrocxwig.bid
 0.0.0.0 qrozsnmc.com
 0.0.0.0 qrp0tlbql7.kameleoon.eu
@@ -89327,10 +89340,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 usemax.de
 0.0.0.0 usemaxserver.de
 0.0.0.0 usemojave.com.br
+0.0.0.0 usenet.world
 0.0.0.0 usenetjunction.com
 0.0.0.0 usenetnl.download
 0.0.0.0 usenetoffer.download
 0.0.0.0 usenetpassport.com
+0.0.0.0 usenettest.info
+0.0.0.0 usenetxs.space
 0.0.0.0 useorthe.com
 0.0.0.0 useproof.com
 0.0.0.0 user-actrk.com
@@ -91353,6 +91369,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vpc.altitude-arena.com
 0.0.0.0 vpcdn.webclicks24.com
 0.0.0.0 vpdsd.top
+0.0.0.0 vpfadnueru.com
 0.0.0.0 vpfiiojohjch.com
 0.0.0.0 vpgwdlayctn.com
 0.0.0.0 vpico.com
@@ -95842,6 +95859,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xstory-fr.com
 0.0.0.0 xstronger.com
 0.0.0.0 xsuinfhoxpoz.com
+0.0.0.0 xsusenet.pro
 0.0.0.0 xswezzwxh.com
 0.0.0.0 xswmgpypkfbqoe.com
 0.0.0.0 xswnrjbzmdof.com
@@ -96549,6 +96567,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ynsbg.top
 0.0.0.0 yntwcepykkts.com
 0.0.0.0 ynuyzeqtswtd.com
+0.0.0.0 ynvmoxqbm.com
 0.0.0.0 ynwia.com
 0.0.0.0 ynxrrzgfkuih.com
 0.0.0.0 ynyhiyqybbit.com
@@ -96975,6 +96994,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 yzyalgnxo.com
 0.0.0.0 yzygkqjhedpw.com
 0.0.0.0 yzysnbqc.com
+0.0.0.0 yzytjgdrz.com
+0.0.0.0 yzyycjzfkpveu.com
 0.0.0.0 yzzmcxnlvyymt.com
 0.0.0.0 z-deactivated-time.cust.clickability.com
 0.0.0.0 z-defense.com
@@ -97476,6 +97497,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zheludenko.mirtesen.ru
 0.0.0.0 zherimo.ru
 0.0.0.0 zhfosenghtr.com
+0.0.0.0 zhifinwgpwakue.com
 0.0.0.0 zhihrotpyphycy.com
 0.0.0.0 zhihu-web-analytics.zhihu.com
 0.0.0.0 zhinkichi.info
