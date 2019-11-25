@@ -6553,6 +6553,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad-log.dable.io
 0.0.0.0 ad-logics.com
 0.0.0.0 ad-m.asia
+0.0.0.0 ad-mapps.com
 0.0.0.0 ad-maven.com
 0.0.0.0 ad-media.org
 0.0.0.0 ad-media.xe.gr
@@ -29938,6 +29939,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d10.zedo.com
 0.0.0.0 d1054130-28095.cp.blacknight.com
 0.0.0.0 d10g3hyu3zeg91.cloudfront.net
+0.0.0.0 d10gj7yjsfriaj.cloudfront.net
 0.0.0.0 d10lpsik1i8c69.cloudfront.net
 0.0.0.0 d10lumateci472.cloudfront.net
 0.0.0.0 d10vy5gom1ed53.cloudfront.net
@@ -31223,6 +31225,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 deep.bi
 0.0.0.0 deepattention.com
 0.0.0.0 deepc.cc
+0.0.0.0 deepchannel.com
 0.0.0.0 deepikarai.com
 0.0.0.0 deepintent.com
 0.0.0.0 deepknow.egoid.me
@@ -32308,6 +32311,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dketrade.top
 0.0.0.0 dkf9g61v.date
 0.0.0.0 dkfdpglo.com
+0.0.0.0 dkfindnpdgac.com
 0.0.0.0 dkgdinrubwxro.bid
 0.0.0.0 dkgitkwo.com
 0.0.0.0 dkj2m377b0yzw.cloudfront.net
@@ -39252,6 +39256,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fs45.gounlimited.to
 0.0.0.0 fsapltvckyb.bid
 0.0.0.0 fsaticze.com
+0.0.0.0 fsbotviofnthgk.com
 0.0.0.0 fscout24.oewabox.at
 0.0.0.0 fscslwmvbadncb.com
 0.0.0.0 fsd2.digital
@@ -42770,6 +42775,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 haobtc.com
 0.0.0.0 haochelaile-test.shareitgames.com
 0.0.0.0 haohua.es
+0.0.0.0 haorun.pw
 0.0.0.0 haostat.qihoo.com
 0.0.0.0 haotyxhbv.com
 0.0.0.0 haouzy.info
@@ -43523,6 +43529,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hipmunk.partner.intentmedia.net
 0.0.0.0 hippo.adultadworld.com
 0.0.0.0 hiq.fotolog.com
+0.0.0.0 hiqubonenete.tk
 0.0.0.0 hir-24.eu
 0.0.0.0 hir-24.info
 0.0.0.0 hir-online.com
@@ -45114,6 +45121,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 i5sn7ffqkjuzb0xziijfwkuykbi4e1508204431.nuid.imrworldwide.com
 0.0.0.0 i5ystwflekrmhmwsb8yttcrjlma8f1516681570.nuid.imrworldwide.com
 0.0.0.0 i62e2b4mfy.com
+0.0.0.0 i6h1x9ss5wtv.ru
 0.0.0.0 i6kcv2bx4o3jxrpycgyslwuldwjsg1514590520.nuid.imrworldwide.com
 0.0.0.0 i6s0sowjyeb1bbke5uam2amkx4kw61509900360.nuid.imrworldwide.com
 0.0.0.0 i7.news-subscribe.com
@@ -48855,6 +48863,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jh8ggwnyto.kameleoon.eu
 0.0.0.0 jhceybuguvureg.com
 0.0.0.0 jhcnnizbua.com
+0.0.0.0 jhdfcbqophm.com
 0.0.0.0 jheduynirrxkro.com
 0.0.0.0 jheplryxvzvx.com
 0.0.0.0 jhewbownkjobl.bid
@@ -50167,6 +50176,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kcivm1qcihfosqsnvonnkz1v7wgba1508682710.nuid.imrworldwide.com
 0.0.0.0 kclbs.eu.qualtrics.com
 0.0.0.0 kclbs.qualtrics.com
+0.0.0.0 kcnbyecw.com
 0.0.0.0 kcnjwtaj.com
 0.0.0.0 kcnyhfmowc.com
 0.0.0.0 kcodndvh.com
@@ -58866,6 +58876,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mvconf.cloud.360safe.com
 0.0.0.0 mvdbdtwicgw.bid
 0.0.0.0 mvddovmyeh.bid
+0.0.0.0 mvdizbgdpfgl.com
 0.0.0.0 mvdnsrgolwgru.com
 0.0.0.0 mvdqeaxrk.bid
 0.0.0.0 mve.btrll.com
@@ -59797,6 +59808,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nbkcuewy.com
 0.0.0.0 nbkwnsonadrb.com
 0.0.0.0 nbmffortfyyg.com
+0.0.0.0 nbnhhwnjbkdmfi.com
 0.0.0.0 nbnsioedq.com
 0.0.0.0 nbolame.ru
 0.0.0.0 nbook.far.ru
@@ -65913,6 +65925,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 performancehorizon.com
 0.0.0.0 performancenative.com
 0.0.0.0 performanceonclick.com
+0.0.0.0 performanceplay.co.kr
 0.0.0.0 performancerevenue.com
 0.0.0.0 performancerevenues.com
 0.0.0.0 performancetrack.info
@@ -67895,6 +67908,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pobliba.info
 0.0.0.0 pochasos.ru
 0.0.0.0 pochemy.mirtesen.ru
+0.0.0.0 pochengweiyuan.com
 0.0.0.0 pocitadlo.cz
 0.0.0.0 pocitadlo.sk
 0.0.0.0 pocket-lintltd.t.domdex.com
@@ -68523,6 +68537,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pqajjgjg.com
 0.0.0.0 pqcjtsrnx.bid
 0.0.0.0 pqdysthxgrpz.com
+0.0.0.0 pqftlgwzkuzsg.com
 0.0.0.0 pqgnezcfd.bid
 0.0.0.0 pqgslqshlj.com
 0.0.0.0 pqjdiwqmiem.bid
@@ -73578,6 +73593,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rt2.infolinks.com
 0.0.0.0 rt3.infolinks.com
 0.0.0.0 rta.dailymail.co.uk
+0.0.0.0 rta2.metro.co.uk
 0.0.0.0 rtaofgamnnfh.com
 0.0.0.0 rtapi.abbi.io
 0.0.0.0 rtax.criteo.com
@@ -87391,6 +87407,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ttomktasfnqlg.com
 0.0.0.0 ttqdlwzgpml.bid
 0.0.0.0 ttrwhchvj.com
+0.0.0.0 ttsipyxgpihy.com
 0.0.0.0 ttskmaaf.com
 0.0.0.0 ttsv3pcrsnjuzno8qinxfexa8dnxx1509515821.nuid.imrworldwide.com
 0.0.0.0 ttt.fwq101.tk
@@ -93468,6 +93485,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wm5fixsite.us.intellitxt.com
 0.0.0.0 wmademo3.clickability.com
 0.0.0.0 wmapp.wiredminds.de
+0.0.0.0 wmaqrkguf.com
 0.0.0.0 wmbgmyyxyz.com
 0.0.0.0 wmcasher.ru
 0.0.0.0 wmclickz.ru
