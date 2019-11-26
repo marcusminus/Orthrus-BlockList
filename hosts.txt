@@ -29618,6 +29618,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cwkuki.com
 0.0.0.0 cwliihvsjckn.com
 0.0.0.0 cwmgaming.com
+0.0.0.0 cwmlm.com
 0.0.0.0 cwmxsgbllbee.bid
 0.0.0.0 cwmycjoddoq.com
 0.0.0.0 cwnetworkmparticle.112.2o7.net
@@ -34369,6 +34370,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ecnads1.msn.com
 0.0.0.0 eco-flow.pl
 0.0.0.0 eco-tag.jp
+0.0.0.0 eco.2t4fe.xyz
 0.0.0.0 eco.onthe.io
 0.0.0.0 ecoencomputer.com
 0.0.0.0 ecoflow.pl
@@ -38710,6 +38712,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fourthgate.org
 0.0.0.0 fout.jp
 0.0.0.0 fovs.qkvipgloy.xyz
+0.0.0.0 fowpq.top
 0.0.0.0 fowuh.bemobtrk.com
 0.0.0.0 foxamw.112.2o7.net
 0.0.0.0 foxcom.112.2o7.net
@@ -45761,6 +45764,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 idgenterprise.112.2o7.net
 0.0.0.0 idgenterprise.d1.sc.omtrdc.net
 0.0.0.0 idguk1-d.openx.net
+0.0.0.0 idhvbfj.pro
 0.0.0.0 idiagnostics.apple.com
 0.0.0.0 idigger.qtmojo.com
 0.0.0.0 idio.co
@@ -45890,6 +45894,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ifeuddaywa.com
 0.0.0.0 iffzxqnhd.com
 0.0.0.0 ifgnsrtjcz.com
+0.0.0.0 ifhei9zzyu2r.ru
 0.0.0.0 ifhths.mirtesen.ru
 0.0.0.0 ifhxmaazmylfx.com
 0.0.0.0 ifilefinder.com
@@ -49505,6 +49510,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 js.gleam.io
 0.0.0.0 js.goods.redtram.com
 0.0.0.0 js.goods.redtram.com
+0.0.0.0 js.gouhei.top
 0.0.0.0 js.grt02.com
 0.0.0.0 js.gumgum.com
 0.0.0.0 js.himediads.com
@@ -51178,6 +51184,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kthdreplfmil.com
 0.0.0.0 kthwboouxxcmc.bid
 0.0.0.0 kthztsgfuygcw.com
+0.0.0.0 ktionz.com
 0.0.0.0 ktiwcxvrwedt.com
 0.0.0.0 ktjcrhdppesdd.com
 0.0.0.0 ktjqfqadgmxh.com
@@ -58972,6 +58979,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mvncasmaxapgyk.bid
 0.0.0.0 mvnuyjsdgle.com
 0.0.0.0 mvnyllursi.com
+0.0.0.0 mvo.g45td.xyz
 0.0.0.0 mvonline.com
 0.0.0.0 mvotvznetuvfb.com
 0.0.0.0 mvp-us-east-1.onemobile.yahoo.com
@@ -66899,6 +66907,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pkoyiqjjxhsy.com
 0.0.0.0 pkpojhc.com
 0.0.0.0 pkqbgjuinhgpizxifssrtqsyxnzjxwozacnxsrxnvkrokysnhb.com
+0.0.0.0 pkqeg5z3xffs.info
 0.0.0.0 pkqfuffahcdbm.com
 0.0.0.0 pkr88.cc
 0.0.0.0 pkrgwlwhhsie.com
@@ -70178,6 +70187,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 puzzles.segment.com
 0.0.0.0 puzzlingfall.com
 0.0.0.0 pv.amanad.adtdp.com
+0.0.0.0 pv.dakawm.cc
 0.0.0.0 pv.hd.sohu.com
 0.0.0.0 pv.pjtsu.com
 0.0.0.0 pv.tacoda.at.atwola.com
@@ -70669,6 +70679,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qidkcvmr.com
 0.0.0.0 qidtjujkejbaal.bid
 0.0.0.0 qie7gv2oahmovenhnk3liicob3c0x1516625306.nuid.imrworldwide.com
+0.0.0.0 qienews.cn
 0.0.0.0 qihdhscaydlk.bid
 0.0.0.0 qiheptnm80.com
 0.0.0.0 qijffgqsbkii.com
@@ -70940,6 +70951,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qshare.ru
 0.0.0.0 qshsaocjet.com
 0.0.0.0 qsknevegg.bid
+0.0.0.0 qsmdeyz.cn
 0.0.0.0 qsnetwork.az1.qualtrics.com
 0.0.0.0 qsnzncerqgack.com
 0.0.0.0 qsoetgedlgyhyz.com
@@ -77589,6 +77601,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sitestats.live
 0.0.0.0 sitestats.tiscali.co.uk
 0.0.0.0 sitestats.ttcportals.com.re.getclicky.com
+0.0.0.0 siteswithcontent.com
 0.0.0.0 sitetag.us
 0.0.0.0 sitetagger.co.uk
 0.0.0.0 sitethree.com
@@ -86819,7 +86832,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 trafficlayer.de
 0.0.0.0 trafficleader.com
 0.0.0.0 trafficmagnates.com
-0.0.0.0 trafficmanager.anyclip.com
 0.0.0.0 trafficmasterz.net
 0.0.0.0 trafficmaxx.de
 0.0.0.0 trafficmp.com
@@ -90025,6 +90037,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vagwyn.pw
 0.0.0.0 vahtbhufjkna.com
 0.0.0.0 vahufapave.com
+0.0.0.0 vai1hqegr2ou.ru
 0.0.0.0 vaigowoa.com
 0.0.0.0 vaime.net.popunder.ru
 0.0.0.0 vaipsona.com
@@ -96618,6 +96631,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yjjglyoytiew.com
 0.0.0.0 yjjtxuhfglxa.com
 0.0.0.0 yjlocznmvvvtp.com
+0.0.0.0 yjnqrbfnocy.com
 0.0.0.0 yjoldnbcw.com
 0.0.0.0 yjseeodbma.com
 0.0.0.0 yjsshralziws.com
@@ -97670,6 +97684,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zhlfogiy.com
 0.0.0.0 zhmbxvmyk.com
 0.0.0.0 zhnhos6t7zhuyrctdzk2czoizlsgf1514433112.nuid.imrworldwide.com
+0.0.0.0 zhongwangmy.cn
 0.0.0.0 zhopka.vsezaibis.ru
 0.0.0.0 zhouliang.info
 0.0.0.0 zhovjymmkg.com
