@@ -14304,6 +14304,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 alchemysocial.com
 0.0.0.0 alchemyworldwide.tt.omtrdc.net
 0.0.0.0 alchetron.com
+0.0.0.0 alcidebrought.pro
 0.0.0.0 alclick.com
 0.0.0.0 alcmpn.com
 0.0.0.0 alcoa.co1.qualtrics.com
@@ -61805,6 +61806,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nvkrm.instadating.club
 0.0.0.0 nvloygrnfe.com
 0.0.0.0 nvmjtxnlcdqo.com
+0.0.0.0 nvmsa.top
 0.0.0.0 nvnbwkkryjqsvh.com
 0.0.0.0 nvnvyikitffcdr.com
 0.0.0.0 nvoepbzqtn.com
@@ -64059,6 +64061,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 oslzqjnh.com
 0.0.0.0 osm-onead.cdn.hinet.net
 0.0.0.0 osm.algolia.com
+0.0.0.0 osnbddsrm.com
 0.0.0.0 osniffer.pro
 0.0.0.0 osnn.work
 0.0.0.0 osnosa.info
@@ -92291,6 +92294,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wapster.pl
 0.0.0.0 waptraff.mobi
 0.0.0.0 wapwbclick.mobile.sina.cn
+0.0.0.0 waqsdyxhha.com
 0.0.0.0 war.hiido.com
 0.0.0.0 warco.pl
 0.0.0.0 warcry.us.intellitxt.com
