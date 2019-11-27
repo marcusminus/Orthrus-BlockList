@@ -910,6 +910,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 198169.measurementapi.com
 0.0.0.0 19834.tlnk.io
 0.0.0.0 198935.engine.mobileapptracking.com
+0.0.0.0 1990tu.com
 0.0.0.0 199611.measurementapi.com
 0.0.0.0 199655141.keywordblocks.com
 0.0.0.0 19980ad7c3fa568e092.com
@@ -1306,7 +1307,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 22b765488021d482280.com
 0.0.0.0 22kkkk.com
 0.0.0.0 22pixx.xyz
-0.0.0.0 23.236.55.237
 0.0.0.0 23.video-ak.cdn.spotify.com
 0.0.0.0 231786172.keywordblocks.com
 0.0.0.0 23205523023daea6.com
@@ -1329,6 +1329,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 238883840.keywordblocks.com
 0.0.0.0 23892.t.domdex.com
 0.0.0.0 23904.measurementapi.com
+0.0.0.0 23dsf.top
 0.0.0.0 23rsdsfdsf.com
 0.0.0.0 24-ak.ru
 0.0.0.0 24-xxx.biz
@@ -3964,6 +3965,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 9f23ab605837.com
 0.0.0.0 9f4272342f817.com
 0.0.0.0 9fine.ru
+0.0.0.0 9h5qq.cn
 0.0.0.0 9h7n8.com
 0.0.0.0 9hh58l04sa.kameleoon.eu
 0.0.0.0 9ib5cxi9e0.com
@@ -3991,6 +3993,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 9toib.voluumtrk.com
 0.0.0.0 9ts3tpia.com
 0.0.0.0 9utwbj08.top
+0.0.0.0 9uys.co
 0.0.0.0 9uznl.bemobtrk.com
 0.0.0.0 9vad.com
 0.0.0.0 9vuq3.bemobtrk.com
@@ -25689,6 +25692,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 chumtv.122.2o7.net
 0.0.0.0 chunkycactus.com
 0.0.0.0 chursida.ru
+0.0.0.0 chushoushijian.cn
 0.0.0.0 chuvzwxbpf.bid
 0.0.0.0 chvjfriqlvnt.com
 0.0.0.0 chvwtxtzmzbggo.com
@@ -32417,6 +32421,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dl2.bav.baidu.com
 0.0.0.0 dl2.security.baidu.co.th
 0.0.0.0 dl6pkf7e.ru
+0.0.0.0 dlads.cn
 0.0.0.0 dlagier.com
 0.0.0.0 dlahijuwjsv.com
 0.0.0.0 dlauten.bplaced.net
@@ -33912,6 +33917,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 e.connectad.io
 0.0.0.0 e.crashlytics.com
 0.0.0.0 e.dlx.addthis.com
+0.0.0.0 e.dr-zh.com
 0.0.0.0 e.dtscout.com
 0.0.0.0 e.eclick.vn
 0.0.0.0 e.ejiakm.net
@@ -45178,6 +45184,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 i2iserv.com
 0.0.0.0 i2s.carambo.la
 0.0.0.0 i2tbouv3zp.kameleoon.eu
+0.0.0.0 i3535.com
 0.0.0.0 i38yuaugqtctngg7p9zwt67k0pzbo1516681433.nuid.imrworldwide.com
 0.0.0.0 i3fresh-tw.b.appier.net
 0.0.0.0 i3j3u3u9.ssl.hwcdn.net
@@ -56950,6 +56957,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mgykxgrllcj.com
 0.0.0.0 mgyovgqq.com
 0.0.0.0 mgziozplbkzv.com
+0.0.0.0 mgzjin.cn
 0.0.0.0 mh.ogercron.com
 0.0.0.0 mh.pip-pip-pop.com
 0.0.0.0 mh6.adriver.ru
@@ -60878,6 +60886,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nitsche.top
 0.0.0.0 nittlopp.online
 0.0.0.0 niu.qualtrics.com
+0.0.0.0 niulail.top
 0.0.0.0 nivea.adform.net
 0.0.0.0 nivendas.net
 0.0.0.0 nivid.automatad.com
@@ -64497,7 +64506,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ozone.ru
 0.0.0.0 ozonemedia.adbureau.net
 0.0.0.0 ozonemedia.com
-0.0.0.0 ozonestsscareer.info
 0.0.0.0 ozora.work
 0.0.0.0 ozpigvtnn.bid
 0.0.0.0 ozqbyd.gdn
@@ -92563,6 +92571,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 weather.wisemana.com
 0.0.0.0 weatherbugbrowserbar.mywebsearch.com
 0.0.0.0 weathet.com
+0.0.0.0 web-ad.xyz
 0.0.0.0 web-adservice.com
 0.0.0.0 web-analysis.click
 0.0.0.0 web-analytics-collector.thescore.com
@@ -96112,6 +96121,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xugnzawkrkvu.com
 0.0.0.0 xuhktijdskah.com
 0.0.0.0 xuikjhak.com
+0.0.0.0 xunlaile.com
 0.0.0.0 xuqdbqkqgj.com
 0.0.0.0 xurokykjwum.com
 0.0.0.0 xurrehqawu.com
@@ -96259,6 +96269,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xzywlbgldmpi.com
 0.0.0.0 xzzcasiospbn.com
 0.0.0.0 y-track.com
+0.0.0.0 y.21haodianmt.com
 0.0.0.0 y.admob.com
 0.0.0.0 y.analytics.yahoo.com
 0.0.0.0 y.cdn.adblade.com
@@ -97001,6 +97012,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ysljgoytuyfbg.com
 0.0.0.0 ysloutletbags.com
 0.0.0.0 ysmbdnavqsbcl.com
+0.0.0.0 ysnj74ed.com
 0.0.0.0 ysosfhyrbyre.com
 0.0.0.0 ysowy.com
 0.0.0.0 ysqdjkermxyt.com
