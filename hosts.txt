@@ -14000,6 +14000,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aim.pubmatic.com
 0.0.0.0 aim33000.pubmatic.com
 0.0.0.0 aim4media.com
+0.0.0.0 aimaptair.club
 0.0.0.0 aimatch.com
 0.0.0.0 aimds.er.cyberwing.co.jp
 0.0.0.0 aimediagroup.com
@@ -14013,6 +14014,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aimpoc.d1.sc.omtrdc.net
 0.0.0.0 aintdoinshit.com
 0.0.0.0 ainterme.com
+0.0.0.0 aintinuumdelos.com
 0.0.0.0 aio.lp.mydas.mobi
 0.0.0.0 aio.media
 0.0.0.0 aio_flashlight.s.xoxknct.com
@@ -16002,6 +16004,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 antabuy.com
 0.0.0.0 antalya.ru
 0.0.0.0 antcompany.com
+0.0.0.0 antdivisitlodg.info
 0.0.0.0 antennash.com
 0.0.0.0 antennasync.me
 0.0.0.0 anthill.vn
@@ -17540,6 +17543,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 artantash.club
 0.0.0.0 artbauoutlet.xyz
 0.0.0.0 artbr.net
+0.0.0.0 artcamcat.site
 0.0.0.0 artcomix.com
 0.0.0.0 artefact.is
 0.0.0.0 artemisaffiliates.com
@@ -18973,6 +18977,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 babos.scrapping.cc
 0.0.0.0 babs.tv2.dk
 0.0.0.0 babsedrinhi.info
+0.0.0.0 babsitlehaphow.com
 0.0.0.0 babsy.foreverhorny.com
 0.0.0.0 babuskinalavochke.mirtesen.ru
 0.0.0.0 baby-soft.ca
@@ -25218,6 +25223,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cettenu.com
 0.0.0.0 ceugjbwb.com
 0.0.0.0 cevwkduhwbuc.com
+0.0.0.0 cewaugaz.net
 0.0.0.0 cewdbisyrzdv.com
 0.0.0.0 cewecolor.112.2o7.net
 0.0.0.0 cewecolor.d3.sc.omtrdc.net
@@ -25597,6 +25603,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 china-netwave.com
 0.0.0.0 china.inmobi.com
 0.0.0.0 chinaenter.cn
+0.0.0.0 chinagcdxyjng.cn
 0.0.0.0 chinagrad.ru
 0.0.0.0 chinahdcm.com
 0.0.0.0 chinchickens.com
@@ -27154,6 +27161,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cnyblliqyhcs.bid
 0.0.0.0 cnygzgurqpwop.bid
 0.0.0.0 cnyharo.ru
+0.0.0.0 cnzz.c62v.cn
 0.0.0.0 cnzz.mmstat.com
 0.0.0.0 cnzz.net
 0.0.0.0 co.5.p2l.info
@@ -37723,6 +37731,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fglwxjklf.com
 0.0.0.0 fgmucsiirrsq.com
 0.0.0.0 fgnzizhe.com
+0.0.0.0 fgo22.info
 0.0.0.0 fgo2mmafh0.kameleoon.eu
 0.0.0.0 fgoogle.com
 0.0.0.0 fgsjjpjhdlfthp.com
@@ -41225,6 +41234,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 glykvwol.bid
 0.0.0.0 glynzumin.pw
 0.0.0.0 glzaaewyvdkae.com
+0.0.0.0 glzyw.com
 0.0.0.0 gm.demdex.net
 0.0.0.0 gm.preferences.com
 0.0.0.0 gm.qualtrics.com
@@ -41730,6 +41740,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gorebrasil.com
 0.0.0.0 goredirect.party
 0.0.0.0 goregrish.com
+0.0.0.0 goreleetren.com
 0.0.0.0 gorensin.info
 0.0.0.0 gorgasal.co
 0.0.0.0 gorgeousground.com
@@ -42124,6 +42135,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 greatarcadehits.com
 0.0.0.0 greatcamerasale.site
 0.0.0.0 greatcpm.com
+0.0.0.0 greatdexchange.com
 0.0.0.0 greate2.com
 0.0.0.0 greatedbothere.info
 0.0.0.0 greatedr.com
@@ -43303,6 +43315,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 helpmymacfaster.club
 0.0.0.0 helptofix.co
 0.0.0.0 hemnes.win
+0.0.0.0 hemonledriat.pro
 0.0.0.0 hengaredi.pro
 0.0.0.0 henharat.ru
 0.0.0.0 henodmetgjbsas.bid
@@ -48342,6 +48355,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 iwantmyfreecash.com
 0.0.0.0 iwantmyfreelaptop.com
 0.0.0.0 iwantmygiftcard.com
+0.0.0.0 iwanttobe.pro
 0.0.0.0 iwanttodeliver.com
 0.0.0.0 iwantuonly.com
 0.0.0.0 iwapwcqg.com
@@ -50822,6 +50836,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kmylvwo5.com
 0.0.0.0 kmypiwpbastt.com
 0.0.0.0 knac.us.intellitxt.com
+0.0.0.0 knbnejxqn.com
 0.0.0.0 knc.lv
 0.0.0.0 knepsiwviviwed.com
 0.0.0.0 knewy.com
@@ -52160,6 +52175,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 leszvphhnytpk.com
 0.0.0.0 letadnew.com
 0.0.0.0 letaikay.net
+0.0.0.0 letansinevengthat.pro
 0.0.0.0 letempsinforme.club
 0.0.0.0 lethalvapor.com
 0.0.0.0 letilyadothejob.com
@@ -55222,6 +55238,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 marketing.mtraction.com
 0.0.0.0 marketing.net.brillen.de
 0.0.0.0 marketing.net.daraz.com.bd
+0.0.0.0 marketing.net.home24.de
 0.0.0.0 marketing.nyi.net
 0.0.0.0 marketing.osijek031.com
 0.0.0.0 marketing.outbrain.com
@@ -57405,6 +57422,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mitmeisseln.de
 0.0.0.0 mitobeb.yadozalamom.pw
 0.0.0.0 mitotach.com
+0.0.0.0 mitouxoo.net
 0.0.0.0 mitsubishi.112.2o7.net
 0.0.0.0 mitsubishielectric.112.2o7.net
 0.0.0.0 mitsubishimotorsaustralia.d1.sc.omtrdc.net
@@ -59319,6 +59337,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mynsystems.com
 0.0.0.0 myntelligence.com
 0.0.0.0 myntra.d1.sc.omtrdc.net
+0.0.0.0 mynunu.net
 0.0.0.0 myoffers.bid
 0.0.0.0 myoffers.co.uk
 0.0.0.0 myoffers.party
@@ -60155,6 +60174,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 netaffiliation.com
 0.0.0.0 netafimusa.actonsoftware.com
 0.0.0.0 netagent.cz
+0.0.0.0 netanlingtheeveng.pro
 0.0.0.0 netappinc.tt.omtrdc.net
 0.0.0.0 netapplications.com
 0.0.0.0 netasaka.vis1.shinobi.jp
@@ -62670,6 +62690,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ofajzowbwzzi.com
 0.0.0.0 ofapes.com
 0.0.0.0 ofbqjpaamioq.com
+0.0.0.0 ofd.meng-an.cn
 0.0.0.0 ofdfinqurwpi.com
 0.0.0.0 ofdybheqahjamq.bid
 0.0.0.0 ofeetles.pro
@@ -64186,6 +64207,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ough.info
 0.0.0.0 oughaoxixcfe.com
 0.0.0.0 ouhdgmzajfaop.com
+0.0.0.0 ouhegapy.net
 0.0.0.0 ouhsc.qualtrics.com
 0.0.0.0 ouiinryhlvbgq.com
 0.0.0.0 oujlnbyavjhy.com
@@ -69620,6 +69642,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 psoomeeg.com
 0.0.0.0 psoonsod.com
 0.0.0.0 psooz.tourstogo.us
+0.0.0.0 psoptopi.com
 0.0.0.0 psorias.atspace.com
 0.0.0.0 psozoult.net
 0.0.0.0 psp.ign.us.intellitxt.com
@@ -77075,6 +77098,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 shen.zgfszs.com
 0.0.0.0 shence-import.xenderbox.com
 0.0.0.0 shenglonghg.net
+0.0.0.0 shentuwang1.com
 0.0.0.0 sher.index.hu
 0.0.0.0 sherkatkonandeh.com
 0.0.0.0 sherkhundi.com
@@ -77972,6 +77996,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 slo-engine.intextad.net
 0.0.0.0 sloaltbyucrg.com
 0.0.0.0 sloanreview-d.openx.net
+0.0.0.0 sloansagnersro.com
 0.0.0.0 slog.sina.cn
 0.0.0.0 slog.sina.com.cn
 0.0.0.0 slogantrend.de
@@ -78911,6 +78936,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sparksresearch.co1.qualtrics.com
 0.0.0.0 sparkstudios.com
 0.0.0.0 sparnove.com
+0.0.0.0 spartorshecrablac.pro
 0.0.0.0 sparzauber.com
 0.0.0.0 spatiumdg.pl
 0.0.0.0 spatsz.com
@@ -90476,6 +90502,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 verkolasti.pw
 0.0.0.0 vermontteddybear.112.2o7.net
 0.0.0.0 vernehepet.info
+0.0.0.0 vernmentbasily.com
 0.0.0.0 vernoblisk.com
 0.0.0.0 veroui.com
 0.0.0.0 verresof.com
@@ -93752,6 +93779,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wonderfulproductives.com
 0.0.0.0 wonderlandads.com
 0.0.0.0 wondoads.de
+0.0.0.0 wontent.powvideo.net
 0.0.0.0 woobi-eu.casalemedia.com
 0.0.0.0 woocall.sina.com.cn
 0.0.0.0 woodpecker.uc.cn
@@ -95876,6 +95904,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xn--yotu-1ra.be
 0.0.0.0 xn--zcrt01bvsr.com
 0.0.0.0 xn--zuzy24d.co
+0.0.0.0 xn-2qux23confgml.club
 0.0.0.0 xndskrtxkiv.com
 0.0.0.0 xnfwhndl.com
 0.0.0.0 xnh-r.tlnk.io
@@ -97517,6 +97546,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zedo.sync.go.sonobi.com
 0.0.0.0 zedwhyex.com
 0.0.0.0 zee.cws.conviva.com
+0.0.0.0 zeegreen.net
 0.0.0.0 zeepmedia.com
 0.0.0.0 zeerat.com
 0.0.0.0 zeesiti.com
