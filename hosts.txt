@@ -32810,6 +32810,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 doodlemobile.com
 0.0.0.0 doodles.uc.cn
 0.0.0.0 doogleonduty.com
+0.0.0.0 doolooku.net
 0.0.0.0 doomail.org
 0.0.0.0 doomna.com
 0.0.0.0 doopads.com
@@ -37346,6 +37347,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 favoriteadrequest.com
 0.0.0.0 fawenys.xyz
 0.0.0.0 fawhiybzs.bid
+0.0.0.0 fawhuksy.com
 0.0.0.0 faxo.com
 0.0.0.0 faxzhasfboots.club
 0.0.0.0 faye.crashlytics.com
@@ -38552,7 +38554,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fondprof.oewabox.at
 0.0.0.0 fonecta.hb.omtrdc.net
 0.0.0.0 fonecta.leiki.com
-0.0.0.0 fontent.streamp1ay.me
 0.0.0.0 fontoshirek.info
 0.0.0.0 fontostudni.club
 0.0.0.0 fonts.unbounce.com
@@ -40143,6 +40144,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gatr.hit.gemius.pl
 0.0.0.0 gaua.hit.gemius.pl
 0.0.0.0 gaug.es
+0.0.0.0 gauwicig.com
 0.0.0.0 gavzad.keenspot.com
 0.0.0.0 gawaher-services.com
 0.0.0.0 gawxf.com
@@ -41125,6 +41127,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 glauptan.net
 0.0.0.0 glauvoob.com
 0.0.0.0 glavnoesegodnya.mirtesen.ru
+0.0.0.0 glawheejoushpush.com
 0.0.0.0 glb.adtechus.com
 0.0.0.0 glb.r.skimresources.com
 0.0.0.0 glb.skimresources.com
@@ -41146,6 +41149,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gleechood.com
 0.0.0.0 gleedaik.net
 0.0.0.0 gleersoo.net
+0.0.0.0 gleetait.net
 0.0.0.0 glenm.mtxcapital.com
 0.0.0.0 glfiivzom.com
 0.0.0.0 glfnjyzix.bid
@@ -42771,6 +42775,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hacking-facebook.com
 0.0.0.0 hacking.mysteria.cz
 0.0.0.0 hackkitarena.tk
+0.0.0.0 hacmoone.net
 0.0.0.0 hadarone.com
 0.0.0.0 hadczwhwfvhcc.com
 0.0.0.0 hadik.info
@@ -51041,6 +51046,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 koukoku.red
 0.0.0.0 kouraija.net
 0.0.0.0 koutobey.net
+0.0.0.0 kouwheey.net
 0.0.0.0 kovadat.ru
 0.0.0.0 kovglrrlpqum.com
 0.0.0.0 koviovius.com
@@ -52106,6 +52112,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 leeds.qualtrics.com
 0.0.0.0 leedsads.com
 0.0.0.0 leeenterprises.112.2o7.net
+0.0.0.0 leeneevo.net
 0.0.0.0 leessp-d.openx.net
 0.0.0.0 leetmedia.com
 0.0.0.0 lefopost.com
@@ -55138,6 +55145,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 manita.es
 0.0.0.0 mannela.info
 0.0.0.0 manntv.oewabox.at
+0.0.0.0 mannusinglygues.info
 0.0.0.0 manorparty.com
 0.0.0.0 manorviews.co.nz
 0.0.0.0 manoske.com
@@ -57781,6 +57789,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mo8mwxi1.com
 0.0.0.0 moadlbgojatn.com
 0.0.0.0 moadnet.com
+0.0.0.0 moafoche.com
 0.0.0.0 moapi.wps.cn
 0.0.0.0 moat.com
 0.0.0.0 moat.pxl.ace.advertising.com
@@ -60686,6 +60695,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nfkxplkiid.com
 0.0.0.0 nfl.demdex.net
 0.0.0.0 nfl.hb.omtrdc.net
+0.0.0.0 nflightiesmurtone.com
 0.0.0.0 nflstreamio.imageshack.host
 0.0.0.0 nfmkmks.xyz
 0.0.0.0 nfngrcjaejui.com
@@ -62811,6 +62821,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ofgbefrhs.com
 0.0.0.0 ofghrodsrqkg.com
 0.0.0.0 ofhwyutlckjuul.bid
+0.0.0.0 ofigraiw.net
 0.0.0.0 ofino.ru
 0.0.0.0 ofirjzamaye.com
 0.0.0.0 ofjampfenbwv.com
@@ -63796,6 +63807,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 opserver01.iti.net.pk
 0.0.0.0 opsivesh.net
 0.0.0.0 opsllc360-d.openx.net
+0.0.0.0 opsooque.com
 0.0.0.0 opt-east.media.net
 0.0.0.0 opt-eu.media.net
 0.0.0.0 opt-intelligence.com
@@ -64243,6 +64255,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ouahjrthgxyh.bid
 0.0.0.0 ouannxwziw.bid
 0.0.0.0 oubibahphzsz.com
+0.0.0.0 ouboosta.com
 0.0.0.0 oubriojtpnps.com
 0.0.0.0 oucywciij.com
 0.0.0.0 ougesqknoehod.com
@@ -68063,6 +68076,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 po.fyybox.com
 0.0.0.0 po.ponant.com
 0.0.0.0 poacprod.122.2o7.net
+0.0.0.0 poagroul.com
 0.0.0.0 poaurtor.com
 0.0.0.0 poaxupoqbw.com
 0.0.0.0 poazoanu.com
@@ -69749,6 +69763,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ptchits.com
 0.0.0.0 ptclassic.com
 0.0.0.0 ptd.pubmatic.com
+0.0.0.0 pteegloa.com
 0.0.0.0 ptefautu.net
 0.0.0.0 ptengine.cn
 0.0.0.0 ptengine.com
@@ -72902,6 +72917,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rewartific.com
 0.0.0.0 rewdinghes.com
 0.0.0.0 rewe.demdex.net
+0.0.0.0 rewenoughteenin.info
 0.0.0.0 rexafajay.axfree.com
 0.0.0.0 rexchange.begun.ru
 0.0.0.0 rey3935.112.2o7.net
@@ -76189,6 +76205,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sedatorsinted.info
 0.0.0.0 sedatorslegallock.info
 0.0.0.0 sedesol.sedesol.gob.mx
+0.0.0.0 sedidencesothere.info
 0.0.0.0 sedo.cachefly.net
 0.0.0.0 sedo.t.domdex.com
 0.0.0.0 sedoparking.com
@@ -76482,6 +76499,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sendy.adpia.vn
 0.0.0.0 sendy.pixlr.com
 0.0.0.0 senfvsdvtsn.com
+0.0.0.0 seniorbaniaasth.info
 0.0.0.0 senkevich-sl.net
 0.0.0.0 senkevich-vk.net
 0.0.0.0 senoctis.pl
@@ -77216,6 +77234,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 shockgore.com
 0.0.0.0 shockingship.com
 0.0.0.0 shockingswing.com
+0.0.0.0 shodroph.net
 0.0.0.0 shoegallery.com.pl
 0.0.0.0 shoelace.com
 0.0.0.0 shoepassionde.widget.criteo.com
@@ -81084,6 +81103,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stimgc.iand2ch.net
 0.0.0.0 stimgc.thench.net
 0.0.0.0 stingersbx.beeswax.com
+0.0.0.0 stinsoox.net
 0.0.0.0 stippleit.com
 0.0.0.0 stir.az1.qualtrics.com
 0.0.0.0 stir.semilo.com
@@ -83863,6 +83883,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 theuploadbusiness.com
 0.0.0.0 theuseful.com
 0.0.0.0 theuseful.net
+0.0.0.0 theverlalinglac.info
 0.0.0.0 thevideo.ch
 0.0.0.0 thevpntrustzone.xyz
 0.0.0.0 theweatherspace.com
@@ -83937,6 +83958,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 thongke.24h.com.vn
 0.0.0.0 thongke.baotintuc.vn
 0.0.0.0 thongtindonganh.vn
+0.0.0.0 thoodsoy.net
 0.0.0.0 thor-media.ru
 0.0.0.0 thor-z.com
 0.0.0.0 thor.blindferret.media
@@ -84021,6 +84043,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tic-tic-toc.com
 0.0.0.0 tic.googlesyndication.com
 0.0.0.0 tical.us.qualtrics.com
+0.0.0.0 ticinciplinesekilos.info
 0.0.0.0 ticker.conduit.com
 0.0.0.0 ticket.uodoo.com
 0.0.0.0 ticket20.tripod.com
@@ -95970,7 +95993,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 xn--yotu-1ra.be
 0.0.0.0 xn--zcrt01bvsr.com
 0.0.0.0 xn--zuzy24d.co
-0.0.0.0 xn-2qux23confgml.club
 0.0.0.0 xndskrtxkiv.com
 0.0.0.0 xnfwhndl.com
 0.0.0.0 xnh-r.tlnk.io
