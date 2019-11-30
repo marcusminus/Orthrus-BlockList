@@ -3799,6 +3799,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 919ba151b6f5.com
 0.0.0.0 91e2.com
 0.0.0.0 91pool.com
+0.0.0.0 91say.cc
 0.0.0.0 91support.com
 0.0.0.0 92.video-ak.cdn.spotify.com
 0.0.0.0 922.hittail.com
@@ -31881,6 +31882,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dft.cl.dynad.net
 0.0.0.0 dfujqyjifvoe.com
 0.0.0.0 dfxemnxrsal.bid
+0.0.0.0 dfxvfkutloxnyl.com
 0.0.0.0 dfyudpyceqoy.com
 0.0.0.0 dg.specificclick.net
 0.0.0.0 dg.sxybjjz.cn
@@ -36849,6 +36851,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ezuereisgj.com
 0.0.0.0 ezula.com
 0.0.0.0 ezuosstmbcle.com
+0.0.0.0 ezvbegy1wtxv.ru
 0.0.0.0 ezytrack.com
 0.0.0.0 ezzbemrabj.com
 0.0.0.0 ezzrewrad.com
@@ -43743,6 +43746,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hishimartaltit.pro
 0.0.0.0 hishirts.ru
 0.0.0.0 hisnakiamotors.122.2o7.net
+0.0.0.0 hisnote.cc
 0.0.0.0 hisoupocdted.com
 0.0.0.0 histats.com.ero-advertising.com
 0.0.0.0 histats.com
@@ -50010,6 +50014,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jvinenwuarwn.com
 0.0.0.0 jvjwaxjixypm.com
 0.0.0.0 jvkhhxwcnijvmf.com
+0.0.0.0 jvljpv.com
 0.0.0.0 jvmuayuilxn.com
 0.0.0.0 jvnubhidaev.bid
 0.0.0.0 jvnvvuveozfi.com
@@ -54322,6 +54327,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.8800266.com.cn
 0.0.0.0 m.88viet.com
 0.0.0.0 m.8live.com
+0.0.0.0 m.91heima.cn
 0.0.0.0 m.91xiaodu.top
 0.0.0.0 m.ad.adlantis.jp
 0.0.0.0 m.ad6media.fr
@@ -54340,6 +54346,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.adsymptotic.com
 0.0.0.0 m.adtiming.com
 0.0.0.0 m.adx.bg
+0.0.0.0 m.ailezhai.cn
 0.0.0.0 m.alylym.top
 0.0.0.0 m.ambientplatform.vn
 0.0.0.0 m.anyfiles.ovh
@@ -54361,6 +54368,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.czbiw.com
 0.0.0.0 m.data.mob.com
 0.0.0.0 m.de.2mdn.net
+0.0.0.0 m.dglscm.cn
 0.0.0.0 m.djhhy.com
 0.0.0.0 m.dlx.addthis.com
 0.0.0.0 m.do.co
@@ -54412,6 +54420,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.ms3388.com
 0.0.0.0 m.ms88asia.com
 0.0.0.0 m.ms88ca.com
+0.0.0.0 m.nanyangqiaoxiang.cn
 0.0.0.0 m.nbhaosheng168.com
 0.0.0.0 m.nexage.com
 0.0.0.0 m.one.impact-ad.jp
@@ -54434,6 +54443,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.smsquiz.pl
 0.0.0.0 m.stripe.network
 0.0.0.0 m.syxsa.cn
+0.0.0.0 m.szyuke.cn
 0.0.0.0 m.tidebuy.com
 0.0.0.0 m.tq1.uodoo.com
 0.0.0.0 m.track.ad.xiaomi.com
@@ -57565,7 +57575,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mix.kinostuff.com
 0.0.0.0 mix1traff.ru
 0.0.0.0 mixadvert.com
-0.0.0.0 mixdrop.co
 0.0.0.0 mixedreading.com
 0.0.0.0 mixfyfriqtatz.bid
 0.0.0.0 mixi-d.openx.net
@@ -79469,6 +79478,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 spulse.net
 0.0.0.0 spunkycash.com
 0.0.0.0 spunto.ru
+0.0.0.0 spuobvix.com
 0.0.0.0 spuriousbase.com
 0.0.0.0 spurioussteam.com
 0.0.0.0 spuriousstranger.com
@@ -86799,6 +86809,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tracking.retailrocket.net
 0.0.0.0 tracking.retargeting.biz
 0.0.0.0 tracking.revimedia.com
+0.0.0.0 tracking.rightmessage.com
 0.0.0.0 tracking.roispy.com
 0.0.0.0 tracking.rtl.de
 0.0.0.0 tracking.s24.com
