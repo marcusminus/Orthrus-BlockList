@@ -36025,6 +36025,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ethereumpool.co
 0.0.0.0 ethermine.org
 0.0.0.0 ethertrench.com
+0.0.0.0 ethethoa.net
 0.0.0.0 ethfans.org
 0.0.0.0 ethfw0370q.com
 0.0.0.0 ethicalads.net
@@ -48437,6 +48438,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ivldzqidbv.com
 0.0.0.0 ivnpbikks.com
 0.0.0.0 ivnytx9tq2knro7stjdg6qpayw1mi1511341850.nuid.imrworldwide.com
+0.0.0.0 ivoophie.net
 0.0.0.0 ivowhzku.com
 0.0.0.0 ivox.socratos.net
 0.0.0.0 ivoxua.socratos.net
@@ -69828,6 +69830,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 psooz.tourstogo.us
 0.0.0.0 psoptopi.com
 0.0.0.0 psorias.atspace.com
+0.0.0.0 psoultar.net
 0.0.0.0 psozoult.net
 0.0.0.0 psp.ign.us.intellitxt.com
 0.0.0.0 psp3d.us.intellitxt.com
@@ -91656,6 +91659,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vnzlgmfd.com
 0.0.0.0 vo3.net
 0.0.0.0 voaalhaobdl.com
+0.0.0.0 voagapti.com
 0.0.0.0 voajewhe.net
 0.0.0.0 voameque.com
 0.0.0.0 voaroawo.net
@@ -94128,6 +94132,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wossabeerarg.com
 0.0.0.0 wotclothes.com
 0.0.0.0 wotilhqoftvl.com
+0.0.0.0 wouhaish.com
 0.0.0.0 woundreatand.pro
 0.0.0.0 wouvista.com
 0.0.0.0 wow-lion.ucweb.com
@@ -98245,6 +98250,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zoo-porno.biz
 0.0.0.0 zoocauvo.net
 0.0.0.0 zoodrawings.com
+0.0.0.0 zoofaupt.net
 0.0.0.0 zoogdisany.com
 0.0.0.0 zoogdiseny.com
 0.0.0.0 zoogdisny.com
