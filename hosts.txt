@@ -32160,6 +32160,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 direct-www.marketo.com
 0.0.0.0 direct-xxx-access.com
 0.0.0.0 direct.adsrvr.org
+0.0.0.0 direct.apus.tech
 0.0.0.0 direct.cpufan.club
 0.0.0.0 direct.errorception.com
 0.0.0.0 direct.quasir.info
@@ -51678,6 +51679,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ladbrokesaffiliates.com.au
 0.0.0.0 ladhyjqqgerr.com
 0.0.0.0 ladieshj.112.2o7.net
+0.0.0.0 ladipage.com
 0.0.0.0 ladipage.net
 0.0.0.0 ladipage.vn
 0.0.0.0 ladnova.info
