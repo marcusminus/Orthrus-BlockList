@@ -250,6 +250,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 0x.x.gg
 0.0.0.0 0x1f4b0.com
 0.0.0.0 0xvhyayvvoojbsjwbanplogbrz1up1505353271.nuid.imrworldwide.com
+0.0.0.0 1-1ads.com
 0.0.0.0 1-2fly-befragung.de
 0.0.0.0 1-800onlinecasino.com
 0.0.0.0 1-cl0ud.com
@@ -45274,6 +45275,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hui-ain-apparel.tk
 0.0.0.0 huigyetqu.com
 0.0.0.0 huijol.gq
+0.0.0.0 huirnbrfj.com
 0.0.0.0 huis.istats.nl
 0.0.0.0 huisvrouwen.be
 0.0.0.0 huiwiw.hit.gemius.pl
@@ -89759,6 +89761,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 udmlkmzjkob.co
 0.0.0.0 udmserve.net
 0.0.0.0 udn-d.openx.net
+0.0.0.0 udncoeln.com
 0.0.0.0 udockoan.net
 0.0.0.0 udorik.com
 0.0.0.0 udplus.umeng.com
