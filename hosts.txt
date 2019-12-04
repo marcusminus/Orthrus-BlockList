@@ -1672,6 +1672,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 2tloyssxnu.kameleoon.eu
 0.0.0.0 2under.ru
 0.0.0.0 2v.news-subscribe.com
+0.0.0.0 2vaxwkujrfwh.info
 0.0.0.0 2vpvitqpe9.kameleoon.eu
 0.0.0.0 2vulkan.com
 0.0.0.0 2wink.com.au
@@ -44847,6 +44848,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hothta.com
 0.0.0.0 hothub.pl
 0.0.0.0 hotinga.ru
+0.0.0.0 hotjar.io
 0.0.0.0 hotjatt.com
 0.0.0.0 hotkeys.com
 0.0.0.0 hotlog.ru
@@ -49352,6 +49354,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jdskyjntuhea.com
 0.0.0.0 jdtufqcyumvb.com
 0.0.0.0 jducqfnxeypyw.com
+0.0.0.0 jdwimtfp.com
 0.0.0.0 jdzmcidlajwwzi.bid
 0.0.0.0 jdzw3frs.com
 0.0.0.0 je.revolvermaps.com
@@ -58985,6 +58988,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mootermedia.com
 0.0.0.0 moowouzy.net
 0.0.0.0 mooxar.com
+0.0.0.0 mopinion.com
 0.0.0.0 mopo.jp
 0.0.0.0 mopub-dfp.mopub.com
 0.0.0.0 mopub-rtb.adfonic.net
@@ -71839,6 +71843,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qjobvxqp.com
 0.0.0.0 qjokrqhidpki.com
 0.0.0.0 qjoqfapllsbtw.bid
+0.0.0.0 qjotiimmb.com
 0.0.0.0 qjpxalhvenbt.com
 0.0.0.0 qjrlcrkhnj.com
 0.0.0.0 qjskosdsxanp.com
@@ -72009,6 +72014,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qqmilk.ru
 0.0.0.0 qqoncxkrkc.bid
 0.0.0.0 qqonline365.club
+0.0.0.0 qqqwes.com
 0.0.0.0 qqrkutrsg.com
 0.0.0.0 qqrwncvoig.bid
 0.0.0.0 qqshoe.ru
@@ -73134,6 +73140,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 recibimos
 0.0.0.0 recino.com
 0.0.0.0 recipeland.us.intellitxt.com
+0.0.0.0 reciteme.com
 0.0.0.0 reckendrees.systems
 0.0.0.0 reckinbuttiten.pro
 0.0.0.0 reckintersupwas.info
@@ -78388,6 +78395,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 shofteph.com
 0.0.0.0 shohabiymgjxdb.com
 0.0.0.0 shokala.com
+0.0.0.0 shon.xyz
 0.0.0.0 shoofle.tv
 0.0.0.0 shoogloomobile.go2affise.com
 0.0.0.0 shoogloonetwork.com
@@ -79735,6 +79743,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sockjgaabayf.com
 0.0.0.0 sockjs-goguardian.pusher.com
 0.0.0.0 soclone.com
+0.0.0.0 socsi.in
 0.0.0.0 socsi.qualtrics.com
 0.0.0.0 soctest.onthe.io
 0.0.0.0 socxihke.bid
@@ -82998,6 +83007,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 svdsutdq.com
 0.0.0.0 svegienovosti.mirtesen.ru
 0.0.0.0 sveklon.com
+0.0.0.0 svekolka.com
 0.0.0.0 sverd.net
 0.0.0.0 svetyivanrilski.com
 0.0.0.0 svevbvsjeicl.com
@@ -95363,6 +95373,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wpbhnyjej.com
 0.0.0.0 wpc.32df9.rhocdn.net
 0.0.0.0 wpcache-blogger.com
+0.0.0.0 wpcc.io
 0.0.0.0 wpcdn1.herokuapp.com
 0.0.0.0 wpdstat.com
 0.0.0.0 wpfc.ml
@@ -99041,6 +99052,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zendplace.pro
 0.0.0.0 zenfulyogaabq.com
 0.0.0.0 zenga.zapr.in
+0.0.0.0 zengenti.com
 0.0.0.0 zenhppyad.com
 0.0.0.0 zenigameblinger.org
 0.0.0.0 zenimaxmedia.d1.sc.omtrdc.net
