@@ -35003,6 +35003,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 eegad.freeservers.com
 0.0.0.0 eegde.adocean.pl
 0.0.0.0 eegjpwmi.com
+0.0.0.0 eegnacou.com
 0.0.0.0 eegookiz.com
 0.0.0.0 eegputuwclsvo.com
 0.0.0.0 eehdssnxola.com
@@ -42555,6 +42556,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 grabraeuber.de
 0.0.0.0 grabtrk.com
 0.0.0.0 grabyourluck.online
+0.0.0.0 gracaiko.net
 0.0.0.0 grace.shareaholic.com
 0.0.0.0 gracecore.com
 0.0.0.0 gracefulsock.com
@@ -53522,6 +53524,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 llrxxhljtmylaa.bid
 0.0.0.0 llsdercqm.com
 0.0.0.0 llsp.gfd80.com
+0.0.0.0 lltgedci.com
 0.0.0.0 lltrsknoob.click
 0.0.0.0 llu.co1.qualtrics.com
 0.0.0.0 lluythjwk.com
@@ -76417,7 +76420,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sarjor.pw
 0.0.0.0 sarnisas.info
 0.0.0.0 sarov.ws
-0.0.0.0 sas.com
 0.0.0.0 sas.decisionnews.com
 0.0.0.0 sas15k01.com
 0.0.0.0 sas2017.ereality.org
@@ -78761,6 +78763,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sinkhole-00.shadowserver.org
 0.0.0.0 sinlocal.es
 0.0.0.0 sinoa.com
+0.0.0.0 sinsoftu.com
 0.0.0.0 sinuatemedia.com
 0.0.0.0 sinuatemedia1.actonsoftware.com
 0.0.0.0 sinvideo.adsrvr.org
@@ -99587,6 +99590,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zricmrcrlmdeg.com
 0.0.0.0 zridsfev.com
 0.0.0.0 zrlcr.com
+0.0.0.0 zrlxjcsvib.com
 0.0.0.0 zroitracker.com
 0.0.0.0 zrosbqwecw.com
 0.0.0.0 zrrat.31772.club
