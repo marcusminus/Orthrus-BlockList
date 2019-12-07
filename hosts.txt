@@ -25583,6 +25583,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cftest.adsnative.com
 0.0.0.0 cftrack.com
 0.0.0.0 cfts1tifqr.com
+0.0.0.0 cfupqlin.com
 0.0.0.0 cfuwbptxcdgza.com
 0.0.0.0 cfvfjsobudwrsn.com
 0.0.0.0 cfyvrgvopaejx.com
@@ -32418,6 +32419,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 digitalmerkat.com
 0.0.0.0 digitalnex.com.br
 0.0.0.0 digitaloptout.com
+0.0.0.0 digitalpush.org
 0.0.0.0 digitalresponse.de
 0.0.0.0 digitaltarget.ru
 0.0.0.0 digitalthrottle-d.openx.net
@@ -35719,6 +35721,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 emrumkgmdmdq.com
 0.0.0.0 ems2bmen.com
 0.0.0.0 emsecure.net
+0.0.0.0 emsmcdwfbseox.com
 0.0.0.0 emsservice.de
 0.0.0.0 emssoftware.co1.qualtrics.com
 0.0.0.0 emszbghugzw.bid
@@ -48976,6 +48979,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ivw.dumontreise.de
 0.0.0.0 ivw.fem.com
 0.0.0.0 ivwbox.de
+0.0.0.0 ivxjpqksoclbyc.com
 0.0.0.0 ivycrest.net
 0.0.0.0 ivyfsbbwsf.com
 0.0.0.0 ivykiosk.com
@@ -52824,6 +52828,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lenzgmbh.d1.sc.omtrdc.net
 0.0.0.0 lenzmx.com
 0.0.0.0 leoban.ru
+0.0.0.0 leocgwid.com
 0.0.0.0 leohd59.ru
 0.0.0.0 leokross.com
 0.0.0.0 leon08.tk
@@ -53728,6 +53733,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lockview.cn
 0.0.0.0 lockwoodsmarina.com
 0.0.0.0 locotrack.net
+0.0.0.0 lodalasan.club
 0.0.0.0 lodenfreyde.widget.criteo.com
 0.0.0.0 lodeo-ad.adtdp.com
 0.0.0.0 lodeo-adnw.adtdp.com
@@ -57949,6 +57955,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mimizet.ru
 0.0.0.0 mimosapudica.net
 0.0.0.0 mimoviles.com
+0.0.0.0 mimqvkusf.com
 0.0.0.0 mimxeu.mirtesen.ru
 0.0.0.0 min.admicro.vn
 0.0.0.0 min.imageflux.cf
@@ -59382,6 +59389,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 msafeclean.cloud.360safe.com
 0.0.0.0 msaletoo.com
 0.0.0.0 msapi.appsflyer.com
+0.0.0.0 msbftyajwu.com
 0.0.0.0 msblhtsh.cinci.rr.com
 0.0.0.0 msbmckzmcu.com
 0.0.0.0 msbmopod.vo.llnwd.net
@@ -59625,6 +59633,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mu-pl-s.lemnisk.co
 0.0.0.0 mu-pl.lemnisk.co
 0.0.0.0 mu.appnext.com
+0.0.0.0 muagjoxfew.com
 0.0.0.0 muahohanghoa.com
 0.0.0.0 muasoctv.com
 0.0.0.0 muchhetont.ru
@@ -63397,6 +63406,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ocm.revcontent.com
 0.0.0.0 ocmvmmwctmto.bid
 0.0.0.0 ocnjgcedhp.com
+0.0.0.0 ocnvgwuppfstkj.com
 0.0.0.0 ocofiyymgfyxx.bid
 0.0.0.0 oconner.biz
 0.0.0.0 oconner.link
@@ -98247,6 +98257,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ykhozkljfpdtd.com
 0.0.0.0 ykixjehac.com
 0.0.0.0 yklotwpbrybfl.com
+0.0.0.0 yknfpdpj.com
 0.0.0.0 ykombouoo.com
 0.0.0.0 ykqpbuqpfjsh.com
 0.0.0.0 ykrec.youku.com
