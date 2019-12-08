@@ -23605,6 +23605,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 caiflyt535vufqquuvmwyyc6ogwuj1509463761.nuid.imrworldwide.com
 0.0.0.0 caigiees.com
 0.0.0.0 caithamo.net
+0.0.0.0 caiyung.com
 0.0.0.0 cajalwinterconference.es
 0.0.0.0 cajgbabcfhjceiacabd.ru
 0.0.0.0 cajkov.ru
@@ -32625,6 +32626,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 displaypagerank.com
 0.0.0.0 displaysense.widget.criteo.com
 0.0.0.0 dispop.com
+0.0.0.0 dispositivodig.com
 0.0.0.0 disqus.rtb.adx1.com
 0.0.0.0 disqusads.com
 0.0.0.0 disredi.ru
@@ -55586,6 +55588,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 magento.d1.sc.omtrdc.net
 0.0.0.0 magento2.algolia.com
 0.0.0.0 magentoconnect.algolia.com
+0.0.0.0 magic-drone.net
 0.0.0.0 magic-traff.com
 0.0.0.0 magicadz.co
 0.0.0.0 magicalled.info
@@ -66126,6 +66129,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 padsdel.com
 0.0.0.0 padsdelivery.com
 0.0.0.0 padsips.com
+0.0.0.0 padspms.com
 0.0.0.0 padsquad-d.openx.net
 0.0.0.0 padssup.com
 0.0.0.0 padstm.com
@@ -71990,6 +71994,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qmamdjtoykgl.com
 0.0.0.0 qmarkresearch.co1.qualtrics.com
 0.0.0.0 qmerce.com
+0.0.0.0 qmhigtmwikvzin.com
 0.0.0.0 qmiiqzfk.com
 0.0.0.0 qmisgnkw.bid
 0.0.0.0 qmiypgoukkl.com
@@ -79756,6 +79761,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 snxkttyjudkv7l1antizvxyjhl1mf1507564820.nuid.imrworldwide.com
 0.0.0.0 snxvrnhe.com
 0.0.0.0 snyowx29.com
+0.0.0.0 snypitsale.com
 0.0.0.0 so-excited.com
 0.0.0.0 so-ext-tf.rlcdn.com
 0.0.0.0 so.2mdn.net
