@@ -27603,6 +27603,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cogsdigital.com
 0.0.0.0 coguan.com
 0.0.0.0 cogxsnvqesph.com
+0.0.0.0 cohesionapps.com
 0.0.0.0 cohhcaahxxcf.com
 0.0.0.0 cohorts.appsflyer.com
 0.0.0.0 coihive.com
@@ -36006,7 +36007,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 epicgameads.com
 0.0.0.0 epilot.com
 0.0.0.0 epiodata.com
-0.0.0.0 episerver.net
 0.0.0.0 epital.gdn
 0.0.0.0 epitrack.com
 0.0.0.0 epiv.cardlytics.com
@@ -68760,6 +68760,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 planniver.com
 0.0.0.0 plannto.com
 0.0.0.0 plantaardigebrandstof.nl
+0.0.0.0 plantdigestion.com
 0.0.0.0 plarium.com
 0.0.0.0 plasmatv4free.com
 0.0.0.0 plasmatvreward.com
@@ -79506,6 +79507,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 smashnewtab.com
 0.0.0.0 smashseek.com
 0.0.0.0 smashsurprise.com
+0.0.0.0 smazvhjn.com
 0.0.0.0 smbc.sc.omtrdc.net
 0.0.0.0 smc.demdex.net
 0.0.0.0 smc.silvercash.com
@@ -82180,6 +82182,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stats.wiseadmin.net.re.getclicky.com
 0.0.0.0 stats.wordpress.com
 0.0.0.0 stats.wp.com
+0.0.0.0 stats.wpmucdn.com
 0.0.0.0 stats.wwd.com
 0.0.0.0 stats.wwitv.com
 0.0.0.0 stats.www.ibm.com
@@ -88269,6 +88272,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 traffic-tech-service.info
 0.0.0.0 traffic.acwebconnecting.com
 0.0.0.0 traffic.ad4game.com
+0.0.0.0 traffic.adexprtz.com
 0.0.0.0 traffic.adlook.me
 0.0.0.0 traffic.admvncln.com
 0.0.0.0 traffic.adwitty.com
@@ -95093,6 +95097,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 winnotice.skyrocket.adtdp.com
 0.0.0.0 winona.qualtrics.com
 0.0.0.0 winprizesapp.com
+0.0.0.0 winr.online
 0.0.0.0 winrar-soft.ru
 0.0.0.0 winscholarship.com
 0.0.0.0 winsetupcostotome.easthamvacations.info
