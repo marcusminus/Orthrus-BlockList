@@ -31416,6 +31416,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dc5-userver-upaas.ucweb.com
 0.0.0.0 dc56.s290.meetrics.net
 0.0.0.0 dc5ig2fc8lg83.cloudfront.net
+0.0.0.0 dc5k8fg5ioc8s.cloudfront.net
 0.0.0.0 dc61.s290.meetrics.net
 0.0.0.0 dc63bfb069ea522f.com
 0.0.0.0 dc76b15913c.com
@@ -56582,6 +56583,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 media-playerz.com
 0.0.0.0 media-rep.com
 0.0.0.0 media-reports.bluekai.com
+0.0.0.0 media-sapiens.com
 0.0.0.0 media-servers.net
 0.0.0.0 media-serving.com
 0.0.0.0 media-system.maltatoday.com.mt
@@ -70882,6 +70884,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ptewiki.com
 0.0.0.0 ptgame.eu
 0.0.0.0 ptgiweiu.com
+0.0.0.0 pthokfs.pro
 0.0.0.0 ptikeegno.com
 0.0.0.0 ptimeinc.chartbeat.net
 0.0.0.0 ptiniretm.com
