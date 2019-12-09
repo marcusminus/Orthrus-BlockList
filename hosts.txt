@@ -48536,6 +48536,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ipowercdn.com
 0.0.0.0 ippninrrcl.com
 0.0.0.0 ippwkczttno.com
+0.0.0.0 ipraccessie.info
 0.0.0.0 ipredictive.com
 0.0.0.0 ipreparty.info
 0.0.0.0 ipro.com
@@ -51449,6 +51450,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 klksqlhafcgccgzho4lwsxyghd56j1508195810.nuid.imrworldwide.com
 0.0.0.0 klkus.xyz
 0.0.0.0 klldabck.com
+0.0.0.0 klljshial.com
 0.0.0.0 klmdwvqhi.com
 0.0.0.0 klmfvshct.bid
 0.0.0.0 klmsjdf.ml
@@ -61874,6 +61876,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nmqgjoytd.com
 0.0.0.0 nmraleigh.112.2o7.net
 0.0.0.0 nmrcieuvb.com
+0.0.0.0 nmrlcnuok.com
 0.0.0.0 nmrockhill.112.2o7.net
 0.0.0.0 nmsacramento.112.2o7.net
 0.0.0.0 nmsanluisobispo.112.2o7.net
@@ -79135,6 +79138,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 skryptcookies.pl
 0.0.0.0 sksalqvpoc.com
 0.0.0.0 skspurybnv.com
+0.0.0.0 sksytkvnvnmz.com
 0.0.0.0 sktmonpbfgxamj.bid
 0.0.0.0 skubizd.info
 0.0.0.0 skullrigs.com
@@ -94050,6 +94054,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wcastrprod.122.2o7.net
 0.0.0.0 wcfbc.net
 0.0.0.0 wcgquaaknuha.com
+0.0.0.0 wcgrrjyjiaeocd.com
 0.0.0.0 wckp.sbhmn-miner.com
 0.0.0.0 wcksovhmd.com
 0.0.0.0 wclurprkyk.com
