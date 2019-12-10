@@ -20849,6 +20849,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bigakuonline.com
 0.0.0.0 bigapple.contextuads.com
 0.0.0.0 bigbangads.go2cloud.org
+0.0.0.0 bigbangbon.online
 0.0.0.0 bigbangmedia.com
 0.0.0.0 bigbigforums.us.intellitxt.com
 0.0.0.0 bigbootymania.com
@@ -96248,6 +96249,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wvdymg0dskimjnmnrej7oahz4gdvg1513523781.nuid.imrworldwide.com
 0.0.0.0 wvetuwwcojfgw.com
 0.0.0.0 wvfputwcdbkoip.com
+0.0.0.0 wvghl.com
 0.0.0.0 wvhqfqaaajv7tmjc.everesttech.net
 0.0.0.0 wvjbsdjplo.com
 0.0.0.0 wvlic.brightcove.com
@@ -97223,6 +97225,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xghfi97mk6.com
 0.0.0.0 xghretunapafes.com
 0.0.0.0 xgievxfxhy.com
+0.0.0.0 xgipqvffxrgs.com
 0.0.0.0 xgmc6lu8fs.me
 0.0.0.0 xgmlmmulciz.com
 0.0.0.0 xgogi.com
@@ -99730,6 +99733,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zrbhyvkpgeyn.com
 0.0.0.0 zrcaldozggijht.com
 0.0.0.0 zrcavgvtxqcbu.com
+0.0.0.0 zrcir.com
 0.0.0.0 zreluo.com
 0.0.0.0 zreqmcewq.com
 0.0.0.0 zrgssannk.com
