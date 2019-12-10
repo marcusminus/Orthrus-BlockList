@@ -3980,6 +3980,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 9e.video-ak.cdn.spotify.com
 0.0.0.0 9e5420f6be48ccc.com
 0.0.0.0 9e7769ed7b1.com
+0.0.0.0 9eb10b7a3d04a.com
 0.0.0.0 9ec10065c976f.com
 0.0.0.0 9ehy8a8u6b.com
 0.0.0.0 9f.video-ak.cdn.spotify.com
@@ -13961,6 +13962,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 agxclick.com
 0.0.0.0 agyahooag.112.2o7.net
 0.0.0.0 agyak.com
+0.0.0.0 agzfxovg.com
 0.0.0.0 agzupwcefbjol.bid
 0.0.0.0 ah-gb.adskeeper.co.uk
 0.0.0.0 ah-gb.mgid.com
@@ -36436,6 +36438,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 etizspyjmjhxo.com
 0.0.0.0 etkdximarcsq.com
 0.0.0.0 etkhujhmhjix.com
+0.0.0.0 etknnufo.com
 0.0.0.0 etl.xlmc.sandai.net
 0.0.0.0 etlrsq.ru
 0.0.0.0 etm-consult.de
@@ -62837,6 +62840,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nyumc.qualtrics.com
 0.0.0.0 nyustern.qualtrics.com
 0.0.0.0 nyutkikha.info
+0.0.0.0 nyvbugkm.com
 0.0.0.0 nyvdouydkxmaws.bid
 0.0.0.0 nyvqazwtcwk.com
 0.0.0.0 nywpxugigwfzb.com
@@ -97073,6 +97077,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xboamxtcnfcwyf.com
 0.0.0.0 xbofirnnmzlprd.com
 0.0.0.0 xbombo.com
+0.0.0.0 xbooru.com
 0.0.0.0 xbox.ign.us.intellitxt.com
 0.0.0.0 xbox1emulator.org
 0.0.0.0 xbox360.ign.us.intellitxt.com
