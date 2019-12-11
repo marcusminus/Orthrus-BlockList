@@ -35670,6 +35670,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 emberads.com
 0.0.0.0 emboba.info
 0.0.0.0 embols.com
+0.0.0.0 embraceable-venom.eu
 0.0.0.0 embraceablemidpointcinnabar.com
 0.0.0.0 embrassez.com
 0.0.0.0 emc.122.2o7.net
@@ -43653,6 +43654,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hbhcilgdqxt.com
 0.0.0.0 hbhcndcpohpwib.com
 0.0.0.0 hbhfslicqq.com
+0.0.0.0 hbhgheovqz.com
 0.0.0.0 hbhjamkcubtez.com
 0.0.0.0 hbk.shuzilm.cn
 0.0.0.0 hbkajyvrus.com
@@ -50133,6 +50135,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jrtzehrbg.com
 0.0.0.0 jrunvrfma.com
 0.0.0.0 jruovuiejirpev.com
+0.0.0.0 jrvcwxubg.com
 0.0.0.0 jrvtmfxkkl.com
 0.0.0.0 jrwlxwypmgvk.com
 0.0.0.0 jryyekccnw.com
@@ -51735,6 +51738,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kpdn.ru
 0.0.0.0 kpehltcnwo.com
 0.0.0.0 kpeterstudio.com
+0.0.0.0 kpgcnqxccssu.com
 0.0.0.0 kpgcyqkktm.bid
 0.0.0.0 kpgjogkbwjpmz.com
 0.0.0.0 kpi.d2.sc.omtrdc.net
@@ -53586,6 +53590,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lkrojmvmxxqze.com
 0.0.0.0 lkubjgrjslmgxo.com
 0.0.0.0 lkuirehx.com
+0.0.0.0 lkvifcxvqkwrl.com
 0.0.0.0 lkyuoybczr.com
 0.0.0.0 lkzvhtetshbu.com
 0.0.0.0 ll.ads.bittorrent.com
@@ -89436,7 +89441,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tw.adserver.yahoo.com
 0.0.0.0 tw.aip.insightexpressai.com
 0.0.0.0 tw.api.vpon.com
-0.0.0.0 tw.cx
 0.0.0.0 tw.netcore.co.in
 0.0.0.0 tw1.af.beap.bc.yahoo.com
 0.0.0.0 tw2.adserver.yahoo.com
