@@ -10642,6 +10642,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.rodale.com
 0.0.0.0 ads.rohea.com
 0.0.0.0 ads.roiserver.com
+0.0.0.0 ads.roku.com
 0.0.0.0 ads.rol.ro
 0.0.0.0 ads.rondomondo.com
 0.0.0.0 ads.rootzoo.com
@@ -28261,6 +28262,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 contehos.com
 0.0.0.0 contema.ru
 0.0.0.0 contemporaryceremonies.ca
+0.0.0.0 contensis.com
 0.0.0.0 content-ad.net
 0.0.0.0 content-click.amanad.adtdp.com
 0.0.0.0 content-cooperation.com
@@ -32255,6 +32257,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dgad.ir
 0.0.0.0 dgafgadsgkjg.top
 0.0.0.0 dgag.112.2o7.net
+0.0.0.0 dgarvwharbgpb.com
 0.0.0.0 dgauda.com
 0.0.0.0 dgbhmpumhxy.bid
 0.0.0.0 dgcxsmiavpg.bid
@@ -38247,6 +38250,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fghtem.com
 0.0.0.0 fghtrrasovlsu.com
 0.0.0.0 fgilgpmoudkzx.bid
+0.0.0.0 fgjasshw.com
 0.0.0.0 fgkvpyrmkbap.com
 0.0.0.0 fglwxjklf.com
 0.0.0.0 fgmucsiirrsq.com
@@ -44277,6 +44281,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 histians.com
 0.0.0.0 histock.info
 0.0.0.0 historest.com
+0.0.0.0 historicalbeam.com
 0.0.0.0 historicalrequest.com
 0.0.0.0 historieludzkie1.online
 0.0.0.0 history.ca.d1.sc.omtrdc.net
@@ -48392,6 +48397,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 invite.gezinti.com
 0.0.0.0 inviteads.adk2.co
 0.0.0.0 invitefashion.com
+0.0.0.0 invitejs.trustpilot.com
 0.0.0.0 invitemedia.com
 0.0.0.0 inviterabbits.com
 0.0.0.0 invitesugar.com
@@ -48523,6 +48529,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ipdcgsdjkz.bid
 0.0.0.0 ipdlsrwctdjb.com
 0.0.0.0 ipehunxxyir.com
+0.0.0.0 iper2.com
 0.0.0.0 iperceptions.com
 0.0.0.0 ipesdpqmq.com
 0.0.0.0 ipesuojab.com
@@ -51032,6 +51039,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 keepload.online
 0.0.0.0 keeporhard.com
 0.0.0.0 keepyoungphone.bid
+0.0.0.0 keet1liod.com
 0.0.0.0 keetonsonline.actonsoftware.com
 0.0.0.0 keewurd.com
 0.0.0.0 kehalim.com
@@ -56564,6 +56572,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 measurementaz.com
 0.0.0.0 meatspin.biz
 0.0.0.0 meatspin.com
+0.0.0.0 meatydime.com
 0.0.0.0 mebablo.com
 0.0.0.0 mebed.dm.gg
 0.0.0.0 meborangot.ru
@@ -65379,6 +65388,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 oxzffweyw.com
 0.0.0.0 oyaqzikgjw.com
 0.0.0.0 oybahnktadxjju.com
+0.0.0.0 oyfncnedrymc.com
 0.0.0.0 oyfsdpmhncobvj.com
 0.0.0.0 oyi9f1kbaj.com
 0.0.0.0 oyiqkjsjmmde.com
@@ -72184,6 +72194,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qrpbogawdr.bid
 0.0.0.0 qrqmchbp.bid
 0.0.0.0 qrstes.com
+0.0.0.0 qrwixhlz.com
 0.0.0.0 qrwlerqenp.com
 0.0.0.0 qrxkugriqkt.com
 0.0.0.0 qryllyykezxh.bid
@@ -78475,6 +78486,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sherpareport.evergage.com
 0.0.0.0 shetarget.com
 0.0.0.0 shevchuk.onthe.io
+0.0.0.0 shftscdisov.com
 0.0.0.0 shglegle.com
 0.0.0.0 shgnts.net
 0.0.0.0 shgvuhvf.com
@@ -82491,6 +82503,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stjjp.msn.com
 0.0.0.0 stjude.co1.qualtrics.com
 0.0.0.0 stjude.qualtrics.com
+0.0.0.0 stkqkfhlscmcuh.com
 0.0.0.0 stkrwlodjvl.bid
 0.0.0.0 stl.p.a1.traceworks.com
 0.0.0.0 stla.eclick.vn
@@ -83235,6 +83248,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sweetbook.net
 0.0.0.0 sweeterge.info
 0.0.0.0 sweetsforfree.com
+0.0.0.0 sweetslope.com
 0.0.0.0 swegaiejcqfojl.com
 0.0.0.0 swelen.com
 0.0.0.0 swezbddhwcz.com
@@ -83536,6 +83550,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 szamponrevita.pl
 0.0.0.0 szc5.tlnk.io
 0.0.0.0 szczesliwydzien.com
+0.0.0.0 szdfteyb.com
 0.0.0.0 szemlelo.com
 0.0.0.0 szene-traffic.com
 0.0.0.0 szene1.oewabox.at
@@ -86415,6 +86430,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tpc.hu
 0.0.0.0 tpciletsgo.112.2o7.net
 0.0.0.0 tpcnc.googlesyndication.com
+0.0.0.0 tpdads.com
 0.0.0.0 tpdh.org
 0.0.0.0 tpdowdhhn.com
 0.0.0.0 tpdpidgyjhjn.com
@@ -90207,6 +90223,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ukdjbubvp.com
 0.0.0.0 ukdogshop.xyz
 0.0.0.0 ukdtx.31202.fun
+0.0.0.0 ukdzmuvtelq.com
 0.0.0.0 ukffjaqtxhor.com
 0.0.0.0 ukfitness.org
 0.0.0.0 ukjrbrvisps.bid
@@ -93179,6 +93196,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vpn-freeproxy.com
 0.0.0.0 vpn.adotmob.com
 0.0.0.0 vpn.appsflyer.com
+0.0.0.0 vpn.baolq666.com
 0.0.0.0 vpn.datafirst.io
 0.0.0.0 vpn.mediavine.com
 0.0.0.0 vpn.outbrain.com
@@ -94556,6 +94574,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 webtrekk.de
 0.0.0.0 webtrekk.mediaset.net
 0.0.0.0 webtrekk.net
+0.0.0.0 webtrends-optimize.com
 0.0.0.0 webtrends.besite.be
 0.0.0.0 webtrends.randallpub.com
 0.0.0.0 webtrends.telegraph.co.uk
@@ -98136,6 +98155,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ydolseawnutnf.com
 0.0.0.0 ydrdl825d4r.proxy.teads.tv
 0.0.0.0 ydthazdza.com
+0.0.0.0 ydtqlmsvocjp.com
 0.0.0.0 ydutvhtw.com
 0.0.0.0 ydwjfuhuiesrhp.com
 0.0.0.0 ydworld.com
