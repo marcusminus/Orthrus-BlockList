@@ -2491,6 +2491,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 4d5.net
 0.0.0.0 4ddpwkzfdq09i0ey6c4gi4zyqjair1516371602.nuid.imrworldwide.com
 0.0.0.0 4dexports.com
+0.0.0.0 4df5ef.xyz
 0.0.0.0 4dsbanner.com
 0.0.0.0 4dsbanner.net
 0.0.0.0 4dsply.com
@@ -4190,6 +4191,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 a.iogous.com
 0.0.0.0 a.itpro.co.uk
 0.0.0.0 a.jurnalu.ru
+0.0.0.0 a.kakoysegodnyaprazdnik.ru
 0.0.0.0 a.karmatrail.club
 0.0.0.0 a.kat.cr
 0.0.0.0 a.kaytri.com
@@ -90274,6 +90276,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uleadstrk.com
 0.0.0.0 ulenr.top
 0.0.0.0 uleypool.com
+0.0.0.0 ulfex.cn
 0.0.0.0 ulffbcunqnpv.com
 0.0.0.0 ulfp.eu.qualtrics.com
 0.0.0.0 ulhokncmea.bid
@@ -92228,6 +92231,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vgm.actonsoftware.com
 0.0.0.0 vgmarket.qualtrics.com
 0.0.0.0 vgmrqurgxlimcawbweuzbvbzxabsfuuxseldfapjmxoboaplmg.com
+0.0.0.0 vgnlhfdkmcdc.com
 0.0.0.0 vgo.vegaoo.de
 0.0.0.0 vgodvvcwrshk.com
 0.0.0.0 vgogzrukn.com
@@ -96188,6 +96192,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wscrsmuagezg.com
 0.0.0.0 wscvmnvhanbr.com
 0.0.0.0 wsdk-files.webengage.com
+0.0.0.0 wsemqlxmmhp.com
 0.0.0.0 wsfqmxdljrknkalwskqmefnonnyoqjmeapkmzqwghehedukmuj.com
 0.0.0.0 wshareit.com
 0.0.0.0 wshosting.ru
