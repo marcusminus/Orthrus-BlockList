@@ -47685,7 +47685,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 installp.com
 0.0.0.0 installtracker.com
 0.0.0.0 installtracker.unityads.unity3d.com
-0.0.0.0 instana.io
 0.0.0.0 instancetour.info
 0.0.0.0 instant-money-tips.com
 0.0.0.0 instantbannercreator.com
@@ -50232,6 +50231,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jydbctzvbqrh.com
 0.0.0.0 jyezgitcx.com
 0.0.0.0 jyfthtacsxkbp.com
+0.0.0.0 jygdjiocmt.com
 0.0.0.0 jyhfuqoh.info
 0.0.0.0 jyijwgsqj.com
 0.0.0.0 jyknnhll.yearbrazil.com
@@ -50543,6 +50543,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kdluruaor.com
 0.0.0.0 kdmilqoiaucqto.com
 0.0.0.0 kdmkauchahynhrs.ru
+0.0.0.0 kdmuqtxadtl.com
 0.0.0.0 kdoraraq.com
 0.0.0.0 kdowqlpt.info
 0.0.0.0 kdplay.net
@@ -51313,6 +51314,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kpucctqryjdvx.bid
 0.0.0.0 kpwhkeehpsp.bid
 0.0.0.0 kpwjtpgvowifq.com
+0.0.0.0 kpzsyqhje.com
 0.0.0.0 kpzvcvclybfa.com
 0.0.0.0 kq6dpekg1qudtxopifer33k4bnspc1509427312.nuid.imrworldwide.com
 0.0.0.0 kqaqantjwn.bid
@@ -71072,6 +71074,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qfsutura.com
 0.0.0.0 qftdsg.com
 0.0.0.0 qfubwupddefjw.com
+0.0.0.0 qfwjclpckrdehi.com
 0.0.0.0 qfymuoqugz.com
 0.0.0.0 qfypbqbumu.com
 0.0.0.0 qfzhppwfkenbmv.bid
@@ -80255,6 +80258,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stat-c.maxthon.com
 0.0.0.0 stat-counter.tass-online.ru
 0.0.0.0 stat-rock.com
+0.0.0.0 stat-track.com
 0.0.0.0 stat-well.com
 0.0.0.0 stat.4u.pl
 0.0.0.0 stat.56.com
@@ -84254,6 +84258,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 thputr.pro
 0.0.0.0 thqwivyhdpoem.com
 0.0.0.0 threadwatch.us.intellitxt.com
+0.0.0.0 threat-analytics.com
 0.0.0.0 three-jj.github.io
 0.0.0.0 three.d2.sc.omtrdc.net
 0.0.0.0 threechurch.com
@@ -88609,6 +88614,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uaxdkesuxtvu.com
 0.0.0.0 uayzbioy.com
 0.0.0.0 uazyqjztrhi.bid
+0.0.0.0 ub-analytics.com
 0.0.0.0 ub.co1.qualtrics.com
 0.0.0.0 uba3.tlnk.io
 0.0.0.0 ubacz7mothgp1ooc4e9xxyilud4ry1516220590.nuid.imrworldwide.com
@@ -97083,6 +97089,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yvxerfdxk.com
 0.0.0.0 yvyfyuacwz.com
 0.0.0.0 yvystpvmpnz.com
+0.0.0.0 yvytbqgmersgw.com
 0.0.0.0 yvzgazds6d.com
 0.0.0.0 yw9f088h61.com
 0.0.0.0 ywadk.top
@@ -97494,6 +97501,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zdqsrdamdgmn.com
 0.0.0.0 zdrawnews.ru
 0.0.0.0 zdrbq.voluumtrk.com
+0.0.0.0 zdsyifistjlag.com
 0.0.0.0 zdtag.com
 0.0.0.0 zdtl9z7cekzaqjbqhmukftuxthf2g1509524032.nuid.imrworldwide.com
 0.0.0.0 zdunex25.e398mod.com
