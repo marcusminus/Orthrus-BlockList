@@ -23443,6 +23443,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cadreon.com
 0.0.0.0 cadreon.s3.amazonaws.com
 0.0.0.0 cadsabs.com
+0.0.0.0 cadsecs.com
 0.0.0.0 cadsips.com
 0.0.0.0 cadskis.com
 0.0.0.0 cadulscdfhtcb.bid
@@ -43715,6 +43716,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hghm4u7b61.com
 0.0.0.0 hgirriqj.bid
 0.0.0.0 hgjywrorlbn.com
+0.0.0.0 hgofcd.com
 0.0.0.0 hgowmgat.com
 0.0.0.0 hgqgdt.mirtesen.ru
 0.0.0.0 hgqmkbpvmyn.bid
@@ -54197,6 +54199,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lucky-day-uk.com
 0.0.0.0 lucky1.marketo.com
 0.0.0.0 lucky88.com
+0.0.0.0 luckyads.tech
 0.0.0.0 luckyblank.info
 0.0.0.0 luckyclean.info
 0.0.0.0 luckyclear.info
@@ -66305,6 +66308,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pepimantas.es
 0.0.0.0 pepipo.com
 0.0.0.0 pepperdine.qualtrics.com
+0.0.0.0 pepperjam.com
 0.0.0.0 pepperjamnetwork.com
 0.0.0.0 pepperkoko-com-sg.b.appier.net
 0.0.0.0 pepperkoko-com.b.appier.net
