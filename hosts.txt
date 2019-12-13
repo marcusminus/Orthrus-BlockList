@@ -29789,6 +29789,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cxgwwsapihlo.com
 0.0.0.0 cxhfzipv.com
 0.0.0.0 cxhtodgorrq.com
+0.0.0.0 cxjrsb.com
 0.0.0.0 cxkllhjrrpjp.bid
 0.0.0.0 cxmakekcesubep.com
 0.0.0.0 cxmedia.co
@@ -39464,6 +39465,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 frontend-loadbalancer.meteorsolutions.com
 0.0.0.0 frontend.superads.cn
 0.0.0.0 frontgate.btttag.com
+0.0.0.0 frontier.musical.ly
 0.0.0.0 frontpage-stats.rbl.ms
 0.0.0.0 frontpagecash.com
 0.0.0.0 froshserv.com
@@ -53494,6 +53496,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 log1.survey.io
 0.0.0.0 log2.adop.cc
 0.0.0.0 log2.adsplay.net
+0.0.0.0 log2.musical.ly
 0.0.0.0 log2.ru
 0.0.0.0 log2.tapatalk.com
 0.0.0.0 log3.adsplay.net
@@ -95742,6 +95745,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xlnuj.com
 0.0.0.0 xlnwabndmqn.com
 0.0.0.0 xlog-va.byteoversea.com
+0.0.0.0 xlog-va.musical.ly
 0.0.0.0 xlog.byteoversea.com
 0.0.0.0 xlonhcld.xlontech.net
 0.0.0.0 xlounge.ru
