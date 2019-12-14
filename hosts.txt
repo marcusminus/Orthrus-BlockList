@@ -26556,6 +26556,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 clickpoint.com
 0.0.0.0 clickprotector.com
 0.0.0.0 clickpush.biz
+0.0.0.0 clickr.xyz
 0.0.0.0 clickredirection.com
 0.0.0.0 clickreport.com
 0.0.0.0 clicks-4entertainment.adhese.com
@@ -48837,6 +48838,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jade853gmbh.tt.omtrdc.net
 0.0.0.0 jadeitite.com
 0.0.0.0 jadizayo.com
+0.0.0.0 jads.co
 0.0.0.0 jadserve.postrelease.com
 0.0.0.0 jafarma.com
 0.0.0.0 jagoiklan.com
@@ -51296,6 +51298,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kpdn.ru
 0.0.0.0 kpehltcnwo.com
 0.0.0.0 kpeterstudio.com
+0.0.0.0 kpflkjpsdgnc.com
 0.0.0.0 kpgcnqxccssu.com
 0.0.0.0 kpgcyqkktm.bid
 0.0.0.0 kpgjogkbwjpmz.com
