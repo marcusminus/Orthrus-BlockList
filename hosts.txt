@@ -21442,6 +21442,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bnstero.com
 0.0.0.0 bnstnhto.com
 0.0.0.0 bntbcstglobal.112.2o7.net
+0.0.0.0 bntech.io
 0.0.0.0 bnutuin.com
 0.0.0.0 bnvxcfhdgf.blogspot.com.es
 0.0.0.0 bnwjoqkudmh.bid
@@ -29997,6 +29998,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d.dc121677.com
 0.0.0.0 d.eclick.vn
 0.0.0.0 d.exit-ad.com
+0.0.0.0 d.finative.eu
 0.0.0.0 d.fotw.xyz
 0.0.0.0 d.getaccss.com
 0.0.0.0 d.go-mpulse.net
@@ -30140,6 +30142,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d1m6l9dfulcyw7.cloudfront.net
 0.0.0.0 d1mib12jcgwmnv.cloudfront.net
 0.0.0.0 d1miuq6afqay8u.cloudfront.net
+0.0.0.0 d1miwkthq39xj8.cloudfront.net
 0.0.0.0 d1mroptkfdxko5.cloudfront.net
 0.0.0.0 d1mub3aw743hsf.cloudfront.net
 0.0.0.0 d1mxvenloqrqmu.cloudfront.net
