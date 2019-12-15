@@ -27925,6 +27925,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 consciousdirt.com
 0.0.0.0 consensad.com
 0.0.0.0 consent.23g.io
+0.0.0.0 consent.berliner-kurier.de
 0.0.0.0 consent.prismamedia.com
 0.0.0.0 consent.subscriptions.archant.co.uk
 0.0.0.0 consent.theneweuropean.co.uk
@@ -53243,6 +53244,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 loadeu.exelator.com
 0.0.0.0 loading-delivery2.com
 0.0.0.0 loading-resource.com
+0.0.0.0 loading-wsite.com
 0.0.0.0 loading321.com
 0.0.0.0 loadm.exelator.com
 0.0.0.0 loadmill.com
@@ -57528,6 +57530,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 minemonero.pro
 0.0.0.0 minemoney.co
 0.0.0.0 minemytraffic.com
+0.0.0.0 minently.com
 0.0.0.0 mineqrl.net
 0.0.0.0 miner.ad
 0.0.0.0 miner.center
@@ -61536,6 +61539,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 notify.bugsnag.com
 0.0.0.0 notify.mgid.com
 0.0.0.0 notify.nuviad.com
+0.0.0.0 notify.rocks
 0.0.0.0 notify.support
 0.0.0.0 notify.traffic-media.co.uk
 0.0.0.0 notify.zhushou.sogou.com
@@ -81382,6 +81386,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stm.sokrati.com
 0.0.0.0 stmediagroup-d.openx.net
 0.0.0.0 stnvgvtwzzrh.com
+0.0.0.0 stoashou.net
 0.0.0.0 stock.daydreamfuze.com
 0.0.0.0 stocker.bonnint.net
 0.0.0.0 stockgroup.us.intellitxt.com
