@@ -11431,6 +11431,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adsclicktech.com
 0.0.0.0 adsco.re
 0.0.0.0 adscoin.ml
+0.0.0.0 adscorp.win
 0.0.0.0 adscpm.com
 0.0.0.0 adscpm.net
 0.0.0.0 adscpm.site
@@ -26466,6 +26467,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 clickgate.biz
 0.0.0.0 clickgem.com
 0.0.0.0 clickgp.gyao.jp
+0.0.0.0 clickguard.com
 0.0.0.0 clickguardian.co.uk
 0.0.0.0 clickheat.topbucks.com
 0.0.0.0 clickhere.ru
@@ -27553,6 +27555,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 collector.ksax.com
 0.0.0.0 collector.kstptv5.com
 0.0.0.0 collector.leaddyno.com
+0.0.0.0 collector.mazeberry.com
 0.0.0.0 collector.newrelic.com
 0.0.0.0 collector.newsx.cc
 0.0.0.0 collector.nextguide.tv
@@ -33379,6 +33382,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ds56sd463k.kameleoon.eu
 0.0.0.0 dsa.moatads.com
 0.0.0.0 dsa.pl
+0.0.0.0 dsaiwxrneawj.com
 0.0.0.0 dsajyuxsuzv1bsqjfundls0wsqs631507500612.nuid.imrworldwide.com
 0.0.0.0 dsar.ziffdavis.com
 0.0.0.0 dsd.everydayporn.co
@@ -38518,6 +38522,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fls.doubleclick.net
 0.0.0.0 fls.uk.doubleclick.net
 0.0.0.0 flsaudio.com
+0.0.0.0 flsfxpostdtvgc.com
 0.0.0.0 flttracksecure.com
 0.0.0.0 flu23.com
 0.0.0.0 fluct.jp
@@ -40676,6 +40681,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 geo.kontagent.net
 0.0.0.0 geo.ltassrv.com
 0.0.0.0 geo.metronews.ca
+0.0.0.0 geo.mezr.com
 0.0.0.0 geo.moatads.com
 0.0.0.0 geo.moatads.comgeo.moatads.com
 0.0.0.0 geo.mozilla.org
@@ -47889,6 +47895,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 intf.cnzz.com
 0.0.0.0 intgr.net
 0.0.0.0 intguide.ucweb.com
+0.0.0.0 inti24.com
 0.0.0.0 intim.love
 0.0.0.0 intimlife.net
 0.0.0.0 intimmag.ru
@@ -48309,6 +48316,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 iscaebizkzyd.com
 0.0.0.0 isdlyvhegxxz.com
 0.0.0.0 isettatech.com
+0.0.0.0 isffnlbsuyinnv.com
 0.0.0.0 isfmvohloskgw.com
 0.0.0.0 isfouztifttwha.bid
 0.0.0.0 isfxsiooyjad.com
@@ -51183,6 +51191,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kolorowy-fejs.blogspot.com
 0.0.0.0 koloryfejsa.blogspot.com
 0.0.0.0 koltruah.com
+0.0.0.0 kolur.top
 0.0.0.0 kolwksic.com
 0.0.0.0 komachi.yomiuri.co.jp
 0.0.0.0 komatireddy.net
@@ -63780,6 +63789,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 onuwbarslrii.bid
 0.0.0.0 onvertise.com
 0.0.0.0 onvhilwrqdgd.com
+0.0.0.0 onvictinitor.com
 0.0.0.0 onvid.club
 0.0.0.0 onvis.ivwbox.de
 0.0.0.0 onward.adworx.at
@@ -64033,6 +64043,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 opoefqthl.bid
 0.0.0.0 opointop2015.112.2o7.net
 0.0.0.0 oponykarbownik.pl
+0.0.0.0 opoxv.com
 0.0.0.0 oppcgcqytazs.com
 0.0.0.0 oppo.yidianzixun.com
 0.0.0.0 opps.taboola.com
@@ -64485,6 +64496,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 otrjvabiv.bid
 0.0.0.0 otrs.fyber.com
 0.0.0.0 otruzjgxof.com
+0.0.0.0 otrwaram.com
 0.0.0.0 ots.optimize.webtrends.com
 0.0.0.0 otsserver.com
 0.0.0.0 ottacknet.112.2o7.net
@@ -66429,6 +66441,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 perspectiveproperty.co.uk
 0.0.0.0 pertholin.com
 0.0.0.0 peruvianconnection.evergage.com
+0.0.0.0 perymiynf.com
 0.0.0.0 pesbqkopdm.com
 0.0.0.0 pescariaurbana.net
 0.0.0.0 pespn.chartbeat.net
@@ -75906,6 +75919,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 scdn.liveclicker.net
 0.0.0.0 scdown.qq.com
 0.0.0.0 scdsfdfgdr12.tk
+0.0.0.0 sceieibhpdday.com
 0.0.0.0 scelebnow.xyz
 0.0.0.0 scenbe.com
 0.0.0.0 scene-ads.biz
@@ -85593,6 +85607,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 track.beachfrontreach.com
 0.0.0.0 track.beeketing.com
 0.0.0.0 track.beginb.net
+0.0.0.0 track.berliner-kurier.de
 0.0.0.0 track.bernerzeitung.ch
 0.0.0.0 track.bestpromobiapps.com
 0.0.0.0 track.bestwesternlex.com
@@ -87988,6 +88003,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ttxqfeuiakgn.bid
 0.0.0.0 ttyvbqif.bid
 0.0.0.0 ttzmedia.com
+0.0.0.0 tu.7j813.cn
 0.0.0.0 tu.connect.wunderloop.net
 0.0.0.0 tu.dxcnd.cn
 0.0.0.0 tu.hiido.com
@@ -90178,6 +90194,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uudehlgu.com
 0.0.0.0 uue2.destinia.ir
 0.0.0.0 uue5zj9bxu4w0f0dr7umqmlpmf5ya1515421741.nuid.imrworldwide.com
+0.0.0.0 uufbvpidyn.com
 0.0.0.0 uuidksinc.net
 0.0.0.0 uuiqhzpvfql.com
 0.0.0.0 uujzywpxxrroh.com
@@ -90780,6 +90797,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vcube-vvp.com
 0.0.0.0 vcupsych.co1.qualtrics.com
 0.0.0.0 vcvapkiua.com
+0.0.0.0 vcvefwzdxhysh.com
 0.0.0.0 vcwdjbbughuy.com
 0.0.0.0 vcwrigdrnh.com
 0.0.0.0 vcxoizuwy.com
@@ -95363,6 +95381,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 x.clickcertain.com
 0.0.0.0 x.cnt.my
 0.0.0.0 x.dlx.addthis.com
+0.0.0.0 x.dmouy.cn
 0.0.0.0 x.domdex.com
 0.0.0.0 x.everesttech.net
 0.0.0.0 x.fidelity-media.com
