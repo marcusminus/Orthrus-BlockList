@@ -19945,6 +19945,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 beacon-fullpage-predictor.goguardian.com
 0.0.0.0 beacon-us-iad2.rubiconproject.com
 0.0.0.0 beacon-us-west.rubiconproject.com
+0.0.0.0 beacon-v2.helpscout.net
 0.0.0.0 beacon.9165619.com
 0.0.0.0 beacon.affil.walmart.com
 0.0.0.0 beacon.aimtell.com
@@ -21057,6 +21058,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 black-diamond.asia
 0.0.0.0 black-js.github.io
 0.0.0.0 black6adv.com
+0.0.0.0 black77854.com
 0.0.0.0 blackbaud.co1.qualtrics.com
 0.0.0.0 blackchek.popunder.ru
 0.0.0.0 blackfalcon5.net
@@ -25103,11 +25105,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdooewrzvec.com
 0.0.0.0 cdookjqkri.com
 0.0.0.0 cdp.cloud.unity3d.com
-0.0.0.0 cdqmeyhqrwinofutpcepbahedusocxqyfokvehqlqpusttfwve.com
 0.0.0.0 cdqweuwvagrbd.com
 0.0.0.0 cdreviews.us.intellitxt.com
 0.0.0.0 cdrinfo.us.intellitxt.com
-0.0.0.0 cdrjblrhsuxljwesjholugzxwukkerpobmonocjygnautvzjjm.com
 0.0.0.0 cdrom-guide.us.intellitxt.com
 0.0.0.0 cds-eu-1.taboola.com
 0.0.0.0 cds-us-east-1.taboola.com
@@ -26035,7 +26035,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 civyssfaqtufib.com
 0.0.0.0 ciwbezny.com
 0.0.0.0 cixjiydrsyq.bid
-0.0.0.0 cixjmaxkemzknxxuyvkbzlhvvgeqmzgopppvefpfkqdraonoez.com
 0.0.0.0 cixvlpbnceh.com
 0.0.0.0 ciyrc.watchmovie.fun
 0.0.0.0 cizemeshbbc.com
@@ -28415,6 +28414,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cosmos.inmobi.com
 0.0.0.0 cosmos.marfeel.com
 0.0.0.0 cosmos.mirtesen.ru
+0.0.0.0 cosmosjackson.com
 0.0.0.0 cossette.adgear.com
 0.0.0.0 cossioweb.es
 0.0.0.0 cost1action.com
@@ -29042,7 +29042,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 crazypopups.com
 0.0.0.0 crazyprotocol.com
 0.0.0.0 crazyshoes.club
-0.0.0.0 crazyvideosempire.com
 0.0.0.0 crb-r.tlnk.io
 0.0.0.0 crcdn01.adnxs.com
 0.0.0.0 crcdn09.adnxs.com
@@ -29508,7 +29507,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ctm-media.com
 0.0.0.0 ctmconnect.com
 0.0.0.0 ctnbnbjcjfkf.bid
-0.0.0.0 ctnet2.in
 0.0.0.0 ctnetwork.hu
 0.0.0.0 ctnsnet.com
 0.0.0.0 ctohqzii.com
@@ -29762,13 +29760,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 cxjrsb.com
 0.0.0.0 cxkllhjrrpjp.bid
 0.0.0.0 cxmakekcesubep.com
-0.0.0.0 cxmedia.co
 0.0.0.0 cxmolk.com
 0.0.0.0 cxnxognwkuxm.com
 0.0.0.0 cxoadfarm.dyndns.info
 0.0.0.0 cxociocom.112.2o7.net
 0.0.0.0 cxocomdev.112.2o7.net
-0.0.0.0 cxoxruotepqgcvgqxdlwwucgyazmbkhdojqzihljdwwfeylovh.com
 0.0.0.0 cxpublic.com
 0.0.0.0 cxqevkkfhdqu.bid
 0.0.0.0 cxqmzfcfcwbwv.com
@@ -30720,7 +30716,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dash.parsely.com
 0.0.0.0 dash.permutive.com
 0.0.0.0 dash001.prxio.site
-0.0.0.0 dashad.io
 0.0.0.0 dashbida.com
 0.0.0.0 dashbo15myapp.com
 0.0.0.0 dashboard.53.localytics.com
@@ -31998,7 +31993,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dgulden.ru
 0.0.0.0 dgulomuzgkyjhe.bid
 0.0.0.0 dgw7ae5vrovs7.cloudfront.net
-0.0.0.0 dgwrxyucxpizivncznkpmdhtrdzyyylpoeitiannqfxmdzpmwx.com
 0.0.0.0 dgwyckutalyqcn.com
 0.0.0.0 dgycvdyncugrd.bid
 0.0.0.0 dh.serving-sys.com
@@ -32458,7 +32452,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 djwnatural.go2cloud.org
 0.0.0.0 djxvususwvso.com
 0.0.0.0 djz9es32qen64.cloudfront.net
-0.0.0.0 djzmpsingsrtfsnbnkphyagxdemeagsiabguuqbiqvpupamgej.com
 0.0.0.0 dk-berlingske.a.videoplaza.tv
 0.0.0.0 dk-berlingske.cdn.videoplaza.tv
 0.0.0.0 dk-ekstrabladet.a.videoplaza.tv
@@ -32500,7 +32493,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dkm6b5q0h53z4.cloudfront.net
 0.0.0.0 dkmdklhu.com
 0.0.0.0 dkorusxgputkrb.com
-0.0.0.0 dkrhsftochvzqryurlptloayhlpftkogvzptcmjlwjgymcfrmv.com
 0.0.0.0 dkroonzvxvansw.com
 0.0.0.0 dkspqpprnsmmte.com
 0.0.0.0 dksvmumbi.com
@@ -32763,7 +32755,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 doastebu.net
 0.0.0.0 doathair.com
 0.0.0.0 dobbenetes.com
-0.0.0.0 dobgfkflsnmpaeetycphmcloiijxbvxeyfxgjdlczcuuaxmdzz.com
 0.0.0.0 dobjgpqzygow.com
 0.0.0.0 dobre-programy.pl
 0.0.0.0 dobre-programy.xyz
@@ -33680,7 +33671,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dwbqmlvjpvv.com
 0.0.0.0 dwclick.com
 0.0.0.0 dwcreations.net
-0.0.0.0 dwentymgplvrizqhieugzkozmqjxrxcyxeqdjvcbjmrhnkguwk.com
 0.0.0.0 dwf6crl4raal7.cloudfront.net
 0.0.0.0 dwgfwxiecp.com
 0.0.0.0 dwhvkier.com
@@ -34303,7 +34293,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 eastsideboxing.us.intellitxt.com
 0.0.0.0 eastwestbank.co1.qualtrics.com
 0.0.0.0 easy-ads.com
-0.0.0.0 easy-adserver.com
 0.0.0.0 easy-dating.org
 0.0.0.0 easy-hit-counter.com
 0.0.0.0 easy-hit-counters.com
@@ -34518,7 +34507,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ecma.bdimg.com
 0.0.0.0 ecmb.bdimg.com
 0.0.0.0 ecmc.bdimg.com
-0.0.0.0 ecmeqhxevxgmtoxubrjstrrlyfgrrtqhvafyagettmwnwkwltn.com
 0.0.0.0 ecn5.com
 0.0.0.0 ecnads1.msn.com
 0.0.0.0 eco-flow.pl
@@ -34768,7 +34756,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 eepn.us.intellitxt.com
 0.0.0.0 eeps.me
 0.0.0.0 eepuawuevovi.com
-0.0.0.0 eeqabqioietkquydwxfgvtvpxpzkuilfcpzkplhcckoghwgacb.com
 0.0.0.0 eeqlxzpqqaii.com
 0.0.0.0 eeqw9okzvsj8lzmfumievtyqnamtj1509495470.nuid.imrworldwide.com
 0.0.0.0 eerdckbwujcx.com
@@ -34870,6 +34857,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 egtkhpkkfswf.com
 0.0.0.0 egton-d.openx.net
 0.0.0.0 egxkjjqke.bid
+0.0.0.0 egyanime.com
 0.0.0.0 egyazegyben.com
 0.0.0.0 egyenesen.com
 0.0.0.0 egypolice.com
@@ -35352,7 +35340,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 emboba.info
 0.0.0.0 embols.com
 0.0.0.0 embraceable-venom.eu
-0.0.0.0 embraceablemidpointcinnabar.com
 0.0.0.0 embrassez.com
 0.0.0.0 emc.122.2o7.net
 0.0.0.0 emdbszgmxggo.com
@@ -37371,7 +37358,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 farfetchca.widget.criteo.com
 0.0.0.0 fargofinanse.pl
 0.0.0.0 fark-d.openx.net
-0.0.0.0 farkkbndawtxczozilrrrunxflspkyowishacdueiqzeddsnuu.com
 0.0.0.0 farlex-d.openx.net
 0.0.0.0 farlexintl-d.openx.net
 0.0.0.0 farm-de.plista.com
@@ -37381,6 +37367,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 farmheroesmobile.king.com
 0.0.0.0 farmius.org
 0.0.0.0 farpeiros.pw
+0.0.0.0 farshake.com
 0.0.0.0 farvqaxaoid.com
 0.0.0.0 fas.catholicgreatestinterpret.xyz
 0.0.0.0 fascinatedfeather.com
@@ -40642,6 +40629,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 genieventures.t.domdex.com
 0.0.0.0 geniusbanners.com
 0.0.0.0 geniusbetter.com
+0.0.0.0 geniusdexchange.com
 0.0.0.0 geniusdisplay.com
 0.0.0.0 geniusonclick.com
 0.0.0.0 geniustrainer.net
@@ -42671,6 +42659,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 guildofangels.net
 0.0.0.0 guile.jp
 0.0.0.0 guillermorodriguez.es
+0.0.0.0 guiltlessbasketball.com
 0.0.0.0 guimaraesconstrutorasjc.com.br
 0.0.0.0 guitaralliance.com
 0.0.0.0 guitarbelieve.com
@@ -50413,6 +50402,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kaplanresearch.co1.qualtrics.com
 0.0.0.0 kaplanresearch.qualtrics.com
 0.0.0.0 kaprazatos.club
+0.0.0.0 kapuaawase.com
 0.0.0.0 kaqtvgcy.bid
 0.0.0.0 kar.uptoabc.com
 0.0.0.0 karaokepesni.ru
@@ -64046,6 +64036,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 opoxv.com
 0.0.0.0 oppcgcqytazs.com
 0.0.0.0 oppo.yidianzixun.com
+0.0.0.0 opportancen.info
 0.0.0.0 opps.taboola.com
 0.0.0.0 oppscorp.com
 0.0.0.0 opr.formulas.jp
@@ -64777,6 +64768,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 oybahnktadxjju.com
 0.0.0.0 oyfncnedrymc.com
 0.0.0.0 oyfsdpmhncobvj.com
+0.0.0.0 oyhnizdr4bxkz0.com
 0.0.0.0 oyi9f1kbaj.com
 0.0.0.0 oyiqkjsjmmde.com
 0.0.0.0 oyiqurfqulhuq.com
@@ -70974,6 +70966,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qbeoyasaiz.com
 0.0.0.0 qbfibmzxaqtfi.com
 0.0.0.0 qbfvwovkuewm.com
+0.0.0.0 qbfzmwamsid.com
 0.0.0.0 qbhcfxxivcdfm.com
 0.0.0.0 qbittorrent.com
 0.0.0.0 qbjnwjtbfrxceq.com
@@ -81406,6 +81399,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stevemadden.btttag.com
 0.0.0.0 stevenshowe.co1.qualtrics.com
 0.0.0.0 stf779.ru
+0.0.0.0 stfowevsn.com
 0.0.0.0 stg-analytics.qlitics.com
 0.0.0.0 stg-data-collector.playbuzz.com
 0.0.0.0 stg.adx1.com
@@ -81448,6 +81442,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stlbmyezzth.bid
 0.0.0.0 stm.sokrati.com
 0.0.0.0 stmediagroup-d.openx.net
+0.0.0.0 stmentaustr.info
 0.0.0.0 stnvgvtwzzrh.com
 0.0.0.0 stoashou.net
 0.0.0.0 stock.daydreamfuze.com
@@ -84288,6 +84283,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 thoritismsecutive.info
 0.0.0.0 thoroclean.com
 0.0.0.0 thoseads.com
+0.0.0.0 thoudroa.net
 0.0.0.0 thoughtcatalog-d.openx.net
 0.0.0.0 thoughtfully-free.com
 0.0.0.0 thoughtleadr.com
