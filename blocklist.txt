@@ -19957,6 +19957,7 @@
 ||beacon-fullpage-predictor.goguardian.com^
 ||beacon-us-iad2.rubiconproject.com^
 ||beacon-us-west.rubiconproject.com^
+||beacon-v2.helpscout.net^
 ||beacon.9165619.com^
 ||beacon.affil.walmart.com^
 ||beacon.aimtell.com^
@@ -21070,6 +21071,7 @@
 ||black-diamond.asia^
 ||black-js.github.io^
 ||black6adv.com^
+||black77854.com^
 ||blackbaud.co1.qualtrics.com^
 ||blackchek.popunder.ru^
 ||blackfalcon5.net^
@@ -25122,11 +25124,9 @@
 ||cdooewrzvec.com^
 ||cdookjqkri.com^
 ||cdp.cloud.unity3d.com^
-||cdqmeyhqrwinofutpcepbahedusocxqyfokvehqlqpusttfwve.com^
 ||cdqweuwvagrbd.com^
 ||cdreviews.us.intellitxt.com^
 ||cdrinfo.us.intellitxt.com^
-||cdrjblrhsuxljwesjholugzxwukkerpobmonocjygnautvzjjm.com^
 ||cdrom-guide.us.intellitxt.com^
 ||cds-eu-1.taboola.com^
 ||cds-us-east-1.taboola.com^
@@ -26055,7 +26055,6 @@
 ||civyssfaqtufib.com^
 ||ciwbezny.com^
 ||cixjiydrsyq.bid^
-||cixjmaxkemzknxxuyvkbzlhvvgeqmzgopppvefpfkqdraonoez.com^
 ||cixvlpbnceh.com^
 ||ciyrc.watchmovie.fun^
 ||cizemeshbbc.com^
@@ -28441,6 +28440,7 @@
 ||cosmos.inmobi.com^
 ||cosmos.marfeel.com^
 ||cosmos.mirtesen.ru^
+||cosmosjackson.com^
 ||cossette.adgear.com^
 ||cossioweb.es^
 ||cost1action.com^
@@ -29071,7 +29071,6 @@
 ||crazypopups.com^
 ||crazyprotocol.com^
 ||crazyshoes.club^
-||crazyvideosempire.com^
 ||crb-r.tlnk.io^
 ||crcdn01.adnxs.com^
 ||crcdn09.adnxs.com^
@@ -29537,7 +29536,6 @@
 ||ctm-media.com^
 ||ctmconnect.com^
 ||ctnbnbjcjfkf.bid^
-||ctnet2.in^
 ||ctnetwork.hu^
 ||ctnsnet.com^
 ||ctohqzii.com^
@@ -29791,13 +29789,11 @@
 ||cxjrsb.com^
 ||cxkllhjrrpjp.bid^
 ||cxmakekcesubep.com^
-||cxmedia.co^
 ||cxmolk.com^
 ||cxnxognwkuxm.com^
 ||cxoadfarm.dyndns.info^
 ||cxociocom.112.2o7.net^
 ||cxocomdev.112.2o7.net^
-||cxoxruotepqgcvgqxdlwwucgyazmbkhdojqzihljdwwfeylovh.com^
 ||cxpublic.com^
 ||cxqevkkfhdqu.bid^
 ||cxqmzfcfcwbwv.com^
@@ -30749,7 +30745,6 @@
 ||dash.parsely.com^
 ||dash.permutive.com^
 ||dash001.prxio.site^
-||dashad.io^
 ||dashbida.com^
 ||dashbo15myapp.com^
 ||dashboard.53.localytics.com^
@@ -32032,7 +32027,6 @@
 ||dgulden.ru^
 ||dgulomuzgkyjhe.bid^
 ||dgw7ae5vrovs7.cloudfront.net^
-||dgwrxyucxpizivncznkpmdhtrdzyyylpoeitiannqfxmdzpmwx.com^
 ||dgwyckutalyqcn.com^
 ||dgycvdyncugrd.bid^
 ||dh.serving-sys.com^
@@ -32492,7 +32486,6 @@
 ||djwnatural.go2cloud.org^
 ||djxvususwvso.com^
 ||djz9es32qen64.cloudfront.net^
-||djzmpsingsrtfsnbnkphyagxdemeagsiabguuqbiqvpupamgej.com^
 ||dk-berlingske.a.videoplaza.tv^
 ||dk-berlingske.cdn.videoplaza.tv^
 ||dk-ekstrabladet.a.videoplaza.tv^
@@ -32534,7 +32527,6 @@
 ||dkm6b5q0h53z4.cloudfront.net^
 ||dkmdklhu.com^
 ||dkorusxgputkrb.com^
-||dkrhsftochvzqryurlptloayhlpftkogvzptcmjlwjgymcfrmv.com^
 ||dkroonzvxvansw.com^
 ||dkspqpprnsmmte.com^
 ||dksvmumbi.com^
@@ -32797,7 +32789,6 @@
 ||doastebu.net^
 ||doathair.com^
 ||dobbenetes.com^
-||dobgfkflsnmpaeetycphmcloiijxbvxeyfxgjdlczcuuaxmdzz.com^
 ||dobjgpqzygow.com^
 ||dobre-programy.pl^
 ||dobre-programy.xyz^
@@ -33716,7 +33707,6 @@
 ||dwbqmlvjpvv.com^
 ||dwclick.com^
 ||dwcreations.net^
-||dwentymgplvrizqhieugzkozmqjxrxcyxeqdjvcbjmrhnkguwk.com^
 ||dwf6crl4raal7.cloudfront.net^
 ||dwgfwxiecp.com^
 ||dwhvkier.com^
@@ -34339,7 +34329,6 @@
 ||eastsideboxing.us.intellitxt.com^
 ||eastwestbank.co1.qualtrics.com^
 ||easy-ads.com^
-||easy-adserver.com^
 ||easy-dating.org^
 ||easy-hit-counter.com^
 ||easy-hit-counters.com^
@@ -34555,7 +34544,6 @@
 ||ecma.bdimg.com^
 ||ecmb.bdimg.com^
 ||ecmc.bdimg.com^
-||ecmeqhxevxgmtoxubrjstrrlyfgrrtqhvafyagettmwnwkwltn.com^
 ||ecn5.com^
 ||ecnads1.msn.com^
 ||eco-flow.pl^
@@ -34805,7 +34793,6 @@
 ||eepn.us.intellitxt.com^
 ||eeps.me^
 ||eepuawuevovi.com^
-||eeqabqioietkquydwxfgvtvpxpzkuilfcpzkplhcckoghwgacb.com^
 ||eeqlxzpqqaii.com^
 ||eeqw9okzvsj8lzmfumievtyqnamtj1509495470.nuid.imrworldwide.com^
 ||eerdckbwujcx.com^
@@ -34907,6 +34894,7 @@
 ||egtkhpkkfswf.com^
 ||egton-d.openx.net^
 ||egxkjjqke.bid^
+||egyanime.com^
 ||egyazegyben.com^
 ||egyenesen.com^
 ||egypolice.com^
@@ -35389,7 +35377,6 @@
 ||emboba.info^
 ||embols.com^
 ||embraceable-venom.eu^
-||embraceablemidpointcinnabar.com^
 ||embrassez.com^
 ||emc.122.2o7.net^
 ||emdbszgmxggo.com^
@@ -37410,7 +37397,6 @@
 ||farfetchca.widget.criteo.com^
 ||fargofinanse.pl^
 ||fark-d.openx.net^
-||farkkbndawtxczozilrrrunxflspkyowishacdueiqzeddsnuu.com^
 ||farlex-d.openx.net^
 ||farlexintl-d.openx.net^
 ||farm-de.plista.com^
@@ -37420,6 +37406,7 @@
 ||farmheroesmobile.king.com^
 ||farmius.org^
 ||farpeiros.pw^
+||farshake.com^
 ||farvqaxaoid.com^
 ||fas.catholicgreatestinterpret.xyz^
 ||fascinatedfeather.com^
@@ -40685,6 +40672,7 @@
 ||genieventures.t.domdex.com^
 ||geniusbanners.com^
 ||geniusbetter.com^
+||geniusdexchange.com^
 ||geniusdisplay.com^
 ||geniusonclick.com^
 ||geniustrainer.net^
@@ -42721,6 +42709,7 @@
 ||guildofangels.net^
 ||guile.jp^
 ||guillermorodriguez.es^
+||guiltlessbasketball.com^
 ||guimaraesconstrutorasjc.com.br^
 ||guitaralliance.com^
 ||guitarbelieve.com^
@@ -50474,6 +50463,7 @@
 ||kaplanresearch.co1.qualtrics.com^
 ||kaplanresearch.qualtrics.com^
 ||kaprazatos.club^
+||kapuaawase.com^
 ||kaqtvgcy.bid^
 ||kar.uptoabc.com^
 ||karaokepesni.ru^
@@ -64128,6 +64118,7 @@
 ||opoxv.com^
 ||oppcgcqytazs.com^
 ||oppo.yidianzixun.com^
+||opportancen.info^
 ||opps.taboola.com^
 ||oppscorp.com^
 ||opr.formulas.jp^
@@ -64860,6 +64851,7 @@
 ||oybahnktadxjju.com^
 ||oyfncnedrymc.com^
 ||oyfsdpmhncobvj.com^
+||oyhnizdr4bxkz0.com^
 ||oyi9f1kbaj.com^
 ||oyiqkjsjmmde.com^
 ||oyiqurfqulhuq.com^
@@ -71065,6 +71057,7 @@
 ||qbeoyasaiz.com^
 ||qbfibmzxaqtfi.com^
 ||qbfvwovkuewm.com^
+||qbfzmwamsid.com^
 ||qbhcfxxivcdfm.com^
 ||qbittorrent.com^
 ||qbjnwjtbfrxceq.com^
@@ -81514,6 +81507,7 @@
 ||stevemadden.btttag.com^
 ||stevenshowe.co1.qualtrics.com^
 ||stf779.ru^
+||stfowevsn.com^
 ||stg-analytics.qlitics.com^
 ||stg-data-collector.playbuzz.com^
 ||stg.adx1.com^
@@ -81556,6 +81550,7 @@
 ||stlbmyezzth.bid^
 ||stm.sokrati.com^
 ||stmediagroup-d.openx.net^
+||stmentaustr.info^
 ||stnvgvtwzzrh.com^
 ||stoashou.net^
 ||stock.daydreamfuze.com^
@@ -84403,6 +84398,7 @@
 ||thoritismsecutive.info^
 ||thoroclean.com^
 ||thoseads.com^
+||thoudroa.net^
 ||thoughtcatalog-d.openx.net^
 ||thoughtfully-free.com^
 ||thoughtleadr.com^
