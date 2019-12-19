@@ -1651,6 +1651,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 2rfcdozkjcz46nqqhrbprylvm5ea71516371350.nuid.imrworldwide.com
 0.0.0.0 2rich4bitches.com
 0.0.0.0 2sexy.ro
+0.0.0.0 2sfygwfxvsxv.info
 0.0.0.0 2site.com
 0.0.0.0 2sm6o.voluumtrk.com
 0.0.0.0 2snaps.us.intellitxt.com
@@ -17302,6 +17303,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 apxadtracking.net
 0.0.0.0 apxlv.com
 0.0.0.0 apxtarget.com
+0.0.0.0 apxy.io
 0.0.0.0 apycomm.com
 0.0.0.0 apyecom.com
 0.0.0.0 apyoth.com
@@ -26865,6 +26867,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cloudcoins.co
 0.0.0.0 cloudcrown.com
 0.0.0.0 cloudera.demdex.net
+0.0.0.0 cloudfastads.ru
 0.0.0.0 cloudflane.com
 0.0.0.0 cloudflare.solutions
 0.0.0.0 cloudflareinsights.com
@@ -32038,6 +32041,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 diadeboda.es
 0.0.0.0 diag.atdmt.com
 0.0.0.0 diageogreatbritainltd.d3.sc.omtrdc.net
+0.0.0.0 diagnose.igstatic.com
 0.0.0.0 dialerporn.com
 0.0.0.0 dialgold.com
 0.0.0.0 dialin.adx1.com
@@ -33596,7 +33600,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dupionet.com
 0.0.0.0 duplicatefilecleaner.com
 0.0.0.0 durakbufecengelkoy.com
-0.0.0.0 durasite.net
 0.0.0.0 durazopa.com
 0.0.0.0 durinsmine.com
 0.0.0.0 durlpx.moatads.com
@@ -39566,6 +39569,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ftymjfywuyv.com
 0.0.0.0 ftymzxmic.com
 0.0.0.0 ftytssqazcqx.com
+0.0.0.0 ftz.io
 0.0.0.0 fu.datafirst.io
 0.0.0.0 fu.golikeus.net
 0.0.0.0 fuaawvoqbzza.com
@@ -41479,6 +41483,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gnaizrodp.com
 0.0.0.0 gnarkscom.t.domdex.com
 0.0.0.0 gncfttutoiwwq.com
+0.0.0.0 gndrglsn.com
 0.0.0.0 gnetic.t.domdex.com
 0.0.0.0 gnezdo.ru
 0.0.0.0 gnimelf.net
@@ -45336,6 +45341,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 i.frg.im
 0.0.0.0 i.hailhydra.org
 0.0.0.0 i.hotkeys.com
+0.0.0.0 i.ibb.co
 0.0.0.0 i.image-ad.jp
 0.0.0.0 i.imedia.cz
 0.0.0.0 i.imgbox.com
@@ -50763,6 +50769,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 khuyenmaitet.ad360.vn
 0.0.0.0 khvfg.com
 0.0.0.0 khwfemkr.bid
+0.0.0.0 khwojmneehfl.com
 0.0.0.0 khzbeucrltin.com
 0.0.0.0 khzehmdyybvicy.com
 0.0.0.0 kib.adx1.com
@@ -63073,6 +63080,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ofwznbbxso.com
 0.0.0.0 ofy3m0gp.com
 0.0.0.0 ofzoxqcldl.com
+0.0.0.0 og.zyzjpx.cn
 0.0.0.0 ogamon.win
 0.0.0.0 ogbamfpcfac.bid
 0.0.0.0 ogbwqq.gkwtk.xyz
@@ -70776,6 +70784,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 px3792.com
 0.0.0.0 px51gu3a09.kameleoon.eu
 0.0.0.0 pxarwmerpavfmomfyjwuuinxaipktnanwlkvbmuldgimposwzm.com
+0.0.0.0 pxbryexcnyz.com
 0.0.0.0 pxbugrgwy.com
 0.0.0.0 pxc.otto.de
 0.0.0.0 pxcel.sharethis.com
@@ -86914,6 +86923,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tracking.ladies.de
 0.0.0.0 tracking.lay-ota.fr
 0.0.0.0 tracking.layo-ta.fr
+0.0.0.0 tracking.leadlander.com
 0.0.0.0 tracking.leanmobi.com
 0.0.0.0 tracking.legacyoffers.com
 0.0.0.0 tracking.lengow.com
@@ -88496,6 +88506,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tzlijsurxh.bid
 0.0.0.0 tzmfunsnqkwlp.com
 0.0.0.0 tzode.com
+0.0.0.0 tztcvkhqrzjt.com
 0.0.0.0 tzw.com
 0.0.0.0 tzwaw.pw
 0.0.0.0 tzwcaamgd.bid
@@ -94459,6 +94470,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wrdgswma3iyqcrpx2gdhslh8pwd5i1509493760.nuid.imrworldwide.com
 0.0.0.0 wredint.com
 0.0.0.0 wrestling-edge.us.intellitxt.com
+0.0.0.0 wrfrxgft.com
 0.0.0.0 wrhpnrkdkbqi.com
 0.0.0.0 wrierville.com
 0.0.0.0 wrig.pl
@@ -96257,6 +96269,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xyo8s8qdiy.kameleoon.eu
 0.0.0.0 xyrsmmsqbxu.proxy.teads.tv
 0.0.0.0 xywdvhd.com
+0.0.0.0 xywwomayptsd.com
 0.0.0.0 xyxudubax.angelcities.com
 0.0.0.0 xyz.freelogs.com
 0.0.0.0 xyz.freeweblogger.com
@@ -96480,6 +96493,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ycyrgutjregkw.com
 0.0.0.0 yczdebjfskegsd.com
 0.0.0.0 ydaynvgmkjxvy.com
+0.0.0.0 ydbsysbzp.com
 0.0.0.0 yddazzul.com
 0.0.0.0 ydeoxwomjpvxoz.com
 0.0.0.0 ydfntydegmdbk.com
@@ -97448,6 +97462,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zarobicpieniadze.com
 0.0.0.0 zarossi.com
 0.0.0.0 zarozinski.info
+0.0.0.0 zarpop.com
 0.0.0.0 zarrmarketing.co.uk
 0.0.0.0 zasccycohek.com
 0.0.0.0 zasil-konto.tk
