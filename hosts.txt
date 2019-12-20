@@ -4287,6 +4287,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 a.tvn.lv
 0.0.0.0 a.tvpage.com
 0.0.0.0 a.twiago.com
+0.0.0.0 a.tyncar.com
 0.0.0.0 a.uc.cn
 0.0.0.0 a.ucoz.net
 0.0.0.0 a.ucoz.ru
@@ -5895,6 +5896,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aalbc.advertserve.com
 0.0.0.0 aalog.umengcloud.com
 0.0.0.0 aalures.com
+0.0.0.0 aamapi.com
 0.0.0.0 aamobile.info
 0.0.0.0 aams1.aim4media.com
 0.0.0.0 aamsitecertifier.com
@@ -29719,6 +29721,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cwcwcw.tk
 0.0.0.0 cwdnbhhmdnm.com
 0.0.0.0 cwfikuwyjwnev.com
+0.0.0.0 cwgayuzp.com
 0.0.0.0 cwhuavlffzvhyi.bid
 0.0.0.0 cwj-s.tlnk.io
 0.0.0.0 cwkhyupiwzcjy.com
@@ -29910,6 +29913,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d-autoparts.t.domdex.com
 0.0.0.0 d-baseball.t.domdex.com
 0.0.0.0 d-beauty.t.domdex.com
+0.0.0.0 d-bi.fr
 0.0.0.0 d-businesssupplies.t.domdex.com
 0.0.0.0 d-businessuniforms.t.domdex.com
 0.0.0.0 d-cache.microad.jp
@@ -31094,6 +31098,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dbftszei.bid
 0.0.0.0 dbg52463.moatads.com
 0.0.0.0 dbhrfdfuqh.com
+0.0.0.0 dbhyrddfm.com
 0.0.0.0 dbimbem.axfree.com
 0.0.0.0 dbios.org
 0.0.0.0 dbixmine.pro
@@ -33147,6 +33152,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dpecgb.co.uk
 0.0.0.0 dpjtch.vestabalin.com
 0.0.0.0 dpkdwhfdrvxzcr.bid
+0.0.0.0 dpkubdncmez.com
 0.0.0.0 dplus.umeng.com
 0.0.0.0 dpm.adsnative.com
 0.0.0.0 dpm.demdex.net
@@ -37749,6 +37755,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 feeds.wise-click.com
 0.0.0.0 feedsweep.us.intellitxt.com
 0.0.0.0 feedzpipe.com
+0.0.0.0 feegozoa.com
 0.0.0.0 feernews.biz
 0.0.0.0 feesocrald.com
 0.0.0.0 feetoutlet.com
@@ -41260,6 +41267,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gkqcduzwla.com
 0.0.0.0 gkrvjofbhdvo.bid
 0.0.0.0 gkueche.oewabox.at
+0.0.0.0 gkumodsmcmffdv.com
 0.0.0.0 gkvegijnhienmq.bid
 0.0.0.0 gkvhfryrramj.com
 0.0.0.0 gkwdspzl.bid
@@ -48099,6 +48107,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ipaddresslabs.com
 0.0.0.0 ipadxqhm.bid
 0.0.0.0 ipadzu.net
+0.0.0.0 ipapi.tmbi.com
 0.0.0.0 ipapin.info
 0.0.0.0 ipbc.io
 0.0.0.0 ipbsgpm4.top
@@ -50536,6 +50545,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kczambians.com
 0.0.0.0 kd6h3gtdew.kameleoon.eu
 0.0.0.0 kdaskxrcgxhp.com
+0.0.0.0 kdata.fr
 0.0.0.0 kddi.122.2o7.net
 0.0.0.0 kdekyymbn.bid
 0.0.0.0 kdfjjvidllnbaa.com
@@ -50769,6 +50779,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 khonosta.info
 0.0.0.0 khoteris.ru
 0.0.0.0 khpgychzfdmpm.bid
+0.0.0.0 khpjvhysh.com
 0.0.0.0 khprspkouotscd.com
 0.0.0.0 khqonyigsdf.com
 0.0.0.0 khudagi.info
@@ -51112,6 +51123,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 knac.us.intellitxt.com
 0.0.0.0 knbnejxqn.com
 0.0.0.0 knc.lv
+0.0.0.0 kncmdqkvnrofe.com
 0.0.0.0 knepsiwviviwed.com
 0.0.0.0 knewy.com
 0.0.0.0 knifeoctopus.com
@@ -52217,6 +52229,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ldimage02.adtech.de
 0.0.0.0 ldimage02.adtech.fr
 0.0.0.0 ldimage02.adtech.us
+0.0.0.0 ldkjrqcqp.com
 0.0.0.0 ldkyzudgbksh.com
 0.0.0.0 ldlritslfej.bid
 0.0.0.0 ldng001.hasmobi.net
@@ -54216,6 +54229,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lucky-day-uk.com
 0.0.0.0 lucky1.marketo.com
 0.0.0.0 lucky88.com
+0.0.0.0 lucky88.net
 0.0.0.0 luckyads.tech
 0.0.0.0 luckyblank.info
 0.0.0.0 luckyclean.info
@@ -54842,6 +54856,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m3.za.2mdn.net
 0.0.0.0 m30w.net
 0.0.0.0 m32.media
+0.0.0.0 m328ii38yg76vw.com
 0.0.0.0 m3bnqqqw.com
 0.0.0.0 m3gce.ads.tremorhub.com
 0.0.0.0 m3haw43xxuiai.win
@@ -56087,6 +56102,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mdwoakridge.112.2o7.net
 0.0.0.0 mdwsavannah.112.2o7.net
 0.0.0.0 mdwskirt.112.2o7.net
+0.0.0.0 mdwvwbyvqh.com
 0.0.0.0 mdxapi.io
 0.0.0.0 mdxzmatcc.com
 0.0.0.0 me-cdn.effectivemeasure.net
@@ -57266,6 +57282,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mgemi.btttag.com
 0.0.0.0 mgepodownload.mediatek.com
 0.0.0.0 mgfd1b.petrix.net
+0.0.0.0 mgfkncmjue.com
 0.0.0.0 mghickoryrecord.112.2o7.net
 0.0.0.0 mgid.com
 0.0.0.0 mgid.rtb.adx1.com
@@ -59650,6 +59667,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 myprivateemails.com
 0.0.0.0 myqnpgfgjo.com
 0.0.0.0 myqvhpjyd.com
+0.0.0.0 myqzicfxbkpk.com
 0.0.0.0 myrcrypto.com
 0.0.0.0 myreferer.com
 0.0.0.0 myregeneaf.com
@@ -64684,6 +64702,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 owdligzikqqh.bid
 0.0.0.0 owdojmypl.com
 0.0.0.0 owebmoney.ru
+0.0.0.0 owejzckyioic.com
 0.0.0.0 owenscorning.d1.sc.omtrdc.net
 0.0.0.0 owihjchxgydd.com
 0.0.0.0 owiink.com
@@ -69502,6 +69521,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 prizemachine.games.iwon.com
 0.0.0.0 prizes.co.uk
 0.0.0.0 prizestohandle.club
+0.0.0.0 prjcjjyxj.com
 0.0.0.0 prjcq.com
 0.0.0.0 prjuuu6ezlfobx.ru
 0.0.0.0 prjywixf.bid
@@ -71323,6 +71343,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qnjdtefk.com
 0.0.0.0 qnjxxbvgfgz.bid
 0.0.0.0 qnkiueuflzdold.com
+0.0.0.0 qnnawbvdyuql.com
 0.0.0.0 qnpolbme.com
 0.0.0.0 qnprzxurkv.com
 0.0.0.0 qnqrmqwehcpa.com
@@ -74707,6 +74728,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rvswxrjkmjou.com
 0.0.0.0 rvt2687sqo9o.ru
 0.0.0.0 rvtlife.com
+0.0.0.0 rvtqbxawlkbq.com
 0.0.0.0 rvttrack.com
 0.0.0.0 rvtxrtzbswdji.com
 0.0.0.0 rvvslhmmbor.com
@@ -83578,6 +83600,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 telemetry.allrecipes.com
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.appex.bing.net
+0.0.0.0 telemetry.art19.com
 0.0.0.0 telemetry.firstpartyapps.oaspapps.com
 0.0.0.0 telemetry.gfe.nvidia.com
 0.0.0.0 telemetry.jivosite.com
@@ -96475,6 +96498,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ybtbhvri2wa5thnqzcyojqcvc7hyh1507501270.nuid.imrworldwide.com
 0.0.0.0 ybvnx.top
 0.0.0.0 ybwackoidmcat.com
+0.0.0.0 ybwpvenix.com
 0.0.0.0 ybx.yahoo.co.jp
 0.0.0.0 ybxhjlqurdq.com
 0.0.0.0 ybzfsppttoaz.com
