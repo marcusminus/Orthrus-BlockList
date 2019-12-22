@@ -2908,6 +2908,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 6.adsco.re
 0.0.0.0 6.hidemyass.com
 0.0.0.0 6.mamaswishes.com
+0.0.0.0 6.spacepur.de
 0.0.0.0 60.video-ak.cdn.spotify.com
 0.0.0.0 6000518.com
 0.0.0.0 600131652.keywordblocks.com
@@ -4117,6 +4118,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 a.blogroll.click
 0.0.0.0 a.boom.ro
 0.0.0.0 a.brand.ad
+0.0.0.0 a.breaktime.com.tw
 0.0.0.0 a.c.appier.net
 0.0.0.0 a.c0594.com
 0.0.0.0 a.cbc.ca
@@ -10071,6 +10073,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.imposibil.ro
 0.0.0.0 ads.imprezzer.com
 0.0.0.0 ads.indeed.com
+0.0.0.0 ads.independent.com.mt
 0.0.0.0 ads.indexinfo.org
 0.0.0.0 ads.indiaresults.com
 0.0.0.0 ads.indiatimes.com
@@ -13962,6 +13965,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aida.qualtrics.com
 0.0.0.0 aidaigry.com
 0.0.0.0 aidalbark.site
+0.0.0.0 aidanibet.site
 0.0.0.0 aidata.io
 0.0.0.0 aidigua.com
 0.0.0.0 aidps.atdmt.com
@@ -20810,6 +20814,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 binaryoptionssystems.org
 0.0.0.0 binaryrobotplus.top
 0.0.0.0 binasmdul.com
+0.0.0.0 binchoise.ml
 0.0.0.0 bindedge.com
 0.0.0.0 bindfast.com
 0.0.0.0 bindingflow.com
@@ -23403,6 +23408,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cadreon.com
 0.0.0.0 cadreon.s3.amazonaws.com
 0.0.0.0 cadsabs.com
+0.0.0.0 cadsabz.com
 0.0.0.0 cadsats.com
 0.0.0.0 cadsatz.com
 0.0.0.0 cadsecs.com
@@ -35048,6 +35054,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ehraxliuwt.com
 0.0.0.0 ehrwekypesnl.bid
 0.0.0.0 ehrxkeosifmksi.bid
+0.0.0.0 ehu96t2p.com
 0.0.0.0 ehuomemzh.com
 0.0.0.0 ehxfudlqli.com
 0.0.0.0 ehxpqwlnittvow.bid
@@ -69070,6 +69077,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 powabcyfqe.com
 0.0.0.0 powaifinearts.org
 0.0.0.0 powellsbooks.122.2o7.net
+0.0.0.0 power.adhacker.online
 0.0.0.0 power.info.com
 0.0.0.0 power.vuer.net
 0.0.0.0 powerad.ai
@@ -72788,6 +72796,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 referback.com
 0.0.0.0 referdriving.com
 0.0.0.0 referer.org
+0.0.0.0 referer.pixplug.in
 0.0.0.0 referforex.com
 0.0.0.0 refericon.pl
 0.0.0.0 referlytics.com
@@ -91704,6 +91713,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 visitor-service.tealiumiq.com
 0.0.0.0 visitor-stats.de
 0.0.0.0 visitor-track.com
+0.0.0.0 visitor.pixplug.in
 0.0.0.0 visitorglobe.com
 0.0.0.0 visitorinspector.com
 0.0.0.0 visitorjs.com
@@ -96068,6 +96078,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 xpywzbxjwbxafv.com
 0.0.0.0 xpyyrkwpcpwf.com
 0.0.0.0 xpzhizr7ddrtntlp9pywhejy2ccoh1516690571.nuid.imrworldwide.com
+0.0.0.0 xq0wju848zr.ga
+0.0.0.0 xq0wju848zr.ga
 0.0.0.0 xq1.net
 0.0.0.0 xqbo6ncmq9v.proxy.teads.tv
 0.0.0.0 xqhgisklvxrh.com
