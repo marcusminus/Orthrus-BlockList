@@ -1991,6 +1991,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 388663.ecrtb.adtelligent.com
 0.0.0.0 388663.eurtb.adtelligent.com
 0.0.0.0 388663.wcrtb.adtelligent.com
+0.0.0.0 388bet.vip
 0.0.0.0 38f30081974c52.com
 0.0.0.0 39.video-ak.cdn.spotify.com
 0.0.0.0 390278246.search.media.net
@@ -13276,6 +13277,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adxcel-ec2.com
 0.0.0.0 adxchg.com
 0.0.0.0 adxcore.com
+0.0.0.0 adxcorp.kr
 0.0.0.0 adxgeeks.com
 0.0.0.0 adxion.com
 0.0.0.0 adxite-ads.com
@@ -33005,6 +33007,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 doubleverify.com
 0.0.0.0 doubleviking.us.intellitxt.com
 0.0.0.0 doubleyourdating.directtrack.com
+0.0.0.0 doubooca.com
 0.0.0.0 doubtfulrainstorm.com
 0.0.0.0 doucedora.com
 0.0.0.0 doucettemedia-d.openx.net
@@ -34713,6 +34716,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ee.connextra.com
 0.0.0.0 ee.d3.sc.omtrdc.net
 0.0.0.0 ee.hit.gemius.pl
+0.0.0.0 ee.m08pe.cn
 0.0.0.0 ee.ssl.d1.sc.omtrdc.net
 0.0.0.0 ee.video-ak.cdn.spotify.com
 0.0.0.0 ee01gws.advertising.com
@@ -38664,6 +38668,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 foabezckdiv.bid
 0.0.0.0 foagoasu.net
 0.0.0.0 foamybox.com
+0.0.0.0 foastail.net
 0.0.0.0 foazasis.com
 0.0.0.0 fobjoccwkrkv.com
 0.0.0.0 focalex.com
@@ -41717,6 +41722,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 go777site.com
 0.0.0.0 go7me.ru
 0.0.0.0 go7media.ru
+0.0.0.0 go88.com
 0.0.0.0 go8me.ru
 0.0.0.0 goa.camimbu.com
 0.0.0.0 goaaa.co1.qualtrics.com
@@ -44939,6 +44945,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hu.static.etargetnet.com
 0.0.0.0 hu2icej8vtzyo7lcbncvj78irgtvz1508204021.nuid.imrworldwide.com
 0.0.0.0 huadn.hit.gemius.pl
+0.0.0.0 huaerdadi.com
 0.0.0.0 huangye.miui.com
 0.0.0.0 huanqiucaijing.cn
 0.0.0.0 huawei.sc.omtrdc.net
@@ -46475,6 +46482,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ilzjjdujrgaa.com
 0.0.0.0 ilzwenpgf.com
 0.0.0.0 im-apps.net
+0.0.0.0 im.51yaliesha.com
 0.0.0.0 im.52441.com
 0.0.0.0 im.adtech.de
 0.0.0.0 im.aol.de
@@ -49165,6 +49173,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jg.hack-inter.net
 0.0.0.0 jg.revolvermaps.com
 0.0.0.0 jg15vdwuufthlbfcdiwhf1uurtv0e1515419630.nuid.imrworldwide.com
+0.0.0.0 jg1668.com
 0.0.0.0 jgame.in
 0.0.0.0 jgchq.com
 0.0.0.0 jgedads.cjt.net
@@ -49943,6 +49952,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jscdn.appier.net
 0.0.0.0 jscdn.yieldbird.com
 0.0.0.0 jscdndel.com
+0.0.0.0 jsckjqr.com
 0.0.0.0 jscloud.org
 0.0.0.0 jscode.yavli.com
 0.0.0.0 jsconfig.adsafeprotected.com
@@ -52441,6 +52451,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 leica-microsystems5.actonsoftware.com
 0.0.0.0 leigls.mirtesen.ru
 0.0.0.0 leijsdpbkgobg.com
+0.0.0.0 leiki.com
 0.0.0.0 leisure-offer.com
 0.0.0.0 lejhdbxl.com
 0.0.0.0 lelexw.com
@@ -57417,6 +57428,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mibebu.com
 0.0.0.0 mibet.com
 0.0.0.0 mibet.mobi
+0.0.0.0 mibet88.com
 0.0.0.0 mibmcbm.com
 0.0.0.0 micardiss.ql.st
 0.0.0.0 michaelrood.actonsoftware.com
@@ -61054,6 +61066,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nhabe.widget.criteo.com
 0.0.0.0 nhanthuong88.com
 0.0.0.0 nharaeklya.com
+0.0.0.0 nhat.game
 0.0.0.0 nhatvip.net
 0.0.0.0 nhbklvpswckx.com
 0.0.0.0 nheanvabodkw.com
@@ -70731,6 +70744,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pv.amanad.adtdp.com
 0.0.0.0 pv.dakawm.cc
 0.0.0.0 pv.hd.sohu.com
+0.0.0.0 pv.ldlwdsx.com
 0.0.0.0 pv.pjtsu.com
 0.0.0.0 pv.tacoda.at.atwola.com
 0.0.0.0 pv.wantsfly.com
@@ -71593,6 +71607,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 quantum-advertising.com
 0.0.0.0 quantumads.com
 0.0.0.0 quantumgraph.com
+0.0.0.0 quantumpers.com
 0.0.0.0 quantumws.net
 0.0.0.0 quareclk.com
 0.0.0.0 quarterbean.com
@@ -91598,6 +91613,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vip.adstatic.com
 0.0.0.0 vip.clickzs.com
 0.0.0.0 vip.clickzzs.nl
+0.0.0.0 vip.ludu319.com
 0.0.0.0 vip.min1319.com
 0.0.0.0 vip1.tw.adserver.yahoo.com
 0.0.0.0 vip2.clickzs.com
@@ -92425,6 +92441,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vywujhsinxfa.com
 0.0.0.0 vywycfxgxqlv.com
 0.0.0.0 vyycgqgcpes.com
+0.0.0.0 vyykulowdu.com
 0.0.0.0 vz-assets.applovin.com
 0.0.0.0 vz-cdn.contentabc.com
 0.0.0.0 vz-cdn.trafficjunky.net
@@ -95811,6 +95828,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xjdriaiyy.com
 0.0.0.0 xjehskjzyedb.com
 0.0.0.0 xjfjx8hw.com
+0.0.0.0 xjijqczj.com
 0.0.0.0 xjj5k.bemobtrk.com
 0.0.0.0 xjjfgxdfpr.com
 0.0.0.0 xjjjohojeeozv.com
@@ -95986,6 +96004,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xn--lttefreiheit-dlb.de
 0.0.0.0 xn--mgbac6b9e.net
 0.0.0.0 xn--minecrft-5za.com
+0.0.0.0 xn--mtso8sj6menhyil.online
 0.0.0.0 xn--mymonro-x8a.com
 0.0.0.0 xn--oogle-wmc.com
 0.0.0.0 xn--pandorabiuteria-qkd.pl
@@ -95993,6 +96012,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xn--s-eca.net
 0.0.0.0 xn--srahah-bua.eu
 0.0.0.0 xn--srahah-bua.pl
+0.0.0.0 xn--xhq9mt12cf5v.top
 0.0.0.0 xn--yotu-1ra.be
 0.0.0.0 xn--zcrt01bvsr.com
 0.0.0.0 xn--zuzy24d.co
@@ -98055,6 +98075,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 znvctmolksaj.com
 0.0.0.0 znxvuabzgm.com
 0.0.0.0 znztvqgtaivf.com
+0.0.0.0 zo.game
 0.0.0.0 zo1.sierra-boa.com
 0.0.0.0 zoacaups.net
 0.0.0.0 zoafoaho.net
