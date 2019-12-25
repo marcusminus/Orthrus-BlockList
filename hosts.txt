@@ -19655,6 +19655,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 barilliance.net
 0.0.0.0 barip15.com
 0.0.0.0 barium.cheezdev.com
+0.0.0.0 barjfzpdeqmwi.com
 0.0.0.0 barkerandstonehouse.widget.criteo.com
 0.0.0.0 barlive.link
 0.0.0.0 barnesandnoble.bfast.com
@@ -49251,6 +49252,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jgqcraids.com
 0.0.0.0 jgqkrvjtuapt.com
 0.0.0.0 jgrcggutsilp.com
+0.0.0.0 jgrroalqa.com
 0.0.0.0 jgrsqcqdfwzu.com
 0.0.0.0 jgsoloqaqp.com
 0.0.0.0 jgstny.com
@@ -69214,6 +69216,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ppvjsmuexf.bid
 0.0.0.0 ppvlj.com
 0.0.0.0 ppvlukah.com
+0.0.0.0 ppwxiuicy.com
 0.0.0.0 ppxoxkdpxtu.com
 0.0.0.0 ppxrlfhsouac.com
 0.0.0.0 ppxxmr.com
@@ -73738,6 +73741,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rjszckwlctpup.com
 0.0.0.0 rjtcrxzd.com
 0.0.0.0 rjug.hotchedmothe.club
+0.0.0.0 rjvbtutup.com
 0.0.0.0 rjveitlz.com
 0.0.0.0 rjwdhpxdrufbcg.com
 0.0.0.0 rjwotofyxoszk.com
