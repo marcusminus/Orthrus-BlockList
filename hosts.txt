@@ -15794,6 +15794,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 andalbrighth.pro
 0.0.0.0 andarcair.club
 0.0.0.0 andase.com
+0.0.0.0 andbaybay.club
 0.0.0.0 andbeyond-d.openx.net
 0.0.0.0 andbeyond.media
 0.0.0.0 andelamobile-d.openx.net
@@ -16005,6 +16006,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ant.conversive.nl
 0.0.0.0 antabuy.com
 0.0.0.0 antalya.ru
+0.0.0.0 antburape.club
 0.0.0.0 antcompany.com
 0.0.0.0 antdivisitlodg.info
 0.0.0.0 antennash.com
@@ -17815,6 +17817,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 asp.animelab.com
 0.0.0.0 asp.m-live.jp
 0.0.0.0 aspampbrr.online
+0.0.0.0 aspartbus.site
 0.0.0.0 aspboxant.club
 0.0.0.0 aspenholding.co
 0.0.0.0 aspenholding.com
@@ -21482,6 +21485,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bob.algolia.com
 0.0.0.0 bob.dmpxs.com
 0.0.0.0 bobarilla.com
+0.0.0.0 bobarmale.online
 0.0.0.0 bobblewrite.com
 0.0.0.0 bobi-bobi.info
 0.0.0.0 bobi-mobi.info
@@ -32018,6 +32022,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dgpot.com
 0.0.0.0 dgqktjmxtlp.com
 0.0.0.0 dgrvnlhz.com
+0.0.0.0 dgtmyxfuzwtr.com
 0.0.0.0 dgtnoyoud.com
 0.0.0.0 dgucunmuibx.com
 0.0.0.0 dgufzszbsk.bid
@@ -51399,6 +51404,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kpu.samsungelectronics.com
 0.0.0.0 kpucctqryjdvx.bid
 0.0.0.0 kpwhkeehpsp.bid
+0.0.0.0 kpwjczeaajnhsc.com
 0.0.0.0 kpwjtpgvowifq.com
 0.0.0.0 kpzsyqhje.com
 0.0.0.0 kpzvcvclybfa.com
@@ -61362,6 +61368,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nl2.ero-advertising.com
 0.0.0.0 nl4.hit.stat24.com
 0.0.0.0 nlb.vietad.vn
+0.0.0.0 nlbnegea.com
 0.0.0.0 nlccrunsemmvbbv.cinci.rr.com
 0.0.0.0 nlcfowfz.com
 0.0.0.0 nlconsulateorlandoorg.siteprotect.net
@@ -88976,6 +88983,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 udm.ri9.scorecardresearch.com
 0.0.0.0 udm.ria.scorecardresearch.com
 0.0.0.0 udm.scorecardresearch.com
+0.0.0.0 udmdtdjna.com
 0.0.0.0 udmercy.co1.qualtrics.com
 0.0.0.0 udmlkmzjkob.co
 0.0.0.0 udmserve.net
@@ -91996,6 +92004,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vn88.com
 0.0.0.0 vnadjbcsxfyt.com
 0.0.0.0 vndfakned.com
+0.0.0.0 vndgfycu.com
 0.0.0.0 vndrcewnard.com
 0.0.0.0 vnfdwoljzoaer.com
 0.0.0.0 vngztuqon.com
@@ -96504,6 +96513,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yads.yahoo.co.jp
 0.0.0.0 yads.yjtag.yahoo.co.jp
 0.0.0.0 yads.zedo.com
+0.0.0.0 yadyiymarz.com
 0.0.0.0 yafsixmo.com
 0.0.0.0 yagcaumz.com
 0.0.0.0 yahbdmyvvmjh.com
@@ -97142,6 +97152,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yqaywudifu.date
 0.0.0.0 yqbyzekybmswii.com
 0.0.0.0 yqccpziiuak.com
+0.0.0.0 yqezqofkb1nnmz.com
 0.0.0.0 yqhgbmyfiomx.com
 0.0.0.0 yqjoqncxmufi.com
 0.0.0.0 yqkpt.com
