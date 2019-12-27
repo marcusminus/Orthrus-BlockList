@@ -1096,6 +1096,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 1rtlfor.info
 0.0.0.0 1rx.io
 0.0.0.0 1rxntv.io
+0.0.0.0 1s8pj.cn
 0.0.0.0 1sdolvz78iw2f8hj4z4cplvz1mirc1505288000.nuid.imrworldwide.com
 0.0.0.0 1se.cqcounter.com
 0.0.0.0 1sen-pit-fan.com
@@ -3986,6 +3987,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 9ics.cn
 0.0.0.0 9j.facebook-info.co
 0.0.0.0 9juj88.com
+0.0.0.0 9kh5b.cn
 0.0.0.0 9med.net
 0.0.0.0 9mejfmw4ky2rbixfo3kpoww0jifeh1507574721.nuid.imrworldwide.com
 0.0.0.0 9n28.tlnk.io
@@ -22684,6 +22686,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bypjftbwbpj.bid
 0.0.0.0 byqmzodcdhhu.com
 0.0.0.0 byrgin.ru
+0.0.0.0 byscy.cn
 0.0.0.0 byspot.com
 0.0.0.0 byspwzspx.bid
 0.0.0.0 bystfied.pro
@@ -36080,6 +36083,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 estadisticas.lanacion.com.ar
 0.0.0.0 estadisticasgratis.com
 0.0.0.0 estadisticasgratis.es
+0.0.0.0 estafair.com
 0.0.0.0 estantiale.com
 0.0.0.0 estara.com
 0.0.0.0 estat.com
@@ -37389,6 +37393,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fansign.streamray.com
 0.0.0.0 fantasti.cc
 0.0.0.0 fantasywartactics.analytics.nexonm.com
+0.0.0.0 fanzhuang.net.cn
 0.0.0.0 fao-f.tlnk.io
 0.0.0.0 faoleds.cf
 0.0.0.0 faoxietqwbmu.com
@@ -42953,6 +42958,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gzxjfkhwvhwfzr.com
 0.0.0.0 gzyddiyiyme.bid
 0.0.0.0 gzzctcekf.com
+0.0.0.0 gzzkjdam.cn
 0.0.0.0 h-adachi.org
 0.0.0.0 h-adashx.ut.taobao.com
 0.0.0.0 h-adashx4ae.ut.taobao.com
@@ -49498,6 +49504,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jmemwbkpj.bid
 0.0.0.0 jmewxbvmcjmur.com
 0.0.0.0 jmextrjbse.com
+0.0.0.0 jmg67g.xyz
 0.0.0.0 jmghohdn.bid
 0.0.0.0 jmimktvupp.com
 0.0.0.0 jmj.co1.qualtrics.com
@@ -50391,6 +50398,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 k1rv97ohf1.kameleoon.eu
 0.0.0.0 k1s.nl
 0.0.0.0 k26fe9xhuzm.com
+0.0.0.0 k2n0f.cn
 0.0.0.0 k34ohtasyazf8db764fp9rqlcct8t1516325571.nuid.imrworldwide.com
 0.0.0.0 k3dqv.ru
 0.0.0.0 k3hpv.bemobtrk.com
@@ -53627,6 +53635,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 loga.hit-parade.com
 0.0.0.0 loga.xiti.com
 0.0.0.0 logaholic.com
+0.0.0.0 loganaut.com
 0.0.0.0 logapi.rayjump.com
 0.0.0.0 logb20.vietad.vn
 0.0.0.0 logb21.vietad.vn
@@ -62423,6 +62432,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nzwwrvywcfqmsq.com
 0.0.0.0 nzxmgfawlxhm.bid
 0.0.0.0 nzxriltfmrpl.com
+0.0.0.0 nzydzsw.com
 0.0.0.0 nzyymvidnbvz.bid
 0.0.0.0 nzz.d3.sc.omtrdc.net
 0.0.0.0 o-2-s-f.win
@@ -63959,6 +63969,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ookdapjylpvq.com
 0.0.0.0 ookiqhfioldxwj.com
 0.0.0.0 ookla-d.openx.net
+0.0.0.0 ookris.oferty-kredytowe.pl
 0.0.0.0 ooksu.frost-electric-supply.com
 0.0.0.0 oolsi.frost-electric-supply.com
 0.0.0.0 oonenbygymsl.com
@@ -65759,6 +65770,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pageurl-brx.btrll.com
 0.0.0.0 pageurl.btrll.com
 0.0.0.0 pageview.goroost.com
+0.0.0.0 pagiwp.com
 0.0.0.0 pagoda56.com
 0.0.0.0 paholita.com
 0.0.0.0 paibopse.com
@@ -77632,6 +77644,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 shifoagn.uk
 0.0.0.0 shiftboard.actonsoftware.com
 0.0.0.0 shihoult.com
+0.0.0.0 shilian168.cn
 0.0.0.0 shiloso.info
 0.0.0.0 shim.btrll.com
 0.0.0.0 shinasi.info
@@ -82632,6 +82645,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 szupertanacsok.blog.hu
 0.0.0.0 szuzlcmoak.com
 0.0.0.0 szvzzuffxatb.com
+0.0.0.0 szwjzl.cn
 0.0.0.0 szxkkefabenx.bid
 0.0.0.0 szxnruaeuig.com
 0.0.0.0 szybka-pozyczka.com
@@ -96661,6 +96675,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ychicenter.com
 0.0.0.0 ycjwgpkudmve.com
 0.0.0.0 yckdywmihuabu.com
+0.0.0.0 yclxrj.top
 0.0.0.0 ycmejutxukkz.com
 0.0.0.0 ycojhxdobkrd.com
 0.0.0.0 ycpepqbyhvtb.com
