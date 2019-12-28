@@ -19240,7 +19240,6 @@ banner-in.net
 banner-media.ru
 banner-rotation.com
 banner-server.winecountry.com
-banner.*.tccapis.com
 banner.0catch.com
 banner.1and1.co.uk
 banner.50megs.com
@@ -24204,7 +24203,6 @@ cdm-d.openx.net
 cdm.unnoticeablegangrene.com
 cdmjjvqzurn.com
 cdmstudy.site
-cdn*.swaxis.com
 cdn-01.yumenetworks.com
 cdn-1.convertexperiments.com
 cdn-1.trafficfabrik.com
@@ -26888,7 +26886,6 @@ cloudflane.com
 cloudflare.solutions
 cloudflareinsights.com
 cloudfront-labs.amazonaws.com
-cloudfront.net*.bmp?
 cloudfront.qualtrics.com
 cloudgz-ecs.gravityzone.bitdefender.comin.getclicky.com
 cloudiiv.com
@@ -79037,7 +79034,6 @@ society6.btttag.com
 societyjezuufamtobie.pl
 sociocast.com
 sociomantic.com
-sock*-goguardian.pusher.com
 socket.adpushup.com
 socket.heapanalytics.com
 socketanalytics.com
