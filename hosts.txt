@@ -19256,7 +19256,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 banner-media.ru
 0.0.0.0 banner-rotation.com
 0.0.0.0 banner-server.winecountry.com
-0.0.0.0 banner.*.tccapis.com
 0.0.0.0 banner.0catch.com
 0.0.0.0 banner.1and1.co.uk
 0.0.0.0 banner.50megs.com
@@ -24220,7 +24219,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdm.unnoticeablegangrene.com
 0.0.0.0 cdmjjvqzurn.com
 0.0.0.0 cdmstudy.site
-0.0.0.0 cdn*.swaxis.com
 0.0.0.0 cdn-01.yumenetworks.com
 0.0.0.0 cdn-1.convertexperiments.com
 0.0.0.0 cdn-1.trafficfabrik.com
@@ -26904,7 +26902,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cloudflare.solutions
 0.0.0.0 cloudflareinsights.com
 0.0.0.0 cloudfront-labs.amazonaws.com
-0.0.0.0 cloudfront.net*.bmp?
 0.0.0.0 cloudfront.qualtrics.com
 0.0.0.0 cloudgz-ecs.gravityzone.bitdefender.comin.getclicky.com
 0.0.0.0 cloudiiv.com
@@ -79053,7 +79050,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 societyjezuufamtobie.pl
 0.0.0.0 sociocast.com
 0.0.0.0 sociomantic.com
-0.0.0.0 sock*-goguardian.pusher.com
 0.0.0.0 socket.adpushup.com
 0.0.0.0 socket.heapanalytics.com
 0.0.0.0 socketanalytics.com
