@@ -8084,6 +8084,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 addynamix.com
 0.0.0.0 addynamo.com
 0.0.0.0 addynamo.net
+0.0.0.0 ade-shop.com
 0.0.0.0 ade.clmbtech.com
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 ade.wooboo.com.cn
@@ -20806,6 +20807,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bimbaylolanes.online
 0.0.0.0 bimbaylolasales.store
 0.0.0.0 bimbaylolashop.online
+0.0.0.0 bimbyloaventa.online
 0.0.0.0 bimg.abv.bg
 0.0.0.0 bimlocal.com
 0.0.0.0 bimomanias.com
@@ -20875,6 +20877,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 birkin30.com
 0.0.0.0 birminghampublic.co1.qualtrics.com
 0.0.0.0 birobiro.com.br
+0.0.0.0 birollgoods.com
 0.0.0.0 biromacos.com
 0.0.0.0 birpidnl.com
 0.0.0.0 birslhmnnc.com
@@ -23441,6 +23444,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cadsipz.com
 0.0.0.0 cadskis.com
 0.0.0.0 cadsokz.com
+0.0.0.0 cadspmz.com
 0.0.0.0 cadulscdfhtcb.bid
 0.0.0.0 caea4e.r.axf8.net
 0.0.0.0 caea4e.t.axf8.net
@@ -27043,6 +27047,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cmncgeqivmjki.com
 0.0.0.0 cmnhwzdsvr.com
 0.0.0.0 cmo.marketo.com
+0.0.0.0 cmofashion.com
 0.0.0.0 cmoneba.ru
 0.0.0.0 cmonitor.iqiyi.com
 0.0.0.0 cmotru-76.com
@@ -29086,6 +29091,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cre.mix.sina.com.cn
 0.0.0.0 creafi-online-media.com
 0.0.0.0 creafi.com
+0.0.0.0 creambing.com
 0.0.0.0 creampie.afdss.info
 0.0.0.0 creara-media.com
 0.0.0.0 creara-media.ru
@@ -31914,6 +31920,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 device9.com
 0.0.0.0 devicecooler.s.xoxknct.com
 0.0.0.0 deviwijiyanti.web.id
+0.0.0.0 devjbzfd.com
 0.0.0.0 devkiforyou.org
 0.0.0.0 devlp1.linkpulse.com
 0.0.0.0 devpartner.api.catalina.com
@@ -34579,6 +34586,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ecortb.com
 0.0.0.0 ecos.e-mailcom.co.uk
 0.0.0.0 ecoslimmer.pro
+0.0.0.0 ecosolactiva.es
 0.0.0.0 ecostyle-com-tw.b.appier.net
 0.0.0.0 ecotrackings.com
 0.0.0.0 ecoupons.com
@@ -35483,6 +35491,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 emxfructugey.com
 0.0.0.0 emxwkunx.bid
 0.0.0.0 emxztiidh.com
+0.0.0.0 emyxshop.com
 0.0.0.0 emzotevsto.com
 0.0.0.0 emzxewhgjt.com
 0.0.0.0 en.ad-stir.com
@@ -39728,6 +39737,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fuojuw.com
 0.0.0.0 fupgvldb.com
 0.0.0.0 furginator.pw
+0.0.0.0 furladay.com
 0.0.0.0 furniturecom.112.2o7.net
 0.0.0.0 furnlevitz.112.2o7.net
 0.0.0.0 furocmay.com
@@ -40825,6 +40835,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 geolocation.stroeerdp.de
 0.0.0.0 geolocation.t-online.de
 0.0.0.0 geologix.mangoads.vn
+0.0.0.0 geonorwayes.online
 0.0.0.0 geonorwayeventa.com
 0.0.0.0 geonorwayventa.com
 0.0.0.0 geophrenia.com
@@ -45086,6 +45097,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hunshop.natureflower.com
 0.0.0.0 hunt-leads.com
 0.0.0.0 hunt4porn.com
+0.0.0.0 hunterbotas.online
 0.0.0.0 hunterdelivery.com
 0.0.0.0 huntereoutlets.com
 0.0.0.0 hunterstyle24.com
@@ -47780,6 +47792,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 insticator-d.openx.net
 0.0.0.0 insticator.com
 0.0.0.0 instinctiveads.com
+0.0.0.0 institutogreenfield.com
 0.0.0.0 instivate.com
 0.0.0.0 instore.biz
 0.0.0.0 instore.pagomeno.it
@@ -52088,6 +52101,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 larissalinhares.com.br
 0.0.0.0 larivieracasino.com
 0.0.0.0 larkbe.com
+0.0.0.0 laropa.store
 0.0.0.0 larosanotizia.com
 0.0.0.0 las-rp.pl
 0.0.0.0 las4srv.com
@@ -55574,6 +55588,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 manuel.theonion.com
 0.0.0.0 manuelu.com
 0.0.0.0 manughl.de
+0.0.0.0 manzanista.com
 0.0.0.0 manzile.com
 0.0.0.0 maokdata.com
 0.0.0.0 map.brightcove.com
@@ -60253,6 +60268,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 naturalbid.com
 0.0.0.0 naturalhealth.us.intellitxt.com
 0.0.0.0 naturaltracking.com
+0.0.0.0 naturcool.es
 0.0.0.0 naturday.pl
 0.0.0.0 natureworldnews.us.intellitxt.com
 0.0.0.0 naucaips.com
@@ -61588,6 +61604,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nofreezingmac.space
 0.0.0.0 nofreezingmac.work
 0.0.0.0 nogxucpaktrya.com
+0.0.0.0 nohasevilla.es
 0.0.0.0 nohsshsxpv.club
 0.0.0.0 noiaifyednjt.com
 0.0.0.0 noiselessplough.com
@@ -68431,6 +68448,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 playweez.pl
 0.0.0.0 playwire-d.openx.net
 0.0.0.0 playwire.com
+0.0.0.0 plazadetecnologia.com
 0.0.0.0 plbfuyckzn.com
 0.0.0.0 plbslog.umeng.com
 0.0.0.0 plcsedkinoul.com
@@ -76819,6 +76837,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 seevolution.com
 0.0.0.0 seewhy.com
 0.0.0.0 seewhy.qualtrics.com
+0.0.0.0 seeyome.com
 0.0.0.0 seeyourleads.albacross.com
 0.0.0.0 sefortme.pro
 0.0.0.0 seg-1.adjust.com
@@ -89424,6 +89443,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 umflint.qualtrics.com
 0.0.0.0 umgbvaurcx.com
 0.0.0.0 umhb.co1.qualtrics.com
+0.0.0.0 umhpzzloestt.com
 0.0.0.0 umiami.qualtrics.com
 0.0.0.0 umich.qualtrics.com
 0.0.0.0 umich360.qualtrics.com
@@ -91909,6 +91929,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vivo4.eu
 0.0.0.0 vivocha.com
 0.0.0.0 vivtracking.com
+0.0.0.0 vivyonline.com
 0.0.0.0 viwsqbbvfknp.com
 0.0.0.0 vixnixxer.com
 0.0.0.0 vixqjiypv.com
@@ -96893,6 +96914,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yisscbyq.com
 0.0.0.0 yitkomfj.angelcities.com
 0.0.0.0 yiudy.com
+0.0.0.0 yivette.com
 0.0.0.0 yiyycuqozjwc.com
 0.0.0.0 yj-a.p.adnxs.com
 0.0.0.0 yj.moatads.com
