@@ -46248,6 +46248,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ifactz.com
 0.0.0.0 ifaklabnhplb.com
 0.0.0.0 ifbhceoxx.com
+0.0.0.0 ifbubmsr.com
 0.0.0.0 ifbwyogrfjo.com
 0.0.0.0 ifc.inmobi.com
 0.0.0.0 ifc3.vip.dfw1.inmobi.com
@@ -49116,6 +49117,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jdpqtgvzsoy.com
 0.0.0.0 jdproject.net
 0.0.0.0 jdrckkbpb.com
+0.0.0.0 jdrftaau.com
 0.0.0.0 jdrlnicvn.com
 0.0.0.0 jdskyjntuhea.com
 0.0.0.0 jdtufqcyumvb.com
@@ -60080,6 +60082,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nadwork.info
 0.0.0.0 naenticle.info
 0.0.0.0 naetoris.pw
+0.0.0.0 nafgiaui.com
 0.0.0.0 nafsa.d1.sc.omtrdc.net
 0.0.0.0 naftemporiki.nuggad.net
 0.0.0.0 naganaga.lol
@@ -79962,6 +79965,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 srigbxxv.com
 0.0.0.0 srithairack-shelf.com
 0.0.0.0 srizwhcdjruf.com
+0.0.0.0 srjbxbkwn.com
 0.0.0.0 srkdunvxun.com
 0.0.0.0 srkft.com
 0.0.0.0 srksyzqzcetq.com
