@@ -49033,6 +49033,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jbkxmktmatzk.com
 0.0.0.0 jbonlinemedia-electronics.t.domdex.com
 0.0.0.0 jboovenoenkh.com
+0.0.0.0 jbovn.com
 0.0.0.0 jbph.net
 0.0.0.0 jbpyqajzwbh.bid
 0.0.0.0 jbqolazohwqesu.com
@@ -63733,6 +63734,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 one88.com
 0.0.0.0 one88.fun
 0.0.0.0 one88.us
+0.0.0.0 one88.vn
 0.0.0.0 one97adworks.com
 0.0.0.0 oneadvertising-d.openx.net
 0.0.0.0 oneandonlynetwork.com
@@ -91650,6 +91652,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 viedeo2k.tv
 0.0.0.0 vietad.vn
 0.0.0.0 vietalle.com
+0.0.0.0 vietbet.eu
 0.0.0.0 vietbuzzad.com
 0.0.0.0 vietdorje.com
 0.0.0.0 vietnamhouse.mangoads.vn
@@ -92093,6 +92096,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vnumedia04.webtrekk.net
 0.0.0.0 vnunet.uk.intellitxt.com
 0.0.0.0 vnw2gd68pb.com
+0.0.0.0 vnwqrcvud.com
 0.0.0.0 vnyginzinvmq.com
 0.0.0.0 vnzlgmfd.com
 0.0.0.0 vo3.net
