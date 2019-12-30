@@ -12339,6 +12339,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adsmmgp.com
 0.0.0.0 adsmo.ru
 0.0.0.0 adsmobi.com
+0.0.0.0 adsmobila.com
 0.0.0.0 adsmodern.com
 0.0.0.0 adsmogo.com
 0.0.0.0 adsmogo.mobi
@@ -13662,6 +13663,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 affiliates.treasureisland.com
 0.0.0.0 affiliates.ultrahosting.com
 0.0.0.0 affiliates.upforitnetworks.com
+0.0.0.0 affiliates.vietbet.eu
 0.0.0.0 affiliates.vpn.ht
 0.0.0.0 affiliates.yourapprovaltracker.com
 0.0.0.0 affiliatesapi.souq.com
@@ -17909,6 +17911,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 assets.tapjoy.com
 0.0.0.0 assets.trafficfabrik.com
 0.0.0.0 assets.unbounce.com
+0.0.0.0 assets.vietbet.eu
 0.0.0.0 assets.vlicdn2.com
 0.0.0.0 assets0.getsocial.io
 0.0.0.0 assets1.adroll.com
@@ -21598,6 +21601,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bonus.express
 0.0.0.0 bonus.gamblingz.net
 0.0.0.0 bonus.tapjoy.com
+0.0.0.0 bonus.vietbet.eu
 0.0.0.0 bonus365.site
 0.0.0.0 bonusbitcoin.co
 0.0.0.0 bonuscashh.com
@@ -21654,6 +21658,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 boomoffer07.com
 0.0.0.0 boomtrain.com
 0.0.0.0 boonsalala.com
+0.0.0.0 booraipa.com
 0.0.0.0 booshout.com
 0.0.0.0 boosshopsd.club
 0.0.0.0 boost-d.openx.net
@@ -23882,6 +23887,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cashguruji.ga
 0.0.0.0 cashier.shareitpay.in
 0.0.0.0 cashier.unetsafe.com
+0.0.0.0 cashier.vietbet.eu
 0.0.0.0 cashimtrap.com
 0.0.0.0 cashinme.com
 0.0.0.0 cashlayer.com
@@ -33124,6 +33130,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 download.ucweb.com
 0.0.0.0 download.union.ucweb.com
 0.0.0.0 download.uodoo.com
+0.0.0.0 download.vietbet.eu
 0.0.0.0 download.weatherblink.com
 0.0.0.0 download.wholestuff.win
 0.0.0.0 download.yesmessenger.com
@@ -33434,6 +33441,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dserver.hw.net
 0.0.0.0 dsevjzklcjjb.com
 0.0.0.0 dsf4t5jfds34j.com
+0.0.0.0 dsfohqgkydgn.com
 0.0.0.0 dsg.activate.ensighten.com
 0.0.0.0 dsg.btttag.com
 0.0.0.0 dsg.hgigs.info
@@ -40338,10 +40346,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 gateway.adx1.com
 0.0.0.0 gateway.dynamicyield.com
 0.0.0.0 gateway.foresee.com
+0.0.0.0 gateway.jbovn.com
 0.0.0.0 gateway.proxyportal.eu
 0.0.0.0 gateway.speedera.net
 0.0.0.0 gateway.supersonicads.com
 0.0.0.0 gatewaymedia-d.openx.net
+0.0.0.0 gatewayvn.jbovn.com
 0.0.0.0 gatewey.net
 0.0.0.0 gather.us.intellitxt.com
 0.0.0.0 gatikus.com
@@ -43206,6 +43216,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 harrenmedia.com
 0.0.0.0 harrenmedianetwork.com
 0.0.0.0 harshwhispers.com
+0.0.0.0 harsonsy.com
 0.0.0.0 hartconsultingservices2.actonsoftware.com
 0.0.0.0 hartconsultingservices8.actonsoftware.com
 0.0.0.0 harthatforsin.pro
@@ -47590,6 +47601,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 init-latency-test.supersonicads.com
 0.0.0.0 init.lingospot.com
 0.0.0.0 init.phpwind.com
+0.0.0.0 init.polskapaczka24.net
 0.0.0.0 init.startappexchange.com
 0.0.0.0 init.startappservice.com
 0.0.0.0 init.supersonicads.com
@@ -51959,6 +51971,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ladipage.net
 0.0.0.0 ladipage.vn
 0.0.0.0 ladnova.info
+0.0.0.0 ladsabz.com
 0.0.0.0 ladsblue.com
 0.0.0.0 ladsbrown.com
 0.0.0.0 ladsdown.com
@@ -52268,6 +52281,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lbsohfnkqgxo.com
 0.0.0.0 lbtcymxcocwh.bid
 0.0.0.0 lbtifiprfzy.com
+0.0.0.0 lbultra.vietbet.eu
 0.0.0.0 lburmovcjefv.com
 0.0.0.0 lbushibdda.com
 0.0.0.0 lbwtrvpgvqkqc.com
@@ -52919,6 +52933,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 linconpark.com
 0.0.0.0 lindon-pool.win
 0.0.0.0 lineoflife.ru
+0.0.0.0 lines.vietbet.eu
 0.0.0.0 linezing.com
 0.0.0.0 linformanceder.info
 0.0.0.0 lingintirejohny.club
@@ -58214,6 +58229,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mobi.andivid.com
 0.0.0.0 mobi.ficant.com
 0.0.0.0 mobi.onthe.io
+0.0.0.0 mobi.vietbet.eu
 0.0.0.0 mobiads.ru
 0.0.0.0 mobiapp-games.com
 0.0.0.0 mobicont.com
@@ -58231,6 +58247,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mobile-antivirus.club
 0.0.0.0 mobile-browser.me
 0.0.0.0 mobile-campaigns.avast.com
+0.0.0.0 mobile-check.vietbet.eu
 0.0.0.0 mobile-click.biz
 0.0.0.0 mobile-collector-1.newrelic.com
 0.0.0.0 mobile-collector-2.newrelic.com
@@ -68780,6 +68797,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 polsatboxingnight-transmisjahd.ujm.pl
 0.0.0.0 polska-gazeta-dnia.pl
 0.0.0.0 polska-tv.pl
+0.0.0.0 polskapaczka24.net
 0.0.0.0 polskasupermarkecie.website
 0.0.0.0 polski-poranek-pl.com
 0.0.0.0 polski-poranek.pl
@@ -68796,6 +68814,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 polyonesocial.d1.sc.omtrdc.net
 0.0.0.0 pomerous.info
 0.0.0.0 pomf.se
+0.0.0.0 pomoc.kylos.pl
 0.0.0.0 pomocnapozyczka.pro
 0.0.0.0 pomolation.ru
 0.0.0.0 pompazilla.com
@@ -69016,6 +69035,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 popups.afftrack001.com
 0.0.0.0 popups.infostart.com
 0.0.0.0 popups.ru
+0.0.0.0 popups.vietbet.eu
 0.0.0.0 popuptraf.
 0.0.0.0 popuptraf.ru
 0.0.0.0 popuptraffic.com
@@ -76736,6 +76756,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 secure.mobile.contentabc.com
 0.0.0.0 secure.netscope.marktest.pt
 0.0.0.0 secure.ognyvo.ru
+0.0.0.0 secure.polskapaczka24.net
 0.0.0.0 secure.quantserve.com
 0.0.0.0 secure.statcounter.com
 0.0.0.0 secure.w3track.com
@@ -78679,6 +78700,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 smartbn.ru
 0.0.0.0 smartcallback.ru
 0.0.0.0 smartcanvas.net
+0.0.0.0 smartcare.xja.pl
 0.0.0.0 smartcarfinder.us.intellitxt.com
 0.0.0.0 smartclick.net
 0.0.0.0 smartclip.com
@@ -83645,6 +83667,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 technicserv.com
 0.0.0.0 technicupdate.com
 0.0.0.0 technobuffalo.us.intellitxt.com
+0.0.0.0 technologia24.com
 0.0.0.0 technology-revealed.com
 0.0.0.0 technology.inmobi.com
 0.0.0.0 technology.msnbc.us.intellitxt.com
@@ -88745,6 +88768,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 u1.ucfly.com
 0.0.0.0 u1.zedo.com
 0.0.0.0 u1817.16.spylog.com
+0.0.0.0 u192389.stronazen.pl
 0.0.0.0 u1hw38x0.com
 0.0.0.0 u1mii733tu.kameleoon.eu
 0.0.0.0 u1savre6r0cdfdvoaqwjzno12gthx1507537800.nuid.imrworldwide.com
@@ -91021,6 +91045,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vd.7vid.net
 0.0.0.0 vda.oipzyrzffum.ovh
 0.0.0.0 vdacizdywoe.com
+0.0.0.0 vdains.info
 0.0.0.0 vdbasihbxwea.com
 0.0.0.0 vdbhe7ti.com
 0.0.0.0 vdc.zoomph.com
@@ -91694,6 +91719,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 viewyng.com
 0.0.0.0 vifog.com
 0.0.0.0 vig.tynt.com
+0.0.0.0 vig.vietbet.eu
 0.0.0.0 vigdxlpecmv.com
 0.0.0.0 viglink.pgpartner.com
 0.0.0.0 vihtori-analytics.fi
@@ -92960,6 +92986,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wafrszmnbshq.com
 0.0.0.0 wafum.ml
 0.0.0.0 wagbrag.t.domdex.com
+0.0.0.0 wager.vietbet.eu
 0.0.0.0 wagerfree.casino
 0.0.0.0 wagershare.com
 0.0.0.0 waghmaredd.com
@@ -93408,6 +93435,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 webdata.vidz.com
 0.0.0.0 webdesignenet.info
 0.0.0.0 webdesignmarketing.us
+0.0.0.0 webdev.vietbet.eu
 0.0.0.0 webdisk.one88.com
 0.0.0.0 webdisk.websvn.info
 0.0.0.0 webdissector.com
