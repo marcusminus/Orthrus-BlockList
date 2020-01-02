@@ -14346,7 +14346,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 alissl.ucdl.pp.uc.cn
 0.0.0.0 alissonluis-musico.sites.uol.com.br
 0.0.0.0 alist.unitedblades.co.jp
-0.0.0.0 alisto-pozyczki.pl
 0.0.0.0 alitui.weibo.com
 0.0.0.0 alitx963.com
 0.0.0.0 alivar.com.vn
@@ -17471,7 +17470,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 arwlvjqzxxnftz.com
 0.0.0.0 arxerlxllv.bid
 0.0.0.0 arxsnuxauqex2lexpc6qi3x7t1vyh1515421080.nuid.imrworldwide.com
-0.0.0.0 as-chwilowka.pl
 0.0.0.0 as-dmpsync.3lift.com
 0.0.0.0 as-eb2.3lift.com
 0.0.0.0 as-farm.com
@@ -20664,7 +20662,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 bill.agent.56.com
 0.0.0.0 bill.agent.v-56.com
 0.0.0.0 bill.ecsuite.com
-0.0.0.0 billabeda.ga
 0.0.0.0 billboard.cz
 0.0.0.0 billetreduc.widget.criteo.com
 0.0.0.0 billhamilton.blog
@@ -29826,7 +29823,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 czvfrzvnsltwco.com
 0.0.0.0 czwdzqfnmzw.bid
 0.0.0.0 czx5eyk0exbhwp43ya.biz
-0.0.0.0 czyjtonumertel.pl
 0.0.0.0 czzzwuvvc.com
 0.0.0.0 d-1.co
 0.0.0.0 d-agency.net
@@ -30630,7 +30626,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 das5ku9q.com
 0.0.0.0 dasan.deutschland-zahlung.eu
 0.0.0.0 dascoin-info.pl
-0.0.0.0 dascoin.com.pl
 0.0.0.0 dascoin.com
 0.0.0.0 dascoin.prowly.com
 0.0.0.0 dascoingroup.com
@@ -38834,7 +38829,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fotoografie-pobierz.eu
 0.0.0.0 fotosdelamor.es
 0.0.0.0 fotostrana-rus.mirtesen.ru
-0.0.0.0 fotowalkowska.pl
 0.0.0.0 fotrento.com
 0.0.0.0 fotw.xyz
 0.0.0.0 fotzenparty.eu
@@ -45272,7 +45266,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 i-c-c-c.com
 0.0.0.0 i-cda.pl
 0.0.0.0 i-chomik.pl
-0.0.0.0 i-chomikuj.pl
 0.0.0.0 i-clicks.net
 0.0.0.0 i-dating.info
 0.0.0.0 i-fit-com-tw.b.appier.net
@@ -62034,7 +62027,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ntfhglciig.bid
 0.0.0.0 ntgqcnferh.com
 0.0.0.0 ntgygnke.com
-0.0.0.0 nthost.shacknet.nu
 0.0.0.0 nthssedj.bid
 0.0.0.0 nticqzrucdg.com
 0.0.0.0 ntimg.aiservice.vn
@@ -76881,7 +76873,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 seniorbaniaasth.info
 0.0.0.0 senkevich-sl.net
 0.0.0.0 senkevich-vk.net
-0.0.0.0 senoctis.pl
 0.0.0.0 senolati.com
 0.0.0.0 senrzuolwqvj.com
 0.0.0.0 sensay.mirtesen.ru
@@ -88585,7 +88576,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 typo3.ero-advertising.com
 0.0.0.0 typyky.com
 0.0.0.0 tyroo.com
-0.0.0.0 tysiaczek.pl
 0.0.0.0 tytkuibh.com
 0.0.0.0 tytzcsgxpaywui.bid
 0.0.0.0 tyuawmgqsbz.com
@@ -90718,6 +90708,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vansj.com
 0.0.0.0 vanskc.com
 0.0.0.0 vanskf.com
+0.0.0.0 vansprzecena.pl
 0.0.0.0 vansshoes.shop
 0.0.0.0 vansshoess.club
 0.0.0.0 vansvip.online
@@ -92114,7 +92105,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 vor-v-zakone09.mirtesen.ru
 0.0.0.0 vorinteon.ru
 0.0.0.0 voronezh136.ru
-0.0.0.0 vortex-win.data.microsoft.com
 0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 voss.collegehumor.com
 0.0.0.0 vosteran.com
@@ -93669,7 +93659,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 wernet.pl
 0.0.0.0 wertiflow.com
 0.0.0.0 wervm.com
-0.0.0.0 werxwer.pl
 0.0.0.0 weryfikacjadanych.ml
 0.0.0.0 weryfikacjadanych.tk
 0.0.0.0 wes.df.telemetry.microsoft.com
@@ -94200,7 +94189,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 wizard-traffic.com
 0.0.0.0 wizardsbd.com
 0.0.0.0 wizejdnlqwcb.com
-0.0.0.0 wizjalokalna24.eu
 0.0.0.0 wizjalokalna24.pl
 0.0.0.0 wizknbrgxuqjo.com
 0.0.0.0 wjavelurhgx.com
