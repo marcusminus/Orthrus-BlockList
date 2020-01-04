@@ -2627,6 +2627,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 51yes.com
 0.0.0.0 52.210.16.150
 0.0.0.0 52.video-ak.cdn.spotify.com
+0.0.0.0 520xiaojin.com
 0.0.0.0 521332372.keywordblocks.com
 0.0.0.0 521987751.keywordblocks.com
 0.0.0.0 5231.xg4ken.com
@@ -3748,6 +3749,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 8lbvph0yzafkeopfc4ocsxtvp4ebq1514984446.nuid.imrworldwide.com
 0.0.0.0 8lh5f.bemobtrk.com
 0.0.0.0 8live.com
+0.0.0.0 8live.net
+0.0.0.0 8live.vip
+0.0.0.0 8livevn.com
 0.0.0.0 8mdfq0gzbs.s.ad6media.fr
 0.0.0.0 8pok857d0.keywordblocks.com
 0.0.0.0 8qdgxfp62r6bw8gunkjwq1a2nky0d1516627827.nuid.imrworldwide.com
@@ -18166,6 +18170,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 auqefmhsutnldv.com
 0.0.0.0 aurabom.ru
 0.0.0.0 aureate.com
+0.0.0.0 auredzeon.com
 0.0.0.0 aurelius.httpool.com
 0.0.0.0 aurhgaees.com
 0.0.0.0 aurora-media.org
@@ -18589,6 +18594,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 az361816.vo.msecnd.net
 0.0.0.0 az416426.vo.msecnd.net
 0.0.0.0 az512334.vo.msecnd.net
+0.0.0.0 az693360.vo.msecnd.net
 0.0.0.0 az708531.vo.msecnd.net
 0.0.0.0 az7t8.com
 0.0.0.0 azads.com
@@ -19869,6 +19875,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 beacon.livefyre.com
 0.0.0.0 beacon.lycos.com
 0.0.0.0 beacon.netflix.com
+0.0.0.0 beacon.nrholding.net
 0.0.0.0 beacon.nuskin.com
 0.0.0.0 beacon.qq.com
 0.0.0.0 beacon.richrelevance.com
@@ -20873,6 +20880,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bjcunwelpd.com
 0.0.0.0 bjcvibh.com
 0.0.0.0 bjdfckchzsa.bid
+0.0.0.0 bjdthyywcargba.com
 0.0.0.0 bjenzpojtgvo.club
 0.0.0.0 bjff9lldnrmhwysltlwoe3tso68g91506997060.nuid.imrworldwide.com
 0.0.0.0 bjfxcvebjrcuce.bid
@@ -21422,6 +21430,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bondbengals.info
 0.0.0.0 bondinra.com
 0.0.0.0 bonfire.spklw.com
+0.0.0.0 bong88net.com
 0.0.0.0 bong99.com
 0.0.0.0 bongacams.com
 0.0.0.0 bongacash.com
@@ -26282,6 +26291,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 clickequations.net
 0.0.0.0 clickercollections.com
 0.0.0.0 clickexperts.net
+0.0.0.0 clickferret.com
 0.0.0.0 clickfight.net
 0.0.0.0 clickforensics.com
 0.0.0.0 clickforward.net
@@ -27828,7 +27838,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 contehos.com
 0.0.0.0 contema.ru
 0.0.0.0 contemporaryceremonies.ca
-0.0.0.0 contensis.com
 0.0.0.0 content-ad.net
 0.0.0.0 content-click.amanad.adtdp.com
 0.0.0.0 content-cooperation.com
@@ -36956,6 +36965,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 faberlic.com
 0.0.0.0 faberville.com
 0.0.0.0 fabet.com
+0.0.0.0 fabetvn.com
 0.0.0.0 fabolele.com
 0.0.0.0 fabrativellic.co
 0.0.0.0 fabric8.default.console.ws.adacts.com
@@ -37310,6 +37320,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 fb.umeng.com
 0.0.0.0 fb0c32d2f28c.com
 0.0.0.0 fb88.com
+0.0.0.0 fb88club.com
+0.0.0.0 fb88en.com
+0.0.0.0 fb88go.com
+0.0.0.0 fb88live.com
+0.0.0.0 fb88sports.com
 0.0.0.0 fb_servpub-a.akamaihd.net
 0.0.0.0 fbafbbujy.com
 0.0.0.0 fbauhaozc.bid
@@ -42524,6 +42539,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gurde.tourstogo.us
 0.0.0.0 gurfv.pro
 0.0.0.0 gurgle.zdbb.net
+0.0.0.0 gurktexxtpofyz.com
 0.0.0.0 gurrfwsscwda.com
 0.0.0.0 guru.finance
 0.0.0.0 guru.sitescout.netdna-cdn.com
@@ -42678,6 +42694,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gyros.es
 0.0.0.0 gyvyokpmmb.bid
 0.0.0.0 gyycgkchjtimu.com
+0.0.0.0 gyyzsgri.com
 0.0.0.0 gyzzpyez.bid
 0.0.0.0 gz.adriver.ru
 0.0.0.0 gz.getui.com
@@ -44567,6 +44584,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hsadspixel.net
 0.0.0.0 hsbarbershop.co.uk
 0.0.0.0 hsbcbankglobal.sc.omtrdc.net
+0.0.0.0 hsbrhnkgkx.com
 0.0.0.0 hscta.net
 0.0.0.0 hsdjvuayagt.bid
 0.0.0.0 hsdn.org
@@ -45454,6 +45472,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ibeat.indiatimes.com
 0.0.0.0 iberacon.com
 0.0.0.0 iberate.club
+0.0.0.0 ibet889.com
 0.0.0.0 ibetinwubwl.com
 0.0.0.0 ibeyqnjfjgsuob.bid
 0.0.0.0 ibfsream.com
@@ -48911,6 +48930,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jenson.api.swiftkey.com
 0.0.0.0 jensonracing.co.uk
 0.0.0.0 jeodo.sexxzone.com
+0.0.0.0 jepmdqcn.com
 0.0.0.0 jeqixokniyny.com
 0.0.0.0 jerichoplay.com
 0.0.0.0 jerotidv.com
@@ -49106,6 +49126,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jimxaqrpqbxldt.com
 0.0.0.0 jin33456.cn
 0.0.0.0 jinchaoyu.com
+0.0.0.0 jinfrfimajr.com
 0.0.0.0 jingavot.com
 0.0.0.0 jingjia.qq.com
 0.0.0.0 jinjaadvertising.d1.sc.omtrdc.net
@@ -50169,6 +50190,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 k8s.prod.vidible.tv
 0.0.0.0 k8s.stage.vidible.tv
 0.0.0.0 k8s.vidible.tv
+0.0.0.0 k8vn03.com
 0.0.0.0 k9anf8bc.webcam
 0.0.0.0 ka-test0.tinyhoneybee.com
 0.0.0.0 ka04b.com
@@ -52352,6 +52374,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 letmelook.net
 0.0.0.0 letmeterriket.pro
 0.0.0.0 letorrent.org
+0.0.0.0 letou8868.com
 0.0.0.0 letourneau360.qualtrics.com
 0.0.0.0 letrenhegenmi.pro
 0.0.0.0 letrightertrentors.pro
@@ -54860,6 +54883,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m8.zedo.com
 0.0.0.0 m81jmqmn.ru
 0.0.0.0 m8654.mobsweet.com
+0.0.0.0 m883d.com
 0.0.0.0 m88cvf.com
 0.0.0.0 m88my.com
 0.0.0.0 m88vina.com
@@ -58433,6 +58457,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mopub-rtb.adfonic.net
 0.0.0.0 mopub-win-us-east.bksn.se
 0.0.0.0 mopvkjodhcwscyudzfqtjuwvpzpgzuwndtofzftbtpdfszeido.com
+0.0.0.0 mopxhrgiyybr.com
 0.0.0.0 moquxotvyuoo.com
 0.0.0.0 mor.insert.io
 0.0.0.0 moradu.com
@@ -60929,6 +60954,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 niacretaryfrience.info
 0.0.0.0 niajmtjqexq.co
 0.0.0.0 niaqaltky.com
+0.0.0.0 niazlhvok.com
 0.0.0.0 nibble-cloud.brealtime.com
 0.0.0.0 nic.ad.jp
 0.0.0.0 nicappazaza.com
@@ -61128,6 +61154,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nkkxgqdgnpunnr.bid
 0.0.0.0 nklivofyjkbt.com
 0.0.0.0 nklofbjtpfpp.bid
+0.0.0.0 nklwltrpzhy.com
 0.0.0.0 nkredir.com
 0.0.0.0 nksfmnvmngxzr.bid
 0.0.0.0 nkstay.com
@@ -64082,6 +64109,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 oracle.112.2o7.net
 0.0.0.0 oraclecom.112.2o7.net
 0.0.0.0 oracleglobal.112.2o7.net
+0.0.0.0 oracleinfinity.io
 0.0.0.0 oralse.ca
 0.0.0.0 oralse.cx
 0.0.0.0 orange-fr.adinfuse.com
@@ -73776,6 +73804,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rodirola.com
 0.0.0.0 rodo.agora.pl
 0.0.0.0 rodrigoeberienos.com
+0.0.0.0 roeye.com
 0.0.0.0 rofhathe.com
 0.0.0.0 rofurekika.com
 0.0.0.0 rogde.adocean.pl
@@ -74524,8 +74553,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 rum.logsss.com
 0.0.0.0 rum.marquardmedia.hu
 0.0.0.0 rum.nanovisor.io
+0.0.0.0 rum.nccgroup-webperf.com
 0.0.0.0 rum.optimizely.com
 0.0.0.0 rum.serv-ac.com
+0.0.0.0 rum.uptime.com
 0.0.0.0 rumanalytics.com
 0.0.0.0 rumcollector.teslamotors.com
 0.0.0.0 rumds.wpdigital.net
@@ -80288,6 +80319,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stat.fromfactory.club
 0.0.0.0 stat.gamy.ameba.jp
 0.0.0.0 stat.ganbox.com
+0.0.0.0 stat.glaze.ai
 0.0.0.0 stat.gw.youmi.net
 0.0.0.0 stat.hao.uc.cn
 0.0.0.0 stat.hasmobi.net
@@ -82490,6 +82522,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 t.channeladvisor.com
 0.0.0.0 t.chartboost.com
 0.0.0.0 t.cinemablend.com
+0.0.0.0 t.clic2buy.com
 0.0.0.0 t.contentsquare.net
 0.0.0.0 t.cpmadvisors.com
 0.0.0.0 t.cqq5id8n.com
@@ -84151,6 +84184,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 thetechlounge.us.intellitxt.com
 0.0.0.0 thetechzone.us.intellitxt.com
 0.0.0.0 thethandarinhec.info
+0.0.0.0 thethaofb88.com
 0.0.0.0 thethateronjus.pro
 0.0.0.0 thethi.ru
 0.0.0.0 thetop.be
@@ -84587,6 +84621,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tk.kaufda.de
 0.0.0.0 tk.meinprospekt.de
 0.0.0.0 tk.mobri.jp
+0.0.0.0 tk.storetail.io
 0.0.0.0 tkarkbzkirlw.com
 0.0.0.0 tkbo.com
 0.0.0.0 tkcatwalk.aotter.net
@@ -91681,6 +91716,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 viumbe-d.openx.net
 0.0.0.0 viunypnvhcw.com
 0.0.0.0 viurihkwo.com
+0.0.0.0 viva88.com
 0.0.0.0 vivadgo.ru
 0.0.0.0 vivamob.net
 0.0.0.0 vivapays.com
@@ -91773,6 +91809,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vlnaseyii.com
 0.0.0.0 vlnveqkifcpxdosizybusvjqkfmowoawoshlmcbittpoywblpe.com
 0.0.0.0 vlog.leadformix.com
+0.0.0.0 vlott88.com
 0.0.0.0 vlpufjkwpmjhbn.com
 0.0.0.0 vlr.tynt.com
 0.0.0.0 vlrzhoueyoxw.com
@@ -91828,6 +91865,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vn.alexajstrack.com
 0.0.0.0 vn.grab-credit4u.com
 0.0.0.0 vn88.bet
+0.0.0.0 vn88.biz
 0.0.0.0 vn88.casino
 0.0.0.0 vn88.club
 0.0.0.0 vn88.com
@@ -92663,6 +92701,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 w87.am15.net
 0.0.0.0 w88.am15.net
 0.0.0.0 w88.go.com
+0.0.0.0 w88.vin
+0.0.0.0 w88bro.com
+0.0.0.0 w88city.com
+0.0.0.0 w88club.com
+0.0.0.0 w88hn.com
+0.0.0.0 w88yes.com
 0.0.0.0 w89.am15.net
 0.0.0.0 w8glfurujolutw8hrzjxwjrcfeeto1505445910.nuid.imrworldwide.com
 0.0.0.0 w8ofamhlscmor246t31nhsecii2jc1509647340.nuid.imrworldwide.com
@@ -94443,6 +94487,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wrapper.askmen.com
 0.0.0.0 wrapper.fileplanet.com
 0.0.0.0 wrapper.giga.de
+0.0.0.0 wrapper.lemde.fr
 0.0.0.0 wrating.com
 0.0.0.0 wrdgswma3iyqcrpx2gdhslh8pwd5i1509493760.nuid.imrworldwide.com
 0.0.0.0 wredint.com
@@ -94826,6 +94871,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ww84.smartadserver.com
 0.0.0.0 ww856.smartadserver.com
 0.0.0.0 ww881.smartadserver.com
+0.0.0.0 ww88club.com
 0.0.0.0 ww946.smartadserver.com
 0.0.0.0 ww965.smartadserver.com
 0.0.0.0 wwa.ero-advertising.com
@@ -95268,6 +95314,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wxwxpxtoqmipif.com
 0.0.0.0 wxxfcyoaymug.com
 0.0.0.0 wy.5.p2l.info
+0.0.0.0 wyaeyjaqx.com
 0.0.0.0 wybfcxze.com
 0.0.0.0 wybieraj-wygrywaj.pl
 0.0.0.0 wybierz-nagrode.pl
