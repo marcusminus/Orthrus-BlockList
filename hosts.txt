@@ -2466,7 +2466,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 4c28d6.r.axf8.net
 0.0.0.0 4c935d6a244f.com
 0.0.0.0 4chan-ads.org
-0.0.0.0 4chan.org
 0.0.0.0 4cheo.org
 0.0.0.0 4cjubgyh4pnwmbjburbhxxhkl6hxg1509504020.nuid.imrworldwide.com
 0.0.0.0 4club.mirtesen.ru
@@ -11437,6 +11436,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adsenseguard.com
 0.0.0.0 adsentiz.ru
 0.0.0.0 adsentnetwork.com
+0.0.0.0 adser.io
 0.0.0.0 adserer.ihigh.com
 0.0.0.0 adserv.adbonus.com
 0.0.0.0 adserv.aip.org
@@ -14009,7 +14009,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 aj.news-subscribe.com
 0.0.0.0 aj1052.online
 0.0.0.0 aj1058.online
+0.0.0.0 aj1090.online
 0.0.0.0 aj1110.online
+0.0.0.0 aj1124.online
 0.0.0.0 aj1198.online
 0.0.0.0 aj1574.online
 0.0.0.0 aj1602.online
@@ -27745,6 +27747,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 connectad.io
 0.0.0.0 connectbtc.com
 0.0.0.0 connected-by.connectad.io
+0.0.0.0 connectif.cloud
 0.0.0.0 connectignite.com
 0.0.0.0 connectingstudio.top
 0.0.0.0 connection-test.newrelic.com
@@ -31910,6 +31913,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 differentdesk.com
 0.0.0.0 diffusion-tracker.com
 0.0.0.0 difyt-m-tlb.co
+0.0.0.0 digadser.com
 0.0.0.0 digdeepdigital.com.au
 0.0.0.0 digentu.de
 0.0.0.0 digg-d.openx.net
@@ -33271,6 +33275,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dstillery.com
 0.0.0.0 dstrack2.info
 0.0.0.0 dstw.adgear.com
+0.0.0.0 dstxhvmgkg.com
 0.0.0.0 dsultra.com
 0.0.0.0 dsum-sec.casalemedia.com
 0.0.0.0 dsum.casalemedia.com
@@ -33548,6 +33553,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dylsjsmqjbbcs.com
 0.0.0.0 dymaffzxk.com
 0.0.0.0 dymlo6ffhj97l.cloudfront.net
+0.0.0.0 dymveullwn.com
 0.0.0.0 dymzcxgdvf.com
 0.0.0.0 dyn-ads.perfectaudience.com
 0.0.0.0 dyn-beacon.akamaized.net
@@ -37469,6 +37475,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fdicsurveys.co1.qualtrics.com
 0.0.0.0 fdimages.fairfax.com.au
 0.0.0.0 fdjdyzoqnzikx.bid
+0.0.0.0 fdkevkzm.com
 0.0.0.0 fdkhaserboots.club
 0.0.0.0 fdmg.d1.sc.omtrdc.net
 0.0.0.0 fdnxojzwbmie.bid
@@ -38773,6 +38780,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fpdsavexteno.com
 0.0.0.0 fpeegzspcgnjt.com
 0.0.0.0 fperefo.ru
+0.0.0.0 fpesoigpyes.com
 0.0.0.0 fpfivothg.com
 0.0.0.0 fpguuwnpkvqsq.bid
 0.0.0.0 fpherzxrae.com
@@ -38806,6 +38814,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fpzcyccpqldc.com
 0.0.0.0 fpzxmdjjpphzc.bid
 0.0.0.0 fq540.co1.qualtrics.com
+0.0.0.0 fqab5xq7qlgt.info
 0.0.0.0 fqanilbgne.com
 0.0.0.0 fqazjwxovxlu.com
 0.0.0.0 fqbrdnpf.com
@@ -39226,6 +39235,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 frfgfhzxtfvsp.com
 0.0.0.0 frfgn.xyz
 0.0.0.0 frfnlvnpzeju.com
+0.0.0.0 frgbgwnbjkgco.com
 0.0.0.0 fridaymediagroup-clickcars.t.domdex.com
 0.0.0.0 fridaymediagroup-fridayad.t.domdex.com
 0.0.0.0 fridaymediagroup-fridayadhp.t.domdex.com
@@ -44319,6 +44329,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hostave2.net
 0.0.0.0 hostave4.net
 0.0.0.0 hostboard.us.intellitxt.com
+0.0.0.0 hostcontent.live
 0.0.0.0 hostdomainpeople.112.2o7.net
 0.0.0.0 hostdomainpeopleca.112.2o7.net
 0.0.0.0 hosted.stats.com.edgesuite.net
@@ -44565,6 +44576,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hqwlpexoywbc.com
 0.0.0.0 hqxtsqwpvort.com
 0.0.0.0 hqyenmzgxk.com
+0.0.0.0 hqzceymmcwsvd.com
 0.0.0.0 hr-engine.xclaimwords.net
 0.0.0.0 hr.adocean.pl
 0.0.0.0 hr.batmobi.net
@@ -44719,6 +44731,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 htalizer.com
 0.0.0.0 htamaster.com
 0.0.0.0 htcdn.adx1.com
+0.0.0.0 htckiummbyxfha.com
 0.0.0.0 htdn.adx1.com
 0.0.0.0 htegogwj.com
 0.0.0.0 htetrnuftbbsistvcxmnnf8rric5k1509205422.nuid.imrworldwide.com
@@ -49139,6 +49152,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jianxiao.ml
 0.0.0.0 jiawen88.com
 0.0.0.0 jibs.eu.qualtrics.com
+0.0.0.0 jibysqppqkprj.com
 0.0.0.0 jicfbcczdh.com
 0.0.0.0 jigamingciti.com
 0.0.0.0 jigolobasvuru.xyz
@@ -52195,6 +52209,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 leadclick.com
 0.0.0.0 leadcola.com
 0.0.0.0 leaddyno-client-images.s3.amazonaws.com
+0.0.0.0 leaddyno.com
 0.0.0.0 leader.linkexchange.com
 0.0.0.0 leaderpub.fr
 0.0.0.0 leadfeeder.com
@@ -53094,6 +53109,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 llgerege.com
 0.0.0.0 llgvjtkg.com
 0.0.0.0 llhjbwcjnuii.com
+0.0.0.0 llhshirhrbkn.com
 0.0.0.0 lliumrpvj.com
 0.0.0.0 lljoapkfnwn.com
 0.0.0.0 lljtgiwhqtue.com
@@ -66883,6 +66899,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pingagenow.com
 0.0.0.0 pingback.issuu.com
 0.0.0.0 pingback.sogou.com
+0.0.0.0 pingclock.net
 0.0.0.0 pingdom.act-on.com
 0.0.0.0 pinger.ads.nexage.com
 0.0.0.0 pingfore.qq.com
@@ -71370,6 +71387,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qooqle-play.eu
 0.0.0.0 qooqle-sklep.eu
 0.0.0.0 qopqudzeaywc.com
+0.0.0.0 qorvoxejr.com
 0.0.0.0 qos.video.yimg.com
 0.0.0.0 qosrridifvsr.com
 0.0.0.0 qotuhsvlqlpnfd.com
@@ -74223,6 +74241,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rsalchk.com
 0.0.0.0 rsawadasj.d1.sc.omtrdc.net
 0.0.0.0 rsbblrpnjxgsk.com
+0.0.0.0 rsbvygxdsevaw.com
 0.0.0.0 rsc-tracker.adfonic.net
 0.0.0.0 rsc.scmspain.com
 0.0.0.0 rscdn.cxense.com
@@ -80827,7 +80846,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 staticad.thethao247.vn
 0.0.0.0 staticads.btopenworld.com
 0.0.0.0 staticb.mydirtyhobby.com
-0.0.0.0 staticcache.org
 0.0.0.0 staticcfstg.adsafeprotected.com
 0.0.0.0 staticd.cdn.adblade.com
 0.0.0.0 staticd.cdn.adblade.comstaticd.cdn.adblade.com
@@ -88933,6 +88951,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 udrwyjpwjfeg.com
 0.0.0.0 uds.ak.o.brightcove.com
 0.0.0.0 udsehd.co1.qualtrics.com
+0.0.0.0 udtekwuh.com
 0.0.0.0 udv.batmobi.net
 0.0.0.0 udvbtgkxwnap.com
 0.0.0.0 udvxwimgqr.com
@@ -89285,6 +89304,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ulufyprtd.com
 0.0.0.0 ulwsjpfxwniz.com
 0.0.0.0 ulyppmnm.bid
+0.0.0.0 ulzcieyihw.com
 0.0.0.0 um-21.btrll.com
 0.0.0.0 um-23.btrll.com
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
@@ -95941,6 +95961,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xmax.jp
 0.0.0.0 xmazvzvbqli.com
 0.0.0.0 xmcq.cdn.shareitgames.com
+0.0.0.0 xmegspwsjzvvh.com
 0.0.0.0 xmejor.com
 0.0.0.0 xmemory.ru
 0.0.0.0 xmen2.xtraman.info
