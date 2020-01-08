@@ -13914,6 +13914,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aif.mirtesen.ru
 0.0.0.0 aifei0755.net
 0.0.0.0 aifoosty.net
+0.0.0.0 aigneloa.com
 0.0.0.0 aigysycrmuoetk.com
 0.0.0.0 aiiaqehoqgrj.com
 0.0.0.0 aiidbowoj.com
@@ -21126,6 +21127,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bloggers.fuckyoucash.com
 0.0.0.0 bloggybro.com
 0.0.0.0 blogherads.com
+0.0.0.0 blogkiemtien.club
 0.0.0.0 blogmeetsbrand.com
 0.0.0.0 blogohertz.com
 0.0.0.0 blogoman-24.com
@@ -25515,6 +25517,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 chheap.us
 0.0.0.0 chi.outbrain.com
 0.0.0.0 chi2only.outbrain.com
+0.0.0.0 chiasephim.xyz
 0.0.0.0 chibauni.com
 0.0.0.0 chicagobooth.qualtrics.com
 0.0.0.0 chicagogsb.qualtrics.com
@@ -51384,6 +51387,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kwunqjqntrnf.bid
 0.0.0.0 kwurl.ucweb.com
 0.0.0.0 kwvoafkdebdaxz.bid
+0.0.0.0 kwwxnzcielmpy.com
 0.0.0.0 kwygntce.com
 0.0.0.0 kwykvodkvg.com
 0.0.0.0 kwystoaqjvml.com
@@ -59962,6 +59966,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 navvyncal.media.net
 0.0.0.0 navyfederalresearch.co1.qualtrics.com
 0.0.0.0 nawdwtocxqru.com
+0.0.0.0 naxrjxij.com
 0.0.0.0 naytev.com
 0.0.0.0 nazar.adsnative.com
 0.0.0.0 naznwrruruvf.com
@@ -71603,6 +71608,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qyiiudex.com
 0.0.0.0 qyillxuyjdlmh.com
 0.0.0.0 qykxbnflqvjxvk.com
+0.0.0.0 qylxeorawht.com
 0.0.0.0 qynohttywcws.bid
 0.0.0.0 qyqbslpprlph.com
 0.0.0.0 qyqvfjvbzosz.com
@@ -77719,6 +77725,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 simlun.com.ar
 0.0.0.0 simonsignal.com
 0.0.0.0 simontok.app
+0.0.0.0 simpan.online
 0.0.0.0 simpi.tourstogo.us
 0.0.0.0 simpio.com
 0.0.0.0 simpleads.net
@@ -97674,6 +97681,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zespolmayol.pl
 0.0.0.0 zestads.com
 0.0.0.0 zestadz.com
+0.0.0.0 zetamm.com
 0.0.0.0 zeti.com
 0.0.0.0 zetrade.net
 0.0.0.0 zettapetta.com
