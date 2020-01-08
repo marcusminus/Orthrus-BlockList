@@ -1,6 +1,6 @@
-!——————————————————————————
-! Title: Orthrus BlockList 
-!——————————————————————————
+!————————————————————————————————————————
+! Title: Orthrus BlockList (Experimental)
+!————————————————————————————————————————
 ||0-100-lhd.foxypool.cf^
 ||0-100.burst-team.us^
 ||0-100pool.burstcoin.ro^
