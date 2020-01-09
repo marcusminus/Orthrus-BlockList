@@ -20336,6 +20336,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bezoya.work
 0.0.0.0 bezproudoff.cz
 0.0.0.0 bezqvpliexxtfw.com
+0.0.0.0 beztecs.com
 0.0.0.0 bf-ad.net
 0.0.0.0 bf.mocda1.com
 0.0.0.0 bf.video-ak.cdn.spotify.com
@@ -30929,6 +30930,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dbo2.pl
 0.0.0.0 dbojgaxhxalh.com
 0.0.0.0 dbpal.appsflyer.com
+0.0.0.0 dbrgmcjuf.com
 0.0.0.0 dbs-com-hk.b.appier.net
 0.0.0.0 dbs-com-sg.b.appier.net
 0.0.0.0 dbs.autolatest.ro
@@ -38438,6 +38440,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 follofop.com
 0.0.0.0 follow.headline.uodoo.com
 0.0.0.0 follow.maribacaberita.com
+0.0.0.0 followafashion.com
 0.0.0.0 followercounter.com
 0.0.0.0 followergods.com
 0.0.0.0 following-technology.com
@@ -43902,6 +43905,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hnopgrab.com
 0.0.0.0 hnqnftzzytjl.com
 0.0.0.0 hnregzjxsafu.com
+0.0.0.0 hnrfwtlvlnzumb.com
 0.0.0.0 hnsamgkrtliye.com
 0.0.0.0 hnsearch.algolia.com
 0.0.0.0 hnshjxowpldar.com
@@ -47937,6 +47941,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 irismal.com
 0.0.0.0 irjaeupzarkvwmxonaeslgicvjvgdruvdywmdvuaoyfsjgdzhk.com
 0.0.0.0 irjndsmrnax3qldycwnttdposagxj1510283190.nuid.imrworldwide.com
+0.0.0.0 irkgxjcgl.com
 0.0.0.0 irleti.com
 0.0.0.0 irlklysyeqek.bid
 0.0.0.0 irmctbwmhnyznx.com
@@ -50502,6 +50507,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kihxncfpkimfx.bid
 0.0.0.0 kiinvgntnnw.com
 0.0.0.0 kiip.me
+0.0.0.0 kiivva.com
 0.0.0.0 kiixmhyrlawz.com
 0.0.0.0 kijiji-d.openx.net
 0.0.0.0 kiki.ykjmy.com
@@ -62160,6 +62166,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 oakfurnitureland.widget.criteo.com
 0.0.0.0 oaklandk12mi.co1.qualtrics.com
 0.0.0.0 oakmanner.ga
+0.0.0.0 oakrkptc.com
 0.0.0.0 oakso.tourstogo.us
 0.0.0.0 oalicqudnfhf.com
 0.0.0.0 oalselry.com
@@ -65315,6 +65322,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pabhaco.ru
 0.0.0.0 pablo.unbounce.com
 0.0.0.0 pabloskybuy.online
+0.0.0.0 pabloskysale.online
 0.0.0.0 pabloskyshop.online
 0.0.0.0 pabrashu.info
 0.0.0.0 pac12.hb.omtrdc.net
@@ -74522,6 +74530,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rv.furaffinity.net
 0.0.0.0 rv4g1ivo1j.kameleoon.eu
 0.0.0.0 rva.outbrain.com
+0.0.0.0 rvbibmaixelnq.com
 0.0.0.0 rvbxnnwdsi.com
 0.0.0.0 rvcruqbk.com
 0.0.0.0 rvdiwgntri.com
@@ -75750,6 +75759,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 scarf.ensighten.com
 0.0.0.0 scarletcoat.us
 0.0.0.0 scarpa.nowgotoshop.com
+0.0.0.0 scarpaeustore.com
 0.0.0.0 scarpas.shop
 0.0.0.0 scarpbooking.ru
 0.0.0.0 scaryheels.com
@@ -88536,6 +88546,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uaofcvzlhhh.com
 0.0.0.0 uaolighevmjy.com
 0.0.0.0 uapoisk.net
+0.0.0.0 uaqcfkzqqnuxc.com
 0.0.0.0 uarating.com
 0.0.0.0 uarizona.co1.qualtrics.com
 0.0.0.0 uark.qualtrics.com
@@ -89932,6 +89943,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 usgoldbureau.evergage.com
 0.0.0.0 usharbors.smartadserver.com
 0.0.0.0 ushqvpdtwoecis.com
+0.0.0.0 usjguyybhhtjos.com
 0.0.0.0 uslg89eamk4rqt24gds5m4w4pg4o61504934810.nuid.imrworldwide.com
 0.0.0.0 usmep.co1.qualtrics.com
 0.0.0.0 usmsad.tom.com
@@ -94293,6 +94305,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wowmoney.top
 0.0.0.0 wowmoscow.ru
 0.0.0.0 wowoyy.cc
+0.0.0.0 wowpark.es
 0.0.0.0 woxikon.h-bid.com
 0.0.0.0 woxvgdtje.com
 0.0.0.0 wozltvfxtntaqk.com
@@ -94493,6 +94506,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wsdk-files.webengage.com
 0.0.0.0 wsemqlxmmhp.com
 0.0.0.0 wsfqmxdljrknkalwskqmefnonnyoqjmeapkmzqwghehedukmuj.com
+0.0.0.0 wsgmxgtmxymwt.com
 0.0.0.0 wshareit.com
 0.0.0.0 wshosting.ru
 0.0.0.0 wsipromarketing2.actonsoftware.com
@@ -96459,6 +96473,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ydthazdza.com
 0.0.0.0 ydtqlmsvocjp.com
 0.0.0.0 ydutvhtw.com
+0.0.0.0 ydvexlxyg.com
 0.0.0.0 ydwjfuhuiesrhp.com
 0.0.0.0 ydworld.com
 0.0.0.0 ydxeryetxyij.com
