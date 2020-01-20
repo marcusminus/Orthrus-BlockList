@@ -1705,9 +1705,13 @@ us6odtasve.ru
 ||2fbanners.ero-advertising.com^
 ||2fblog.crazyegg.com^
 ||2fc.smartclick.net^
+||2ffilter.adright.co	^
+||2ffilter.adright.co^
 ||2fflatfee.ero-advertising.com^
 ||2fib.adnxs.com^
 ||2fidsync.rlcdn.com^
+||2fmy.adright.co	^
+||2fmy.adright.co^
 ||2fpixel.everesttech.net^
 ||2fr.skimresources.com^
 ||2fspeedclicks.ero-advertising.com^
@@ -2354,7 +2358,10 @@ us6odtasve.ru
 ||3dbluerayplayer.com^
 ||3dcgfx.net^
 ||3delllwrite.com^
+||3dfilter.adright.co	^
+||3dfilter.adright.co^
 ||3dlivestats.com^
+||3dmy.adright.co^
 ||3dnews.onthe.io^
 ||3donlinegames.de^
 ||3dp-s.tlnk.io^
@@ -6596,6 +6603,7 @@ us6odtasve.ru
 ||abc.logly.co.jp^
 ||abc.m4adata.com^
 ||abc.pema.cl^
+||abc.prawo.link^
 ||abc1.adtelligent.com^
 ||abc2.adtelligent.com^
 ||abc3.adtelligent.com^
@@ -7060,7 +7068,6 @@ us6odtasve.ru
 ||activity.tuifish.com^
 ||activity.uc.cn^
 ||activity.umeng.com^
-||activity.windows.com^
 ||activity.wshareit.com^
 ||activity.yesware.com.herokudns.com^
 ||actnx.com^
@@ -8892,6 +8899,7 @@ us6odtasve.ru
 ||adglare.org^
 ||adglaze.com^
 ||adglob.asia^
+||adglobal.tech^
 ||adgoi-1.net^
 ||adgoi.com^
 ||adgoi.mobi^
@@ -11320,6 +11328,7 @@ us6odtasve.ru
 ||ads.realcities.com^
 ||ads.realmedia.com.br^
 ||ads.realmedia.de^
+||ads.realmemobile.com^
 ||ads.realtechnetwork.net^
 ||ads.reason.com^
 ||ads.recoletos.es^
@@ -14070,6 +14079,8 @@ us6odtasve.ru
 ||adx-dot.a.mobimagic.com^
 ||adx-east-bidder.manage.com^
 ||adx-eu-bidder.manage.com^
+||adx-id-ads.realmemobile.com^
+||adx-in-ads.realmemobile.com^
 ||adx-static.ksosoft.com^
 ||adx-tc.adform.net^
 ||adx-tk.rayjump.com^
@@ -16284,6 +16295,7 @@ us6odtasve.ru
 ||analytics.hotelwebservice.com^
 ||analytics.hpprintx.com^
 ||analytics.htmedia.in^
+||analytics.humanautomation.ai^
 ||analytics.icons8.com^
 ||analytics.ie1.mdxapi.io^
 ||analytics.ifood.tv^
@@ -16345,6 +16357,7 @@ us6odtasve.ru
 ||analytics.llnl.gov^
 ||analytics.locallogic.co^
 ||analytics.localytics.com^
+||analytics.logger.pw^
 ||analytics.logsss.com^
 ||analytics.loop-cloud.de^
 ||analytics.loveandcoffee.io^
@@ -16687,6 +16700,7 @@ us6odtasve.ru
 ||analytics.wittyfeed.com^
 ||analytics.wizardsbd.com^
 ||analytics.wolfgangs.com^
+||analytics.wonderanal.com^
 ||analytics.woozooo.com^
 ||analytics.worldnow.com^
 ||analytics.worldtable.co^
@@ -18067,6 +18081,7 @@ us6odtasve.ru
 ||apodir.oewabox.at^
 ||apodiscounterde.widget.criteo.com^
 ||apoll.m.taobao.com^
+||apollo-ireland.akamaized.net^
 ||apolloadlv.hit.gemius.pl^
 ||apollofind.com^
 ||apollointeractive.ringrevenue.com^
@@ -19529,6 +19544,7 @@ us6odtasve.ru
 ||atijsiwpbrvtm.bid^
 ||atinna.com^
 ||atinternet.com^
+||ationmultinal.info^
 ||ationsity.com^
 ||ativan.ourtablets.com^
 ||atjgtndhvbescp.bid^
@@ -21450,6 +21466,9 @@ us6odtasve.ru
 ||bd6-r.tlnk.io^
 ||bdads.mobi^
 ||bdafhnltyxlw.com^
+||bdapi-ads.realmemobile.com^
+||bdapi-id-ads.realmemobile.com^
+||bdapi-in-ads.realmemobile.com^
 ||bdapi.ads.oppomobile.com^
 ||bdash-cloud.com^
 ||bdawg.us^
@@ -22059,7 +22078,6 @@ us6odtasve.ru
 ||beyond.t.domdex.com^
 ||beyondhollywood.us.intellitxt.com^
 ||beyondwhois.com^
-||beyourbest.pl^
 ||beyourshop.ru^
 ||bezbiku.pro^
 ||bezcmsrzx.com^
@@ -22652,6 +22670,7 @@ us6odtasve.ru
 ||bjcpcnhssg.com^
 ||bjcunwelpd.com^
 ||bjcvibh.com^
+||bjdata-ads.realmemobile.com^
 ||bjdata.ads.oppomobile.com^
 ||bjdfckchzsa.bid^
 ||bjdthyywcargba.com^
@@ -23370,6 +23389,7 @@ us6odtasve.ru
 ||borrot.de^
 ||borsendental.com^
 ||boryskowalski.pl^
+||borzov-udo.com^
 ||bos-v4.pops.fastly-insights.com^
 ||bos.ads.nexage.com^
 ||bos.ads0.nexage.com^
@@ -24125,6 +24145,7 @@ us6odtasve.ru
 ||butypremium.pl^
 ||butypumasklep.pl^
 ||butyreebokcrossfit.pl^
+||butyreebokpl.pl^
 ||butysalomonsklep.com^
 ||butysalomonsklep.pl^
 ||butyskecherspolska.pl^
@@ -28823,7 +28844,6 @@ us6odtasve.ru
 ||clothfoot.xyz^
 ||clothingsshopping.club^
 ||clothiquet.info^
-||clothmmt.club^
 ||clotholip.xyz^
 ||clothsdinfg.xyz^
 ||cloud-emea.analytics-egain.com^
@@ -29916,7 +29936,6 @@ us6odtasve.ru
 ||company.com.ph^
 ||companycreators.co.uk^
 ||comparecards.com^
-||compartnew.eu^
 ||compass.adop.cc^
 ||compass.districtm.net^
 ||compass.oovvuu.com^
@@ -30415,7 +30434,6 @@ us6odtasve.ru
 ||convertwordtopdf.co^
 ||convf.tubemogul.com^
 ||convhkmp.taboola.com^
-||conviktus.eu^
 ||convlatbmp.taboola.com^
 ||convnjmp.basebanner.com^
 ||convnjmp.taboola.com^
@@ -32004,6 +32022,7 @@ us6odtasve.ru
 ||cw04.smaato.net^
 ||cw23.mta.exacttarget.com^
 ||cw230.mta.exacttarget.com^
+||cwandzytnzplqn.com^
 ||cwb-v4.pops.fastly-insights.com^
 ||cwbbqhgtjbvtzi.com^
 ||cwcwcw.tk^
@@ -33100,15 +33119,22 @@ us6odtasve.ru
 ||dastmall.xyz^
 ||daswallet.com^
 ||dat2.ero-advertising.com^
+||data-ads.realmemobile.com^
 ||data-analytics.jp^
+||data-cl-f-ads.realmemobile.com^
+||data-cl-id-ads.realmemobile.com^
+||data-cl-in-ads.realmemobile.com^
 ||data-collector.wefi.com^
 ||data-data-vac.com^
 ||data-days.com^
 ||data-dictionary.service.newrelic.com^
 ||data-ero-advertising.com^
+||data-f-ads.realmemobile.com^
 ||data-failover.ero-advertising.com^
 ||data-failover.eroadvertising.com^
+||data-id-ads.realmemobile.com^
 ||data-id.ads.oppomobile.com^
+||data-in-ads.realmemobile.com^
 ||data-ingress-ae1.tapad.com^
 ||data-ingress-euw1.tapad.com^
 ||data-ipv6.flurry.com^
@@ -33118,6 +33144,7 @@ us6odtasve.ru
 ||data-provider.beta.smartlook.com^
 ||data-service.mopub.com^
 ||data-service2.mopub.com^
+||data-sg-ads.realmemobile.com^
 ||data-slimspots.com^
 ||data-us-east-1.axonix.com^
 ||data-us.ero-advertising.com^
@@ -35459,7 +35486,6 @@ us6odtasve.ru
 ||doska.mirtesen.ru^
 ||doski.by^
 ||doskki.com^
-||doslubu24.pl^
 ||dosszie.com^
 ||dostavka.ru^
 ||dosugcz.biz^
@@ -35637,6 +35663,7 @@ us6odtasve.ru
 ||downlossinen.info^
 ||downture.in^
 ||downum.game.uc.cn^
+||doxurgeoisuniv.info^
 ||doyugqaizcecne.com^
 ||dp-medien.eu^
 ||dp-sync.dotomi.com^
@@ -38786,6 +38813,7 @@ us6odtasve.ru
 ||etbrjgpsadke.com^
 ||etc-poolcrypto.org^
 ||etc.atja.jp^
+||etcjliejxlcfw.com^
 ||etcmine.pro^
 ||etcodes.com^
 ||ete9dw2pnbehj7gofksruac2hqg2f1516627539.nuid.imrworldwide.com^
@@ -40897,6 +40925,7 @@ us6odtasve.ru
 ||filo-shop.pl^
 ||filosvybfimpsv.ru.gg^
 ||filter.adexchangemedia.xyz^
+||filter.adright.co^
 ||filter.adsparkmedia.net^
 ||filter.adxfactory.com^
 ||filter.eclickz.com^
@@ -42746,6 +42775,7 @@ us6odtasve.ru
 ||fzoixwmvrwg7iihdspgnlybskqxmz1505446301.nuid.imrworldwide.com^
 ||fzorwhus.com^
 ||fzpseyhkanhopd.com^
+||fzqmjlkvb.com^
 ||fzqxefkbjzwiqa.com^
 ||fzrcalpbcu.com^
 ||fzrqfakeaqikwm.com^
@@ -43437,6 +43467,7 @@ us6odtasve.ru
 ||gdmdigital.com^
 ||gdn.bigfishgames.com^
 ||gdo91ndvyg.kameleoon.eu^
+||gdpr-service.herokuapp.com^
 ||gdpr.adjust.com^
 ||gdpr.airpush.com^
 ||gdpr.algolia.com^
@@ -45508,7 +45539,6 @@ us6odtasve.ru
 ||grybow24.pl^
 ||gryjava.gsm.pl^
 ||grykuutktgaun.com^
-||grynanecie.pl^
 ||gryonline24h.pl^
 ||grypsuj.pl^
 ||grz67.com^
@@ -46272,7 +46302,6 @@ us6odtasve.ru
 ||haynet.adbureau.net^
 ||hayxktgbqpmult.com^
 ||hazingfun.com^
-||hazoombienesraices.com^
 ||hb-247.com^
 ||hb-ad.bidgear.com^
 ||hb-analytics.amp.services^
@@ -49414,6 +49443,7 @@ us6odtasve.ru
 ||igifhnkw.com^
 ||igisuu8kzp3iyjlougayzpfmsdwrp1516679117.nuid.imrworldwide.com^
 ||igligan.info^
+||igllgmtrioka.com^
 ||igloohq.com^
 ||igmsjgadiz.com^
 ||ign.us.intellitxt.com^
@@ -51314,6 +51344,7 @@ us6odtasve.ru
 ||io-test.rayjump.com^
 ||io.innertrends.com^
 ||io.narrative.io^
+||io1g.net^
 ||ioads.ero-advertising.com^
 ||ioam.de^
 ||ioatyggwaypq.com^
@@ -52722,6 +52753,7 @@ us6odtasve.ru
 ||jkfgdkesrpx.bid^
 ||jkh.onthe.io^
 ||jkhad.com^
+||jkifsaeaqkupu.com^
 ||jkiicqewzn.com^
 ||jkiwvfgrsythrw.com^
 ||jkjcoyeeglunz.com^
@@ -53834,6 +53866,7 @@ us6odtasve.ru
 ||katz.qualtrics.com^
 ||katzewazup.org^
 ||kau.li^
+||kaubapsy.com^
 ||kaufland.gift-cards.co.pl^
 ||kauflandstiftung.demdex.net^
 ||kaukoafa.net^
@@ -53935,7 +53968,6 @@ us6odtasve.ru
 ||kdmuqtxadtl.com^
 ||kdoraraq.com^
 ||kdowqlpt.info^
-||kdplay.net^
 ||kdpqydaxbxztnh.com^
 ||kds-pixel.kargo.com^
 ||kds-reklam.rtb.adx1.com^
@@ -54866,7 +54898,6 @@ us6odtasve.ru
 ||ksias.adx1.com^
 ||ksiazka-telefoniczna-online.pl^
 ||ksiazkatunele.pl^
-||ksiazkiokomunikacji.pl^
 ||ksihafqopndbq.com^
 ||ksioijtb.com^
 ||ksix.afftrack.com^
@@ -55755,9 +55786,11 @@ us6odtasve.ru
 ||leadcola.com^
 ||leaddyno-client-images.s3.amazonaws.com^
 ||leaddyno.com^
+||leadelephant.com^
 ||leader.linkexchange.com^
 ||leaderboardavatar.inrix.com^
 ||leaderpub.fr^
+||leadfamly.com^
 ||leadfeeder.com^
 ||leadforce1.com^
 ||leadforensics.com^
@@ -56107,6 +56140,7 @@ us6odtasve.ru
 ||lgzfhqubp.com^
 ||lgzjsauvfv.com^
 ||lh5lg.top^
+||lhaieyfsvi.com^
 ||lhapwjkoltogf.bid^
 ||lhaqzqjbafcu.com^
 ||lhbkkztxg.com^
@@ -57451,6 +57485,7 @@ us6odtasve.ru
 ||lookszone.ru^
 ||lookup.hitbox.com^
 ||lookup2.hitbox.com^
+||loomufie.com^
 ||looneyads.com^
 ||looneynetwork.com^
 ||loong2am4lishu.adx1.com^
@@ -58897,7 +58932,6 @@ us6odtasve.ru
 ||maiamirainy.at^
 ||maibo666.com^
 ||maidlytsnrn.com^
-||maik.ff-bt.net^
 ||maikiki.com^
 ||mail-ads.google.com^
 ||mail-gw.jbic.go.jp^
@@ -59281,7 +59315,6 @@ us6odtasve.ru
 ||marketingautomation.services^
 ||marketingenhanced.com^
 ||marketinggeneral.co1.qualtrics.com^
-||marketinghub.hp.com^
 ||marketingkaizen.s3-eu-west-1.amazonaws.com^
 ||marketingplatform.google.com^
 ||marketingservices.act-on.com^
@@ -59695,7 +59728,6 @@ us6odtasve.ru
 ||mc.s7.exacttarget.com^
 ||mc.webvisor.com^
 ||mc.webvisor.org^
-||mc.webvisor.ru^
 ||mc.yandex.ru^
 ||mcafee-home.7eer.net^
 ||mcafee12.tt.omtrdc.net^
@@ -60281,7 +60313,6 @@ us6odtasve.ru
 ||mediaon.it^
 ||mediaonenetwork.net^
 ||mediaonpro.com^
-||mediapartner.bigpoint.net^
 ||mediapass.com^
 ||mediapeartree.com^
 ||mediapeo.com^
@@ -60794,7 +60825,6 @@ us6odtasve.ru
 ||metrics.cbslocal.com^
 ||metrics.centex.com^
 ||metrics.chacha.com^
-||metrics.chmedia.com^
 ||metrics.chron.com^
 ||metrics.cleveland.com^
 ||metrics.cloudflarebolt.com^
@@ -60881,7 +60911,6 @@ us6odtasve.ru
 ||metrics.lehighvalleylive.com^
 ||metrics.lexus.com^
 ||metrics.lhj.com^
-||metrics.loomia.com^
 ||metrics.m.ambientplatform.vn^
 ||metrics.macys.net^
 ||metrics.maxim.com^
@@ -61503,7 +61532,6 @@ us6odtasve.ru
 ||minodazi.com^
 ||minormeeting.com^
 ||minr.pw^
-||mint.good.is^
 ||mintake.com^
 ||mintegral.com^
 ||mintj.com^
@@ -61565,7 +61593,6 @@ us6odtasve.ru
 ||mistrzmotywacji.pl^
 ||miszwaojrn.com^
 ||mit.co1.qualtrics.com^
-||mitel.marketbright.com^
 ||mitewerbi.pw^
 ||mitiendaderopa.com^
 ||mitmeisseln.de^
@@ -61670,6 +61697,7 @@ us6odtasve.ru
 ||mkyzqyfschwd.com^
 ||mkzbpsiml.com^
 ||mkzllhqhsgq.com^
+||ml-attr.com^
 ||ml.optimizely.com^
 ||ml314.com^
 ||mlands.ru^
@@ -61797,7 +61825,6 @@ us6odtasve.ru
 ||mmp.inmobi.com^
 ||mmpcqstnkcelx.com^
 ||mmpool.org^
-||mmpstats.mirror-image.com^
 ||mmptrack.com^
 ||mmqataru.qualtrics.com^
 ||mmqidlebc.com^
@@ -62675,7 +62702,6 @@ us6odtasve.ru
 ||mp.adnxs.com^
 ||mp.apmebf.com^
 ||mp.clicksor.net^
-||mp.pianomedia.eu^
 ||mp.rlcdn.com^
 ||mp.rubiconproject.com^
 ||mp.safedk.com^
@@ -62810,6 +62836,7 @@ us6odtasve.ru
 ||mrfveznetjtp.com^
 ||mrhtltayffbrgv.com^
 ||mrjeweller.us^
+||mrjppjqmc.com^
 ||mrjzfzwey.com^
 ||mrkzgpbaapif.com^
 ||mrlindustries.com^
@@ -63420,6 +63447,8 @@ us6odtasve.ru
 ||my-uq.com^
 ||my.admitad.com^
 ||my.adocean.pl^
+||my.adright.co			^
+||my.adright.co^
 ||my.adserver.yahoo.com^
 ||my.aip.insightexpressai.com^
 ||my.blueadvertise.com^
@@ -64291,7 +64320,6 @@ us6odtasve.ru
 ||ncaudienceexchange.com^
 ||ncbklawyb.bid^
 ||ncbqi.com^
-||ncdnprorogeraie.lol^
 ||ncdxfwxijazn.com^
 ||ncedivisite.info^
 ||nceuiwtnpyuqtn.bid^
@@ -64386,6 +64414,7 @@ us6odtasve.ru
 ||necessarywax.com^
 ||neckermannreisen.btttag.com^
 ||nectregroup2.actonsoftware.com^
+||nedconstance.info^
 ||neddwrmmced.bid^
 ||nedmppiilnld.com^
 ||nedstat.com^
@@ -65647,7 +65676,6 @@ us6odtasve.ru
 ||nonstoppartner.de^
 ||nonstoppartner.net^
 ||nonstopvideos.pl^
-||nonxt1.c.youtube.com^
 ||noob.onthe.io^
 ||noobgirls.com^
 ||noolablkcuyu.com^
@@ -66300,7 +66328,6 @@ us6odtasve.ru
 ||nv.5.p2l.info^
 ||nv.uashaql.net^
 ||nvajxoahenwe.com^
-||nvc.n1bus-exp.com^
 ||nvcwvcmwdjgjyu.bid^
 ||nvgcmeqfn.com^
 ||nvhzkdltdxfoax.com^
@@ -67225,7 +67252,6 @@ us6odtasve.ru
 ||offerimage.com^
 ||offerjuice.me^
 ||offermatica.com^
-||offermatica.intuit.com^
 ||offernew101.com^
 ||offerpalads.com^
 ||offerpoint.net^
@@ -67238,7 +67264,6 @@ us6odtasve.ru
 ||offers.cloackp.com^
 ||offers.filezilla-project.org^
 ||offers.impower.com^
-||offers.keynote.com^
 ||offers.lendingtree.com^
 ||offers.netcoresmartech.com^
 ||offers.nordvpn.com^
@@ -67621,7 +67646,6 @@ us6odtasve.ru
 ||olympusmarkets.com^
 ||om-datacollector.ipass.com^
 ||om-dev.flurry.com^
-||om.1and1.co.uk^
 ||om.ads.justpremium.com^
 ||om.blockbuster.com^
 ||om.businessweek.com^
@@ -68358,7 +68382,6 @@ us6odtasve.ru
 ||optimask-pro.com^
 ||optimatic.com^
 ||optimatic.sync.go.sonobi.com^
-||optimera.elasticbeanstalk.com^
 ||optimierung-der-website.de^
 ||optimix.asia^
 ||optimization-methods.com^
@@ -69213,7 +69236,6 @@ us6odtasve.ru
 ||p.datafirst.io^
 ||p.delivery.net^
 ||p.dlx.addthis.com^
-||p.dsero.net^
 ||p.ebdr2.com^
 ||p.errorception.com^
 ||p.estream.to^
@@ -69931,6 +69953,7 @@ us6odtasve.ru
 ||padsips.com^
 ||padsokz.com^
 ||padspms.com^
+||padspmz.com^
 ||padsquad-d.openx.net^
 ||padsreds.com^
 ||padssup.com^
@@ -69975,7 +69998,6 @@ us6odtasve.ru
 ||pagerank-suchmaschine.de^
 ||pagerank-united.de^
 ||pagerank.fr^
-||pagerank.g-easy.hu^
 ||pagerank.jklir.net^
 ||pagerank4u.eu^
 ||pagerank4you.com^
@@ -70286,7 +70308,6 @@ us6odtasve.ru
 ||partners.realgirlsmedia.com^
 ||partners.sprintrade.com^
 ||partners.swoop.com^
-||partners.thefilter.com^
 ||partners.tremorhub.com^
 ||partners.triplelift.com^
 ||partners.vsemayki.ru^
@@ -70717,7 +70738,6 @@ us6odtasve.ru
 ||peerfly.com^
 ||peering.criteo.net^
 ||peerius.com^
-||peermapcontent.affino.com^
 ||peevopoy.com^
 ||peewuranpdwo.com^
 ||peewuvgdcian.com^
@@ -70852,6 +70872,7 @@ us6odtasve.ru
 ||perimeterx.net^
 ||perinstallcash.com^
 ||perion.com^
+||perk0mean.com^
 ||perkas.pw^
 ||perkasaqq.com^
 ||perkcanada.com^
@@ -70924,7 +70945,6 @@ us6odtasve.ru
 ||peyttlwbznahi.com^
 ||peyzamo.ru^
 ||pezrphjl.com^
-||pf.aclst.com^
 ||pf.newegg.com^
 ||pf.static.ads-twitter.com^
 ||pf.tradedoubler.com^
@@ -70959,7 +70979,6 @@ us6odtasve.ru
 ||pfxlive.com^
 ||pg-kix-ulog.ksapisrv.com^
 ||pg-mobileservice.us-east-1.elasticbeanstalk.com^
-||pg.buzzfeed.com^
 ||pg.tj.ijinshan.com^
 ||pg.xdrig.com^
 ||pg2.solution.weborama.fr^
@@ -71333,7 +71352,6 @@ us6odtasve.ru
 ||ping-fast.com^
 ||ping-traffic.info
 ||ping-traffic.info^
-||ping.aclst.com^
 ||ping.buto.tv^
 ||ping.chartbeat.net^
 ||ping.crowdscience.com^
@@ -71343,7 +71361,6 @@ us6odtasve.ru
 ||ping.media.net^
 ||ping.mtraction.com^
 ||ping.onscroll.com^
-||ping.rasset.ie^
 ||ping.rqmob.com^
 ||ping.smyte.com^
 ||ping.tapas.io^
@@ -71372,7 +71389,6 @@ us6odtasve.ru
 ||pingqwlxklbiev.com^
 ||pings.blip.tv^
 ||pings.conviva.com^
-||pings.reembed.com^
 ||pings.vidpulse.com^
 ||pingtcss.qq.com^
 ||pinheiroequipamento.com.br^
@@ -71469,7 +71485,6 @@ us6odtasve.ru
 ||pix.impdesk.com^
 ||pix.lfstmedia.com^
 ||pix.nbcuni.com^
-||pix.news.at^
 ||pix.pulsemgr.com^
 ||pix.revsci.net^
 ||pix.silverpush.co^
@@ -71528,7 +71543,6 @@ us6odtasve.ru
 ||pixel-user-1039.everesttech.net^
 ||pixel-user-1065.everesttech.net^
 ||pixel-user-1082.everesttech.net^
-||pixel-xpanama.netdna-ssl.com^
 ||pixel.1und1.de^
 ||pixel.33across.com^
 ||pixel.4pcdn.de^
@@ -71565,7 +71579,6 @@ us6odtasve.ru
 ||pixel.captora.com^
 ||pixel.carambo.la^
 ||pixel.cdnwidget.com^
-||pixel.colorupmedia.com^
 ||pixel.condenastdigital.com^
 ||pixel.cpex.cz^
 ||pixel.crosspixel.net^
@@ -71583,7 +71596,6 @@ us6odtasve.ru
 ||pixel.hecherthepar.pro^
 ||pixel.heckhaphanofres.info^
 ||pixel.hengaredi.pro^
-||pixel.holtzbrinckdigital.info^
 ||pixel.homebook.pl^
 ||pixel.honestjohn.co.uk^
 ||pixel.indieclick.com^
@@ -71603,11 +71615,9 @@ us6odtasve.ru
 ||pixel.moatads.compixel.moatads.com^
 ||pixel.mtrcs.samba.tv^
 ||pixel.naij.com^
-||pixel.nbsp.de^
 ||pixel.nc0.co^
 ||pixel.newscgp.com^
 ||pixel.newscred.com^
-||pixel.newsdata.com.au^
 ||pixel.newsdiscover.com.au^
 ||pixel.onaudience.com^
 ||pixel.onyemantee.pro^
@@ -71649,9 +71659,7 @@ us6odtasve.ru
 ||pixel.trackverify.com^
 ||pixel.tree.com^
 ||pixel.typacodosof.info^
-||pixel.usrsync.com^
 ||pixel.vdo.ai^
-||pixel.vmm-satellite2.com^
 ||pixel.watch^
 ||pixel.welt.de^
 ||pixel.westseven.media^
@@ -71880,7 +71888,6 @@ us6odtasve.ru
 ||pixels.asia^
 ||pixels.livingsocial.com^
 ||pixels.mparticle.com^
-||pixels.youknowbest.com^
 ||pixelservice.apphb.com^
 ||pixelsnippet.com^
 ||pixeltrack.eyeviewads.com^
@@ -71982,7 +71989,6 @@ us6odtasve.ru
 ||pl.bustcream-pro.com^
 ||pl.centrumofert.com^
 ||pl.coral-club.com^
-||pl.dailyoffer.top^
 ||pl.fmworld.com^
 ||pl.fohow.eu^
 ||pl.gamemine.com^
@@ -73041,6 +73047,7 @@ us6odtasve.ru
 ||pocketmath.com^
 ||pocofh.com^
 ||poconorecordcom.112.2o7.net^
+||poczta-login-neostrada.com^
 ||poczta-polska.net^
 ||pocztapolska48.net^
 ||pocztex-48.net^
@@ -73178,7 +73185,6 @@ us6odtasve.ru
 ||pomtiy.com^
 ||pon.ewtuyytdf45.com^
 ||pondokiklan.com^
-||pong.production.gannettdigital.com^
 ||pong.qubitproducts.com^
 ||ponitke.mirtesen.ru^
 ||pontiflex.com^
@@ -74662,6 +74668,7 @@ us6odtasve.ru
 ||prxio.pw^
 ||prxiy.com^
 ||pryovpwyimwh.com^
+||przechwyconafota.eu^
 ||przechwycone-zdjecia.00x.eu^
 ||przegladaj-zdjeecia.eu^
 ||przejdz.ml^
@@ -75162,6 +75169,7 @@ us6odtasve.ru
 ||pumapl.pl^
 ||pumashopjapan.com^
 ||pumaskleponline.pl^
+||pumaskleppolska.pl^
 ||pumawyprzedaz.pl^
 ||pumpkin.brisik.net^
 ||pumpkin.co.uk^
@@ -75222,6 +75230,7 @@ us6odtasve.ru
 ||push-notifications.top^
 ||push-sdk-backend-production.ap-south-1.elasticbeanstalk.com^
 ||push-tools-system.com^
+||push.adright.co^
 ||push.adtelligent.com^
 ||push.appsgeyser.com^
 ||push.apusapps.com^
@@ -75455,7 +75464,6 @@ us6odtasve.ru
 ||px-us-ca.adhigh.net^
 ||px-us-va.adhigh.net^
 ||px-us.adhigh.net^
-||px.247inc.net^
 ||px.a8.net^
 ||px.adhigh.net^
 ||px.ads.linkedin.com^
@@ -77545,6 +77553,7 @@ us6odtasve.ru
 ||reeboknpcii.pl^
 ||reebokoutlet.pl^
 ||reebokpromocje.pl^
+||reebokpump.pl^
 ||reeboktienda.online^
 ||reebonz.evergage.com^
 ||reed-cw.grapeshot.co.uk^
@@ -77910,7 +77919,6 @@ us6odtasve.ru
 ||report.broadcastpc.tv^
 ||report.clevernt.com^
 ||report.crashlytics.com^
-||report.downloastar.com^
 ||report.fff.com.vn^
 ||report.hb.brainlyads.com^
 ||report.huqindustries.co.uk^
@@ -77951,14 +77959,12 @@ us6odtasve.ru
 ||reporting.handll.net^
 ||reporting.ligatus.com^
 ||reporting.qualtrics.com^
-||reporting.reactlite.com^
 ||reporting.singlefeed.com^
 ||reporting.tapstream.com^
 ||reporting.taptica.com^
 ||reporting.treasuredata.com^
 ||reportingapi-stage.vidible.tv^
 ||reportingapi.qualtrics.com^
-||reportinglogger.my.rightster.com^
 ||reportlog.cocos.com^
 ||reports-ci.web.analytics.yahoo.com^
 ||reports.adform.com^
@@ -77972,7 +77978,6 @@ us6odtasve.ru
 ||reports.extreme-dm.com^
 ||reports.inmobi.com^
 ||reports.leanplum.com^
-||reports.maxperview.com^
 ||reports.nexage.com^
 ||reports.outbrain.com^
 ||reports.pagesuite-professional.co.uk^
@@ -78412,6 +78417,7 @@ us6odtasve.ru
 ||ridingintractable.com^
 ||rieyjzuyhigobg.bid^
 ||rifwhwdsqvgw.com^
+||rig-przemysl.com.pl^
 ||rig.idg.no^
 ||rigel.baidustatic.com^
 ||rigelink.com^
@@ -78760,7 +78766,6 @@ us6odtasve.ru
 ||roiservice.com^
 ||roispy.com^
 ||roitesting.com^
-||roitrack.addlvr.com^
 ||rojakpot.us.intellitxt.com^
 ||rojitkhlwxoi.com^
 ||rok.com.com^
@@ -78905,6 +78910,7 @@ us6odtasve.ru
 ||roulette.racyphotos.net^
 ||roulettebot-plus.com^
 ||roulettenumber.com^
+||roundcube.pl^
 ||roundfortred.ru^
 ||roupsouk.com^
 ||routard.partner.intentmedia.net^
@@ -80930,7 +80936,6 @@ us6odtasve.ru
 ||sc.vmware.com^
 ||sc1.admob.com^
 ||sc10.net^
-||sc21.pl^
 ||sc24de.widget.criteo.com^
 ||sc3.omniture.com^
 ||sc5-chart-1.omniture.com^
@@ -82150,7 +82155,6 @@ us6odtasve.ru
 ||serating.ru^
 ||serbapromo.com^
 ||serconmp.com^
-||serendipitygalenite.club^
 ||serenescreen-marine-aquarium.en.softonic.com^
 ||serenky.ru^
 ||sergarius.popunder.ru^
@@ -83319,6 +83323,7 @@ us6odtasve.ru
 ||sipa.be^
 ||sipfederationtls.tcp.crazyegg.com^
 ||siphic5.top^
+||sipp.pl^
 ||siproal.es^
 ||siqcrwlrqjc.com^
 ||sirablivefbxul.bid^
@@ -84363,6 +84368,7 @@ us6odtasve.ru
 ||socialtrack.net^
 ||socialworkcolumbia.co1.qualtrics.com^
 ||sociaplus.com^
+||sociatedcounte.info^
 ||sociatemethio.club^
 ||societe.mgr.consensu.org^
 ||societingna.info^
@@ -85671,6 +85677,7 @@ us6odtasve.ru
 ||st.html.polyad.net^
 ||st.ipornia.com^
 ||st.l.a.eclick.vn^
+||st.linkfire.com^
 ||st.marketgid.com^
 ||st.n.ads2-adnow.com^
 ||st.n.ads4-adnow.com^
@@ -85959,7 +85966,6 @@ us6odtasve.ru
 ||stat.hasmobi.net^
 ||stat.int.browser.baidu.com^
 ||stat.it168.com^
-||stat.itp-nyc.com^
 ||stat.kbs.co.kr^
 ||stat.kika-backend.com^
 ||stat.komoona.com^
@@ -86135,6 +86141,7 @@ us6odtasve.ru
 ||static.adlantis.jp^
 ||static.adman.gr^
 ||static.admaximize.com^
+||static.adright.co^
 ||static.adroute.focas.jp^
 ||static.ads-twitter.com^
 ||static.ads.apusapps.com^
@@ -86422,7 +86429,6 @@ us6odtasve.ru
 ||static.younetmedia.com^
 ||static.yuhuads.com^
 ||static.zanox.com^
-||static.zdassets.com^
 ||static.zdbb.net^
 ||static.zotabox.com^
 ||static.zucks.net.zimg.jp^
@@ -86729,6 +86735,7 @@ us6odtasve.ru
 ||stats.lead.mysitehosted.com^
 ||stats.libresse.no^
 ||stats.livingsocial.com^
+||stats.logger.pw^
 ||stats.lotlinx.com^
 ||stats.macmillanusa.com^
 ||stats.macworld.com^
@@ -88751,6 +88758,7 @@ us6odtasve.ru
 ||tagtray.com^
 ||tagular.com^
 ||tahit.wastech2016.in^
+||tahkezux.com^
 ||tahoesup.com^
 ||tai.go88.com^
 ||taidegraucho.com^
@@ -89206,6 +89214,7 @@ us6odtasve.ru
 ||tds77.su^
 ||tdsantcrazy.ru^
 ||tdsjsext.com^
+||tdsjsext1.com^
 ||tdsjsext3.com^
 ||tdslp.ru^
 ||tdsnpnyg.bid^
@@ -90897,7 +90906,6 @@ us6odtasve.ru
 ||tommysbookmarks.com^
 ||tommysbookmarks.net^
 ||tommysdream.net^
-||tomojawiara.pl^
 ||tomonline-inc.com^
 ||tomorrow-focus.de.d1.sc.omtrdc.net^
 ||tomorrownewstoday.com^
@@ -93652,6 +93660,7 @@ us6odtasve.ru
 ||trimpur.com^
 ||trinaturk.evergage.com^
 ||trinity.qualtrics.com^
+||trinitybeautypoland.pl^
 ||trinitymirror-d.openx.net^
 ||trinitymirror.112.2o7.net^
 ||trinitymirror.grapeshot.co.uk^
@@ -94766,6 +94775,7 @@ us6odtasve.ru
 ||uanomwcxixed.com^
 ||uaofcvzlhhh.com^
 ||uaolighevmjy.com^
+||uapi-ads.realmemobile.com^
 ||uapi.ads.oppomobile.com^
 ||uapoisk.net^
 ||uaqcfkzqqnuxc.com^
@@ -95308,7 +95318,6 @@ us6odtasve.ru
 ||ulife17yeter.com^
 ||ulink.adjust.com^
 ||ulink.immomo.com^
-||ulink.pl^
 ||ullapopkende.widget.criteo.com^
 ||ullariwoi.com^
 ||ulml.mob.com^
@@ -96740,6 +96749,7 @@ us6odtasve.ru
 ||v3m.youzu.com^
 ||v4.chartboost.com^
 ||v4.cnzz.com^
+||v4.logger.pw^
 ||v4.moatads.com^
 ||v4dwkcv.com^
 ||v5.chartboost.com^
@@ -96784,7 +96794,6 @@ us6odtasve.ru
 ||vabid.prod.sift.co^
 ||vacaneedasap.com^
 ||vacation.toppick.info^
-||vacnuuitxqot.com^
 ||vacshqmpvkbzjh.com^
 ||vacwrite.com^
 ||vad.adbasket.net^
@@ -96804,10 +96813,7 @@ us6odtasve.ru
 ||vaes-na-preprod.amazon-adsystem.com^
 ||vaes-na.amazon-adsystem.com^
 ||vaes.amazon-adsystem.com^
-||vafmypxwomid.com^
 ||vaftkcyzqg.com^
-||vaghwpbslvbu.com^
-||vagttuyfeuij.com^
 ||vagwyn.pw^
 ||vahtbhufjkna.com^
 ||vahufapave.com^
@@ -96873,7 +96879,6 @@ us6odtasve.ru
 ||vamartin.work^
 ||vamprog.site^
 ||vamsoupowoa.com^
-||vamuglchdpte.com^
 ||van.ads.link4ads.com^
 ||van.redlightcenter.com^
 ||vancouversun-com.c.richmetrics.com^
@@ -96912,7 +96917,6 @@ us6odtasve.ru
 ||vantagemedia1.d1.sc.omtrdc.net^
 ||vantedge.co1.qualtrics.com^
 ||vantis-holding.com^
-||vaoajrwmjzxp.com^
 ||vap.lijit.com^
 ||vap1ams1.lijit.com^
 ||vap1ewr1.lijit.com^
@@ -97074,7 +97078,6 @@ us6odtasve.ru
 ||vbcmgmhfoj.com^
 ||vbdrzplqtgk.com^
 ||vbebblpht.com^
-||vbehjwhcbhtg.com^
 ||vbgty.cf^
 ||vbguaqweaif.com^
 ||vbhfrdqskvcvxj.com^
@@ -97082,9 +97085,7 @@ us6odtasve.ru
 ||vbiudrdieouauc.com^
 ||vbjhsdcuv.com^
 ||vbjpddtj.com^
-||vbjvbjertwov.com^
 ||vbkhjlokrdd.com^
-||vblunqrovanf.com^
 ||vbmay16.com^
 ||vbmer.com^
 ||vbmrzb.mirtesen.ru^
@@ -97095,12 +97096,9 @@ us6odtasve.ru
 ||vbskcvjdabdp.com^
 ||vbtrax.com^
 ||vbuhzjnj.com^
-||vbupfouyymse.com^
-||vbuqjdyrsrvi.com^
 ||vbwakfbazxd.com^
 ||vbwfqaisbgn.com^
 ||vbxrcekqkmrzyd.com^
-||vbyefnnrswpn.com^
 ||vc.mobclix.com^
 ||vcamerahotcore.club^
 ||vcardsdkservice.vivo.com.cn^
@@ -97113,7 +97111,6 @@ us6odtasve.ru
 ||vcdn.media.innity.net^
 ||vcdtowafqibekr.com^
 ||vcfnspbgztl.com^
-||vcgbtlktbagb.com^
 ||vcgcqbpk.com^
 ||vch.voyage-prive.ch^
 ||vcipo.info^
@@ -97141,7 +97138,6 @@ us6odtasve.ru
 ||vcupsych.co1.qualtrics.com^
 ||vcvapkiua.com^
 ||vcvefwzdxhysh.com^
-||vcwdjbbughuy.com^
 ||vcwrigdrnh.com^
 ||vcxoizuwy.com^
 ||vcxqcjov.com^
@@ -97158,35 +97154,27 @@ us6odtasve.ru
 ||vddhkbxeutjr.com^
 ||vde1.voyage-prive.de^
 ||vdfoejtqimcgog.com^
-||vdhmatjdoyqt.com^
 ||vdhu.com^
 ||vdi.catalina.com^
 ||vdldsjqxppi.com^
-||vdlvaqsbaiok.com^
 ||vdm-apiservice.prod.vidible.tv^
 ||vdm-apiservice.stage.vidible.tv^
 ||vdm-apiservice.vidible.tv^
 ||vdn.ipredictive.com^
 ||vdna-assets.com^
 ||vdna.exelator.com^
-||vdnwtglxprwx.com^
 ||vdo.adiquity.com^
 ||vdo.ai^
 ||vdoing.com^
 ||vdopia.com^
-||vdpyueivvsuc.com^
-||vdqarbfqauec.com^
 ||vdrpwkycbla.com^
 ||vdtaajlfocecy.com^
 ||vdterms.samsungcloudsolution.com^
 ||vdtrack.com^
 ||vdula.czystykod.pl^
 ||vdumpcunfa.com^
-||vduswjwfcexa.com^
 ||vdvaazkk.com^
-||vdvylfkwjpvw.com^
 ||vdwlf.net^
-||vdyqcdxqvebl.com^
 ||ve.ads.justpremium.com^
 ||ve.tscapeplay.com^
 ||ve1li5fzs0ob2rychfgwcrotcypw71516220932.nuid.imrworldwide.com^
@@ -97220,7 +97208,6 @@ us6odtasve.ru
 ||veedjtyvhn.com^
 ||veehdmymwvvexv.com^
 ||veejooty.com^
-||veeqneifeblh.com^
 ||veeseo.com^
 ||veethour.com^
 ||veevu.tourstogo.us^
@@ -97230,11 +97217,9 @@ us6odtasve.ru
 ||vegascosmetics.de^
 ||vegatestsklep.pl^
 ||vegiqjbranp.com^
-||vegmvagvesye.com^
 ||veille-referencement.com^
 ||veinteractive.com^
 ||veirregnant.club^
-||vejlbuixnknc.com^
 ||veksi.barginginfrance.net^
 ||vektor-us-east-1.axonix.com^
 ||vekuridufq.com^
@@ -97291,7 +97276,6 @@ us6odtasve.ru
 ||veoujrnenng.com^
 ||veoxa.com^
 ||vepatyei.com^
-||vepcsswlpolz.com^
 ||veplatform.veinteractive.com^
 ||veplatformhk.veinteractive.com^
 ||veplatformusa.veinteractive.com^
@@ -97384,7 +97368,6 @@ us6odtasve.ru
 ||vezetmne.ru^
 ||vezipelsr.com^
 ||vf7.soundsecureredir.com^
-||vfasewomnmco.com^
 ||vfastdownload.com^
 ||vfbprod2.personifycloud.com^
 ||vfde.demdex.net^
@@ -97395,13 +97378,11 @@ us6odtasve.ru
 ||vfghc.com^
 ||vfgta.com^
 ||vfhcrxlfm.com^
-||vfkfctmtgrtq.com^
 ||vfkuauks.com^
 ||vfkwaaqc.com^
 ||vflto.voluumtrk.com^
 ||vfmfkei3yfgnn9dezx3efaxrhlspm1509497561.nuid.imrworldwide.com^
 ||vfnemtpehzmzwc.com^
-||vfnvsvxlgxbvndhgqqohfgdcfprvxqisiqhclfhdpnjzloctny.com^
 ||vfo.voyage-prive.co.uk^
 ||vfousvlr.com^
 ||vfqkonyxf.com^
@@ -97425,8 +97406,6 @@ us6odtasve.ru
 ||vg74gi6mea.com^
 ||vgark.mirtesen.ru^
 ||vgbvsduys.com^
-||vgckzqudqhfr.com^
-||vgfeahkrzixa.com^
 ||vghd.com^
 ||vgjackpot5.com^
 ||vgjawpqjn.com^
@@ -97435,7 +97414,6 @@ us6odtasve.ru
 ||vglpukrekfij.com^
 ||vgm.actonsoftware.com^
 ||vgmarket.qualtrics.com^
-||vgmrqurgxlimcawbweuzbvbzxabsfuuxseldfapjmxoboaplmg.com^
 ||vgnlhfdkmcdc.com^
 ||vgo.vegaoo.de^
 ||vgodvvcwrshk.com^
@@ -97443,14 +97421,11 @@ us6odtasve.ru
 ||vgrtf54dtse.ml^
 ||vgrtq7rjwrel6a8bsah1uqiqazot11509509341.nuid.imrworldwide.com^
 ||vgszcaszzef.com^
-||vgtnbvzkepbm.com^
 ||vguproonline.xyz^
 ||vgvzvqbzhh.com^
 ||vgyakiejafjjj.com^
 ||vh1com.112.2o7.net^
-||vhatpbmitwcn.com^
 ||vhbyakilp.com^
-||vhctcywajcwv.com^
 ||vhdvllhgyrjy.com^
 ||vhiaxerjzbqi.com^
 ||vhiuhrwapdirpu.com^
@@ -97468,15 +97443,12 @@ us6odtasve.ru
 ||vhosts.tapad.com^
 ||vhouorcd.com^
 ||vhpmiipdpjq.com^
-||vhpqxkhvjgwx.com^
 ||vhscigqpwe.com^
 ||vhsrwd.aip24.pl^
 ||vht.tradedoubler.com^
 ||vhuhrhowm.com^
 ||vhunantv.admaster.com.cn^
-||vhuveukirbuz.com^
 ||vhvjj.top^
-||vhwuphctrfil.com^
 ||vhzgmzakn.com^
 ||vi-serve.com^
 ||vi.5.p2l.info^
@@ -97564,7 +97536,6 @@ us6odtasve.ru
 ||vicodin-online.petrovka.info^
 ||vicodin-store.shengen.ru^
 ||vicodin.t-amo.net^
-||vicofhozbuaf.com^
 ||victor-dulin2009.mirtesen.ru^
 ||victor.connectcloud.ch^
 ||victorance.com^
@@ -97932,7 +97903,6 @@ us6odtasve.ru
 ||viptizer.com^
 ||viptizerka.ru^
 ||vipvergognosi.com^
-||viqfxgmgacxv.com^
 ||viqmadjqndqkm.com^
 ||vira.ru^
 ||viral-cdn.ru^
@@ -98073,7 +98043,6 @@ us6odtasve.ru
 ||vitrine.lugarcerto.com.br^
 ||vitrine.sup.com^
 ||vitrines.globo.com^
-||viuboin4.com^
 ||viumbe-d.openx.net^
 ||viunypnvhcw.com^
 ||viurihkwo.com^
@@ -98084,10 +98053,8 @@ us6odtasve.ru
 ||vivapays.com^
 ||vivavivaxim.ca.ssl.d1.sc.omtrdc.net^
 ||vivaweb.org^
-||vivcdctagoij.com^
 ||vivebox.net^
 ||vivenso.pl^
-||vivetivcuggz.com^
 ||vivi987.com^
 ||vivieasy.com^
 ||vivistats.com^
@@ -98102,7 +98069,6 @@ us6odtasve.ru
 ||vixqjiypv.com^
 ||vizaiced.net^
 ||vizisense.net^
-||vizsvhgfkcli.com^
 ||vizu.com^
 ||vizury.com^
 ||vizzit.se^
@@ -98117,22 +98083,18 @@ us6odtasve.ru
 ||vjltrbzrtqmkib.com^
 ||vjoytzia.com^
 ||vjqshoyjxwk.com^
-||vjrpdagpjwyt.com^
 ||vjuguete.com^
 ||vjyzfgwkzp.com^
 ||vjzcgotoy.com^
 ||vjzqmbcx.com^
-||vjzttumdetao.com^
 ||vk.18sexporn.ru^
 ||vk2ca.com^
 ||vkafirac.com^
 ||vkaofq64zz.com^
-||vkarvfrrlhmv.com^
 ||vkasuqsswc.com^
 ||vkbftstazhjgdx.com^
 ||vkcdnservice.appspot.com^
 ||vkcdnservice.com^
-||vkdbvgcawubn.com^
 ||vkhrnisuky.com^
 ||vkkpv.com^
 ||vklike.com^
@@ -98142,7 +98104,6 @@ us6odtasve.ru
 ||vkont.bos.ru^
 ||vkontakt2009.mirtesen.ru^
 ||vkontakte111.mirtesen.ru^
-||vkqfzlpowalv.com^
 ||vkrgljxqn.com^
 ||vkspcdn.batmobi.net^
 ||vkstat.onthe.io^
@@ -98171,7 +98132,6 @@ us6odtasve.ru
 ||vlkdntgqqfjusm.com^
 ||vllwccvw.com^
 ||vlnaseyii.com^
-||vlnveqkifcpxdosizybusvjqkfmowoawoshlmcbittpoywblpe.com^
 ||vlog.leadformix.com^
 ||vlott88.com^
 ||vlpufjkwpmjhbn.com^
@@ -98181,9 +98141,7 @@ us6odtasve.ru
 ||vlsfnwo.com^
 ||vlt.me^
 ||vltjkelvgvj.com^
-||vltvhssjbliy.com^
 ||vltwox7zl7h1wv.com^
-||vlvowhlxxibn.com^
 ||vlwdjmvhf.com^
 ||vlxgszdgmnay.com^
 ||vlxszjkbwgt.com^
@@ -98194,7 +98152,6 @@ us6odtasve.ru
 ||vmay.com^
 ||vmblock.net^
 ||vmco.adk2.co^
-||vmcpydzlqfcg.com^
 ||vmcsatellite.com^
 ||vmed.vrtcal.com^
 ||vmedia.trafforsrv.com^
@@ -98222,7 +98179,6 @@ us6odtasve.ru
 ||vmtjybwfb.com^
 ||vmtrk.com^
 ||vmtwnkpskok.com^
-||vmvhmwppcsvd.com^
 ||vmvuptdijjwi.com^
 ||vmware.co1.qualtrics.com^
 ||vmwareinc.demdex.net^
@@ -98239,14 +98195,12 @@ us6odtasve.ru
 ||vn88.casino^
 ||vn88.club^
 ||vn88.com^
-||vnadjbcsxfyt.com^
 ||vndfakned.com^
 ||vndgfycu.com^
 ||vndrcewnard.com^
 ||vnet.cn^
 ||vnfdwoljzoaer.com^
 ||vngztuqon.com^
-||vnhcxditnodg.com^
 ||vnjeqfwmotkvbg.com^
 ||vnkydhnyjed.com^
 ||vnlqgiuul.com^
@@ -98268,7 +98222,6 @@ us6odtasve.ru
 ||vnunet.uk.intellitxt.com^
 ||vnw2gd68pb.com^
 ||vnwqrcvud.com^
-||vnyginzinvmq.com^
 ||vnzlgmfd.com^
 ||vo2.qrlsx.com^
 ||vo3.net^
@@ -98306,7 +98259,6 @@ us6odtasve.ru
 ||vodahelp.sytes.net^
 ||vodbordnhhemq.com^
 ||vodexor.us^
-||vodhaqaujopg.com^
 ||vodnet.info^
 ||vodplay.pl^
 ||voewasdc.org^
@@ -98337,7 +98289,6 @@ us6odtasve.ru
 ||volimole.com^
 ||volkswagen-com-my.b.appier.net^
 ||volkswagen.122.2o7.net^
-||volleqgoafcb.com^
 ||vologda-info.ru^
 ||volstqkwmth.com^
 ||voltzz.com.br^
@@ -98434,12 +98385,10 @@ us6odtasve.ru
 ||vpcdn.webclicks24.com^
 ||vpdsd.top^
 ||vpfadnueru.com^
-||vpfiiojohjch.com^
 ||vpgwdlayctn.com^
 ||vpico.com^
 ||vpixel.adgrx.com^
 ||vpjtrmeyq.com^
-||vpklpmvzbogn.com^
 ||vplvywqxsm.com^
 ||vpmc.122.2o7.net^
 ||vpn-europe.conversantmedia.com^
@@ -98465,7 +98414,6 @@ us6odtasve.ru
 ||vps.uc.cn^
 ||vps.ucweb.com^
 ||vpsite.ru^
-||vpsotshujdguwijdiyzyacgwuxgnlucgsrhhhglezlkrpmdfiy.com^
 ||vpt58.tvnewtop.pro^
 ||vptbn.com^
 ||vptgnqpknpdyq.com^
@@ -98473,7 +98421,6 @@ us6odtasve.ru
 ||vpvbnqcbauiumuxzhwfheyrf6vehk1514605351.nuid.imrworldwide.com^
 ||vpvsy.com^
 ||vpwdweham.com^
-||vpwwtzprrkcn.com^
 ||vpx.adledge.com^
 ||vpyrfomwel.com^
 ||vq-eu-west-1.amazon-adsystem.com^
@@ -98484,11 +98431,9 @@ us6odtasve.ru
 ||vq91811.com^
 ||vq918450.com^
 ||vqaizaukh.com^
-||vqaprwkiwset.com^
 ||vqcilhkfwvks.com^
 ||vqdwwkficr.com^
 ||vqev0enqli9zxomf9voopb33s1uxf1513536061.nuid.imrworldwide.com^
-||vqfksrwnxodc.com^
 ||vqfoxxxnunqkgm.com^
 ||vqfqo.us^
 ||vqjphqthvfl.com^
@@ -98499,7 +98444,6 @@ us6odtasve.ru
 ||vqnruxpecsn.com^
 ||vqq.admaster.com.cn^
 ||vqqvpouifhv.com^
-||vqtjeddutdix.com^
 ||vqvqgfpc.com^
 ||vqxmeseasarc.com^
 ||vqzqkhumdad.com^
@@ -98517,7 +98461,6 @@ us6odtasve.ru
 ||vrovhbwhvy.com^
 ||vrp.outbrain.com^
 ||vrpawmybyxkbraect.com^
-||vrqajyuu.com^
 ||vrrupikcfcf.com^
 ||vrs.cz^
 ||vrt.news^
@@ -98554,11 +98497,9 @@ us6odtasve.ru
 ||vsesumki.com^
 ||vsetaki.mirtesen.ru^
 ||vsexshop.ru^
-||vsgherxdcfon.com^
 ||vsgvivozec.com^
 ||vshares.tk^
 ||vshkypld.com^
-||vshsjxfjehju.com^
 ||vsicchyqydlwb.com^
 ||vsii.spinbox.net^
 ||vsii.spindox.net^
@@ -98596,7 +98537,6 @@ us6odtasve.ru
 ||vt.myvisualiq.net^
 ||vt4dlx.ru^
 ||vtbyvtmabpclx.com^
-||vtcquvxsaosz.com^
 ||vtcxhnri.com^
 ||vtdoska.ru^
 ||vte.co1.qualtrics.com^
@@ -98612,10 +98552,7 @@ us6odtasve.ru
 ||vtnlog-*.elb.amazonaws.com^
 ||vtochku.net^
 ||vtopiuops.info^
-||vtoygnkflehv.com^
 ||vtphp.andbeyond.media^
-||vtqdavdjsymt.com^
-||vtqmlzprsunm.com^
 ||vtrack.vht.com.vn^
 ||vtracker.net^
 ||vtracking.in.com^
@@ -98634,7 +98571,6 @@ us6odtasve.ru
 ||vuass.eu.qualtrics.com^
 ||vuass.qualtrics.com^
 ||vuau.qualtrics.com^
-||vucanmoywief.com^
 ||vuckle-analytics.appspot.com^
 ||vucovorise.com^
 ||vudbfsnvyzxo.com^
@@ -98654,14 +98590,12 @@ us6odtasve.ru
 ||vulcan-bit.com^
 ||vulcan.branch.io^
 ||vulevision.info^
-||vulexmouotod.com^
 ||vulgiatious.com^
 ||vulging.pro^
 ||vulzul.com^
 ||vunetotbe.com^
 ||vungle.com^
 ||vunklcwiwpn.com^
-||vunwzlxfsogj.com^
 ||vuori.evergage.com^
 ||vupulse.com^
 ||vuqufeqv.com^
@@ -98675,7 +98609,6 @@ us6odtasve.ru
 ||vuwdqproq.com^
 ||vuwgt.com^
 ||vuwojxgklca.com^
-||vuysooqimdbt.com^
 ||vv.tmska.com^
 ||vv84.bj.bcebos.com^
 ||vvaqbhmahjb.com^
@@ -98712,7 +98645,6 @@ us6odtasve.ru
 ||vwdjipcvcph.com^
 ||vwdrpxmgehqknz.com^
 ||vwfvnfvelrvvww.com^
-||vwgffbknpgxe.com^
 ||vwkyuawm.com^
 ||vwpoxvufxnon.com^
 ||vwprafiwoiut.com^
@@ -98721,33 +98653,25 @@ us6odtasve.ru
 ||vwr3.hitbox.com^
 ||vwror.lovechats.org^
 ||vwslave.qualtrics.com^
-||vwugfpktabed.com^
 ||vwvnounnfteusv.com^
 ||vwvvaeor.com^
 ||vwxgxculdbybw.com^
 ||vwxptkkqbyppe.com^
-||vwxskpufgwww.com^
 ||vwzolswcoyla.com^
 ||vwzvqkcoaszyw.com^
 ||vxbphudphg.com^
-||vxbtrsqjnjpq.com^
 ||vxdrqtghmztm.com^
-||vxgplvhuilp.com^
 ||vxiframe.biz^
 ||vxijqpsxpdlztm.com^
 ||vxkupxpf.com^
-||vxlpefsjnmws.com^
 ||vxluvrwzs.cinci.rr.com^
 ||vxncdkrggd.com^
 ||vxneczkffmaxkf.com^
 ||vxnejgcewmbuk.com^
-||vxqhchlyijwu.com^
 ||vxqpomwum.pw^
 ||vxrpmslex.com^
-||vxuhavco.com^
 ||vxumimuhg.com^
 ||vxv.phre.net^
-||vxvxsgut.com^
 ||vxyqsxeo.com^
 ||vxzudzbjvtegu.com^
 ||vyagpffxvs.com^
@@ -98756,7 +98680,6 @@ us6odtasve.ru
 ||vyazaniya.mirtesen.ru^
 ||vybor.mirtesen.ru^
 ||vyborexperta.ru^
-||vydlqaxchmij.com^
 ||vydoxtrial.com^
 ||vyg.mobi^
 ||vygekimhrfto.com^
@@ -98765,13 +98688,9 @@ us6odtasve.ru
 ||vyk.admaster.com.cn^
 ||vykcbbytkklxp.com^
 ||vylcanclub.com^
-||vyozgtrtyoms.com^
 ||vyrus.redirectme.net^
-||vyrwkkiuzgtu.com^
 ||vysgpewbyfbiob.com^
 ||vyshivka.mirtesen.ru^
-||vywujhsinxfa.com^
-||vywycfxgxqlv.com^
 ||vyycgqgcpes.com^
 ||vyykulowdu.com^
 ||vz-assets.applovin.com^
@@ -98783,14 +98702,12 @@ us6odtasve.ru
 ||vzarabotke.ru^
 ||vzbbzzasjtn.com^
 ||vzglad.mirtesen.ru^
-||vzhbfwpo.com^
 ||vzhjnorkudcxbiy.com^
 ||vzhlsmmboaqxlv.com^
 ||vzjjglrnira.com^
 ||vzkdyladanuudb.com^
 ||vzkyivowceqcsd.com^
 ||vzlyapss.com^
-||vzmnvqiqgxqk.com^
 ||vzozsebg.com^
 ||vzreguys.com^
 ||vzroslyelyudi.mirtesen.ru^
@@ -100461,7 +100378,6 @@ us6odtasve.ru
 ||wizard-teasers.com^
 ||wizard-traffic.com^
 ||wizardsbd.com^
-||wizjalokalna24.pl^
 ||wizknbrgxuqjo.com^
 ||wizzogames-sdk.wappier.com^
 ||wjavelurhgx.com^
@@ -102247,6 +102163,9 @@ us6odtasve.ru
 ||xmgrjuqqc.com^
 ||xminingpool.com^
 ||xml-default.xapads.com^
+||xml-eu.adright.co^
+||xml-us.adright.co	^
+||xml-us.adright.co^
 ||xml.active8ads.com^
 ||xml.ad-maven.com^
 ||xml.adbetnet.com^
@@ -102258,7 +102177,9 @@ us6odtasve.ru
 ||xml.adokutcontextual.com^
 ||xml.adop.co^
 ||xml.adoperatorx.com^
+||xml.adright.co^
 ||xml.adright.com^
+||xml.adright.coxml.adright.co^
 ||xml.adservme.com^
 ||xml.adsparkmedia.net^
 ||xml.adtech.de^
@@ -103432,6 +103353,7 @@ us6odtasve.ru
 ||ytimgg.com^
 ||ytjocvggodnfbn.com^
 ||ytmightyonega.imageshack.host^
+||ytqnsqvajzv.com^
 ||yts.moatads.com^
 ||yts.moatads.comyts.moatads.com^
 ||ytsa.net^
