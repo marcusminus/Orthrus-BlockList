@@ -15237,6 +15237,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ajcclassifieds.com
 0.0.0.0 ajcsjktzlqh.com
 0.0.0.0 ajdivotdelbloab24.jio.co
+0.0.0.0 ajdivotdelbloab24.jio.com
 0.0.0.0 ajewishgift.com
 0.0.0.0 ajfziqehnwvz.com
 0.0.0.0 ajgffcat.com
@@ -19092,6 +19093,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 arcadia.d1.sc.omtrdc.net
 0.0.0.0 arcaptart.site
 0.0.0.0 arcartall.club
+0.0.0.0 arcaukalb.site
 0.0.0.0 arcfwcxi.com
 0.0.0.0 arcgis.mobile311.com
 0.0.0.0 arch-nicto.com
@@ -51359,6 +51361,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jinkads.de
 0.0.0.0 jinxc.fruitaxis.pw
 0.0.0.0 jio-phone.new-free-offer.in
+0.0.0.0 jioads.akamaized.net
 0.0.0.0 jiocdn.us
 0.0.0.0 jiodth.new-free-offer.in
 0.0.0.0 jioivnytpmam.com
@@ -55218,6 +55221,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 log.clickstream.co.za
 0.0.0.0 log.cmbchina.com
 0.0.0.0 log.cnt.re
+0.0.0.0 log.codemarketing.cloud
 0.0.0.0 log.d.eclick.vn
 0.0.0.0 log.data.disney.com
 0.0.0.0 log.deutschegrammophon.com
@@ -57007,6 +57011,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 madserve.xapads.com
 0.0.0.0 madserver.net
 0.0.0.0 madserving.com
+0.0.0.0 madsipz.com
 0.0.0.0 madskis.com
 0.0.0.0 madslims.com
 0.0.0.0 madsone.com
@@ -65748,6 +65753,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 omotenashi.cygames.jp
 0.0.0.0 omotorax.ru
 0.0.0.0 omoukkkj.stream
+0.0.0.0 omparentcarage.info
 0.0.0.0 ompbfnstb7tph0e2xc9k74m3tkbjp1505464002.nuid.imrworldwide.com
 0.0.0.0 ompzowzfwwfc.com
 0.0.0.0 omqjcwlxydzjvsdpvlbvkceo3ix6f1509457822.nuid.imrworldwide.com
@@ -66788,6 +66794,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 otmyoesv.com
 0.0.0.0 otnolabttmup.com
 0.0.0.0 otnolatrnup.com
+0.0.0.0 otogkg.com
 0.0.0.0 otomoto.group
 0.0.0.0 otoshiana.com
 0.0.0.0 otoxkqlivsqr.com
@@ -78596,9 +78603,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 saim.pubmatic.com
 0.0.0.0 sainsburysgm.widget.criteo.com
 0.0.0.0 saintine.store
-0.0.0.0 saipuciruuja.com
 0.0.0.0 sajari.com
-0.0.0.0 sajhiqlcsugy.com
 0.0.0.0 sajtiket.ru
 0.0.0.0 sajxt.bemobtrk.com
 0.0.0.0 saks.evergage.com
@@ -78908,10 +78913,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 sbeacon.sina.com.cn
 0.0.0.0 sbealpvjpzzs.com
 0.0.0.0 sbfsdvc.com
-0.0.0.0 sbftffngpzwt.com
 0.0.0.0 sbgftsoe.com
 0.0.0.0 sbhc.portalhc.com
-0.0.0.0 sbhnftwdlpbo.com
 0.0.0.0 sbifdctojpisuw.com
 0.0.0.0 sbisb-co-kr.b.appier.net
 0.0.0.0 sbisec.d1.sc.omtrdc.net
@@ -79018,7 +79021,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 scatteredheat.com
 0.0.0.0 scbdp.net
 0.0.0.0 scbffqszd.bid
-0.0.0.0 scbnvzfscfmn.com
 0.0.0.0 scbywuiojqvh.com
 0.0.0.0 scc.ssacdn.com
 0.0.0.0 scdmed01.nexage.com
@@ -79036,7 +79038,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sceneads.biz
 0.0.0.0 sceno.ru
 0.0.0.0 scentbird.btttag.com
-0.0.0.0 sceuexzmiwrf.com
 0.0.0.0 scfkfridulshkd.com
 0.0.0.0 scglobal.co.th
 0.0.0.0 scgnsficmwipuj.bid
@@ -79090,7 +79091,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sclick.baidu.com
 0.0.0.0 sclk.org
 0.0.0.0 scmetrics.vodafone.it
-0.0.0.0 scmffjmashzc.com
 0.0.0.0 scmspain-d.openx.net
 0.0.0.0 scnt.rambler.ru
 0.0.0.0 scofnjymyym.bid
@@ -79249,7 +79249,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sculptureco.com.au
 0.0.0.0 scund.com
 0.0.0.0 scupio.com
-0.0.0.0 scuwbelujeeu.com
 0.0.0.0 scvdxxgbvoz.com
 0.0.0.0 scvonjdwad.bid
 0.0.0.0 scxxbyqjslyp.com
@@ -80197,6 +80196,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 serie-vostfr.com
 0.0.0.0 seriencev.com
 0.0.0.0 seriend.com
+0.0.0.0 seriorladded.info
 0.0.0.0 serious-partners.com
 0.0.0.0 seriousfiles.com
 0.0.0.0 seriouspartner.biz
@@ -80716,7 +80716,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sgbmhkptxali.com
 0.0.0.0 sgccsauvct.bid
 0.0.0.0 sgeeavwmk.com
-0.0.0.0 sgfcsnwegazn.com
 0.0.0.0 sgggjaosyrxr.com
 0.0.0.0 sghradxea.bid
 0.0.0.0 sgidkvwd.com
@@ -80746,7 +80745,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sgxaqysyilwkiu.com
 0.0.0.0 sgycfrrkz.com
 0.0.0.0 sgzlmagzrrk.com
-0.0.0.0 sgzsviqlvcxc.com
 0.0.0.0 sh-cdn.younetmedia.com
 0.0.0.0 sh-staging-cdn.younetmedia.com
 0.0.0.0 sh-staging.younetmedia.com
@@ -80929,7 +80927,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 shmonekisot.com
 0.0.0.0 shmoop-d.openx.net
 0.0.0.0 shmpdqwucl.com
-0.0.0.0 shnmhrlcredd.com
 0.0.0.0 shnoadlvpylf.com
 0.0.0.0 shnv9.bemobtrk.com
 0.0.0.0 shoal.grahanusareadymix.com
@@ -81548,7 +81545,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sjevideo.adsafeprotected.com
 0.0.0.0 sjfc.co1.qualtrics.com
 0.0.0.0 sjfc.us2.qualtrics.com
-0.0.0.0 sjgklyyyraghhrgimsepycygdqvezppyfjkqddhlzbimoabjae.com
 0.0.0.0 sjgttcfj.com
 0.0.0.0 sjguild.com
 0.0.0.0 sjjazrfvzbkt.com
@@ -81879,7 +81875,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 slimxxxtubeyge.ddns.name
 0.0.0.0 slimxxxtubeyhz.ddns.name
 0.0.0.0 slimxxxtubeyza.ddns.name
-0.0.0.0 slinadu.info
 0.0.0.0 slingpic.com
 0.0.0.0 slingshot.io
 0.0.0.0 slink.fun
@@ -82173,7 +82168,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 smpopmech.112.2o7.net
 0.0.0.0 smrcek.com
 0.0.0.0 smrk.io
-0.0.0.0 smrqvdpgkbvz.com
 0.0.0.0 smrt-view.com
 0.0.0.0 smrt.as
 0.0.0.0 smrt.re
@@ -82268,7 +82262,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 snaxbgzg.bid
 0.0.0.0 snbybgwiyfug.com
 0.0.0.0 snckdjuymeopsc.com
-0.0.0.0 sncpizczabhhafkzeifklgonzzkpqgogmnhyeggikzloelmfmd.com
 0.0.0.0 sncr.qualtrics.com
 0.0.0.0 sndgydifipxuui.com
 0.0.0.0 sndkorea.co.kr
@@ -82313,7 +82306,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 snippetdata.api.swiftkey.com
 0.0.0.0 snippets.mozilla.com
 0.0.0.0 snipsterde.widget.criteo.com
-0.0.0.0 snjhhcnr.com
 0.0.0.0 snlfinancial.d1.sc.omtrdc.net
 0.0.0.0 snmgqbgbrh.com
 0.0.0.0 snnd.co
@@ -82329,7 +82321,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 snowplowcollector-env-3.us-east-1.elasticbeanstalk.com
 0.0.0.0 snowplowcollector.talkspace.com
 0.0.0.0 snowsignal.com
-0.0.0.0 snpevihwaepwxapnevcpiqxrsewuuonzuslrzrcxqwltupzbwu.com
 0.0.0.0 snrbox.com
 0.0.0.0 snrca01.marketo.com
 0.0.0.0 snrmqtnnlxdgdh.com
@@ -83064,7 +83055,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 spiketv.112.2o7.net
 0.0.0.0 spilaggroved.xyz
 0.0.0.0 spilgames-562189-hdb.adomik.com
-0.0.0.0 spillvacation.com
 0.0.0.0 spin.spinbox.net
 0.0.0.0 spinbox.com
 0.0.0.0 spinbox.consumerreview.com
@@ -83203,7 +83193,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 spottednoise.com
 0.0.0.0 spottt.com
 0.0.0.0 spottyfly.com
-0.0.0.0 spottysense.com
 0.0.0.0 spotx-jinni.rtb.adx1.com
 0.0.0.0 spotx-match.dotomi.com
 0.0.0.0 spotx.tv
@@ -83326,7 +83315,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sqrmweiehtpwp.com
 0.0.0.0 sqrt.onthe.io
 0.0.0.0 sqsdyfgyjdjbx.com
-0.0.0.0 sqtsuzrfefwy.com
 0.0.0.0 squalid-linen.fun
 0.0.0.0 squaredpaper.co.uk
 0.0.0.0 squarefootball.uk.intellitxt.com
@@ -83691,7 +83679,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ssrv.adjust.com
 0.0.0.0 sss.cdn.onthe.io
 0.0.0.0 sss.z.moatads.com
-0.0.0.0 sssjohomoapt.com
 0.0.0.0 sstatic1.histats.com
 0.0.0.0 sstats.deloitte.com
 0.0.0.0 ssuhghnjxbp.bid
@@ -85265,7 +85252,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 stmentaustr.info
 0.0.0.0 stnetsdk.appstore.vivo.com.cn
 0.0.0.0 stnetsdk.vivo.com.cn
-0.0.0.0 stnvgvtwzzrh.com
 0.0.0.0 stoashou.net
 0.0.0.0 stock.daydreamfuze.com
 0.0.0.0 stocker.bonnint.net
@@ -85537,7 +85523,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 su.bdimg.com
 0.0.0.0 su.bdstatic.com
 0.0.0.0 su.iadsdk.apple.com
-0.0.0.0 sualzmze.com
 0.0.0.0 suavalds.com
 0.0.0.0 sub.prod.vidible.tv
 0.0.0.0 sub2tech.com
@@ -85963,6 +85948,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 svfqoztfopv.com
 0.0.0.0 sview.avenuea.com
 0.0.0.0 sviklutt.site
+0.0.0.0 svintificaneinevi.info
 0.0.0.0 svision-online.de
 0.0.0.0 svitnews.com
 0.0.0.0 svjat0rx99.com
@@ -85980,7 +85966,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 svpro7.oewabox.at
 0.0.0.0 svpubdwpaam.bid
 0.0.0.0 svr-prc-01.com
-0.0.0.0 svrsqqtj.com
 0.0.0.0 svrybecqxgdq.com
 0.0.0.0 svt.d3.sc.omtrdc.net
 0.0.0.0 svtrd.com
@@ -86008,7 +85993,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 swappit.tapad.com
 0.0.0.0 swbdds.com
 0.0.0.0 swce.pl
-0.0.0.0 swckuwtoyrklhtccjuuvcstyesxpbmycjogrqkivmmcqqdezld.com
 0.0.0.0 swclpfypife.bid
 0.0.0.0 swcs.jp
 0.0.0.0 swcuxrfitmjfee.com
@@ -86110,7 +86094,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sxsw.marketo.com
 0.0.0.0 sxtracking.com
 0.0.0.0 sxtut.org
-0.0.0.0 sxtzhwvbuflt.com
 0.0.0.0 sxucahrsnam.bid
 0.0.0.0 sxvqdslmbqyk.bid
 0.0.0.0 sxwcfnai.com
@@ -86127,7 +86110,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 syd-v4.pops.fastly-insights.com
 0.0.0.0 sydhbmlmdxzd.com
 0.0.0.0 sydneypsy.qualtrics.com
-0.0.0.0 sydnkqqscbxc.com
 0.0.0.0 syds588.cn
 0.0.0.0 syfdkngkksn.bid
 0.0.0.0 syfoauwvcwi.bid
@@ -86302,7 +86284,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 synthasite.net
 0.0.0.0 synthes.vo.llnwd.net
 0.0.0.0 synthetics.newrelic.com
-0.0.0.0 syorlvhuzgmdqbuxgiulsrusnkgkpvbwmxeqqcboeamyqmyexv.com
 0.0.0.0 sypi.gpshopper.com
 0.0.0.0 sypleni.ru
 0.0.0.0 syracuseuniversity.qualtrics.com
@@ -86389,7 +86370,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 szybka-wyplata.pl
 0.0.0.0 szybkapozyczkateraz.pl
 0.0.0.0 szybki-przeglad.blogspot.com
-0.0.0.0 szyejlnlvnmy.com
 0.0.0.0 szynlslqxerx.com
 0.0.0.0 szywarceqeo.com
 0.0.0.0 szzxtanwoptm.bid
@@ -91266,6 +91246,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 trafficadept.com
 0.0.0.0 trafficads.com
 0.0.0.0 trafficbarads.com
+0.0.0.0 trafficbc3.host
 0.0.0.0 trafficbee.com
 0.0.0.0 trafficbroker.com
 0.0.0.0 trafficby.net
