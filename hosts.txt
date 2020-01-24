@@ -2723,6 +2723,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 3mobilephonedeals.com
 0.0.0.0 3mobilse220626.112.2o7.net
 0.0.0.0 3mtr.ru
+0.0.0.0 3ng6p6m0.de
 0.0.0.0 3omb.com
 0.0.0.0 3p-optout.intel.mediamath.com
 0.0.0.0 3point14.g2afse.com
@@ -21486,6 +21487,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bazasprawdzianow.pl
 0.0.0.0 bazenatuzu.com
 0.0.0.0 bazhua.igexin.com
+0.0.0.0 baztrack.com
 0.0.0.0 bb.connextra.com
 0.0.0.0 bb.crwdcntrl.net
 0.0.0.0 bb.o2.eyereturn.com
@@ -34694,6 +34696,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 divan.adtelligent.com
 0.0.0.0 divavillage.advertserve.com
 0.0.0.0 divcom.evergage.com
+0.0.0.0 diveringecondsw.info
 0.0.0.0 diversifiedfeedback.co1.qualtrics.com
 0.0.0.0 divertura.com
 0.0.0.0 divine.lunarbreeze.com
@@ -34925,6 +34928,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dmmres.dotomi.com
 0.0.0.0 dmn2.bjpeu.edu.cn
 0.0.0.0 dmnangpsbpm.com
+0.0.0.0 dmodernedindivin.info
 0.0.0.0 dmoid.top
 0.0.0.0 dmp-api.adform.com
 0.0.0.0 dmp-eu.adform.net
@@ -43177,6 +43181,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 geusihivdqkwzf.com
 0.0.0.0 gevrsbmqvp.bid
 0.0.0.0 gewrrpygsd.biz
+0.0.0.0 gexampletebaptin.info
 0.0.0.0 geyan.gepush.com
 0.0.0.0 geyan.getui.com
 0.0.0.0 gez.io
@@ -43903,6 +43908,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 go2.magnetic.com
 0.0.0.0 go2.myappfree.com
 0.0.0.0 go2affise.com
+0.0.0.0 go2app.org
 0.0.0.0 go2funz.com
 0.0.0.0 go2jump.org
 0.0.0.0 go2linkfast.com
@@ -59623,6 +59629,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 minisim.net
 0.0.0.0 minisite.letv.com
 0.0.0.0 minisite.rqmob.com
+0.0.0.0 minisrclink.cool
 0.0.0.0 ministedik.info
 0.0.0.0 ministerio-publi.info
 0.0.0.0 minmin96.xyz
@@ -91607,6 +91614,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 triphasil.3.p2l.info
 0.0.0.0 triphasil.4.p2l.info
 0.0.0.0 triplej.site
+0.0.0.0 triplelift.com
 0.0.0.0 triplelift.rtb.adx1.com
 0.0.0.0 triplequadturbo.com
 0.0.0.0 triponlinesa-travel.t.domdex.com
@@ -97677,6 +97685,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 whdzxabhqsdnlc.com
 0.0.0.0 wheatoncollege.co1.qualtrics.com
 0.0.0.0 wheelches.info
+0.0.0.0 whefungu.com
 0.0.0.0 whegadry.com
 0.0.0.0 whegrads.com
 0.0.0.0 whehilru.com
