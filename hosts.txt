@@ -23177,6 +23177,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bne-v4.pops.fastly-insights.com
 0.0.0.0 bnewsb.com
 0.0.0.0 bnhtml.com
+0.0.0.0 bnielrtzc.com
 0.0.0.0 bnjhbghjznq.com
 0.0.0.0 bnjrtdsafo.com
 0.0.0.0 bnjuhrbpdjtjul.com
@@ -37930,6 +37931,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 enzyxtdcacde.com
 0.0.0.0 eo.sdahxz.xyz
 0.0.0.0 eo3-6.tlnk.io
+0.0.0.0 eo62cocntx.com
 0.0.0.0 eo8vs.voluumtrk.com
 0.0.0.0 eocnpszthsf.com
 0.0.0.0 eofaplocyrcxhq.com
@@ -39112,6 +39114,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ext.movixhub.com
 0.0.0.0 ext.privacyassistant.net
 0.0.0.0 ext.royalcactus.com
+0.0.0.0 ext.week.news
 0.0.0.0 ext1-api.engageya.com
 0.0.0.0 ext1.engageya.com
 0.0.0.0 exta-z.ru
@@ -49448,6 +49451,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 info.crowdynews.com
 0.0.0.0 info.cxense.com
 0.0.0.0 info.elba.at
+0.0.0.0 info.emoment.com
 0.0.0.0 info.eu.criteo.com
 0.0.0.0 info.flurry.com
 0.0.0.0 info.inamo.ru
@@ -51421,6 +51425,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jmg67g.xyz
 0.0.0.0 jmghohdn.bid
 0.0.0.0 jmj.co1.qualtrics.com
+0.0.0.0 jmk16zzbpqt0.org
 0.0.0.0 jmklkttenjpfzn.com
 0.0.0.0 jmn.jangonetwork.com
 0.0.0.0 jmoranphotography.com
@@ -52860,6 +52865,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 klasika.plus
 0.0.0.0 klaudicustors.info
 0.0.0.0 klayiwpzjk.com
+0.0.0.0 klclick.com
 0.0.0.0 klcommunications.az1.qualtrics.com
 0.0.0.0 kleianalyticsfrontend.elasticbeanstalk.com
 0.0.0.0 kleinanzeigen-d.openx.net
@@ -65518,6 +65524,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 olgtex.com
 0.0.0.0 olharbit.com.br
 0.0.0.0 olhjdf.com
+0.0.0.0 olhupniause.com
 0.0.0.0 oli.unbounce.com
 0.0.0.0 oligan.info
 0.0.0.0 olimpbanners.info
@@ -73456,6 +73463,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pxgfdcfcrucazj.com
 0.0.0.0 pxgfvpwkukl.com
 0.0.0.0 pxgkuwybzuqz.com
+0.0.0.0 pxhogrilyeov.com
 0.0.0.0 pxhtltatsxarl.com
 0.0.0.0 pxhzf5zu2vn2bcxc7rjuyfpgdnjtc1509920411.nuid.imrworldwide.com
 0.0.0.0 pxi.pub
@@ -73644,6 +73652,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qbahsvxo.com
 0.0.0.0 qbaka.net
 0.0.0.0 qbalehgc.com
+0.0.0.0 qbbnixdd.com
 0.0.0.0 qbddhjrwe.com
 0.0.0.0 qbdgnjwaknl.bid
 0.0.0.0 qbeoyasaiz.com
@@ -73942,6 +73951,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qkuprxbmkeqp.com
 0.0.0.0 qkvklknzycrgo.com
 0.0.0.0 qkwbygfsbfmj.com
+0.0.0.0 qkxmnpxtr.com
 0.0.0.0 qkyzjwhyeh.com
 0.0.0.0 qkzwxhcleqj.com
 0.0.0.0 qlatsfeyg.com
@@ -75062,6 +75072,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rcumwyqkv.com
 0.0.0.0 rcurn.com
 0.0.0.0 rcvhzfcnja.com
+0.0.0.0 rcvlink.com
 0.0.0.0 rcwczstm.com
 0.0.0.0 rcwmtskwtmzh.com
 0.0.0.0 rcyclmnr.com
@@ -77030,6 +77041,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rrr.rlcdn.com
 0.0.0.0 rrrdddbtofnf.com
 0.0.0.0 rrscdnsfunoe.com
+0.0.0.0 rrshibwsq.com
 0.0.0.0 rrsijwsvemhzxx.bid
 0.0.0.0 rrvkjvhbwnbre.com
 0.0.0.0 rrvpscehvjuz.com
@@ -97993,6 +98005,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wlezfkwtv.com
 0.0.0.0 wlg-v4.pops.fastly-insights.com
 0.0.0.0 wlggoretest12.112.2o7.net
+0.0.0.0 wlgkqespz.com
 0.0.0.0 wlgtaffiliates.eacdn.com
 0.0.0.0 wlhbgwzgep.com
 0.0.0.0 wlhgopaqpmwah.com
@@ -98576,6 +98589,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wv111.jiocdn.us
 0.0.0.0 wvbdtcyhgwy.com
 0.0.0.0 wvdymg0dskimjnmnrej7oahz4gdvg1513523781.nuid.imrworldwide.com
+0.0.0.0 wvesvozyuoxg.com
 0.0.0.0 wvetuwwcojfgw.com
 0.0.0.0 wvfputwcdbkoip.com
 0.0.0.0 wvghl.com
