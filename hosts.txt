@@ -19009,6 +19009,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 apt.insight.adsrvr.org
 0.0.0.0 apt.match.adsrvr.org
 0.0.0.0 apt.newrelic.com
+0.0.0.0 aptaleant.club
 0.0.0.0 aptalebow.site
 0.0.0.0 aptapebog.online
 0.0.0.0 apteka2000.pl
@@ -69151,6 +69152,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 peerfly.com
 0.0.0.0 peering.criteo.net
 0.0.0.0 peerius.com
+0.0.0.0 peethobo.com
 0.0.0.0 peevopoy.com
 0.0.0.0 peewuranpdwo.com
 0.0.0.0 peewuvgdcian.com
@@ -83126,6 +83128,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 soo.sg
 0.0.0.0 soodatmish.com
 0.0.0.0 soofoupt.com
+0.0.0.0 sooiipveodjxb.com
 0.0.0.0 sooloaph.com
 0.0.0.0 soongu.info
 0.0.0.0 soosidsiofd.pw
@@ -101197,6 +101200,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yjaxc.yahoo.co.jp
 0.0.0.0 yjctwdeuz.com
 0.0.0.0 yjdbnkgonfp.com
+0.0.0.0 yjfhadfc.com
 0.0.0.0 yjfhldkkfl.com
 0.0.0.0 yjijmpezje.com
 0.0.0.0 yjipohjtdrxncg.com
