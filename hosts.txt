@@ -1191,6 +1191,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 1m836.bemobtrk.com
 0.0.0.0 1man1jar.org
 0.0.0.0 1man2needles.com
+0.0.0.0 1mbblm31.biz.ua
 0.0.0.0 1mint1.info
 0.0.0.0 1mnrrpufkundgozvwuo9bipgzzxfx1504894620.nuid.imrworldwide.com
 0.0.0.0 1mobile.com
@@ -10210,6 +10211,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adrotator.com
 0.0.0.0 adrotator.se
 0.0.0.0 adrotic.girlonthenet.com
+0.0.0.0 adroute.focas.jp
 0.0.0.0 adrs.hit.gemius.pl
 0.0.0.0 adrsp.net
 0.0.0.0 adrta.com
@@ -13633,6 +13635,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 adsvidsdouble.com
 0.0.0.0 adsview.qq.com
 0.0.0.0 adsview2.qq.com
+0.0.0.0 adsvolum.com
+0.0.0.0 adsvolume.com
 0.0.0.0 adsvr.adknowledge.com
 0.0.0.0 adsvr.deviantart.com
 0.0.0.0 adsvstream-a930.kxcdn.com
@@ -24179,6 +24183,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bubblemine.com
 0.0.0.0 bubblesmedia.ru
 0.0.0.0 bubblestat.com
+0.0.0.0 bubblevard.com
 0.0.0.0 buchch.widget.criteo.com
 0.0.0.0 bucket.rtk.io
 0.0.0.0 bucketbean.com
@@ -25341,6 +25346,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cadsatz.com
 0.0.0.0 cadsecs.com
 0.0.0.0 cadsecz.com
+0.0.0.0 cadsimz.com
 0.0.0.0 cadsips.com
 0.0.0.0 cadsipz.com
 0.0.0.0 cadskis.com
@@ -27909,6 +27915,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 choogeet.net
 0.0.0.0 choorgiw.net
 0.0.0.0 choose-a-lady.biz
+0.0.0.0 chooseyour26.live
 0.0.0.0 chootsod.net
 0.0.0.0 choozalady.pw
 0.0.0.0 chope-co.b.appier.net
@@ -31588,6 +31595,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 creatives.smaato.com
 0.0.0.0 creatives.smadex.com
 0.0.0.0 creativesceneses.com
+0.0.0.0 creativesumo.com
 0.0.0.0 creativeteam.it
 0.0.0.0 creativetv.pro
 0.0.0.0 creativos.ads.uigc.net
@@ -32610,6 +32618,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d16xpr36wrmcmk.cloudfront.net
 0.0.0.0 d17m68fovwmgxj.cloudfront.net
 0.0.0.0 d17rlarvg2khuc.cloudfront.net
+0.0.0.0 d18mealirgdbbz.cloudfront.net
 0.0.0.0 d18p8z0ptb8qab.cloudfront.net
 0.0.0.0 d19182vyfoustz.cloudfront.net
 0.0.0.0 d191y0yd6d0jy4.cloudfront.net
@@ -40522,6 +40531,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 feetoutlet.com
 0.0.0.0 feewind.com
 0.0.0.0 feewoajy.net
+0.0.0.0 fegortius.com
 0.0.0.0 fehjys.ga
 0.0.0.0 fehouga.ml
 0.0.0.0 fehsnwiem.com
@@ -40983,6 +40993,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 firecash.org
 0.0.0.0 firecpa.com
 0.0.0.0 firefeeder.com
+0.0.0.0 fireflyengagement.com
 0.0.0.0 firefox-updater.com
 0.0.0.0 firefox.net-secure-update.icu
 0.0.0.0 firegifts.pl
@@ -43899,6 +43910,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gigapromo.de
 0.0.0.0 gigarho.com
 0.0.0.0 gigazine.asia
+0.0.0.0 gigbc.net
 0.0.0.0 gigcount.com
 0.0.0.0 gigphdgtszus.bid
 0.0.0.0 gigsis.net
@@ -47166,7 +47178,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 honest-fund-com.b.appier.net
 0.0.0.0 honestsun.top
 0.0.0.0 honey.briefly.ru
-0.0.0.0 honeybadger.io
 0.0.0.0 honeygoldfish.com
 0.0.0.0 honeypotmarketing2.actonsoftware.com
 0.0.0.0 hongjiujiaoyi.com
@@ -67746,6 +67757,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ounaihekw.bid
 0.0.0.0 ountapaveralle.info
 0.0.0.0 ounyrilukncbj.com
+0.0.0.0 oupe71eiun.com
 0.0.0.0 ouplog.umeng.com
 0.0.0.0 ouptoobe.net
 0.0.0.0 oupushee.com
@@ -71744,6 +71756,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 play6932.fuckingmonday113.agency
 0.0.0.0 playable-stats.mintegral.com
 0.0.0.0 playables-debug.lfstmedia.com
+0.0.0.0 playamo30.com
 0.0.0.0 playasrivieramaya.com
 0.0.0.0 playback-logs.s3.amazonaws.com
 0.0.0.0 playbill-d.openx.net
@@ -85011,6 +85024,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stat.maalaimalar.com
 0.0.0.0 stat.matichon.co.th
 0.0.0.0 stat.media
+0.0.0.0 stat.meitudata.com
 0.0.0.0 stat.mixi.media
 0.0.0.0 stat.moevideo.net
 0.0.0.0 stat.moonwalk.co
@@ -98123,6 +98137,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wawalot.pl
 0.0.0.0 wawlfosfkdy.com
 0.0.0.0 wawyxzfkab.com
+0.0.0.0 waxtamnit.com
 0.0.0.0 way2traffic.com
 0.0.0.0 waycash.net
 0.0.0.0 wayfairssp-d.openx.net
@@ -98432,6 +98447,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 webleads-tracker.com.ssl.re.getclicky.com
 0.0.0.0 webleads-tracker.com
 0.0.0.0 weblink.settrade.com
+0.0.0.0 weblion777.github.io
 0.0.0.0 weblist.de
 0.0.0.0 webload101.hitbox.com
 0.0.0.0 weblockapp.com
@@ -99289,6 +99305,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wlbann.com
 0.0.0.0 wlbetboo.adsrv.eacdn.com
 0.0.0.0 wlbetclic.adsrv.eacdn.com
+0.0.0.0 wlct-one.de
 0.0.0.0 wlezfkwtv.com
 0.0.0.0 wlggoretest12.112.2o7.net
 0.0.0.0 wlgkqespz.com
