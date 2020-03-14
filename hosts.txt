@@ -1934,6 +1934,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 2sfygwfxvsxv.info
 0.0.0.0 2site.com
 0.0.0.0 2sm6o.voluumtrk.com
+0.0.0.0 2smt6mfgo.de
 0.0.0.0 2snaps.us.intellitxt.com
 0.0.0.0 2spyware.us.intellitxt.com
 0.0.0.0 2ssltome.ga
@@ -14636,6 +14637,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aeslinaydu.onthe.io
 0.0.0.0 aesthetic-duesseldorf.de
 0.0.0.0 aestivatecherish.city
+0.0.0.0 aestivator.com
 0.0.0.0 aestldhxdqlo.com
 0.0.0.0 aet.trafficjunky.net
 0.0.0.0 aetna.co1.qualtrics.com
@@ -31106,6 +31108,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 comoviversem.com
 0.0.0.0 compactbanner.com
 0.0.0.0 compactiongames.gameaholic.com
+0.0.0.0 companiedoml.site
 0.0.0.0 companies-catalog.com
 0.0.0.0 companion.adap.tv
 0.0.0.0 company-target.com
@@ -33120,6 +33123,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cultsneaks.pl
 0.0.0.0 culture-brieboisee.fr
 0.0.0.0 culturedcrayon.com
+0.0.0.0 cultwithough.info
 0.0.0.0 culumunderbianwa.info
 0.0.0.0 cumbersomecloud.com
 0.0.0.0 cumc.co1.qualtrics.com
@@ -36275,6 +36279,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 distilled.ie
 0.0.0.0 distillery.wistia.com
 0.0.0.0 distiltag.com
+0.0.0.0 distinctday.com
 0.0.0.0 distinesseqe.site
 0.0.0.0 distinethout.info
 0.0.0.0 distractify-d.openx.net
@@ -38248,6 +38253,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 e7081.g.akamaiedge.net
 0.0.0.0 e713c2431ad39079.com
 0.0.0.0 e7393e33565ce805.com
+0.0.0.0 e77lmzbqou0n-a.akamaihd.net
 0.0.0.0 e7876.dscg.akamaiedge.net
 0.0.0.0 e7a1da0b-5791-4858-99b9-a2137ca57671.nuid.imrworldwide.com
 0.0.0.0 e7cb2d86b68099f16.com
@@ -68030,6 +68036,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nicego-h5.batmobi.net
 0.0.0.0 nicegoodmart.com
 0.0.0.0 nicesearches.com
+0.0.0.0 nicevideos.xyz
 0.0.0.0 nicewii.com
 0.0.0.0 nicheads.com
 0.0.0.0 nicht-von-heise-kopieren.de
@@ -79906,6 +79913,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 quisma.com
 0.0.0.0 quitsnap-blue.com
 0.0.0.0 quiz-fun.com.my
+0.0.0.0 quiz.stroeermediabrands.de
 0.0.0.0 quizzasport.com
 0.0.0.0 quizzicalzephyr.com
 0.0.0.0 quizzitch.net
@@ -93450,6 +93458,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 taurus.iad.appboy.com
 0.0.0.0 tauwhout.net
 0.0.0.0 tavelscape.com
+0.0.0.0 taveredezeri.site
 0.0.0.0 taverna-ikaros.at
 0.0.0.0 tavertotsand.info
 0.0.0.0 tavuks.com
@@ -101168,6 +101177,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uzerly.net
 0.0.0.0 uziiygdcwur.com
 0.0.0.0 uzikrtotjbnq.com
+0.0.0.0 uzk4umokyri3.com
 0.0.0.0 uzlleehrsmibli.com
 0.0.0.0 uzmanreklam.com
 0.0.0.0 uzmmpskwon.com
