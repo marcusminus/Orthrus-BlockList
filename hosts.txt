@@ -156,6 +156,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 083-hbs-820.mktoresp.com
 0.0.0.0 083-yje-211.mktoresp.com
 0.0.0.0 088-ivk-130.mktoresp.com
+0.0.0.0 08b72e4833486d.com
 0.0.0.0 09.video-ak.cdn.spotify.com
 0.0.0.0 0900-telefonerotik.de
 0.0.0.0 0906porno.nl
@@ -172,6 +173,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 09zyy.com
 0.0.0.0 0a.video-ak.cdn.spotify.com
 0.0.0.0 0a0qetx8et.com
+0.0.0.0 0a225c134735c.com
 0.0.0.0 0a4bcef12091ce7.com
 0.0.0.0 0aac4e6a54c170b0.se
 0.0.0.0 0azx1.com
@@ -414,6 +416,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 11bet.com
 0.0.0.0 11bet.net
 0.0.0.0 11bet.win
+0.0.0.0 11ccda709b5cdf5.com
 0.0.0.0 11f976743800.com
 0.0.0.0 11flexiblebig9.website
 0.0.0.0 11hour.com
@@ -2470,6 +2473,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 36c3feec.akstat.io
 0.0.0.0 36c3feee.akstat.io
 0.0.0.0 36c3fef2.akstat.io
+0.0.0.0 36c6ce350b32.com
 0.0.0.0 36cc206a.akstat.io
 0.0.0.0 36cc246a.akstat.io
 0.0.0.0 36cc2473.akstat.io
@@ -4589,6 +4593,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 8d6274.t.axf8.net
 0.0.0.0 8d6d-e78c-027d-5e4f.reporo.net
 0.0.0.0 8d75e69e1b.com
+0.0.0.0 8d9d548d35.com
 0.0.0.0 8dfaa2dc76855.com
 0.0.0.0 8dsd3.top
 0.0.0.0 8e.video-ak.cdn.spotify.com
@@ -17445,6 +17450,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ankieta-online.pl
 0.0.0.0 ankiety-konsumenckie.pl
 0.0.0.0 anklets.shengen.ru
+0.0.0.0 anlcld.com
 0.0.0.0 anlclqrvbsk.co
 0.0.0.0 anm.112.2o7.net
 0.0.0.0 anm.intelli-direct.com
@@ -20158,6 +20164,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 atcanjhcv.com
 0.0.0.0 atchec.com
 0.0.0.0 atcofiles.com
+0.0.0.0 atconnect.npo.nl
 0.0.0.0 atczxgxuxloqf.com
 0.0.0.0 atdmt.com
 0.0.0.0 atdmt.speedera.net
@@ -21164,6 +21171,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 b400393baba7cd476a3.com
 0.0.0.0 b42.re
 0.0.0.0 b45a0da7c44600e69.com
+0.0.0.0 b460e308b59.com
 0.0.0.0 b4g-n.tlnk.io
 0.0.0.0 b4j-3.tlnk.io
 0.0.0.0 b4psads.com
@@ -31115,6 +31123,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 company.com.ph
 0.0.0.0 companycreators.co.uk
 0.0.0.0 comparecards.com
+0.0.0.0 comparencelabl.site
 0.0.0.0 compass.adop.cc
 0.0.0.0 compass.districtm.net
 0.0.0.0 compass.oovvuu.com
@@ -44771,6 +44780,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gadsanz.com
 0.0.0.0 gadsats.com
 0.0.0.0 gadsbee.com
+0.0.0.0 gadsecs.com
 0.0.0.0 gadsecz.com
 0.0.0.0 gadsimz.com
 0.0.0.0 gadsipz.com
@@ -48032,6 +48042,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hadsabz.com
 0.0.0.0 hadsanz.com
 0.0.0.0 hadsecz.com
+0.0.0.0 hadsipz.com
 0.0.0.0 haedong.es.kr
 0.0.0.0 haeechihhfajibdfaef.ru
 0.0.0.0 haehnchenhausen.de
@@ -53139,6 +53150,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 insurancejournal.freestats.com
 0.0.0.0 insurances.tips
 0.0.0.0 insurplan.info
+0.0.0.0 inswebt.com
 0.0.0.0 int.a-ads.com
 0.0.0.0 int.dpool.sina.com.cn
 0.0.0.0 int.propellerads.com
@@ -64271,6 +64283,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mischtikalsshowdogs.com
 0.0.0.0 miscopy.com
 0.0.0.0 miscras.de
+0.0.0.0 misdem.pro
 0.0.0.0 misosoup.io
 0.0.0.0 misqb.xyz
 0.0.0.0 miss-pearl.de
@@ -70960,6 +70973,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 onward.store
 0.0.0.0 onwardclick.com
 0.0.0.0 onwardinated.com
+0.0.0.0 onwaysebuj.site
 0.0.0.0 onwey.com
 0.0.0.0 onwsys.net
 0.0.0.0 onxxyeoyes.com
@@ -71833,6 +71847,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ousbags.com
 0.0.0.0 oushenoo.net
 0.0.0.0 ouslayer.co
+0.0.0.0 ousseventi.info
 0.0.0.0 oustiefel.com
 0.0.0.0 ousufauk.com
 0.0.0.0 ousurvey.qualtrics.com
@@ -82275,6 +82290,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ritsaunders360.qualtrics.com
 0.0.0.0 ritsllc.com
 0.0.0.0 ritterstube-schwerin.com
+0.0.0.0 rituationscardb.info
 0.0.0.0 ritzykey.com
 0.0.0.0 ritzysponge.com
 0.0.0.0 rivalo.network
@@ -83366,6 +83382,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rum-collector.pingdom.net
 0.0.0.0 rum-collector.wpm.neustar.biz
 0.0.0.0 rum-static.pingdom.net
+0.0.0.0 rum.conde.io
 0.0.0.0 rum.marquardmedia.hu
 0.0.0.0 rum.nanovisor.io
 0.0.0.0 rum.nccgroup-webperf.com
@@ -84244,6 +84261,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sabiosdelamor.co
 0.0.0.0 saboopiz.net
 0.0.0.0 sac.ayads.co
+0.0.0.0 sacchaeleduk.com
 0.0.0.0 sachverstaendiger-otto.de
 0.0.0.0 sacredphoenix.com
 0.0.0.0 sact.atdmt.com
@@ -85343,6 +85361,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sdkconfig.vrvm.com
 0.0.0.0 sdkdata.appia.com
 0.0.0.0 sdkevents.zapr.in
+0.0.0.0 sdkfjxjertertry.com
 0.0.0.0 sdkgw.us1.twilio.com
 0.0.0.0 sdkinit.taobao.com
 0.0.0.0 sdkjustad-a.akamaihd.net
@@ -90036,6 +90055,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stags.peer39.net
 0.0.0.0 staid.giftshopu.com
 0.0.0.0 stajniabatanka.pl
+0.0.0.0 stakenpolise.site
 0.0.0.0 stakeunited.com
 0.0.0.0 stakim.org
 0.0.0.0 stakingscrew.com
@@ -91802,6 +91822,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 subscribe.hearstmags.com
 0.0.0.0 subscribers.click
 0.0.0.0 subsequentswim.com
+0.0.0.0 substandferex.site
 0.0.0.0 subtherm.de
 0.0.0.0 subtrack.clickhubs.com
 0.0.0.0 subtracts.userplane.com
