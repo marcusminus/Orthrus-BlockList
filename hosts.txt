@@ -1582,6 +1582,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 2525252fpixel.everesttech.net
 0.0.0.0 252fclk.tradedoubler.com
 0.0.0.0 252fpixel.everesttech.net
+0.0.0.0 25348f89a3.com
 0.0.0.0 253561.measurementapi.com
 0.0.0.0 253dbce595.com
 0.0.0.0 2542116.fls.doubleclick.net
@@ -1895,7 +1896,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 2guys1stump.org
 0.0.0.0 2hanwriten.com
 0.0.0.0 2iiyrxk0.com
-0.0.0.0 2ip.ua
 0.0.0.0 2iui01.com
 0.0.0.0 2kata.ru
 0.0.0.0 2kpixel.quantserve.com
@@ -7006,6 +7006,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 abdlphone.com
 0.0.0.0 abdmi.ru
 0.0.0.0 abechin.vis1.shinobi.jp
+0.0.0.0 abeets.ru
 0.0.0.0 abeggs.com
 0.0.0.0 abekjzzhfbr.com
 0.0.0.0 abendbrotmainz.de
@@ -26966,6 +26967,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cavdzowr.com
 0.0.0.0 cavemancircus.us.intellitxt.com
 0.0.0.0 cawellreceived.ga
+0.0.0.0 cawsodpet.club
 0.0.0.0 caxiqapecuop.com
 0.0.0.0 caxton-d.openx.net
 0.0.0.0 caxvm62zyz.com
@@ -40501,6 +40503,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 erbudokna.pl
 0.0.0.0 erckgobvi.com
 0.0.0.0 erdbeermund-kabarett.de
+0.0.0.0 erdecisesgeorg.info
 0.0.0.0 erdekeshirek.club
 0.0.0.0 erdekeshirek.info
 0.0.0.0 erdekesvilag.eu
@@ -44500,6 +44503,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 frfgn.xyz
 0.0.0.0 frfnlvnpzeju.com
 0.0.0.0 frgbgwnbjkgco.com
+0.0.0.0 frhoobwj.com
 0.0.0.0 friday.spieleu.com
 0.0.0.0 fridaymediagroup-clickcars.t.domdex.com
 0.0.0.0 fridaymediagroup-fridayad.t.domdex.com
@@ -49605,6 +49609,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hisoupocdted.com
 0.0.0.0 histats.com.ero-advertising.com
 0.0.0.0 histats.com
+0.0.0.0 histlingklakson.site
 0.0.0.0 histock.info
 0.0.0.0 historiajestkobieta.pl
 0.0.0.0 historicalbeam.com
@@ -50857,6 +50862,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hwyoikfrfdtjp.com
 0.0.0.0 hx.hexun.com
 0.0.0.0 hxapcgf7pyqwckylxywxpcdetr2od1507500850.nuid.imrworldwide.com
+0.0.0.0 hxbvxmyldlt.com
 0.0.0.0 hxcoxdyzzd.com
 0.0.0.0 hxczzzw.com
 0.0.0.0 hxhxjcffzp.com
@@ -60868,6 +60874,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lucent.122.2o7.net
 0.0.0.0 luchtenbergdecor.com.br
 0.0.0.0 lucibad.home.ro
+0.0.0.0 lucid.mjhassoc.com
 0.0.0.0 lucid8.actonsoftware.com
 0.0.0.0 lucidel.com
 0.0.0.0 lucidmedia.com
@@ -61977,6 +61984,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mahindrainsurance.com
 0.0.0.0 mahlwerkpoint.de
 0.0.0.0 mahlwerkprofi.de
+0.0.0.0 mahrzxsou.com
 0.0.0.0 mai-friss.com
 0.0.0.0 mai-hirek.net
 0.0.0.0 mai.group
@@ -65592,6 +65600,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mobtop.ru
 0.0.0.0 mobtrio.g2afse.com
 0.0.0.0 mobtrks.com
+0.0.0.0 mobtyb.com
 0.0.0.0 mobula.ssl2.duapps.com
 0.0.0.0 mobularity.com
 0.0.0.0 mobusi.com
@@ -66225,6 +66234,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mpx.mopub.com
 0.0.0.0 mpxxjdqpru.com
 0.0.0.0 mpxxtrk.com
+0.0.0.0 mpyiiswvgxz.com
 0.0.0.0 mq.d6s3mov.cn
 0.0.0.0 mq.news-subscribe.com
 0.0.0.0 mqdznyotsam.com
@@ -68622,6 +68632,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nfjqgexfjogexvbilgitypxuorwwi1504895770.nuid.imrworldwide.com
 0.0.0.0 nfkd2ug8d9.com
 0.0.0.0 nfkpro.club
+0.0.0.0 nfkq8jy5db0b.com
 0.0.0.0 nfkxplkiid.com
 0.0.0.0 nfl.demdex.net
 0.0.0.0 nfl.hb.omtrdc.net
@@ -72749,6 +72760,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 owwjelpkhli.com
 0.0.0.0 owykrhaic.com
 0.0.0.0 owyv3huee7hf4xewsdfh6edfhh3bt1516662498.nuid.imrworldwide.com
+0.0.0.0 ox-bio.com
 0.0.0.0 ox-d.247wallst.servedbyopenx.com
 0.0.0.0 ox-d.addkt.servedbyopenx.com
 0.0.0.0 ox-d.advanceweb.com
@@ -73940,6 +73952,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 parasino7.com
 0.0.0.0 paraskov.com
 0.0.0.0 paratingexcret.info
+0.0.0.0 paratingsulik.site
 0.0.0.0 parcelcreature.com
 0.0.0.0 parchedangle.com
 0.0.0.0 parding.info
@@ -83718,6 +83731,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rs2.qq.com
 0.0.0.0 rs3abn5v5zaumlflfvw7rzpjnvwvs1509512001.nuid.imrworldwide.com
 0.0.0.0 rsa.adjust.io
+0.0.0.0 rsalcau.com
 0.0.0.0 rsalcch.com
 0.0.0.0 rsalcdp.com
 0.0.0.0 rsalchk.com
@@ -90021,6 +90035,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 spell.itim.vn
 0.0.0.0 spellsalsa.com
 0.0.0.0 spencergifts.112.2o7.net
+0.0.0.0 spendeivivar.site
 0.0.0.0 spensa.co
 0.0.0.0 spentalwithinga.info
 0.0.0.0 speroll-inv-eu.admixer.net
@@ -93144,6 +93159,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 svbsvbwci.com
 0.0.0.0 svc-analytics.adkernel.com
 0.0.0.0 svc.analytics.nativeads.com
+0.0.0.0 svc.dynamics.com
 0.0.0.0 svc.mobilexsoft.com
 0.0.0.0 svc.tn0.m-pathy.com
 0.0.0.0 svc.tn1.m-pathy.com
@@ -103127,6 +103143,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 viacomedycentral.112.2o7.net
 0.0.0.0 viacomedycentralrl.112.2o7.net
 0.0.0.0 viacomedyde.112.2o7.net
+0.0.0.0 viadata.store
 0.0.0.0 viagametrailers.112.2o7.net
 0.0.0.0 viagra-online.petrovka.info
 0.0.0.0 viagra-pill.blogspot.com
@@ -106270,6 +106287,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 winrar-soft.ru
 0.0.0.0 winscholarship.com
 0.0.0.0 winsetupcostotome.easthamvacations.info
+0.0.0.0 winsistakesme.site
 0.0.0.0 winsupportit.club
 0.0.0.0 winter-elektronik.de
 0.0.0.0 winterbassseries.com
@@ -108969,6 +108987,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yepi2eco.ru
 0.0.0.0 yeplavtzm.com
 0.0.0.0 yeprimlax.club
+0.0.0.0 yepsobtax.com
 0.0.0.0 yes-messenger.com
 0.0.0.0 yes1.feng.com
 0.0.0.0 yesads.com
@@ -110606,6 +110625,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zqdvdygz.com
 0.0.0.0 zqeqclcfdc.com
 0.0.0.0 zqeskyeg.com
+0.0.0.0 zqiknimzmcoedq.com
 0.0.0.0 zqizn.com
 0.0.0.0 zqmwf.xyz
 0.0.0.0 zqmxzjrhchg.com
@@ -110765,6 +110785,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zuxanrebeceko.com
 0.0.0.0 zuybvpprdoo.com
 0.0.0.0 zuyuesale.com
+0.0.0.0 zuzab.com
 0.0.0.0 zuzodoad.com
 0.0.0.0 zuzzer5.com
 0.0.0.0 zv0wp.voluumtrk.com
