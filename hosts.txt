@@ -8918,6 +8918,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adc.media-rep.com
 0.0.0.0 adc.medibaad.com
 0.0.0.0 adc.nine.com.au
+0.0.0.0 adc.quantrimang.com
 0.0.0.0 adc.shinobi.jp
 0.0.0.0 adc.tripple.at
 0.0.0.0 adc.xxxlshop.de
@@ -10259,6 +10260,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adreactor.com
 0.0.0.0 adready.com
 0.0.0.0 adreadytractions.com
+0.0.0.0 adrealclick.com
 0.0.0.0 adreclaim.com
 0.0.0.0 adrecover.com
 0.0.0.0 adrecreate.com
@@ -15110,6 +15112,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aggregateknowledge.com
 0.0.0.0 aggreports.appsflyer.com
 0.0.0.0 aggression.cheapshopu.com
+0.0.0.0 aghchnfzt.com
 0.0.0.0 agiandsam.com
 0.0.0.0 agilecrm-web-stats.appspot.com
 0.0.0.0 agilemedia.jp
@@ -20834,6 +20837,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 avkigyhrazah.com
 0.0.0.0 avkzarabotok.info
 0.0.0.0 avm-freiburg.de
+0.0.0.0 avmftuama.com
 0.0.0.0 avmul.space
 0.0.0.0 avmws.com
 0.0.0.0 avn.innity.com
@@ -36064,6 +36068,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dew9ckzjyt2gn.cloudfront.net
 0.0.0.0 dewagg.com
 0.0.0.0 dewaletevo.top
+0.0.0.0 dewgnvonohak.com
 0.0.0.0 dewife.ru
 0.0.0.0 dewltdgzgtt.com
 0.0.0.0 dewqbkpy.com
@@ -39684,6 +39689,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ekkuztgnjnitmd.com
 0.0.0.0 ekladata.com
 0.0.0.0 eklcrpehu.com
+0.0.0.0 eklrohpahufy.com
 0.0.0.0 ekmas.com
 0.0.0.0 ekmpinpoint.co.uk
 0.0.0.0 ekmpinpoint.com
@@ -41795,6 +41801,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 exvision.de
 0.0.0.0 exvrvcnlfc.com
 0.0.0.0 exw-wallet.com
+0.0.0.0 exwcadanpfc.com
 0.0.0.0 exxotel.com
 0.0.0.0 exyubuwtwmepqi.com
 0.0.0.0 ey.c.appier.net
@@ -43786,6 +43793,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 foodnetwork.ca.ssl.d1.sc.omtrdc.net
 0.0.0.0 foodnetworkstore.d1.sc.omtrdc.net
 0.0.0.0 foodwears.com
+0.0.0.0 foogykxlqa.com
 0.0.0.0 fool4dance.nl
 0.0.0.0 foolhouse.de
 0.0.0.0 foopa.info
@@ -51496,6 +51504,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ibizne.ru
 0.0.0.0 ibjivzn.com
 0.0.0.0 ibjtuhcgwnamyf.com
+0.0.0.0 ibkbshqqueoij.com
 0.0.0.0 ibleigzj.com
 0.0.0.0 ibm-notebook-battery.wp-club.net
 0.0.0.0 ibmvideo.com
@@ -55103,6 +55112,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jcytzfvrm.bid
 0.0.0.0 jd.news-subscribe.com
 0.0.0.0 jd.revolvermaps.com
+0.0.0.0 jd01estvpr.club
 0.0.0.0 jd1ddgi3l3ovfkgaaplyxrxqay4qv1510272691.nuid.imrworldwide.com
 0.0.0.0 jdaysale.top
 0.0.0.0 jdbovkzjtuup.com
@@ -58746,6 +58756,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ldimage02.adtech.de
 0.0.0.0 ldimage02.adtech.fr
 0.0.0.0 ldimage02.adtech.us
+0.0.0.0 ldipafssohosls.com
 0.0.0.0 ldkdierujjfmcn.club
 0.0.0.0 ldkjrqcqp.com
 0.0.0.0 ldkyzudgbksh.com
@@ -61123,6 +61134,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lv.adocean.pl
 0.0.0.0 lv.hit.gemius.pl
 0.0.0.0 lvbagonsale.com
+0.0.0.0 lvbdvlnbht.com
 0.0.0.0 lvbet.pl
 0.0.0.0 lvbnetworks3.actonsoftware.com
 0.0.0.0 lvc.qualtrics.com
@@ -61133,6 +61145,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lvehrzkgzanurn.com
 0.0.0.0 lveif.com
 0.0.0.0 lvesmhsex.com
+0.0.0.0 lvgaaldcza.com
 0.0.0.0 lvgldleilov.com
 0.0.0.0 lvgliqkumatjv.com
 0.0.0.0 lvgvax82bp.com
@@ -65190,6 +65203,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mlgtlxyicweqn.com
 0.0.0.0 mlhpclmaba.bid
 0.0.0.0 mlinktracker.com
+0.0.0.0 mljzbcrvexzn.com
 0.0.0.0 mllfdnjrnkvhmd.com
 0.0.0.0 mlltyllhgohn.com
 0.0.0.0 mlm.de
@@ -75412,7 +75426,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ping.dozuki.com
 0.0.0.0 ping.hellobar.com
 0.0.0.0 ping.hungama.com
-0.0.0.0 ping.idocdn.com
 0.0.0.0 ping.media.net
 0.0.0.0 ping.mtraction.com
 0.0.0.0 ping.onscroll.com
@@ -79841,6 +79854,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pwlqrkgkk.com
 0.0.0.0 pwnyjk.xyz
 0.0.0.0 pwnz.org
+0.0.0.0 pwoiseuoyxpxz.com
 0.0.0.0 pwondjwwgqahw.com
 0.0.0.0 pwp.netcabo.pt
 0.0.0.0 pwrads.net
@@ -80101,6 +80115,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qawiman.com
 0.0.0.0 qawsk.top
 0.0.0.0 qawww.skypeassets.net
+0.0.0.0 qaxgycvxm.com
 0.0.0.0 qaxtgbdxjpibc.com
 0.0.0.0 qaykb.com
 0.0.0.0 qaz1.az1.qualtrics.com
@@ -81829,6 +81844,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 realchems.de
 0.0.0.0 realclever.com
 0.0.0.0 realclick.co.kr
+0.0.0.0 realclick.vn
 0.0.0.0 realclix.com
 0.0.0.0 realcounter.eu
 0.0.0.0 realcounters.com
@@ -83756,6 +83772,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rpm.newrelisc.com
 0.0.0.0 rpmdo.com
 0.0.0.0 rpnhxhzcejyiym.com
+0.0.0.0 rpqknedxr.com
 0.0.0.0 rprgsptwx.com
 0.0.0.0 rpspeqqiddjm.com
 0.0.0.0 rpt.anchorfree.net
@@ -99038,6 +99055,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 trafficcdn.liveuniversenetwork.com
 0.0.0.0 trafficclub-nde.netdna-ssl.com
 0.0.0.0 trafficcost.ru
+0.0.0.0 trafficdok.com
 0.0.0.0 trafficengine.net
 0.0.0.0 trafficex.adlandpro.com
 0.0.0.0 trafficfabrik.com
@@ -103218,6 +103236,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vfousvlr.com
 0.0.0.0 vfptprod.amobee.com
 0.0.0.0 vfs.admaster.com.cn
+0.0.0.0 vfsirfnosdx.com
 0.0.0.0 vfstdqercaffu.com
 0.0.0.0 vfsyklhwbxgq.com
 0.0.0.0 vfvbarhywkjsf.com
@@ -103583,6 +103602,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vidnet.pl
 0.0.0.0 vidnet.us.intellitxt.com
 0.0.0.0 vidnline.com
+0.0.0.0 vidoomy.com
 0.0.0.0 vidoplay.b-cdn.net
 0.0.0.0 vidora.com
 0.0.0.0 vidout.net
@@ -106031,6 +106051,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wgmannheim.de
 0.0.0.0 wgo.mmstat.com
 0.0.0.0 wgplayer.com
+0.0.0.0 wgpsethooknqv.com
 0.0.0.0 wgqirxevoh.com
 0.0.0.0 wgrbdqucfoieha.com
 0.0.0.0 wgssxjoac.com
@@ -107214,6 +107235,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wubdkryfkr.com
 0.0.0.0 wucbuvitibyiy.com
 0.0.0.0 wudr.net
+0.0.0.0 wudraqvw.com
 0.0.0.0 wuerzburg-region.de
 0.0.0.0 wufcygryt.com
 0.0.0.0 wuffmarketing.com
@@ -108551,6 +108573,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xn--zcrt01bvsr.com
 0.0.0.0 xn--zuzy24d.co
 0.0.0.0 xn-2qux23confgml.club
+0.0.0.0 xncyiwbwfuqx.com
 0.0.0.0 xndskrtxkiv.com
 0.0.0.0 xnfdvmzb.com
 0.0.0.0 xnfwhndl.com
@@ -108720,6 +108743,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xswezzwxh.com
 0.0.0.0 xswmgpypkfbqoe.com
 0.0.0.0 xswsrpeeyh.com
+0.0.0.0 xsxvxqtdppippq.com
 0.0.0.0 xsztfrlkphqy.com
 0.0.0.0 xtag.autotrader.com
 0.0.0.0 xtag.kbb.com
@@ -109388,6 +109412,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ynlvwynnsstalh.com
 0.0.0.0 ynoiezey.com
 0.0.0.0 ynopkisq.com
+0.0.0.0 ynpypyqwu.com
 0.0.0.0 ynqmordtj.com
 0.0.0.0 ynsbg.top
 0.0.0.0 yntwcepykkts.com
@@ -110525,6 +110550,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zjjlf.croukwexdbyerr.net
 0.0.0.0 zjk24.com
 0.0.0.0 zjkdrqtjowihn.com
+0.0.0.0 zjllvkfa.com
 0.0.0.0 zjnc6oj7f0hbnmol1dfo37iu4mlbw1516221456.nuid.imrworldwide.com
 0.0.0.0 zjncvhnkh.com
 0.0.0.0 zjnmgmidmx.com
@@ -110797,6 +110823,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zqeskyeg.com
 0.0.0.0 zqiknimzmcoedq.com
 0.0.0.0 zqizn.com
+0.0.0.0 zqmnjxpavnpe.com
 0.0.0.0 zqmwf.xyz
 0.0.0.0 zqmxzjrhchg.com
 0.0.0.0 zqqyhcqf.com
@@ -111072,6 +111099,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zzposr.gq
 0.0.0.0 zzpzenvmibvm.com
 0.0.0.0 zzrdvzryaiwsin.com
+0.0.0.0 zzvvzfiwyfq.com
 0.0.0.0 zzwajufm.com
 0.0.0.0 zzxd.mediav.com
 0.0.0.0 zzxlukodff.com
