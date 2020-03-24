@@ -19548,6 +19548,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 arcadefree.com
 0.0.0.0 arcadeweb.com
 0.0.0.0 arcadia.d1.sc.omtrdc.net
+0.0.0.0 arcadianis.pro
 0.0.0.0 arcaptart.site
 0.0.0.0 arcartall.club
 0.0.0.0 arcaukalb.site
@@ -20378,6 +20379,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 atout-energie-69.com
 0.0.0.0 atozdealinfo.com
 0.0.0.0 atp.io
+0.0.0.0 atpqczsqjsxvln.com
 0.0.0.0 atr-sprintportal.de
 0.0.0.0 atr.adsmovil.com
 0.0.0.0 atrack-a.anthill.vn
@@ -22806,6 +22808,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 benchtag2.co
 0.0.0.0 benefique-shiseido.b.appier.net
 0.0.0.0 benefit.btttag.com
+0.0.0.0 benefits.sovendus.com
 0.0.0.0 benefitsorganic.com
 0.0.0.0 benesse-com-tw.b.appier.net
 0.0.0.0 benessecorp.d1.sc.omtrdc.net
@@ -33727,6 +33730,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cybilling.com
 0.0.0.0 cybkhbkuobl.com
 0.0.0.0 cybmas.com
+0.0.0.0 cybugim4bdzqhwl.ru
 0.0.0.0 cybzsdkmrqgy.com
 0.0.0.0 cycle.hirship.com
 0.0.0.0 cycle.oupeng.com
@@ -36901,6 +36905,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dlfdvyfn.com
 0.0.0.0 dlfja.gdn
 0.0.0.0 dlfvgndsdfsn.com
+0.0.0.0 dlfxsmbetx.com
 0.0.0.0 dlgriyjm.com
 0.0.0.0 dlhhzptgsavxu.com
 0.0.0.0 dlist.iqilie.com
@@ -50109,6 +50114,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hochu-deneg.ru
 0.0.0.0 hodowlaskalia.pl
 0.0.0.0 hoefner-janssen.de
+0.0.0.0 hoegutvie.com
 0.0.0.0 hoenytype.com
 0.0.0.0 hoerbird.net
 0.0.0.0 hoerbuchfinden.de
@@ -68931,6 +68937,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nginx13.iad1.videohub.tv
 0.0.0.0 nginx14.iad1.videohub.tv
 0.0.0.0 nginx15.iad1.videohub.tv
+0.0.0.0 ngjzmt.com
 0.0.0.0 nglmedia.com
 0.0.0.0 nglrbsnu.com
 0.0.0.0 ngmco.net
@@ -70283,6 +70290,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nyctrl32.com
 0.0.0.0 nycvideo-ext.fwmrm.net
 0.0.0.0 nydailynews.d1.sc.omtrdc.net
+0.0.0.0 nyhpwuns.com
 0.0.0.0 nyhs3.voluumtrk.com
 0.0.0.0 nyiapi.adsafeprotected.com
 0.0.0.0 nyibqkuhqdz.com
@@ -73135,6 +73143,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 oyndqimgof.com
 0.0.0.0 oynmftlgufr.com
 0.0.0.0 oyojeelxp1n0p2w4fhugtusfwu00u1511205910.nuid.imrworldwide.com
+0.0.0.0 oypgywhfcrk.com
 0.0.0.0 oyrgxjuvsedi.com
 0.0.0.0 oyrvj.com
 0.0.0.0 oytrrdlrovcn.com
@@ -88876,6 +88885,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 skleptiande.pl
 0.0.0.0 sklepunderarmour.pl
 0.0.0.0 sklepwolfskin.pl
+0.0.0.0 sknkwpvrkz.com
 0.0.0.0 skocz.pl
 0.0.0.0 skomtczew.pl
 0.0.0.0 skoovyads.com
@@ -99247,6 +99257,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 trafficadept.com
 0.0.0.0 trafficads.com
 0.0.0.0 trafficbarads.com
+0.0.0.0 trafficbass.com
 0.0.0.0 trafficbc3.host
 0.0.0.0 trafficbee.com
 0.0.0.0 trafficbroker.com
@@ -104199,6 +104210,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vjhjolgaz.com
 0.0.0.0 vjltrbzrtqmkib.com
 0.0.0.0 vjqshoyjxwk.com
+0.0.0.0 vjsxvihazrwypb.com
 0.0.0.0 vjuguete.com
 0.0.0.0 vjuvorqe.com
 0.0.0.0 vjyzfgwkzp.com
@@ -106216,6 +106228,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wetunfdnruy.com
 0.0.0.0 wetyt.tourstogo.us
 0.0.0.0 weufdhsas.com
+0.0.0.0 weuztuwxue.com
 0.0.0.0 wewbay.com
 0.0.0.0 wewillrocknow.com
 0.0.0.0 wexevoom.net
@@ -109521,6 +109534,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yitkomfj.angelcities.com
 0.0.0.0 yiudy.com
 0.0.0.0 yivette.com
+0.0.0.0 yivzznzrujt.com
 0.0.0.0 yj-a.p.adnxs.com
 0.0.0.0 yj.moatads.com
 0.0.0.0 yj.p.adnxs.com
