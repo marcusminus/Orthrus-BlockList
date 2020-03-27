@@ -14019,6 +14019,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adv.aport.ru
 0.0.0.0 adv.axiatraders.com
 0.0.0.0 adv.bannercity.ru
+0.0.0.0 adv.baotintuc.vn
 0.0.0.0 adv.bbanner.it
 0.0.0.0 adv.blogupp.com
 0.0.0.0 adv.bookclubservices.ca
@@ -17227,6 +17228,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.ticketmaster.co.uk
 0.0.0.0 analytics.tidaltv.com
 0.0.0.0 analytics.tiki.vn
+0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics.tiltingpoint.io
 0.0.0.0 analytics.tio.ch
 0.0.0.0 analytics.tmonews.com
@@ -24709,6 +24711,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bqiovml.com
 0.0.0.0 bqn-p.tlnk.io
 0.0.0.0 bqntkevvmkk.com
+0.0.0.0 bqqnngtpc.com
 0.0.0.0 bqugumvxc.biz
 0.0.0.0 bqvgpuvjwhjggp.com
 0.0.0.0 bqyzesmanfucq.com
@@ -35259,6 +35262,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dcc2.segmentify.com
 0.0.0.0 dcccdnlc.co1.qualtrics.com
 0.0.0.0 dcccdoir.co1.qualtrics.com
+0.0.0.0 dccqzsmabz.com
 0.0.0.0 dccstsamnyrjk.com
 0.0.0.0 dcctr1.segmentify.com
 0.0.0.0 dcdn.adnxs.com
@@ -36232,6 +36236,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dgecolesdepolice.bf
 0.0.0.0 dgeggjwyhkrr.com
 0.0.0.0 dgergrwre.com
+0.0.0.0 dgfufcaxzdzenb.com
 0.0.0.0 dghgutalvz.com
 0.0.0.0 dgkvriccq.com
 0.0.0.0 dgkytklfjrqkb.cloudfront.net
@@ -39383,6 +39388,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ee9kxt07z8pfey5lstwgcpdzdgc2m1509201481.nuid.imrworldwide.com
 0.0.0.0 eeagxonnsoggq.com
 0.0.0.0 eeamatyc.com
+0.0.0.0 eebbfcwspe.com
 0.0.0.0 eebcbdca7331314.com
 0.0.0.0 eebfffjegjajjiacaci.ru
 0.0.0.0 eec.pixel.prod2.invitemedia.com
@@ -39472,6 +39478,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 efmd.co1.qualtrics.com
 0.0.0.0 efmeni.ru
 0.0.0.0 efngeka8czukzyb.ru
+0.0.0.0 efojzbnh.com
 0.0.0.0 eforeantheirma.info
 0.0.0.0 eforsa.pl
 0.0.0.0 eforu.com
@@ -40199,6 +40206,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 emxdigital.com
 0.0.0.0 emxfructugey.com
 0.0.0.0 emxhb.emxdgt.com
+0.0.0.0 emxyuehfnlssg.com
 0.0.0.0 emxztiidh.com
 0.0.0.0 emymarke.com
 0.0.0.0 emyxshop.com
@@ -42544,6 +42552,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fatfreekitchen.us.intellitxt.com
 0.0.0.0 fathed.pro
 0.0.0.0 fathomseo.com
+0.0.0.0 fatrjjcm.com
 0.0.0.0 fatrvclgpnb.com
 0.0.0.0 faucet.works
 0.0.0.0 faultycanvas.com
@@ -47605,6 +47614,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gop1.co
 0.0.0.0 gopay2.me
 0.0.0.0 gopeds.com
+0.0.0.0 gopfltvoiflf.com
 0.0.0.0 gophersport.evergage.com
 0.0.0.0 gophilantech.evergage.com
 0.0.0.0 gopjn.com
@@ -48602,6 +48612,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gynax.com
 0.0.0.0 gynhbuspeiud.bid
 0.0.0.0 gynzvwhup.com
+0.0.0.0 gyoajmeq.com
 0.0.0.0 gyojplgn.com
 0.0.0.0 gypeelrmw6joe9mthaxnhjbl488nt1504903010.nuid.imrworldwide.com
 0.0.0.0 gyro.appdriver.jp
@@ -55689,6 +55700,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jlmnnrwuqz.com
 0.0.0.0 jlqmdejwvezpt.com
 0.0.0.0 jlsydeysmgghdy.com
+0.0.0.0 jltklmnmj.com
 0.0.0.0 jlvqbfknjajot.com
 0.0.0.0 jlwejibe.com
 0.0.0.0 jm.entertainmentcrave.com
@@ -60234,6 +60246,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 locothet.com
 0.0.0.0 locotrack.net
 0.0.0.0 lodalasan.club
+0.0.0.0 loddawqst.com
 0.0.0.0 lodder5.biz
 0.0.0.0 lode88.vip
 0.0.0.0 lodenfreyde.widget.criteo.com
@@ -67817,6 +67830,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 na61-na62.wagbridge.advertisement.tanx.com
 0.0.0.0 na61-na62.wagbridge.alibaba.tanx.com
 0.0.0.0 naaifqdqsnxtsp.com
+0.0.0.0 naapvraf.com
 0.0.0.0 naavxddd.com
 0.0.0.0 naayna.com
 0.0.0.0 nab.d1.sc.omtrdc.net
@@ -70465,6 +70479,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nzbbsxujqlhjn.com
 0.0.0.0 nzcjjhkd.com
 0.0.0.0 nzcpdaboaayv.com
+0.0.0.0 nzhfk.com
 0.0.0.0 nzhuswwhd.com
 0.0.0.0 nzkjbazl.com
 0.0.0.0 nzkumtaiw.com
@@ -71116,6 +71131,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ofbqjpaamioq.com
 0.0.0.0 ofd.meng-an.cn
 0.0.0.0 ofdfinqurwpi.com
+0.0.0.0 ofdittor.com
 0.0.0.0 ofdybheqahjamq.bid
 0.0.0.0 ofeetles.pro
 0.0.0.0 ofenltlzepz.com
@@ -88540,6 +88556,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 signup.taboola.com
 0.0.0.0 signuplite.ad-center.com
 0.0.0.0 signupservice.appsflyer.com
+0.0.0.0 sigrjorpzhte.com
 0.0.0.0 sigstr.act-on.com
 0.0.0.0 sihciabzm.com
 0.0.0.0 sihjnaojbrs.com
@@ -93615,6 +93632,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 suryaiklan.com
 0.0.0.0 susansmetalart.com
 0.0.0.0 suscotrk.com
+0.0.0.0 susfvjh.pro
 0.0.0.0 sushipool.com
 0.0.0.0 susi.adtech.fr
 0.0.0.0 susi.adtech.us
@@ -93653,7 +93671,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 svbsvbwci.com
 0.0.0.0 svc-analytics.adkernel.com
 0.0.0.0 svc.analytics.nativeads.com
-0.0.0.0 svc.dynamics.com
 0.0.0.0 svc.mobilexsoft.com
 0.0.0.0 svc.tn0.m-pathy.com
 0.0.0.0 svc.tn1.m-pathy.com
@@ -96177,6 +96194,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 theuseful.net
 0.0.0.0 theverlalinglac.info
 0.0.0.0 thevpntrustzone.xyz
+0.0.0.0 thevtk.com
 0.0.0.0 thewatchmaker1.weebly.com
 0.0.0.0 theweatherspace.com
 0.0.0.0 thewebanswers.com
@@ -106424,6 +106442,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wguir.co1.qualtrics.com
 0.0.0.0 wguke.com
 0.0.0.0 wguuomjdav.com
+0.0.0.0 wgwguxqij.com
 0.0.0.0 wh.kissmetrics.com
 0.0.0.0 wh.motorpresse-statistik.de
 0.0.0.0 wh5kb0u4.com
@@ -110694,6 +110713,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zepophere.com
 0.0.0.0 zepozipo.com
 0.0.0.0 zeqad.com
+0.0.0.0 zeqtblok.com
 0.0.0.0 zerch.qgr.ph
 0.0.0.0 zerezas.com
 0.0.0.0 zergnet.com
@@ -111187,6 +111207,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zozocash.biz
 0.0.0.0 zozolilla.com
 0.0.0.0 zozoter.ru
+0.0.0.0 zpaanftgs.com
 0.0.0.0 zpafiska.pl
 0.0.0.0 zpaimilpqx.com
 0.0.0.0 zpbgschpbkz.com
