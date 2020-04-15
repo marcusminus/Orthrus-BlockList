@@ -13743,7 +13743,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adsrv4k.com
 0.0.0.0 adsrvgateway.com
 0.0.0.0 adsrvmedia.adk2.co
-0.0.0.0 adsrvmedia.adk2.co$important
 0.0.0.0 adsrvmedia.com
 0.0.0.0 adsrvmedia.net
 0.0.0.0 adsrvr.com
@@ -23195,7 +23194,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 bet-online.petrovka.info
 0.0.0.0 bet.122.2o7.net
 0.0.0.0 bet.championat.com
-0.0.0.0 bet.championat.com$important
 0.0.0.0 bet.demdex.net
 0.0.0.0 bet3000partners.com
 0.0.0.0 bet365affiliates.com
@@ -35975,7 +35973,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 deloplen.com
 0.0.0.0 deloplenn.com
 0.0.0.0 delosnetwork.it
-0.0.0.0 deloton.com$important
 0.0.0.0 deloton.com
 0.0.0.0 deloxar.pl
 0.0.0.0 delphicom.112.2o7.net
@@ -71619,7 +71616,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ockorrytznnq.bid
 0.0.0.0 ockrsolo.bid
 0.0.0.0 oclaserver.com
-0.0.0.0 oclasrv.com$important
 0.0.0.0 oclasrv.com
 0.0.0.0 oclus.com
 0.0.0.0 ocm.revcontent.com
@@ -76650,7 +76646,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pixel.33across.com
 0.0.0.0 pixel.4pcdn.de
 0.0.0.0 pixel.4players.de
-0.0.0.0 pixel.4players.de$important
 0.0.0.0 pixel.ad
 0.0.0.0 pixel.adadvisor.net
 0.0.0.0 pixel.adasiaholdings.com
@@ -76787,7 +76782,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pixel.welt.de
 0.0.0.0 pixel.westseven.media
 0.0.0.0 pixel.widgetly.com
-0.0.0.0 pixel.wp.pl$important
 0.0.0.0 pixel.xapads.com
 0.0.0.0 pixel.xmladfeed.com
 0.0.0.0 pixel.yabidos.com
@@ -82809,7 +82803,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 rcappkszvgwxx.com
 0.0.0.0 rcci.122.2o7.net
 0.0.0.0 rccl.bridgetrack.com
-0.0.0.0 rcdn.pro$badfilter
 0.0.0.0 rcdna.gwallet.com
 0.0.0.0 rcemsoiyil.com
 0.0.0.0 rci.btttag.com
