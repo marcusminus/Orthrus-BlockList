@@ -17,9 +17,6 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
-0.0.0.0 0.0.0.0.beeglivesex.com
-0.0.0.0 0.0.0.0.creative.hpyrdr.com
-0.0.0.0 0.0.0.0.hpyrdr.com
 0.0.0.0 0.fls.doubleclick.net
 0.0.0.0 0.nextyourcontent.com
 0.0.0.0 0.r.msn.com
