@@ -1536,6 +1536,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 24ekspres.online
 0.0.0.0 24fakty-sniadaniowe.pl
 0.0.0.0 24gamma.de
+0.0.0.0 24h*-ad.24hstatic.com
 0.0.0.0 24h-pflege-kaernten.at
 0.0.0.0 24holdem.com
 0.0.0.0 24hoursready.cf
@@ -4047,6 +4048,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 6ea56485aed0c.com
 0.0.0.0 6ed0a6630b.com
 0.0.0.0 6eez7ouig7gwguf6.pro
+0.0.0.0 6esfc37938pur4.com
 0.0.0.0 6f.news-subscribe.com
 0.0.0.0 6f.video-ak.cdn.spotify.com
 0.0.0.0 6f2tjr26.top
@@ -7528,9 +7530,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 acxiomapac.com
 0.0.0.0 acyclovir.1.p2l.info
 0.0.0.0 aczepi.cinefique.com
+0.0.0.0 ad*.24hstatic.com
 0.0.0.0 ad-2.tk
 0.0.0.0 ad-411.com
 0.0.0.0 ad-ace.doubleclick.net
+0.0.0.0 ad-admin.vnay.vn
 0.0.0.0 ad-alp.net
 0.0.0.0 ad-analytics-bootstrap.metaps.com
 0.0.0.0 ad-analyze.jp
@@ -8771,6 +8775,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adacus-cdn.placelocal.com
 0.0.0.0 adacus.placelocal.com
 0.0.0.0 adad.ir
+0.0.0.0 adadmin.headlines.pw
 0.0.0.0 adadvalue.g2afse.com
 0.0.0.0 adadvisor.net
 0.0.0.0 adafazerub.com
@@ -9368,6 +9373,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adhost.dk
 0.0.0.0 adhost.in
 0.0.0.0 adhostingsolutions.com
+0.0.0.0 adhouse.cubecdn.net
 0.0.0.0 adhr.hit.gemius.pl
 0.0.0.0 adhref.com
 0.0.0.0 adhref.pl
@@ -10246,6 +10252,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adpopcon.com
 0.0.0.0 adport.io
 0.0.0.0 adportal.advertising.com
+0.0.0.0 adpostback.headlines.pw
 0.0.0.0 adpozitif.com
 0.0.0.0 adppv.com
 0.0.0.0 adpredictive.com
@@ -14204,6 +14211,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adverserve.net
 0.0.0.0 adversolutions.com
 0.0.0.0 adversting.riamedia.com.ua
+0.0.0.0 advert-admin.vnay.vn
 0.0.0.0 advert-creatives.s3.amazonaws.com
 0.0.0.0 advert-layer.de
 0.0.0.0 advert-serv.johnmorris.me
@@ -34474,6 +34482,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d2o9ozfswytaqz.cloudfront.net
 0.0.0.0 d2oa97wrxvxm7y.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
+0.0.0.0 d2ox6x0y9xhicd.cloudfront.net
 0.0.0.0 d2p8taqyjofgrq.cloudfront.net
 0.0.0.0 d2pc0q32fod0ha.cloudfront.net
 0.0.0.0 d2pppxxtaciku9.cloudfront.net
@@ -41592,6 +41601,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ev.rdtcdn.com
 0.0.0.0 ev.yieldbuild.com
 0.0.0.0 ev2cdn.com
+0.0.0.0 eva*-ad.24hstatic.com
 0.0.0.0 eva-hommel.de
 0.0.0.0 evaairline.com
 0.0.0.0 evadav.com
@@ -41653,6 +41663,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 event.spotxchange.com
 0.0.0.0 event.trove.com
 0.0.0.0 event.vertamedia.com
+0.0.0.0 event.vntoday.news
 0.0.0.0 event22.saas.seewhy.com
 0.0.0.0 event5.saas.seewhy.com
 0.0.0.0 eventapi.libring.com
@@ -46972,6 +46983,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ghdccdtxvnpo.com
 0.0.0.0 ghflawfirm.com
 0.0.0.0 ghhitzplus.com
+0.0.0.0 ghimc.vn
 0.0.0.0 ghjlhnbc.com
 0.0.0.0 ghkajgexob.com
 0.0.0.0 ghkbid.adview.cn
@@ -47048,6 +47060,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gigarho.com
 0.0.0.0 gigazine.asia
 0.0.0.0 gigbc.net
+0.0.0.0 gigbyefly.com
 0.0.0.0 gigcount.com
 0.0.0.0 gigphdgtszus.bid
 0.0.0.0 gigsis.net
@@ -57983,6 +57996,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kjmddlhlejeh.com
 0.0.0.0 kjnwnuzwaic6mltfwc1heegk0we1c1516336202.nuid.imrworldwide.com
 0.0.0.0 kjos.vo.llnwd.net
+0.0.0.0 kjrjvvxcg.com
 0.0.0.0 kjsedplonmifbe.com
 0.0.0.0 kjtcdiyzd.com
 0.0.0.0 kjz0e0caky7fdenqamgooihc7jyzq1506958102.nuid.imrworldwide.com
@@ -58851,6 +58865,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kxpkadaivbm.com
 0.0.0.0 kxqvnfcg.xyz
 0.0.0.0 kxrzz.superpromo.7112531.com
+0.0.0.0 kxswxnbr.com
 0.0.0.0 kxujlopfsmttyc.com
 0.0.0.0 kxuztynmbquxcf.com
 0.0.0.0 kxwkbkfespyh.com
@@ -60825,6 +60840,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lofentous.com
 0.0.0.0 loft2126.dedicatedpanel.com
 0.0.0.0 lofv.xyz
+0.0.0.0 log*.zing.vn
 0.0.0.0 log-01.ec2.us.east.liverail.com
 0.0.0.0 log-1.samsungacr.com
 0.0.0.0 log-2.samsungacr.com
@@ -61001,6 +61017,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 log.vietnamdaily.net.vn
 0.0.0.0 log.vietnamnetad.vn
 0.0.0.0 log.vietnamplus.vn
+0.0.0.0 log.vnay.vn
+0.0.0.0 log.vntoday.news
 0.0.0.0 log.vov.vn
 0.0.0.0 log.wat.tv
 0.0.0.0 log.webnovel.com
@@ -61010,6 +61028,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 log.xzcs3zlph.com
 0.0.0.0 log.yeah1media.vn
 0.0.0.0 log.zingmp3.vn
+0.0.0.0 log.zingnews.vn
 0.0.0.0 log000.goo.ne.jp
 0.0.0.0 log1.24liveplus.com
 0.0.0.0 log1.adsplay.net
@@ -61487,6 +61506,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 loteumepag.com
 0.0.0.0 lotosart.pl
 0.0.0.0 lottalovee.com
+0.0.0.0 lottery.headlines.pw
+0.0.0.0 lottery.vntoday.news
 0.0.0.0 lotteryaffiliates.com
 0.0.0.0 lottizzazionesavarra.it
 0.0.0.0 lottoga.com
@@ -70953,6 +70974,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nuxeo.evergage.com
 0.0.0.0 nuxsmhexm.com
 0.0.0.0 nuzlihakiim.com
+0.0.0.0 nv-ad*.24hstatic.com
 0.0.0.0 nv-sdk.jumio.com
 0.0.0.0 nv.5.p2l.info
 0.0.0.0 nv.uashaql.net
@@ -71846,6 +71868,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 offertrakking.info
 0.0.0.0 offertunity.click
 0.0.0.0 offerunt.pl
+0.0.0.0 offerwall.headlines.pw
 0.0.0.0 offerwall.s3.amazonaws.com
 0.0.0.0 offerwall.yandex.net
 0.0.0.0 offerx.co.uk
@@ -74683,6 +74706,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 p67136.clksite.com
 0.0.0.0 p69523.clksite.com
 0.0.0.0 p69578.retdaz.fun
+0.0.0.0 p6p2w3v92czo.com
 0.0.0.0 p7.appearch.info
 0.0.0.0 p7.firrectly.top
 0.0.0.0 p70283.inclk.com
@@ -80250,6 +80274,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 psurdoak.com
 0.0.0.0 psv-arnis-shs.de
 0.0.0.0 psvdblzcgnjj.com
+0.0.0.0 psvgnczo.com
 0.0.0.0 pswlvlauz.bid
 0.0.0.0 pswucdobdvt.com
 0.0.0.0 psx.ign.us.intellitxt.com
@@ -80811,8 +80836,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 pushbank.pushdom.co
 0.0.0.0 pushbasic.com
 0.0.0.0 pushdataapi.zc.uae.uc.cn
+0.0.0.0 pushdi.com
 0.0.0.0 pushdom.co
 0.0.0.0 pushdusk.com
+0.0.0.0 pushdy.com
+0.0.0.0 pushdy.vn
 0.0.0.0 pushebrod.com
 0.0.0.0 pusheds.info
 0.0.0.0 pushedwebnews.com
@@ -82247,6 +82275,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 r.skimresources.com
 0.0.0.0 r.soarsvr.com
 0.0.0.0 r.teads.tv
+0.0.0.0 r.tinmoi24.vn
 0.0.0.0 r.topdent.ru
 0.0.0.0 r.toplaygame.ru
 0.0.0.0 r.turn.com.akadns.net
@@ -83799,6 +83828,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 report.qq.com
 0.0.0.0 report.rayjump.com
 0.0.0.0 report.salmonads.com
+0.0.0.0 report.vnay.vn
 0.0.0.0 report.webclicks24.com
 0.0.0.0 report02.adtech.de
 0.0.0.0 report02.adtech.fr
@@ -89197,6 +89227,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 shop.kumma-hb.hb.adx1.com
 0.0.0.0 shop.skin-safety.com
 0.0.0.0 shop.strato.de
+0.0.0.0 shop.vnay.vn
 0.0.0.0 shop.zalo.me
 0.0.0.0 shop.zaloapp.com
 0.0.0.0 shop115048570.taobao.com
@@ -105609,6 +105640,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vnkydhnyjed.com
 0.0.0.0 vnlqgiuul.com
 0.0.0.0 vnmsa.mirtesen.ru
+0.0.0.0 vnnayngaytin.vn
 0.0.0.0 vnotrk.com
 0.0.0.0 vnrapyiaxxj.com
 0.0.0.0 vnrherdsxr.com
@@ -108544,6 +108576,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wrapper.giga.de
 0.0.0.0 wrapper.lemde.fr
 0.0.0.0 wrating.com
+0.0.0.0 wrdbknbczcf.com
 0.0.0.0 wrdgswma3iyqcrpx2gdhslh8pwd5i1509493760.nuid.imrworldwide.com
 0.0.0.0 wredint.com
 0.0.0.0 wredmtmvkjbg.com
