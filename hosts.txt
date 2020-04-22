@@ -17,6 +17,7 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+0.0.0.0 @@nineto5mac-d.openx.net
 0.0.0.0 0--e.info
 0.0.0.0 0.fls.doubleclick.net
 0.0.0.0 0.nextyourcontent.com
@@ -5476,6 +5477,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 9h5qq.cn
 0.0.0.0 9h6qq.cn
 0.0.0.0 9h7n8.com
+0.0.0.0 9haa5i5j2hw10u.com
 0.0.0.0 9hh58l04sa.kameleoon.eu
 0.0.0.0 9icmzvn6.website
 0.0.0.0 9ics.cn
@@ -14932,6 +14934,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 advard.com
 0.0.0.0 advariant.com
 0.0.0.0 advarkads.com
+0.0.0.0 advast.sibnet.ru
 0.0.0.0 advbanners.global.ssl.fastly.net
 0.0.0.0 advbroker.ru
 0.0.0.0 advcache.ru
@@ -15053,6 +15056,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 advertiseworld.com
 0.0.0.0 advertiseyourgame.com
 0.0.0.0 advertising-api.gumgum.com
+0.0.0.0 advertising-cdn.dpgmedia.cloud
 0.0.0.0 advertising-eu.amazon.com
 0.0.0.0 advertising.amazon.com
 0.0.0.0 advertising.amazon.de
@@ -22403,6 +22407,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 b92rs.adocean.pl
 0.0.0.0 b936c5932623f.com
 0.0.0.0 b9377h.com
+0.0.0.0 b96bcea4.cc
 0.0.0.0 b97.yahoo.co.jp
 0.0.0.0 b97beb2fed1c4f.com
 0.0.0.0 b99u.top
@@ -23519,6 +23524,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bd.appier.net
 0.0.0.0 bd.czxuexi.com
 0.0.0.0 bd.ershenghuo.com
+0.0.0.0 bd.gdyjs.com
 0.0.0.0 bd.moatads.com
 0.0.0.0 bd.tapad.com
 0.0.0.0 bd.video-ak.cdn.spotify.com
@@ -25467,6 +25473,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bmi-shop.top
 0.0.0.0 bmichkohfqtnvq.com
 0.0.0.0 bmjpxyrpiyq.com
+0.0.0.0 bmkz57b79pxk.com
 0.0.0.0 bmlmedia.com
 0.0.0.0 bmmetrix.com
 0.0.0.0 bmmqsdyud.com
@@ -35955,6 +35962,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d31ea41705818c9.com
 0.0.0.0 d31j93rd8oukbv.cloudfront.net
 0.0.0.0 d31mxuhvwrofft.cloudfront.net
+0.0.0.0 d31nb97nd8ha11.cloudfront.net
 0.0.0.0 d31vxm9ubutrmw.cloudfront.net
 0.0.0.0 d32hwlnfiv2gyn.cloudfront.net
 0.0.0.0 d32r49xyei4vz6.cloudfront.net
@@ -49213,6 +49221,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gk277.cn
 0.0.0.0 gkaatcjxwa.com
 0.0.0.0 gkatquevzk.com
+0.0.0.0 gkgojxjucutvnt.com
 0.0.0.0 gkhfahrtren.com
 0.0.0.0 gkhyhmtj.com
 0.0.0.0 gkiqfnjtwmj.bid
@@ -51766,6 +51775,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hbssjd.cn
 0.0.0.0 hbstty.com
 0.0.0.0 hbttcc.com
+0.0.0.0 hbtzzlcxfijk.com
 0.0.0.0 hbx-lg.media.net
 0.0.0.0 hbx.df-srv.de
 0.0.0.0 hbx.media.net
@@ -53314,6 +53324,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 howillbuy.com
 0.0.0.0 howingo.com
 0.0.0.0 howler.shareaholic.com
+0.0.0.0 howsmyssl.com
 0.0.0.0 howtobuildsoftware.com
 0.0.0.0 howtocleanacomputervirus.com
 0.0.0.0 howtodoblog.com
@@ -54406,6 +54417,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 iadv.biz
 0.0.0.0 iadvert.net
 0.0.0.0 iadvize.com
+0.0.0.0 iafjzbzqdgxq.com
 0.0.0.0 iaflstore.jp
 0.0.0.0 iafqqcsw.com
 0.0.0.0 iag37.bemobtrk.com
@@ -73645,6 +73657,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nordette.1.p2l.info
 0.0.0.0 nordette.3.p2l.info
 0.0.0.0 nordette.4.p2l.info
+0.0.0.0 nordfreevpn.com
 0.0.0.0 nordfriesenpower.de
 0.0.0.0 nordiccountry.cz
 0.0.0.0 nordichardware.se
@@ -75617,6 +75630,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 oldenburger-inlinernacht.de
 0.0.0.0 oldership.com
 0.0.0.0 oldgames.zp.ua
+0.0.0.0 oldqsuoemchpr.com
 0.0.0.0 oldrrb.bid
 0.0.0.0 oldsite.yieldmo.com
 0.0.0.0 oldsupport.kissmetrics.com
@@ -89547,6 +89561,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rz-bikes.de
 0.0.0.0 rz.news-subscribe.com
 0.0.0.0 rz261.cn
+0.0.0.0 rzajohyjxff.com
 0.0.0.0 rzbbcjnrsbk.com
 0.0.0.0 rzbozucqgmostr.com
 0.0.0.0 rzddlsybql.com
@@ -92070,6 +92085,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 semiyun.com
 0.0.0.0 semnicneposilejte.cz
 0.0.0.0 semovice.com
+0.0.0.0 sempcxjajh.com
 0.0.0.0 semtracker.de
 0.0.0.0 sen02.younetmedia.com
 0.0.0.0 sencelles.info
@@ -106496,6 +106512,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ufepjobg1m43q8qw6i7dscngroex71513523510.nuid.imrworldwide.com
 0.0.0.0 ufeuyyfoguo.com
 0.0.0.0 uff5.to
+0.0.0.0 uffpsmfefu.com
 0.0.0.0 ufl.qualtrics.com
 0.0.0.0 ufljour.qualtrics.com
 0.0.0.0 ufnd.hotchedmothe.club
@@ -106603,6 +106620,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uim.tifbs.net
 0.0.0.0 uimovil.com
 0.0.0.0 uimrmuoztkoia.com
+0.0.0.0 uimrnhpei.com
 0.0.0.0 uimserv.net
 0.0.0.0 uinbjfve.com
 0.0.0.0 uindy.co1.qualtrics.com
@@ -106742,6 +106760,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ukw.jp
 0.0.0.0 ukwotnfnhk.com
 0.0.0.0 ukwoxufaepbhn.com
+0.0.0.0 ukyyjicbqdx.com
 0.0.0.0 ul.a.mobimagic.com
 0.0.0.0 ul.cdn946.net
 0.0.0.0 ulaen.com
@@ -107182,6 +107201,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uopayiycy.com
 0.0.0.0 uophrutbsb.com
 0.0.0.0 uopto.iqm.com
+0.0.0.0 uopvdbudoe.com
 0.0.0.0 uoqktpjfrctroa.com
 0.0.0.0 uoredi.com
 0.0.0.0 uorhedemxtni.com
@@ -110199,6 +110219,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vpn.vibrantmedia.com
 0.0.0.0 vpn1.us
 0.0.0.0 vpn2.branch.io
+0.0.0.0 vpn4test.net
 0.0.0.0 vpn5protectplus.com
 0.0.0.0 vpnaffiliates.com
 0.0.0.0 vpndcpxavg.com
@@ -110999,6 +111020,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wan.youku.com
 0.0.0.0 wanabone.com
 0.0.0.0 wanbuy.net
+0.0.0.0 wandara113.xyz
 0.0.0.0 wanderers.app
 0.0.0.0 wanderschuhesale.com
 0.0.0.0 waneloluxury.com
@@ -111266,6 +111288,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wcobqyeqpckkzh.com
 0.0.0.0 wcomhost.com
 0.0.0.0 wcozainwestowacpieniadze.pl
+0.0.0.0 wcpkhkyuzp.com
 0.0.0.0 wcqlebpges.com
 0.0.0.0 wcrtb.adtelligent.com
 0.0.0.0 wct.click
@@ -113155,6 +113178,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ws3.tapjoyads.com
 0.0.0.0 ws33.tapjoyads.com
 0.0.0.0 ws341.com
+0.0.0.0 ws38.watashinonegai.ru
 0.0.0.0 ws4.tapjoyads.com
 0.0.0.0 ws42.crypto-loot.com
 0.0.0.0 ws48.crypto-loot.com
@@ -115480,6 +115504,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ydkrabhtgci.com
 0.0.0.0 ydlnt.com
 0.0.0.0 ydlrdzlbgs.com
+0.0.0.0 ydlwrwbjosjycn.com
 0.0.0.0 ydnk.tlnk.io
 0.0.0.0 ydoksieuml.com
 0.0.0.0 ydouu.com
@@ -117720,6 +117745,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zurgerya.ru
 0.0.0.0 zurich-markt.com
 0.0.0.0 zursiicizyhd.com
+0.0.0.0 zusbzr.com
 0.0.0.0 zusrd.cn
 0.0.0.0 zuszohaosnrssk.com
 0.0.0.0 zutils.zedo.com
