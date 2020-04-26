@@ -311,6 +311,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 0ujjsi7udjanssxitqcpeytjj1wje1507578090.nuid.imrworldwide.com
 0.0.0.0 0uk9e.cn
 0.0.0.0 0ulvrjrub5ee4sboh0u1s31tldvow1515207331.nuid.imrworldwide.com
+0.0.0.0 0w1rqq69fi0e.com
 0.0.0.0 0wuaa9hw4rm66fq366jleo3f7lymo1516216722.nuid.imrworldwide.com
 0.0.0.0 0x.x.gg
 0.0.0.0 0x013d.website
@@ -2100,10 +2101,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 2fc.smartclick.net
 0.0.0.0 2fclk.tradedoubler.com
 0.0.0.0 2fclkuk.tradedoubler.com
+0.0.0.0 2ffilter.adright.co	
 0.0.0.0 2ffilter.adright.co
 0.0.0.0 2fflatfee.ero-advertising.com
 0.0.0.0 2fib.adnxs.com
 0.0.0.0 2fidsync.rlcdn.com
+0.0.0.0 2fmy.adright.co	
 0.0.0.0 2fmy.adright.co
 0.0.0.0 2fnrc.cn
 0.0.0.0 2fpixel.everesttech.net
@@ -2989,6 +2992,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 3dbluerayplayer.com
 0.0.0.0 3dcgfx.net
 0.0.0.0 3delllwrite.com
+0.0.0.0 3dfilter.adright.co	
 0.0.0.0 3dfilter.adright.co
 0.0.0.0 3dimperium.com
 0.0.0.0 3djd3.xyz
@@ -3909,6 +3913,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 57499dfedd4.com
 0.0.0.0 5755ac539651fe8f366.com
 0.0.0.0 575763210.keywordblocks.com
+0.0.0.0 575f4e87970f177969fe.com
 0.0.0.0 576216260.keywordblocks.com
 0.0.0.0 576285472.keywordblocks.com
 0.0.0.0 576303602.keywordblocks.com
@@ -7889,6 +7894,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 acc-hd.de
 0.0.0.0 acc-ict.actonsoftware.com
 0.0.0.0 acc.magixite.com
+0.0.0.0 accedenonre.club
 0.0.0.0 accel-api.online-metrix.net
 0.0.0.0 accel-fp.online-metrix.net
 0.0.0.0 accelacomm.com
@@ -12284,6 +12290,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.nationalreview.com
 0.0.0.0 ads.nationchannel.com
 0.0.0.0 ads.nativeinstruments.de
+0.0.0.0 ads.nayemador.com
 0.0.0.0 ads.nc.cname.inmobi.com
 0.0.0.0 ads.ncm.com
 0.0.0.0 ads.ndtv1.com
@@ -22514,6 +22521,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bader-deinhoff.de
 0.0.0.0 badertechnik-shop.com
 0.0.0.0 badeseebirkwitz.de
+0.0.0.0 badgearsregra.site
 0.0.0.0 badgesforbullies.org
 0.0.0.0 badgirlz.org
 0.0.0.0 badgmvhtvryg.bid
@@ -25452,6 +25460,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bmi-shop.top
 0.0.0.0 bmichkohfqtnvq.com
 0.0.0.0 bmjpxyrpiyq.com
+0.0.0.0 bmkz57b79pxk.com
 0.0.0.0 bmlmedia.com
 0.0.0.0 bmmetrix.com
 0.0.0.0 bmmqsdyud.com
@@ -33720,6 +33729,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 core.perezvoni.com
 0.0.0.0 core.polyad.net
 0.0.0.0 core.royalads.net
+0.0.0.0 core.unit-sense.net
 0.0.0.0 core.videoegg.com
 0.0.0.0 core.vnecdn.com
 0.0.0.0 core.zontera.com
@@ -37310,6 +37320,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 deflorenflor.eu
 0.0.0.0 defootswear.com
 0.0.0.0 defpush.com
+0.0.0.0 defutohy.pro
 0.0.0.0 defymedia-d.openx.net
 0.0.0.0 degea.alphonso.tv
 0.0.0.0 degitlwfezpe.com
@@ -41951,6 +41962,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 elevoy.ru
 0.0.0.0 elew72isst.rr.nu
 0.0.0.0 elexgfzjpmo.com
+0.0.0.0 elfirkelk.com
 0.0.0.0 elfnwncr.com
 0.0.0.0 elfogadom.eu
 0.0.0.0 elgiganten.dk.d1.sc.omtrdc.net
@@ -47722,6 +47734,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gadsbee.com
 0.0.0.0 gadsecs.com
 0.0.0.0 gadsecz.com
+0.0.0.0 gadsims.com
 0.0.0.0 gadsimz.com
 0.0.0.0 gadsips.com
 0.0.0.0 gadsipz.com
@@ -51597,6 +51610,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hashunited.com
 0.0.0.0 hashvault.pro
 0.0.0.0 hashzone.io
+0.0.0.0 hasiad.cn
 0.0.0.0 hasibstore.com
 0.0.0.0 hasmobi.net
 0.0.0.0 haso.pubmatic.com
@@ -53334,6 +53348,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 how-tosolve.com
 0.0.0.0 how5.cn
 0.0.0.0 howardchui.us.intellitxt.com
+0.0.0.0 howbyehid.site
 0.0.0.0 howdoesin.net
 0.0.0.0 howdoijointhenepforcegroupbecauseiforgotmynicknameandpassword.com
 0.0.0.0 howillbuy.com
@@ -53716,6 +53731,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hueads.com
 0.0.0.0 hueadsortb.com
 0.0.0.0 hueadsxml.com
+0.0.0.0 hueekqx.cn
 0.0.0.0 huegelrad.de
 0.0.0.0 huffingtonpost.crwdcntrl.net
 0.0.0.0 huffson-delivery.com
@@ -63244,6 +63260,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 linkdebrideur.xyz
 0.0.0.0 linkeasy.org
 0.0.0.0 linkedads.de
+0.0.0.0 linkeinvitable.site
 0.0.0.0 linkelevator.com
 0.0.0.0 linker.adsee.jp
 0.0.0.0 linker.hr
@@ -70124,6 +70141,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 monu.delivery
 0.0.0.0 monwea.com
 0.0.0.0 monxserver.com
+0.0.0.0 mooaleoat.com
 0.0.0.0 moodoo.com.cn
 0.0.0.0 moodoocrv.com.cn
 0.0.0.0 moog-edelstahl.de
@@ -71171,6 +71189,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 my-uq.com
 0.0.0.0 my.admitad.com
 0.0.0.0 my.adocean.pl
+0.0.0.0 my.adright.co			
 0.0.0.0 my.adright.co
 0.0.0.0 my.adserver.yahoo.com
 0.0.0.0 my.aip.insightexpressai.com
@@ -72829,6 +72848,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 newstimeslivecom.112.2o7.net
 0.0.0.0 newstizer.ru
 0.0.0.0 newstogram.com
+0.0.0.0 newstomat.com
 0.0.0.0 newstoob.us.intellitxt.com
 0.0.0.0 newsun-shop.com
 0.0.0.0 newsunads.com
@@ -88084,6 +88104,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 riastats.com
 0.0.0.0 ribbehof.de
 0.0.0.0 ribbon.india.com
+0.0.0.0 ribbumuse.com
 0.0.0.0 ribcagebags.com
 0.0.0.0 ribstygzuiz.com
 0.0.0.0 ribtecshop.com
@@ -95111,6 +95132,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sosnews.ru
 0.0.0.0 soso.mymederback.com
 0.0.0.0 soso.ws
+0.0.0.0 sosohmmen.club
 0.0.0.0 sostats.mozilla.com
 0.0.0.0 sosweetpet.com
 0.0.0.0 sotuktraffic.com
@@ -98410,6 +98432,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sundaysky-partners.tremorhub.com
 0.0.0.0 sundaysky-sync-us.teads.tv
 0.0.0.0 sundaysky.com
+0.0.0.0 sundersetrgh.site
 0.0.0.0 sundhopen.site
 0.0.0.0 sundreams-diving.de
 0.0.0.0 sunfeed.me
@@ -101119,6 +101142,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 theater-chronos.at
 0.0.0.0 theatermania.d1.sc.omtrdc.net
 0.0.0.0 theatredusoleil.com
+0.0.0.0 theatredveres.site
 0.0.0.0 theaustrian.org
 0.0.0.0 thebannerexchange.com
 0.0.0.0 thebeatlesbeat.com
@@ -101694,6 +101718,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tillumall.com
 0.0.0.0 tilosman.com
 0.0.0.0 tiltott.net
+0.0.0.0 tim.nextinpact.com
 0.0.0.0 timbashop.com
 0.0.0.0 timberlandan.online
 0.0.0.0 timberlandberlin.de
@@ -110279,6 +110304,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vpn.vibrantmedia.com
 0.0.0.0 vpn1.us
 0.0.0.0 vpn2.branch.io
+0.0.0.0 vpn4test.net
 0.0.0.0 vpn5protectplus.com
 0.0.0.0 vpnaffiliates.com
 0.0.0.0 vpndcpxavg.com
@@ -111204,6 +111230,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 watch9.com
 0.0.0.0 watchcopy.cc
 0.0.0.0 watchdog-beta.goodbyeads
+0.0.0.0 watchdog-spark.energized.pro
+0.0.0.0 watchdog.energized.pro
 0.0.0.0 watchdog.goodbyeads
 0.0.0.0 watchdog.ohio.gov
 0.0.0.0 watchepisodes4.com.hypestat.com
@@ -114754,6 +114782,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xml-default.xapads.com
 0.0.0.0 xml-eu.adright.co
 0.0.0.0 xml-rtb.xapads.com
+0.0.0.0 xml-us.adright.co	
 0.0.0.0 xml-us.adright.co
 0.0.0.0 xml.active8ads.com
 0.0.0.0 xml.ad-maven.com
