@@ -2723,6 +2723,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 364fb61b0.akstat.io
 0.0.0.0 365-stream.com
 0.0.0.0 3650.tm.zedo.com
+0.0.0.0 365339.top
 0.0.0.0 365bibi.com
 0.0.0.0 365che.cc
 0.0.0.0 365games.es
@@ -7720,6 +7721,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 abie10.top
 0.0.0.0 abie11.top
 0.0.0.0 abie12.top
+0.0.0.0 abie13.top
 0.0.0.0 abie25.top
 0.0.0.0 abie9.top
 0.0.0.0 abilil.com
@@ -16040,6 +16042,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ah-v1.presage.io
 0.0.0.0 ah.goodsblock.mgid.com
 0.0.0.0 ah.yimg.jp
+0.0.0.0 ahaclub.ru
 0.0.0.0 ahalogy.com
 0.0.0.0 ahanve.cn
 0.0.0.0 ahasex.de
@@ -17479,6 +17482,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 analysistools.net
 0.0.0.0 analysiswebtool.com
 0.0.0.0 analysys.cn
+0.0.0.0 analyti.io
 0.0.0.0 analytiall.com
 0.0.0.0 analytic-google.com
 0.0.0.0 analytic.337.com
@@ -20583,6 +20587,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 arge-bottrop.de
 0.0.0.0 arge-reptilien.at
 0.0.0.0 argggultrji.com
+0.0.0.0 argos.citruserve.com
 0.0.0.0 argos.co.uk.d1.sc.omtrdc.net
 0.0.0.0 argumenti.mirtesen.ru
 0.0.0.0 argyresthia.com
@@ -24327,6 +24332,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 beyourbest.pl
 0.0.0.0 beyourshop.ru
 0.0.0.0 bezcmsrzx.com
+0.0.0.0 bezelbuzz13.live
 0.0.0.0 bezgluten-nl.com
 0.0.0.0 beziehung-retten24.com
 0.0.0.0 bezmamy.com.pl
@@ -25209,6 +25215,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 block.s4block.com
 0.0.0.0 block.scroll.com
 0.0.0.0 block.sw1block.com
+0.0.0.0 blockadsnot.com
 0.0.0.0 blockbreaker.io
 0.0.0.0 blockchainjoblist.com
 0.0.0.0 blockhuette-pierre.de
@@ -26891,6 +26898,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bwaguyek.com
 0.0.0.0 bwbw2kje848hsmla.ru
 0.0.0.0 bwcpnpkkncszi.com
+0.0.0.0 bwhjcwnbbwsd.com
 0.0.0.0 bwhkzhvq.com
 0.0.0.0 bwinpartypartners.com
 0.0.0.0 bwjteztqdlg.com
@@ -30630,6 +30638,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 chrumedia.com
 0.0.0.0 chs.smartclick.net
 0.0.0.0 chsplantsales.co.uk
+0.0.0.0 chsrkred.com
 0.0.0.0 chtatic.appspot.com
 0.0.0.0 chtoumenja.biz
 0.0.0.0 chtwrth2.112.2o7.net
@@ -32344,6 +32353,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 coazuthu.net
 0.0.0.0 cobalten.com
 0.0.0.0 cobaltgroup.com
+0.0.0.0 cobdieink.com
 0.0.0.0 coberturasgenerales.pe
 0.0.0.0 cobra-siedlce.pl
 0.0.0.0 cobrand.ria.com
@@ -38287,6 +38297,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dimestore.com
 0.0.0.0 dimml.io
 0.0.0.0 dimok250483.mirtesen.ru
+0.0.0.0 dimpawlam.com
 0.0.0.0 dimprive.com
 0.0.0.0 dimsnetwork.com
 0.0.0.0 dimsofiz.net
@@ -38492,6 +38503,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 displaymarketplace.com
 0.0.0.0 displaypagerank.com
 0.0.0.0 displaysense.widget.criteo.com
+0.0.0.0 displayvertising.com
 0.0.0.0 dispop.com
 0.0.0.0 dispositivodig.com
 0.0.0.0 disqus-d.openx.net
@@ -42543,6 +42555,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 eolcdn.com
 0.0.0.0 eolihot.com
 0.0.0.0 eon.tags.sitetagger.co.uk
+0.0.0.0 eondunpea.com
 0.0.0.0 eonline.pl
 0.0.0.0 eonlinew.com
 0.0.0.0 eontarionow.us.intellitxt.com
@@ -58825,6 +58838,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jj038.cmigxy.tw
 0.0.0.0 jjbuying.com
 0.0.0.0 jjfankvlnhhm.com
+0.0.0.0 jjhaolin.com
 0.0.0.0 jjhnnzef.com
 0.0.0.0 jjipgxjf.com
 0.0.0.0 jjireaqdzdll.com
@@ -60898,6 +60912,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kkmodern.com
 0.0.0.0 kknhirncxal.com
 0.0.0.0 kkpur.xyz
+0.0.0.0 kkqusrnaf.com
 0.0.0.0 kkscoephxrum.com
 0.0.0.0 kksoyysmpp.com
 0.0.0.0 kkvsvznavqkl.bid
@@ -76886,6 +76901,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ornament-i.com
 0.0.0.0 orncks.pro
 0.0.0.0 orpheus-lyra.de
+0.0.0.0 orquideassp.com
 0.0.0.0 orschoter-segeln.de
 0.0.0.0 orsimqadmhpb.com
 0.0.0.0 orszajhynaqr.com
@@ -78637,6 +78653,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 parasino7.com
 0.0.0.0 paraskov.com
 0.0.0.0 parasolmagazyn.pl
+0.0.0.0 paraterinchest.site
 0.0.0.0 paratingexcret.info
 0.0.0.0 paratingsulik.site
 0.0.0.0 parcelcreature.com
@@ -84592,6 +84609,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 putanapartners.com
 0.0.0.0 putanki.org
 0.0.0.0 putel.laf-buy.com
+0.0.0.0 putfeepea.site
 0.0.0.0 putraautomotive.com
 0.0.0.0 putrr10.com
 0.0.0.0 putrr12.com
@@ -84857,6 +84875,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 q.trafficfabrik.com
 0.0.0.0 q.zeroredirect.com
 0.0.0.0 q0uz4c.cn
+0.0.0.0 q0yxfvuo32.ru
 0.0.0.0 q0zsp5e3dv.com
 0.0.0.0 q1-media-d.openx.net
 0.0.0.0 q1-tdsge.com
@@ -87241,6 +87260,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 reflethenfortoft.info
 0.0.0.0 reflexonature.free.fr
 0.0.0.0 refme.xyz
+0.0.0.0 reforeightolikm.site
 0.0.0.0 reforge.in
 0.0.0.0 refpa.top
 0.0.0.0 refpamjeql.top
@@ -90428,6 +90448,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 safe.ucweb.com
 0.0.0.0 safe.urgent--alert.com
 0.0.0.0 safe524.xyz
+0.0.0.0 safe555.xyz
 0.0.0.0 safebrowse.com
 0.0.0.0 safeco.d1.sc.omtrdc.net
 0.0.0.0 safedownloadcenter.com
@@ -101910,6 +101931,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 titjolacruso.info
 0.0.0.0 titkoshirek.wordpress.com
 0.0.0.0 title.mximg.com
+0.0.0.0 titleefen.club
 0.0.0.0 titoaktop.com
 0.0.0.0 titokterminal.com
 0.0.0.0 titon.info
@@ -102174,6 +102196,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tn05.ru
 0.0.0.0 tn2fvd9a.icu
 0.0.0.0 tnacywet.com
+0.0.0.0 tnarzc.com
 0.0.0.0 tnative.ru
 0.0.0.0 tnbyhwawsh.com
 0.0.0.0 tnccir.co1.qualtrics.com
@@ -106708,6 +106731,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ugzpvflxa.com
 0.0.0.0 uh.nakanohito.jp
 0.0.0.0 uh64b.cn
+0.0.0.0 uh9qulew9rjj.com
 0.0.0.0 uharded.com
 0.0.0.0 uhccvnxi.com
 0.0.0.0 uherdmjkbqic.com
@@ -107293,6 +107317,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 unwyiror.com
 0.0.0.0 unxuwvntk.com
 0.0.0.0 unyhjoehc.com
+0.0.0.0 unzpc.com
 0.0.0.0 uo.news-subscribe.com
 0.0.0.0 uo12.com
 0.0.0.0 uoaofgqu.angelcities.com
@@ -109769,6 +109794,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 viralcpm.com
 0.0.0.0 viraldoo.com
 0.0.0.0 viralfix.net
+0.0.0.0 viralltopics.com
 0.0.0.0 viralmails.de
 0.0.0.0 viralmediatech.com
 0.0.0.0 viralninjas.com
@@ -111263,6 +111289,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wasshimundme.ru
 0.0.0.0 wasshoneaningar.pro
 0.0.0.0 wasspargotitta.club
+0.0.0.0 wastesshimssat.world
 0.0.0.0 wat.ad.daum.net
 0.0.0.0 watch-at-home.de
 0.0.0.0 watch-now.club
@@ -118036,6 +118063,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zzbyc.xyz
 0.0.0.0 zzcdn.adx1.com
 0.0.0.0 zzcgw.cn
+0.0.0.0 zzdb5p4upiug.com
 0.0.0.0 zzfanwo.cn
 0.0.0.0 zzfycxsu.com
 0.0.0.0 zzhc.vnet.cn
