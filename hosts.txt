@@ -186,6 +186,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 065-hus-080.mktoresp.com
 0.0.0.0 065fa80c32780.com
 0.0.0.0 0664ic555p.com
+0.0.0.0 068943613eb.com
 0.0.0.0 06ac496437f1.com
 0.0.0.0 06f09b1008ae993a5a.com
 0.0.0.0 07.video-ak.cdn.spotify.com
@@ -2397,6 +2398,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 311c535c.webengage.co
 0.0.0.0 312.1d27c9b8fb.com
 0.0.0.0 31335.hittail.com
+0.0.0.0 3133a.xyz
 0.0.0.0 31365y.com
 0.0.0.0 314.hittail.com
 0.0.0.0 314428.measurementapi.com
@@ -3521,6 +3523,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 4953227.fls.doubleclick.net
 0.0.0.0 496347328-allenco.sample.crazyegg.com
 0.0.0.0 497365372.keywordblocks.com
+0.0.0.0 497761.top
 0.0.0.0 4984.engine.mobileapptracking.com
 0.0.0.0 49863d99e314a.com
 0.0.0.0 499553201.keywordblocks.com
@@ -4000,6 +4003,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 5a4bddecbc4.com
 0.0.0.0 5a8p12.cn
 0.0.0.0 5a9yl.bemobtrk.com
+0.0.0.0 5aa8f31e2f5d.com
 0.0.0.0 5ad954477413bdb77f.com
 0.0.0.0 5advertise.com
 0.0.0.0 5aef0.v.fwmrm.net
@@ -4424,6 +4428,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 6961.bapi.adsafeprotected.com
 0.0.0.0 699-uig-290.mktoresp.com
 0.0.0.0 699.stats.misstrends.com
+0.0.0.0 69b7c505b2.com
 0.0.0.0 69boysex.com
 0.0.0.0 69content.com
 0.0.0.0 69duk.com
@@ -36182,6 +36187,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d3ud741uvs727m.cloudfront.net
 0.0.0.0 d3ujids68p6xmq.cloudfront.net
 0.0.0.0 d3uqm14ppr8tkw.cloudfront.net
+0.0.0.0 d3uvwl4wtkgzo1.cloudfront.net
 0.0.0.0 d3vpf6i51y286p.cloudfront.net
 0.0.0.0 d4.adsplay.net
 0.0.0.0 d4.click-here.pro
@@ -45293,6 +45299,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ff.video-ak.cdn.spotify.com
 0.0.0.0 ff.win.taobao.com
 0.0.0.0 ff.xue163.net
+0.0.0.0 ff01s.cn
 0.0.0.0 ff04d18e06.com
 0.0.0.0 ff0883ac-f1d6-4734-92a6-56951ab949a0.nuid.imrworldwide.com
 0.0.0.0 ff112244.com
@@ -53115,6 +53122,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hnfpgm.com
 0.0.0.0 hnfwg.voluumtrk.com
 0.0.0.0 hnfxty.cn
+0.0.0.0 hngezj.com
 0.0.0.0 hngn.com.us.intellitxt.com
 0.0.0.0 hnh-hotel.com
 0.0.0.0 hnhgw.cn
@@ -53323,6 +53331,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hoochoor.com
 0.0.0.0 hoodia.kogaryu.com
 0.0.0.0 hoohavoa.com
+0.0.0.0 hooify.com
 0.0.0.0 hook.integromat.com
 0.0.0.0 hook.yieldbuild.com
 0.0.0.0 hookedmediagroup.com
@@ -58025,7 +58034,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 iteshop.top
 0.0.0.0 itesm.co1.qualtrics.com
 0.0.0.0 itesmdaf.co1.qualtrics.com
-0.0.0.0 iteye.com
 0.0.0.0 itfarm.com
 0.0.0.0 itg.recosenselabs.com
 0.0.0.0 itgear.jp
@@ -64328,6 +64336,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 log.taggstar.com
 0.0.0.0 log.tagtic.cn
 0.0.0.0 log.tapatalk.com
+0.0.0.0 log.tapchitaichinh.vn
 0.0.0.0 log.tbs.qq.com
 0.0.0.0 log.test.v-mate.mobi
 0.0.0.0 log.thanhnien.vn
@@ -79819,6 +79828,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 perfumesoutlet.com.br
 0.0.0.0 perfumespremium.es
 0.0.0.0 perfumio.pl
+0.0.0.0 perhangeflets.site
 0.0.0.0 perimeterx.net
 0.0.0.0 perinstallcash.com
 0.0.0.0 perion.com
@@ -86262,6 +86272,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qwerty24.net
 0.0.0.0 qwertypay.com
 0.0.0.0 qwertytracks.com
+0.0.0.0 qwesgwg.cn
 0.0.0.0 qwestfull.112.2o7.net
 0.0.0.0 qwex.ru
 0.0.0.0 qwfh39851jtfvkurf21hf.com
@@ -93875,6 +93886,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sib.sib2.adriver.ru
 0.0.0.0 sib2.adriver.ru
 0.0.0.0 sibatnsryjpcq.com
+0.0.0.0 sibautomation.com
 0.0.0.0 sibilance.co1.qualtrics.com
 0.0.0.0 siblesectiveal.club
 0.0.0.0 sibozhihui-lc.com
@@ -108383,6 +108395,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 user-sync-orange.adhese.com
 0.0.0.0 user-sync.adhese.com
 0.0.0.0 user.duokanbox.com
+0.0.0.0 user.headlines.pw
 0.0.0.0 user.in.net
 0.0.0.0 user.lucidmedia.com
 0.0.0.0 userapps.truecaller.com
@@ -112840,6 +112853,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 widget.eu.criteo.com
 0.0.0.0 widget.fitanalytics.com
 0.0.0.0 widget.fr.eu.criteo.com
+0.0.0.0 widget.headlines.pw
 0.0.0.0 widget.iid-network.jp
 0.0.0.0 widget.iid-networkf.jp
 0.0.0.0 widget.jp.as.criteo.com
@@ -115042,6 +115056,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xenical.1.p2l.info
 0.0.0.0 xenical.3.p2l.info
 0.0.0.0 xenical.4.p2l.info
+0.0.0.0 xenjswd.cn
 0.0.0.0 xenon-brenner.com
 0.0.0.0 xenon.iad-03.braze.com
 0.0.0.0 xenotechllc.actonsoftware.com
@@ -115279,6 +115294,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xl-trk.com
 0.0.0.0 xlbbhdarc.com
 0.0.0.0 xleebhxalb.com
+0.0.0.0 xlgqy.com
 0.0.0.0 xlhhbtve.com
 0.0.0.0 xlhm88.cn
 0.0.0.0 xliansheng.com
@@ -116186,6 +116202,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yektanet.com
 0.0.0.0 yellads.com
 0.0.0.0 yellcom.122.2o7.net
+0.0.0.0 yellorsanarolik.site
 0.0.0.0 yellow-isp.de
 0.0.0.0 yellow.apparelsummer.com
 0.0.0.0 yellow.soju.openx.net
