@@ -5265,6 +5265,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 91byy.cn
 0.0.0.0 91cy.top
 0.0.0.0 91e2.com
+0.0.0.0 91jsnzw.xyz
 0.0.0.0 91luopan.com
 0.0.0.0 91pool.com
 0.0.0.0 91say.cc
@@ -34857,6 +34858,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 croissed.info
 0.0.0.0 crokacpwjtf.com
 0.0.0.0 cronbaytech.g2afse.com
+0.0.0.0 croomskosmos.site
 0.0.0.0 croozer-transport.de
 0.0.0.0 crops.dunight.eu
 0.0.0.0 cross-promo.mwx.ext.mobilityware.com
@@ -36212,6 +36214,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d3iz6lralvg77g.cloudfront.net
 0.0.0.0 d3j1weegxvu8ns.cloudfront.net
 0.0.0.0 d3jcjsor8fnmka.cloudfront.net
+0.0.0.0 d3kblkhdtjv0tf.cloudfront.net
 0.0.0.0 d3kkw-6ch3c.ads.tremorhub.com
 0.0.0.0 d3kyk5bao1crtw.cloudfront.net
 0.0.0.0 d3l3lkinz3f56t.cloudfront.net
@@ -36564,6 +36567,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dap.digitalgov.gov
 0.0.0.0 dapostar-de.com
 0.0.0.0 dapper.net
+0.0.0.0 dapperdiscussion.com
 0.0.0.0 dapxl.com
 0.0.0.0 daq0d0aotgq0f.cloudfront.net
 0.0.0.0 daqijjpjow.com
@@ -42712,6 +42716,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 enthusiasticdad.com
 0.0.0.0 enticelabs.com
 0.0.0.0 entimee.com
+0.0.0.0 entineffieldsta.site
 0.0.0.0 entionale.info
 0.0.0.0 entitlements.jwplayer.com
 0.0.0.0 entity-search.service.newrelic.com
@@ -61634,6 +61639,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kopsil.com
 0.0.0.0 kopticom.122.2o7.net
 0.0.0.0 koralli.if.ua
+0.0.0.0 korastar.net
 0.0.0.0 korea.inmobi.com
 0.0.0.0 korenizsemi.net
 0.0.0.0 koreniztreh.net
@@ -78982,6 +78988,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 painolympics.info
 0.0.0.0 painolympics.org
 0.0.0.0 paintball-gun.tripod.com
+0.0.0.0 paintifiercute.club
 0.0.0.0 paintnet.es
 0.0.0.0 paintnet.fr
 0.0.0.0 paiutesmarket.com
@@ -83060,6 +83067,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 potedly.co
 0.0.0.0 potential-d.openx.net
 0.0.0.0 potential-usd-d.openx.net
+0.0.0.0 potentingaknt.club
 0.0.0.0 potentionsdarket.site
 0.0.0.0 potenz-kaufhaus.de
 0.0.0.0 potenza.cz
@@ -86254,6 +86262,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qubo94.com
 0.0.0.0 quboo.de
 0.0.0.0 qucaigg.com
+0.0.0.0 qucco.cn
 0.0.0.0 quckoemdypxoiq.bid
 0.0.0.0 qudpdpkxffzt.com
 0.0.0.0 quebec-bin.com
