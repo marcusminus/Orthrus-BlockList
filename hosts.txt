@@ -4151,6 +4151,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 5yv2e.cn
 0.0.0.0 5yw4n.cn
 0.0.0.0 5zi2.top
+0.0.0.0 5zi3.top
 0.0.0.0 6.adsco.re
 0.0.0.0 6.mamaswishes.com
 0.0.0.0 60.video-ak.cdn.spotify.com
@@ -5259,6 +5260,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 8uch.jave.xyz
 0.0.0.0 8ue4.xyz
 0.0.0.0 8ue9q7i.com
+0.0.0.0 8uhgc44hfdd4-87hvd4-jhggcg.easylist-to.xyz
 0.0.0.0 8v61j.cn
 0.0.0.0 8v7wg.com
 0.0.0.0 8vgu4pnz355kgykzmeaml5mioscgr1509907861.nuid.imrworldwide.com
@@ -17285,6 +17287,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 amensh.cn
 0.0.0.0 amer.hops.glbdns.microsoft.com
 0.0.0.0 amer.rel.msn.com
+0.0.0.0 amerallyluke.club
 0.0.0.0 american-eagle.demdex.net
 0.0.0.0 american-prize-center.com
 0.0.0.0 american.co1.qualtrics.com
@@ -40869,6 +40872,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dzmxze7hxwn6b.cloudfront.net
 0.0.0.0 dznmk.ga
 0.0.0.0 dznmk.ml
+0.0.0.0 dzooo.cn
 0.0.0.0 dzpu6za66svjl.cloudfront.net
 0.0.0.0 dzqoubtxsaskdl.com
 0.0.0.0 dzrenju2.cn
@@ -46459,6 +46463,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fk-tk.mobpowertech.com
 0.0.0.0 fk-web.cxense.com
 0.0.0.0 fk.adx1.com
+0.0.0.0 fkart.xyz
 0.0.0.0 fkbwtoopwg.com
 0.0.0.0 fkcfaagktu.com
 0.0.0.0 fkd.derpcity.ru
@@ -52558,6 +52563,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 havetohave.com
 0.0.0.0 haveuheard.us.intellitxt.com
 0.0.0.0 havijrat.zapto.org
+0.0.0.0 haviouseulom.club
 0.0.0.0 haviouslyshoutesce.info
 0.0.0.0 hawbfa.com
 0.0.0.0 hawebs.adform.com
@@ -53417,6 +53423,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hirvilag.co
 0.0.0.0 hirzona24.com
 0.0.0.0 his.112.2o7.net
+0.0.0.0 his6-3wjb-89jw-mshh.easylist-to.xyz
 0.0.0.0 hisbethaplactert.info
 0.0.0.0 hisfryyes.com
 0.0.0.0 hishimartaltit.pro
@@ -60827,6 +60834,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 justfly.partner.intentmedia.net
 0.0.0.0 justgetitfaster.com
 0.0.0.0 justicejudo.com
+0.0.0.0 justickedukil.club
 0.0.0.0 justin-mps.de
 0.0.0.0 justinapart.pl
 0.0.0.0 justincao84.cn
@@ -64286,6 +64294,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 libjs.inquirerjs.com
 0.0.0.0 libjss.inquirerjs.com
 0.0.0.0 liborihof.de
+0.0.0.0 librarierserty.site
 0.0.0.0 library.cowley.edu
 0.0.0.0 library.marketo.com
 0.0.0.0 librarymanagement.cn
@@ -70879,6 +70888,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mmwdwg.cn
 0.0.0.0 mmwebhandler.888.com
 0.0.0.0 mmxbgakffqemu.com
+0.0.0.0 mmys.net*.php
 0.0.0.0 mn-shop.com
 0.0.0.0 mn.5.p2l.info
 0.0.0.0 mn.mn.co.cu
@@ -73324,6 +73334,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nailbytes1.com
 0.0.0.0 naildumarche.com
 0.0.0.0 nailowhe.net
+0.0.0.0 nainaimi.top
 0.0.0.0 naiwvizpzflx.com
 0.0.0.0 naj.sk
 0.0.0.0 najlepszebiurorachunkowe.pl
@@ -86719,6 +86730,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pythagore.demdex.net
 0.0.0.0 pyubjvvdsrja.com
 0.0.0.0 pyxis.iad.appboy.com
+0.0.0.0 pyxjwks.com
 0.0.0.0 pyzkbxspoon.com
 0.0.0.0 pyzkk.com
 0.0.0.0 pz21.pl
@@ -90171,6 +90183,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rigelink.com
 0.0.0.0 rigfoxcup.site
 0.0.0.0 righthenwilbetrin.info
+0.0.0.0 rightiescolled.club
 0.0.0.0 rightmedia.com
 0.0.0.0 rightmedia.net
 0.0.0.0 rightmoveanalytics.co.uk
@@ -95605,6 +95618,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sijlnueeertd.com
 0.0.0.0 sijmp.com
 0.0.0.0 sijsquplpjg.com
+0.0.0.0 sikelypleaste.site
 0.0.0.0 silber-fuechse-bremen.de
 0.0.0.0 silcan.pl
 0.0.0.0 silentmedia.ch
@@ -98806,6 +98820,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 starffa.com
 0.0.0.0 stargamesaffiliate.com
 0.0.0.0 stargoug.com
+0.0.0.0 starikanadstarikan.ru
 0.0.0.0 starioeg.at
 0.0.0.0 starlayer.com
 0.0.0.0 starlix.ql.st
@@ -108257,6 +108272,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tuyendung.admicro.vn
 0.0.0.0 tuyendung.mediaz.vn
 0.0.0.0 tuygdfsydexdeb.com
+0.0.0.0 tuyizhe.vip
 0.0.0.0 tuzmouxn.com
 0.0.0.0 tuzonadigital.com
 0.0.0.0 tuzvjlqrpzpugj.com
@@ -109366,6 +109382,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 umbemonop.info
 0.0.0.0 umbs.ero-advertising.com
 0.0.0.0 umc360.qualtrics.com
+0.0.0.0 umcbbt.com
 0.0.0.0 umcdn.uc.cn
 0.0.0.0 umcdn.ucweb.com
 0.0.0.0 umcdnpc.ucweb.com
@@ -112109,6 +112126,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vimdiebid.club
 0.0.0.0 vimeoo.net
 0.0.0.0 vimgs.ru
+0.0.0.0 vimmenced.club
 0.0.0.0 vimovil.com
 0.0.0.0 vimvio.ru
 0.0.0.0 vinaads.vn
@@ -115055,6 +115073,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 windefens.com
 0.0.0.0 windgrojec.pl
 0.0.0.0 windoor-kielce.pl
+0.0.0.0 windoorsew.club
 0.0.0.0 window-close.cf
 0.0.0.0 window-close.ga
 0.0.0.0 window.nixnet.cz
@@ -115076,6 +115095,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 windowssupportnow.com
 0.0.0.0 windowssupportnumber.com
 0.0.0.0 windowsvistahelpnow.com
+0.0.0.0 windowsxi.com
 0.0.0.0 windpl.org
 0.0.0.0 windspotter.net
 0.0.0.0 windykacjajagoda.org
@@ -120079,6 +120099,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zlecone.xn.pl
 0.0.0.0 zlegojgwg.com
 0.0.0.0 zlfgedpuxrbpgm.com
+0.0.0.0 zlfhe8.cn
 0.0.0.0 zlfzeuvk.com
 0.0.0.0 zlgokeby.com
 0.0.0.0 zlhscyahjbaq.com
