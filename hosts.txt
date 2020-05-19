@@ -163,6 +163,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 050005.voodoo.com
 0.0.0.0 0511qsfhknvz.xyz
 0.0.0.0 0516bm.com
+0.0.0.0 0518dfgwert.xyz
 0.0.0.0 053-ztn-590.mktoresp.com
 0.0.0.0 0530hz.cn
 0.0.0.0 0531kt.com
@@ -4346,7 +4347,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 662bd114b7c9.onceedge.ru
 0.0.0.0 6631f33cf2a1032b.com
 0.0.0.0 663964321.keywordblocks.com
-0.0.0.0 664d-87fs-6yda-oifx.easylist-to.xyz
 0.0.0.0 664gp.com
 0.0.0.0 6656.deeplink.mobileapptracking.com
 0.0.0.0 666.eurtb.adtelligent.com
@@ -5263,7 +5263,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 8uch.jave.xyz
 0.0.0.0 8ue4.xyz
 0.0.0.0 8ue9q7i.com
-0.0.0.0 8uhgc44hfdd4-87hvd4-jhggcg.easylist-to.xyz
 0.0.0.0 8v61j.cn
 0.0.0.0 8v7wg.com
 0.0.0.0 8vgu4pnz355kgykzmeaml5mioscgr1509907861.nuid.imrworldwide.com
@@ -20774,6 +20773,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aripaadee.hit.gemius.pl
 0.0.0.0 aripaee.adocean.pl
 0.0.0.0 ariseboundary.com
+0.0.0.0 arisonoping.club
 0.0.0.0 aristianewr.club
 0.0.0.0 aritzal.com
 0.0.0.0 ariyayin.com
@@ -33460,6 +33460,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 concernedcondition.com
 0.0.0.0 concernrain.com
 0.0.0.0 concert.io
+0.0.0.0 concertainwqa.club
 0.0.0.0 conciergecard.de
 0.0.0.0 concordiacollege.co1.qualtrics.com
 0.0.0.0 concourse-d.openx.net
@@ -34620,6 +34621,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cp1.adsplay.xyz
 0.0.0.0 cp2.eastmoney.com
 0.0.0.0 cp5me8z9qu8eljvyulcxxe1lcntrx1516401361.nuid.imrworldwide.com
+0.0.0.0 cp7gyw5w94c7.com
 0.0.0.0 cpa-paas.adcolony.com
 0.0.0.0 cpa-tracking.mclick.mobi
 0.0.0.0 cpa.adbooth.com
@@ -41473,6 +41475,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 easyhits4u.com
 0.0.0.0 easyinline.com
 0.0.0.0 easyjetde.widget.criteo.com
+0.0.0.0 easylist-to.xyz
 0.0.0.0 easymarketcrs.it
 0.0.0.0 easymcenter.com
 0.0.0.0 easypdfcombine.com
@@ -44656,6 +44659,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 eyes.by
 0.0.0.0 eyescream-com-tw.b.appier.net
 0.0.0.0 eyesee-studio.com
+0.0.0.0 eyevfswxtcij.com
 0.0.0.0 eyeview-partners.tremorhub.com
 0.0.0.0 eyeviewads.com
 0.0.0.0 eyewond.hs.llnwd.net
@@ -53115,6 +53119,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 herzensgesaenge.de
 0.0.0.0 herzforscher.de
 0.0.0.0 herzkunst.ch
+0.0.0.0 hesepd.cn
 0.0.0.0 hesftig.site
 0.0.0.0 hesrepsa.com
 0.0.0.0 hesterinoc.info
@@ -53441,7 +53446,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 hirvilag.co
 0.0.0.0 hirzona24.com
 0.0.0.0 his.112.2o7.net
-0.0.0.0 his6-3wjb-89jw-mshh.easylist-to.xyz
 0.0.0.0 hisbethaplactert.info
 0.0.0.0 hisfryyes.com
 0.0.0.0 hishimartaltit.pro
@@ -55235,6 +55239,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 i4rro6vlmonoe1q8hvlcx8en9dj.com
 0.0.0.0 i4rsrcj6.top
 0.0.0.0 i4track.net
+0.0.0.0 i4tvy8vk9f74.com
 0.0.0.0 i4u.us.intellitxt.com
 0.0.0.0 i4unews-electronics.t.domdex.com
 0.0.0.0 i5iog3mlrw.com
@@ -61520,6 +61525,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kdhkjeklzihiwh.com
 0.0.0.0 kdieu.com
 0.0.0.0 kdiso.ru
+0.0.0.0 kdkdkd.pro
 0.0.0.0 kdlandingsplash.com
 0.0.0.0 kdluruaor.com
 0.0.0.0 kdmkauchahynhrs.ru
@@ -63887,6 +63893,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 leastersmiled.pro
 0.0.0.0 leathtexactlycin.info
 0.0.0.0 leave.exacttarget.com
+0.0.0.0 leavilysover.site
 0.0.0.0 lebakwatery.pl
 0.0.0.0 lebchen.com
 0.0.0.0 lebedeineeinstellung.de
@@ -71560,6 +71567,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 monikajaskowiak.pl
 0.0.0.0 monikareplin.pl
 0.0.0.0 monikatrotz.at
+0.0.0.0 monimoni.top
 0.0.0.0 moninosa.com
 0.0.0.0 monitis.com
 0.0.0.0 monitor-stsdk.vivo.com.cn
@@ -85491,6 +85499,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 propelllerads.com
 0.0.0.0 propelplus.com
 0.0.0.0 proper.io
+0.0.0.0 properatery.club
 0.0.0.0 propermedia-d.openx.net
 0.0.0.0 propgoservice.com
 0.0.0.0 prophere.pl
@@ -90205,6 +90214,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rigel.baidustatic.com
 0.0.0.0 rigelink.com
 0.0.0.0 rigfoxcup.site
+0.0.0.0 rightenedetu.site
 0.0.0.0 righthenwilbetrin.info
 0.0.0.0 rightiescolled.club
 0.0.0.0 rightmedia.com
@@ -95616,6 +95626,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 signanravell.info
 0.0.0.0 signatu.com
 0.0.0.0 signaturebankingbyunited.com
+0.0.0.0 significbystal.club
 0.0.0.0 signifyd.com
 0.0.0.0 signin-ebay-com-ws-ebayisapi-dll-signin-webscr.ocom.pl
 0.0.0.0 signin.brightcove.com
@@ -100805,6 +100816,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 superfastcomputer.ru
 0.0.0.0 superficial.crwdcntrl.net
 0.0.0.0 superficialsink.com
+0.0.0.0 superficialsquare.com
 0.0.0.0 superfitchaussures.fr
 0.0.0.0 supergabuty.pl
 0.0.0.0 supergadgets.qgr.ph
@@ -115620,6 +115632,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wortgewaltigst.com
 0.0.0.0 worth1000.crwdcntrl.net
 0.0.0.0 worthathousandwords.com
+0.0.0.0 worthersefim.club
 0.0.0.0 worthlessness.xyz
 0.0.0.0 worthyadvertising.com
 0.0.0.0 wortwinkel.de
@@ -115784,6 +115797,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 writeabout.unbounce.com
 0.0.0.0 writefor.unbounce.com
 0.0.0.0 writeln.ru
+0.0.0.0 writerredolasy.club
 0.0.0.0 writingassociates.com
 0.0.0.0 wrkl.xyz
 0.0.0.0 wrmcfyzl.com
