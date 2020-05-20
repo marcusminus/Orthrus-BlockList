@@ -3575,6 +3575,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 4d5.net
 0.0.0.0 4d83.playfabapi.com
 0.0.0.0 4ddpwkzfdq09i0ey6c4gi4zyqjair1516371602.nuid.imrworldwide.com
+0.0.0.0 4dds.s4d.xyz
 0.0.0.0 4dex.io
 0.0.0.0 4dexports.com
 0.0.0.0 4df5ef.xyz
@@ -19196,6 +19197,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.admob.com
 0.0.0.0 api.admob.xiaomi.com
 0.0.0.0 api.admost.com
+0.0.0.0 api.adnet.mob.com
 0.0.0.0 api.adnxs.com
 0.0.0.0 api.adomik.com
 0.0.0.0 api.adrenalads.com
@@ -19241,6 +19243,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.applifier.com
 0.0.0.0 api.applink.mob.com
 0.0.0.0 api.applink.site
+0.0.0.0 api.applovefrom.com
 0.0.0.0 api.applovin.com
 0.0.0.0 api.appmetrica.yandex.com
 0.0.0.0 api.appnext.com
@@ -24709,6 +24712,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bi-verteilerkreis.at
 0.0.0.0 bi.admicro.vn
 0.0.0.0 bi.demandbase.com
+0.0.0.0 bi.manhuaren.com
 0.0.0.0 bi.medscape.com
 0.0.0.0 bi.mgid.com
 0.0.0.0 bi.yeshen.com
@@ -28684,6 +28688,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 caucqpoeg.com
 0.0.0.0 caue971.org
 0.0.0.0 caughinga.info
+0.0.0.0 causecherry.com
 0.0.0.0 cauthuny.net
 0.0.0.0 cautiouscrate.com
 0.0.0.0 cautiouscredit.com
@@ -36844,6 +36849,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dapostar-de.com
 0.0.0.0 dapper.net
 0.0.0.0 dapperdiscussion.com
+0.0.0.0 dapskja.cn
 0.0.0.0 dapxl.com
 0.0.0.0 daq0d0aotgq0f.cloudfront.net
 0.0.0.0 daqijjpjow.com
@@ -39743,6 +39749,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dostavka.ru
 0.0.0.0 dostawaca24.online
 0.0.0.0 dostawy24.com
+0.0.0.0 dostophog.com
 0.0.0.0 dosugcz.biz
 0.0.0.0 dosugcz.info
 0.0.0.0 dosugcz.net
@@ -46802,6 +46809,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fn0.m-pathy.com
 0.0.0.0 fn1.m-pathy.com
 0.0.0.0 fnac.be.d1.sc.omtrdc.net
+0.0.0.0 fnacgbik9v14.com
 0.0.0.0 fnaolgfubmlc.com
 0.0.0.0 fnatfee.ero-advertising.com
 0.0.0.0 fnbhjbcfqkrcs.com
@@ -51426,6 +51434,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 greatlakessurveillance.com
 0.0.0.0 greatlinkhk.com
 0.0.0.0 greatmacsoft.tech
+0.0.0.0 greatmentef.club
 0.0.0.0 greatpe.pl
 0.0.0.0 greatpondwildernesslodge.com
 0.0.0.0 greatpussies.com
@@ -57360,6 +57369,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 incoming-data-sense360.s3.amazonaws.com
 0.0.0.0 incoming.bm23.com
 0.0.0.0 incoming.hotjar.com
+0.0.0.0 incommandary.club
 0.0.0.0 incompany.com.pl
 0.0.0.0 increas.eu
 0.0.0.0 increased.cn
@@ -69500,6 +69510,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mememakers.mobi
 0.0.0.0 memo.co
 0.0.0.0 memoclic.fr.intellitxt.com
+0.0.0.0 memoralegil.site
 0.0.0.0 memorialstevejobs.org
 0.0.0.0 memorialweb.de
 0.0.0.0 memorix.sdv.fr
@@ -77496,6 +77507,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 olivka.biz
 0.0.0.0 olizyr.com
 0.0.0.0 oljpsldr.bid
+0.0.0.0 olkrzytv.com
 0.0.0.0 olkxzkbonvau.bid
 0.0.0.0 olkzcdihiewe.com
 0.0.0.0 ollando.com
@@ -85510,6 +85522,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 propbn.com
 0.0.0.0 propdfconverter.com
 0.0.0.0 propeanfanku.site
+0.0.0.0 propeanikob.site
 0.0.0.0 propecia.1.p2l.info
 0.0.0.0 propeller-tracking.com
 0.0.0.0 propellerads.com
@@ -88999,6 +89012,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 recreativ.com.ua
 0.0.0.0 recreativ.ru
 0.0.0.0 recrinsit.ru
+0.0.0.0 recruisefukiby.club
 0.0.0.0 recruit.112.2o7.net
 0.0.0.0 recruit.microad.co.jp
 0.0.0.0 recruitics.com
@@ -90567,6 +90581,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rocketfuel.com
 0.0.0.0 rocketier.net
 0.0.0.0 rocketlab.g2afse.com
+0.0.0.0 rocketme.top
 0.0.0.0 rocketyield.com
 0.0.0.0 rockhonor.com
 0.0.0.0 rockincontent.net
@@ -93425,6 +93440,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sdeclessons.com
 0.0.0.0 sdelaisam.mirtesen.ru
 0.0.0.0 sdev.adlooxtracking.com
+0.0.0.0 sdf4.s4d.xyz
 0.0.0.0 sdfaswaed2.nokiadns.com
 0.0.0.0 sdfjtwp.com
 0.0.0.0 sdfsdvc.com
@@ -94359,6 +94375,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 seovision.com.pl
 0.0.0.0 sep.tapad.com
 0.0.0.0 separatesilver.com
+0.0.0.0 separenujilo.club
 0.0.0.0 sephora.pl.d1.sc.omtrdc.net
 0.0.0.0 sepitsale.com
 0.0.0.0 seprqnphibgd.com
@@ -94886,6 +94903,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sf.napi.ucweb.com
 0.0.0.0 sf.vserv.mobi
 0.0.0.0 sf14g.com
+0.0.0.0 sf3-ttcdn-tos.pstatp.com
 0.0.0.0 sf6-e.tlnk.io
 0.0.0.0 sf9r6l.joyfulgame.mobi
 0.0.0.0 sfa16.smi2.net
@@ -97002,6 +97020,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 snsfjpes.com
 0.0.0.0 snsgckygbed.com
 0.0.0.0 snsgsqyv.com
+0.0.0.0 snssdk.com
 0.0.0.0 snssdk1233.onelink.me
 0.0.0.0 sntestvip.marketo.com
 0.0.0.0 snuokyvjn.com
@@ -102289,6 +102308,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tanimalarz.pl
 0.0.0.0 tanio-najtaniej.com
 0.0.0.0 taniobutyreebok.pl
+0.0.0.0 tanit-dio.com
 0.0.0.0 tankandloulou.com
 0.0.0.0 tankeuro.com
 0.0.0.0 tankhoi.vn
@@ -119259,6 +119279,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yzesxnzfhyy.com
 0.0.0.0 yzetmrsww.com
 0.0.0.0 yzexonvknhw.com
+0.0.0.0 yzftqx.cn
 0.0.0.0 yzh360.com
 0.0.0.0 yzjlsb.com
 0.0.0.0 yzkqh.voluumtrk.com
@@ -120014,6 +120035,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zhywyl.cn
 0.0.0.0 zhzy999.net
 0.0.0.0 zi63m.cn
+0.0.0.0 zi8ivy4b0c7l.com
 0.0.0.0 zibup.csheaven.com
 0.0.0.0 ziczacstore.com
 0.0.0.0 zidedge.com
