@@ -7988,6 +7988,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 acceptableserver.com
 0.0.0.0 acceptanceinsurance.evergage.com
 0.0.0.0 acceptiongere.site
+0.0.0.0 acceptionijes.site
 0.0.0.0 acces.streaming-direct.co
 0.0.0.0 access-analyze.org
 0.0.0.0 access-mc.com
@@ -24116,6 +24117,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 behance.vo.llnwd.net
 0.0.0.0 beharmalted.info
 0.0.0.0 behaviad.net
+0.0.0.0 behavingsali.club
 0.0.0.0 behavioralautomationcouncil.bounceexchange.com
 0.0.0.0 behavioralengine.com
 0.0.0.0 behavioriks.pl
@@ -30300,6 +30302,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ceromobi.club
 0.0.0.0 cerotop.com
 0.0.0.0 cert-test-alias.algolia.com
+0.0.0.0 cert.s4d.xyz
 0.0.0.0 certaken.com
 0.0.0.0 certakesime.site
 0.0.0.0 certifica.com
@@ -31878,6 +31881,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 clicks.parsely.com
 0.0.0.0 clicks.pebblemedia.adhese.com
 0.0.0.0 clicks.persgroep.adhese.com
+0.0.0.0 clicks.pipaffiliates.com
 0.0.0.0 clicks.rbs.co.uk
 0.0.0.0 clicks.rmb.adhese.com
 0.0.0.0 clicks.roularta.adhese.com
@@ -41516,7 +41520,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 eb13489b89db.com
 0.0.0.0 eb17376f3d2a.com
 0.0.0.0 eb2.3lift.com
-0.0.0.0 eb4us.com
 0.0.0.0 eb948.bemobtrk.com
 0.0.0.0 ebagcjidhechgegjacg.ru
 0.0.0.0 ebahpya.com
@@ -43898,10 +43901,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 eula.mindspark.com
 0.0.0.0 eulbamjx.com
 0.0.0.0 eule1.pmu.fr
+0.0.0.0 eulerian.belambra.be
+0.0.0.0 eulerian.belambra.fr
 0.0.0.0 eulerian.brandalley.fr
-0.0.0.0 eulerian.com
+0.0.0.0 eulerian.madeindesign.com
 0.0.0.0 eulerian.mathon.fr
 0.0.0.0 eulerian.net
+0.0.0.0 eulerian.officiel-des-vacances.com
+0.0.0.0 eulerian.sarenza.com
+0.0.0.0 eulerian.splendia.com
 0.0.0.0 euleriancdn.net
 0.0.0.0 eum-appdynamics.com
 0.0.0.0 eumarkt.net
@@ -59562,6 +59570,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jeleniedybowskiego.pl
 0.0.0.0 jelitto.pl
 0.0.0.0 jellopads.com
+0.0.0.0 jelly.mdhv.io
 0.0.0.0 jelmolishopch.widget.criteo.com
 0.0.0.0 jemma.su
 0.0.0.0 jemmgroup.com
@@ -70720,6 +70729,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mizpahfitness.com
 0.0.0.0 mizuhonet.com
 0.0.0.0 mizvan.com
+0.0.0.0 mj23.eulerian.com
 0.0.0.0 mjagsshop.xyz
 0.0.0.0 mjavagames.ru
 0.0.0.0 mjbuuxt7l18r.com
@@ -76256,6 +76266,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ny1mta-31.sailthru.com
 0.0.0.0 ny1mta-56.sailthru.com
 0.0.0.0 ny1mta-58.sailthru.com
+0.0.0.0 ny8yoo2ro5aa.com
 0.0.0.0 nya.tessko.ru
 0.0.0.0 nyacampwk.com
 0.0.0.0 nyadmcncserve-05y06a.com
@@ -81442,6 +81453,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pf.newegg.com
 0.0.0.0 pf.static.ads-twitter.com
 0.0.0.0 pf.tradedoubler.com
+0.0.0.0 pf34zdjoeycr.com
 0.0.0.0 pf4y2a54hx.com
 0.0.0.0 pfa-online-integ2.amobee.com
 0.0.0.0 pfa.levexis.com
@@ -84735,6 +84747,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pracowniaciala.pl
 0.0.0.0 pracowniarekodziela.pl
 0.0.0.0 practicetoothpaste.com
+0.0.0.0 practingunef.site
 0.0.0.0 practivelizar.club
 0.0.0.0 practively.com
 0.0.0.0 pracuj.adocean.pl
@@ -110759,6 +110772,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uwmadison.co1.qualtrics.com
 0.0.0.0 uwmadison.qualtrics.com
 0.0.0.0 uwmaison.qualtrics.com
+0.0.0.0 uwmoghx.cn
 0.0.0.0 uwo.eu.qualtrics.com
 0.0.0.0 uwonderful.ru
 0.0.0.0 uwoshkosh.qualtrics.com
