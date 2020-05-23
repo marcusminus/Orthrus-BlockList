@@ -4892,7 +4892,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 7gfs.com
 0.0.0.0 7gg.cc
 0.0.0.0 7gomedia.ru
-0.0.0.0 7hjb8.com*.php
 0.0.0.0 7hor9gul4s.com
 0.0.0.0 7hu8e1u001.com
 0.0.0.0 7ia9h.cn
@@ -14969,7 +14968,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adv.yo.cz
 0.0.0.0 adv.zapal.ru
 0.0.0.0 adv.zkmobi.com
-0.0.0.0 adv0*.msa.cdn.mediaset.net
 0.0.0.0 adv0.a-ads.com
 0.0.0.0 adv0005.247realmedia.com
 0.0.0.0 adv0035.247realmedia.com
@@ -35243,7 +35241,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 crzhxquiyo.com
 0.0.0.0 crzlkluxnigce.com
 0.0.0.0 crzytm.com
-0.0.0.0 cs*.mp3bars.com
 0.0.0.0 cs-czosnusie.cba.pl
 0.0.0.0 cs-demo.dynamicyield.com
 0.0.0.0 cs-fpg.pl
@@ -65431,7 +65428,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 log.wtlogin.qq.com
 0.0.0.0 log.xzcs3zlph.com
 0.0.0.0 log.yeah1media.vn
-0.0.0.0 log.zing*.vn
 0.0.0.0 log.zingmp3.vn
 0.0.0.0 log.zingnews.vn
 0.0.0.0 log.zingtv.vn
@@ -70967,7 +70963,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mmwdwg.cn
 0.0.0.0 mmwebhandler.888.com
 0.0.0.0 mmxbgakffqemu.com
-0.0.0.0 mmys.net*.php
 0.0.0.0 mn-shop.com
 0.0.0.0 mn.5.p2l.info
 0.0.0.0 mn.mn.co.cu
@@ -119303,7 +119298,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 yyjhf.com
 0.0.0.0 yymmsd.cn
 0.0.0.0 yyn.us
-0.0.0.0 yyo876.com*.php
 0.0.0.0 yyp17.com
 0.0.0.0 yyshow.top
 0.0.0.0 yyuin.com
