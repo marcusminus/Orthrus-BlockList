@@ -859,7 +859,6 @@
 ||159126.engine.mobileapptracking.com^
 ||159668.measurementapi.com^
 ||159692.measurementapi.com^
-||159i.com^*.php|
 ||15ae475e-f469-48dc-b127-16bd18c27e12.nuid.imrworldwide.com^
 ||15b37.skroc.pl^
 ||15bb51.info^
