@@ -3632,6 +3632,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 4mads.com
 0.0.0.0 4meme.com
 0.0.0.0 4mj6dxvrio.s.ad6media.fr
+0.0.0.0 4n1hqmcoms.rest
 0.0.0.0 4no5qq0ufuav7be09kjpinj89sja21516663399.nuid.imrworldwide.com
 0.0.0.0 4nvfocbkisergq9rd0mjhm41rbbon1508691580.nuid.imrworldwide.com
 0.0.0.0 4o64flb.com
@@ -26144,6 +26145,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bouncepilot.com
 0.0.0.0 bouncex.com
 0.0.0.0 bouncyproperty.com
+0.0.0.0 bournemouthecho-gb.bournemouthecho.co.uk
 0.0.0.0 boursnormaticm.info
 0.0.0.0 boursorama.smartadserver.com
 0.0.0.0 boutique-on-line.de
@@ -27832,6 +27834,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 c4dl.com
 0.0.0.0 c4dm.adcolony.com
 0.0.0.0 c4owk.controlapplink.com
+0.0.0.0 c4sc.s4d.xyz
 0.0.0.0 c4tracking01.com
 0.0.0.0 c4tw.net
 0.0.0.0 c5.adalyser.com
@@ -31327,6 +31330,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ck.thrillbucks.com
 0.0.0.0 ckaiv.com
 0.0.0.0 ckardwithinktab.info
+0.0.0.0 ckcsuk.com
 0.0.0.0 ckdgarn74zwmggwkiv0cnf5lesj2h1516338190.nuid.imrworldwide.com
 0.0.0.0 cke.co1.qualtrics.com
 0.0.0.0 ckg.vipyl.com
@@ -34198,6 +34202,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 corus.hb.omtrdc.net
 0.0.0.0 corusads.dserv.ca
 0.0.0.0 corwrite.com
+0.0.0.0 cosdkaa.pro
 0.0.0.0 coshfgpgab.com
 0.0.0.0 cosiloon.com
 0.0.0.0 cosmetice-farduri.ro
@@ -39179,6 +39184,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dktyjwldv.com
 0.0.0.0 dkw-engineering.net
 0.0.0.0 dkxeorhjmua.com
+0.0.0.0 dkyp75kj7ldlr.cloudfront.net
 0.0.0.0 dl-plugin.com
 0.0.0.0 dl-rms.com
 0.0.0.0 dl-vip.appstore.baidu.co.th
@@ -45847,6 +45853,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ff04d18e06.com
 0.0.0.0 ff0883ac-f1d6-4734-92a6-56951ab949a0.nuid.imrworldwide.com
 0.0.0.0 ff112244.com
+0.0.0.0 ff4s.s4d.xyz
 0.0.0.0 ff52e77ba517.com
 0.0.0.0 ff5bd8d9f8df.com
 0.0.0.0 ffa9.cn
@@ -52676,6 +52683,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hbdosljhhpov.bid
 0.0.0.0 hbevents.1rx.io
 0.0.0.0 hbfls.vip
+0.0.0.0 hbfqcy.com
 0.0.0.0 hbguohua.com
 0.0.0.0 hbguzhenyuan.com
 0.0.0.0 hbhcilgdqxt.com
@@ -53879,6 +53887,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hobby-hangar.net
 0.0.0.0 hobbylobby.evergage.com
 0.0.0.0 hobbytotaalservice.nl
+0.0.0.0 hocgeese.com
 0.0.0.0 hoch2events.de
 0.0.0.0 hochu-deneg.ru
 0.0.0.0 hodowlaskalia.pl
@@ -54067,8 +54076,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 horchow.evergage.com
 0.0.0.0 horheloopo.com
 0.0.0.0 horizon-nj1.sailthru.com
+0.0.0.0 horizon-track.globo.com
 0.0.0.0 horizon.btrll.com
 0.0.0.0 horizon.eu.qualtrics.com
+0.0.0.0 horizon.globo.com
 0.0.0.0 horizon.mashable.com
 0.0.0.0 horizon.qualtrics.com
 0.0.0.0 horizon.sailthru.com
@@ -58737,6 +58748,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 isnsgjhthhaqtu.com
 0.0.0.0 iso100.ru
 0.0.0.0 isobar.adform.net
+0.0.0.0 isodhsd.pro
 0.0.0.0 isohits.com
 0.0.0.0 isonlynews.net
 0.0.0.0 isonomia.com.ar
@@ -85541,6 +85553,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 propelllerads.com
 0.0.0.0 propelplus.com
 0.0.0.0 proper.io
+0.0.0.0 properatersch.fun
 0.0.0.0 properatery.club
 0.0.0.0 propermedia-d.openx.net
 0.0.0.0 propgoservice.com
@@ -87026,6 +87039,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qcpegxszbgjm.com
 0.0.0.0 qcpexkxxyx.bid
 0.0.0.0 qcrvwgsfz.com
+0.0.0.0 qcsfxv.cn
 0.0.0.0 qcsjgzxqcyhv.com
 0.0.0.0 qcsocialpsych.ca1.qualtrics.com
 0.0.0.0 qctltbnn.com
@@ -88980,6 +88994,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 reckinbuttiten.pro
 0.0.0.0 reckintersupwas.info
 0.0.0.0 reckless-addict.net
+0.0.0.0 reclame.io
 0.0.0.0 reclamus.com
 0.0.0.0 reco.flow.headline.uodoo.com
 0.0.0.0 reco.flow.maribacaberita.com
@@ -92547,6 +92562,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sailznsgbygz.com
 0.0.0.0 saim.pubmatic.com
 0.0.0.0 sainsburysgm.widget.criteo.com
+0.0.0.0 sainstandset.site
 0.0.0.0 saintine.store
 0.0.0.0 saitef.cn
 0.0.0.0 sajnarestaurant.com
@@ -97272,6 +97288,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 soltitate.site
 0.0.0.0 solty.biz
 0.0.0.0 soltysprzeginianarodowa.pl
+0.0.0.0 solutelynewt.site
 0.0.0.0 solution.umeng.com
 0.0.0.0 solution.weborama.fr
 0.0.0.0 solution911.com
@@ -97718,6 +97735,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 spdeapp.com
 0.0.0.0 spdeliver.i-mobile.co.jp
 0.0.0.0 spdeliverp.i-mobile.co.jp
+0.0.0.0 spdfkvk.pro
 0.0.0.0 spdobropole.pl
 0.0.0.0 spe.atdmt.com
 0.0.0.0 speakol.com
@@ -101667,6 +101685,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 szoten.pl
 0.0.0.0 szpcxramtfr.com
 0.0.0.0 szpitaledlaludzi.pl
+0.0.0.0 szpl0.com
 0.0.0.0 szqifu.com
 0.0.0.0 szrk3.com
 0.0.0.0 szshouzhai.com
@@ -103597,6 +103616,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 thearcitonseveng.pro
 0.0.0.0 theater-chronos.at
 0.0.0.0 theatermania.d1.sc.omtrdc.net
+0.0.0.0 theationopo.club
 0.0.0.0 theatredusoleil.com
 0.0.0.0 theatredveres.site
 0.0.0.0 theatrialmero.club
@@ -113883,6 +113903,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 watersoul.com
 0.0.0.0 waterstreetpartnersllc.d1.sc.omtrdc.net
 0.0.0.0 wateryvan.com
+0.0.0.0 watieb.com
 0.0.0.0 watrz.com
 0.0.0.0 wats.everesttech.net
 0.0.0.0 watson.df.telemetry.microsoft.com
@@ -119409,6 +119430,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 z47b66864.webengage.co
 0.0.0.0 z47b66ab0.webengage.co
 0.0.0.0 z47b66bb0.webengage.co
+0.0.0.0 z4es.s4d.xyz
 0.0.0.0 z5.cnzz.com
 0.0.0.0 z501lpfg9x8v.com
 0.0.0.0 z5x.net
