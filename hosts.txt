@@ -10098,6 +10098,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adfp.send.microad.jp
 0.0.0.0 adfpaces.ero-advertising.com
 0.0.0.0 adfpkxvaqeyj.com
+0.0.0.0 adfpoint.com
 0.0.0.0 adframesrc.com
 0.0.0.0 adfrastingathles.info
 0.0.0.0 adfries.info
@@ -21855,6 +21856,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 authorinsights.com
 0.0.0.0 authorizecdn.com
 0.0.0.0 authorne.info
+0.0.0.0 authorneratu.club
 0.0.0.0 authornernsa.pro
 0.0.0.0 aution.pro
 0.0.0.0 autism-helper.com
@@ -43642,6 +43644,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 estiques.com
 0.0.0.0 estnewsupdate.info
 0.0.0.0 estoa.frost-electric-supply.com
+0.0.0.0 estoopsi.com
 0.0.0.0 estrack.net
 0.0.0.0 estream.nu
 0.0.0.0 estream.xyz
@@ -45922,6 +45925,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fgcash.com.br
 0.0.0.0 fgddrrr.com
 0.0.0.0 fgfcgadieidjdbdfadg.ru
+0.0.0.0 fghlmiaoqrtyfl65ha0ss22k3dqi6lng.com
 0.0.0.0 fghtem.com
 0.0.0.0 fgilgpmoudkzx.bid
 0.0.0.0 fgjasshw.com
@@ -56929,6 +56933,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 imgc.psychcentral.com
 0.0.0.0 imgcdn.brightinfo.com
 0.0.0.0 imgcdn01.formulas.jp
+0.0.0.0 imgcdnbet.com
 0.0.0.0 imgdew.pw
 0.0.0.0 imgdisp.infocart.jp
 0.0.0.0 imgfeedget.com
@@ -57522,6 +57527,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 info-fakty24.pl
 0.0.0.0 info-hub.de
 0.0.0.0 info-js.link
+0.0.0.0 info-megarules.ru
 0.0.0.0 info-miastowe24.club
 0.0.0.0 info-polska.24.eu
 0.0.0.0 info-polska.24lite.eu
@@ -61118,6 +61124,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 k3.etfiber.net
 0.0.0.0 k34ohtasyazf8db764fp9rqlcct8t1516325571.nuid.imrworldwide.com
 0.0.0.0 k3hpv.bemobtrk.com
+0.0.0.0 k3node.com
 0.0.0.0 k4home.pl
 0.0.0.0 k4kwks0xtn10lv2jrzolgrt9xa4qi1514606081.nuid.imrworldwide.com
 0.0.0.0 k50-a.akamaihd.net
@@ -68418,6 +68425,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 maxymiser.net
 0.0.0.0 may-js.github.io
 0.0.0.0 maya.bbigbunny.ml
+0.0.0.0 mayclub.net
 0.0.0.0 mayert.link
 0.0.0.0 maymaychihai.com
 0.0.0.0 mayonez.pl
@@ -87164,6 +87172,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qfwjclpckrdehi.com
 0.0.0.0 qfymuoqugz.com
 0.0.0.0 qfypbqbumu.com
+0.0.0.0 qfzcxs.cn
 0.0.0.0 qfzhppwfkenbmv.bid
 0.0.0.0 qg.quantumgraph.com
 0.0.0.0 qgaaaa2.admaym.com
@@ -90233,6 +90242,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ribtecshop.com
 0.0.0.0 ribtopmop.com
 0.0.0.0 ric-ric-rum.com
+0.0.0.0 ric.win
 0.0.0.0 ricead.com
 0.0.0.0 ricecubeslp.ch
 0.0.0.0 rich-agent.s3.amazonaws.com
@@ -90500,6 +90510,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rmetop.com
 0.0.0.0 rmgparcelforcecom.112.2o7.net
 0.0.0.0 rmgroyalmailcom.112.2o7.net
+0.0.0.0 rmgserving.com
 0.0.0.0 rmgxhpflxhmd.com
 0.0.0.0 rmhdjambba.com
 0.0.0.0 rmjwdosemtg.com
@@ -100400,6 +100411,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 store.taboola.com
 0.0.0.0 store.tv.api.3g.youku.com
 0.0.0.0 store.xl.api.3g.youku.com
+0.0.0.0 storeacdn.com
 0.0.0.0 storebrandbags.de
 0.0.0.0 storecor.net
 0.0.0.0 storefront.flurry.com
@@ -111897,6 +111909,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vibramschuhes.online
 0.0.0.0 vibrant.co
 0.0.0.0 vibrantmedia.com
+0.0.0.0 vic.win
 0.0.0.0 vicces-humoros.com
 0.0.0.0 vice-ads-cdn.vice.com
 0.0.0.0 vice-d.openx.net
@@ -115761,6 +115774,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wowlink.ru
 0.0.0.0 wowmoney.top
 0.0.0.0 wowmoscow.ru
+0.0.0.0 wowostar.cn
 0.0.0.0 wowoyy.cc
 0.0.0.0 wowpark.es
 0.0.0.0 wowtrk.com
@@ -118799,6 +118813,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ynzdtoawstxvh.com
 0.0.0.0 ynzhby.com
 0.0.0.0 yo34b.cn
+0.0.0.0 yo88.win
 0.0.0.0 yoads.net
 0.0.0.0 yoads.network
 0.0.0.0 yoartq.com
