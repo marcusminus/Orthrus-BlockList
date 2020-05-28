@@ -1917,6 +1917,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 2796.api.swrve.com
 0.0.0.0 2796.content.swrve.com
 0.0.0.0 27f35.cn
+0.0.0.0 27vckaccbto7p761.pro
 0.0.0.0 28.securefinds2.com
 0.0.0.0 28.video-ak.cdn.spotify.com
 0.0.0.0 280asnlnr7.com
@@ -2476,6 +2477,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 3273540.notifysrv.com
 0.0.0.0 3278dy.com
 0.0.0.0 3279880017.log.optimizely.com
+0.0.0.0 327d49j2xt0nsr6o.pro
 0.0.0.0 3282004.notifysrv.com
 0.0.0.0 3284.content.swrve.com
 0.0.0.0 3286.api.swrve.com
@@ -14794,6 +14796,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adtoox.com
 0.0.0.0 adtop.com
 0.0.0.0 adtorio.com
+0.0.0.0 adtorque.in
 0.0.0.0 adtotal.pl
 0.0.0.0 adtpix.com
 0.0.0.0 adtr.io
@@ -17063,6 +17066,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 alogus.umeng.com
 0.0.0.0 alohasoftware.net
 0.0.0.0 aloisiuscountryfestival.de
+0.0.0.0 aloissentence.pro
 0.0.0.0 alp.adgear.com
 0.0.0.0 alpargata.d1.sc.omtrdc.net
 0.0.0.0 alpari.ru
@@ -17961,6 +17965,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.jd-powered.net
 0.0.0.0 analytics.jibecdn.com
 0.0.0.0 analytics.jiuzhilan.com
+0.0.0.0 analytics.jst.ai
 0.0.0.0 analytics.jumboprivacy.com
 0.0.0.0 analytics.justuno.com
 0.0.0.0 analytics.kaltura.com
@@ -34189,6 +34194,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cosdkaa.pro
 0.0.0.0 coshfgpgab.com
 0.0.0.0 cosiloon.com
+0.0.0.0 cosimolaugh.pro
 0.0.0.0 cosmetice-farduri.ro
 0.0.0.0 cosmeticscentre.uk.com
 0.0.0.0 cosmetixs.info
@@ -36317,6 +36323,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d2cpw6kwpff7n5.cloudfront.net
 0.0.0.0 d2d8qsxiai9qwj.cloudfront.net
 0.0.0.0 d2dq2ahtl5zl1z.cloudfront.net
+0.0.0.0 d2e0sxz09bo7k2.cloudfront.net
 0.0.0.0 d2fbkzyicji7c4.cloudfront.net
 0.0.0.0 d2fhjyz3dwdx87.cloudfront.net
 0.0.0.0 d2focgxak1cn74.cloudfront.net
@@ -36349,6 +36356,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d2nxi61n77zqpl.cloudfront.net
 0.0.0.0 d2nz8k4xyoudsx.cloudfront.net
 0.0.0.0 d2nzjxafm0iowq.cloudfront.net
+0.0.0.0 d2o5idwacg3gyw.cloudfront.net
 0.0.0.0 d2o67tzzxkqap2.cloudfront.net
 0.0.0.0 d2o9ozfswytaqz.cloudfront.net
 0.0.0.0 d2oa97wrxvxm7y.cloudfront.net
@@ -38815,6 +38823,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 diodxcszlbmwk.cloudfront.net
 0.0.0.0 diogene99.com
 0.0.0.0 diogv.com
+0.0.0.0 dioneperson.pro
 0.0.0.0 dioperu.com
 0.0.0.0 dip.demdex.net
 0.0.0.0 dip.umeng.com
@@ -39266,6 +39275,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dlsgjkayn.com
 0.0.0.0 dlski.space
 0.0.0.0 dlsw.br.baidu.com
+0.0.0.0 dlswzw.cn
 0.0.0.0 dlt-beacon.dynatrace-managed.com
 0.0.0.0 dltags.com
 0.0.0.0 dluzniku.com
@@ -42754,6 +42764,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 emma.onthe.io
 0.0.0.0 emmalis-welt.de
 0.0.0.0 emmas-cafe.de
+0.0.0.0 emmettperson.pro
 0.0.0.0 emmis.deliveryengine.adswizz.com
 0.0.0.0 emn0.com
 0.0.0.0 emobi-sys.com
@@ -43492,6 +43503,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 es.ucweb.com
 0.0.0.0 es.unbounce.com
 0.0.0.0 es54i9g7p7xh.com
+0.0.0.0 esaiasegyptian.pro
 0.0.0.0 esalon-shopping.t.domdex.com
 0.0.0.0 esamochod.pl
 0.0.0.0 esauwoan.com
@@ -43999,6 +44011,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 evaff.com
 0.0.0.0 evaffwmdjgtn.com
 0.0.0.0 evalpha.com
+0.0.0.0 evalynbrought.pro
 0.0.0.0 evanetpro.com
 0.0.0.0 evania.adspirit.de
 0.0.0.0 evania.de
@@ -51956,6 +51969,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gwaltwiadomosc.eu
 0.0.0.0 gwashiondevelhig.info
 0.0.0.0 gwb.lphbs.com
+0.0.0.0 gwbangshou.com
 0.0.0.0 gwc.lphbs.com
 0.0.0.0 gwc1f.voluumtrk.com
 0.0.0.0 gwd.lphbs.com
@@ -54234,6 +54248,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hotmommagossip.us.intellitxt.com
 0.0.0.0 hotmovs.com
 0.0.0.0 hotnews24h.pl
+0.0.0.0 hotngay.vn
 0.0.0.0 hotong.store
 0.0.0.0 hotonlinenews.us.intellitxt.com
 0.0.0.0 hotpixel.co.vu
@@ -57458,6 +57473,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ineedhits.com
 0.0.0.0 ineffieldinforget.site
 0.0.0.0 inehutten.nl
+0.0.0.0 ineldacarry.pro
 0.0.0.0 inentasky.com
 0.0.0.0 inesmanila.com
 0.0.0.0 inet-tracker.de
@@ -59375,6 +59391,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jaymedianetwork.com
 0.0.0.0 jazdoxthxiv.com
 0.0.0.0 jazg97clb.ru
+0.0.0.0 jazmonbetter.pro
 0.0.0.0 jazzdance-freiburg.de
 0.0.0.0 jazzworlddj.com
 0.0.0.0 jb-trailer.de
@@ -59694,6 +59711,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jfvjtudp.com
 0.0.0.0 jfxjpswhcwwq.com
 0.0.0.0 jfy.perfonsrv.com
+0.0.0.0 jfypfmew.com
 0.0.0.0 jg.hack-inter.net
 0.0.0.0 jg.revolvermaps.com
 0.0.0.0 jg15vdwuufthlbfcdiwhf1uurtv0e1515419630.nuid.imrworldwide.com
@@ -60135,6 +60153,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jod.mirtesen.ru
 0.0.0.0 jodakurier.com
 0.0.0.0 jodata.site
+0.0.0.0 jodellbrought.pro
 0.0.0.0 jodellvideos.pro
 0.0.0.0 joe.freelogs.com
 0.0.0.0 joegamersapps.com
@@ -61138,6 +61157,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kadman.net
 0.0.0.0 kadokawa-d.openx.net
 0.0.0.0 kaechu0ohtop6j.adx1.com
+0.0.0.0 kaelpossible.pro
 0.0.0.0 kaerntnerlandgenuss.at
 0.0.0.0 kafeas.de
 0.0.0.0 kafeo.de
@@ -61360,6 +61380,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 katel.com.pl
 0.0.0.0 katelinna.m.biqubao.com
 0.0.0.0 katerigordas.pro
+0.0.0.0 kateriviejos.pro
 0.0.0.0 kath-kirche-kusel.de
 0.0.0.0 kathis-nagelstube.de
 0.0.0.0 katia-paliotti.com
@@ -63459,6 +63480,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 larosanotizia.com
 0.0.0.0 larose-merzig.de
 0.0.0.0 larrenpicture.pro
+0.0.0.0 larrenworld.pro
 0.0.0.0 larsstart.de
 0.0.0.0 lart-iste.fr
 0.0.0.0 laryngologia-lodz2017.pl
@@ -64513,6 +64535,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 linasecrets.com
 0.0.0.0 linconpark.com
 0.0.0.0 lincrosshop.com
+0.0.0.0 lindencarry.pro
 0.0.0.0 lindenhof-tolkewitz.de
 0.0.0.0 lindenlaugh.pro
 0.0.0.0 lindon-pool.win
@@ -67639,6 +67662,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 malest.com
 0.0.0.0 malgorzatakwapisz.pl
 0.0.0.0 malgyhuytbnjb.bid
+0.0.0.0 malharpossible.pro
+0.0.0.0 malharvoice.pro
 0.0.0.0 malibucoastal.co
 0.0.0.0 malictuiar.com
 0.0.0.0 malient.tk
@@ -68075,6 +68100,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 martinoandperini.com
 0.0.0.0 martinsails.de
 0.0.0.0 martinsnuggles.de
+0.0.0.0 martyappear.pro
 0.0.0.0 marvedesderef.info
 0.0.0.0 marvel.appia.com
 0.0.0.0 marveljoy.com
@@ -78324,6 +78350,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 opointop2015.112.2o7.net
 0.0.0.0 oponymagcarleszno.pl
 0.0.0.0 opoxv.com
+0.0.0.0 oppa.s4d.xyz
 0.0.0.0 oppcgcqytazs.com
 0.0.0.0 oppo.yidianzixun.com
 0.0.0.0 opportancen.info
@@ -91582,6 +91609,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rvibll.sv.uae.uc.cn
 0.0.0.0 rvlzsbmshtt.com
 0.0.0.0 rvnc72k.com
+0.0.0.0 rvnm.s4d.xyz
 0.0.0.0 rvnpytnhxppkzv.com
 0.0.0.0 rvqfjvlpdbjy.com
 0.0.0.0 rvqfpfgzmw.com
@@ -92876,6 +92904,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sbardlhk.com
 0.0.0.0 sbbanner.com
 0.0.0.0 sbbd1.qulishi.com
+0.0.0.0 sbc31.com
 0.0.0.0 sbc7wfnaakau.com
 0.0.0.0 sbcpower.com
 0.0.0.0 sbdtds.com
@@ -93854,6 +93883,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 secondmedia-d.openx.net
 0.0.0.0 secondscreenindexer.adswizz.com
 0.0.0.0 secondstreetmedia.com
+0.0.0.0 secret-photos.com
 0.0.0.0 secret.xn--oogle-wmc.com
 0.0.0.0 secretbehindporn.com
 0.0.0.0 secretcolors.nl
@@ -101044,6 +101074,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 suwo0n.com
 0.0.0.0 suywlxzbjtbib.com
 0.0.0.0 suzalreetse.com
+0.0.0.0 suzanne.pro
 0.0.0.0 suzeful.com
 0.0.0.0 suzukimotor.112.2o7.net
 0.0.0.0 sv-alemannia-koeln.de
@@ -102148,6 +102179,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tainiesonline.fun
 0.0.0.0 tainiesonline.pw
 0.0.0.0 taiphaib.net
+0.0.0.0 taiv8.com
 0.0.0.0 taiwhups.net
 0.0.0.0 taiyosushibar.com
 0.0.0.0 tajhotels-com.b.appier.net
@@ -105595,6 +105627,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 track.easeus.com
 0.0.0.0 track.ebonyaddiction.com
 0.0.0.0 track.ecommerce-holding.com
+0.0.0.0 track.edu-info.jp
 0.0.0.0 track.effiliation.com
 0.0.0.0 track.effitarget.com
 0.0.0.0 track.eg-innovations.net
@@ -108424,6 +108457,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 twiago.com
 0.0.0.0 twicemall.com
 0.0.0.0 twierdza-wroclaw.pl
+0.0.0.0 twillamadura.pro
 0.0.0.0 twinkledeals.com
 0.0.0.0 twinpine.adatrix.com
 0.0.0.0 twinpinenetwork.com
@@ -119084,6 +119118,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yul-delivery-1.sys.adgear.com
 0.0.0.0 yul-delivery-4.sys.adgear.com
 0.0.0.0 yul-delivery-6.sys.adgear.com
+0.0.0.0 yule12888.com
 0.0.0.0 yule8.net
 0.0.0.0 yum.anydesk.me
 0.0.0.0 yum.kissmetrics.com
@@ -119629,6 +119664,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zcfbwlgydxo.com
 0.0.0.0 zcinaovb.com
 0.0.0.0 zcjrjnxgukfcy.com
+0.0.0.0 zcjvqfbl1toyemvm.pro
 0.0.0.0 zcjxeitlmnuq.com
 0.0.0.0 zcjxzlmarket.com
 0.0.0.0 zckpaeifoq.com
@@ -120317,6 +120353,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zonealta.com
 0.0.0.0 zonencowboys.de
 0.0.0.0 zonhpljclov.com
+0.0.0.0 zonieviejos.pro
 0.0.0.0 zonishop.com
 0.0.0.0 zonolali.com
 0.0.0.0 zontent.powvideo.net
