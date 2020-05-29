@@ -3603,6 +3603,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 4fathersphilly.com
 0.0.0.0 4fb0a3bf4a3d38.com
 0.0.0.0 4ff504226f.com
+0.0.0.0 4ggame8.com
 0.0.0.0 4ggww.com
 0.0.0.0 4gig.tlnk.io
 0.0.0.0 4girlsfingerpaint.com
@@ -4903,6 +4904,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 7jiajiao.com
 0.0.0.0 7lstw4cd.top
 0.0.0.0 7lyonline.com
+0.0.0.0 7m0hj.cn
 0.0.0.0 7m307.cn
 0.0.0.0 7ma0.tlnk.io
 0.0.0.0 7macdrtn20xn2k5zubfc3qcjhnugo1509920031.nuid.imrworldwide.com
@@ -7794,6 +7796,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 abie13.top
 0.0.0.0 abie14.top
 0.0.0.0 abie15.top
+0.0.0.0 abie16.top
 0.0.0.0 abie25.top
 0.0.0.0 abie9.top
 0.0.0.0 abikurier.com
@@ -16807,6 +16810,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ali.cityads.com
 0.0.0.0 ali2a.xyz
 0.0.0.0 ali2d.xyz
+0.0.0.0 ali2f.xyz
 0.0.0.0 aliadvert.ru
 0.0.0.0 aliapp.open.uc.cn
 0.0.0.0 alibaba.zzux.com
@@ -27514,6 +27518,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 c.t4ft.de
 0.0.0.0 c.tapinfluence.com
 0.0.0.0 c.tbex.ru
+0.0.0.0 c.tgknt.com
 0.0.0.0 c.th.msn.com
 0.0.0.0 c.thecounter.de
 0.0.0.0 c.thestat.net
@@ -32940,6 +32945,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 collect.albacross.com
 0.0.0.0 collect.blishtech.co
 0.0.0.0 collect.data.tm-awx.com
+0.0.0.0 collect.feefo.com
 0.0.0.0 collect.igodigital.com
 0.0.0.0 collect.iperceptions.com
 0.0.0.0 collect.rewardstyle.com
@@ -44875,6 +44881,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 f7.news-subscribe.com
 0.0.0.0 f7.video-ak.cdn.spotify.com
 0.0.0.0 f70123.com
+0.0.0.0 f71bxwn500lj.com
 0.0.0.0 f7ds.liberation.fr
 0.0.0.0 f7j-3.tlnk.io
 0.0.0.0 f7uf1fcnjx2pxhflwtlkpr8jbvxxp1509506200.nuid.imrworldwide.com
@@ -50989,6 +50996,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gorgeousground.com
 0.0.0.0 gorgonkil.com
 0.0.0.0 gorillanation.us.intellitxt.com
+0.0.0.0 gormancarry.pro
 0.0.0.0 goro.mirtesen.ru
 0.0.0.0 gorselcdn.com
 0.0.0.0 gorselpanel.com
@@ -54111,6 +54119,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 horyzon-media.com
 0.0.0.0 horyzont-chelm.pl
 0.0.0.0 hos1.cnzz.com
+0.0.0.0 hosillfir.site
 0.0.0.0 hosoojat.net
 0.0.0.0 hospira.actonsoftware.com
 0.0.0.0 hospitality-optimizer.com
@@ -57065,6 +57074,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 imp.constantcontact.com
 0.0.0.0 imp.content-ad.net
 0.0.0.0 imp.control.kochava.com
+0.0.0.0 imp.dmm.co.jp
+0.0.0.0 imp.dmm.com
 0.0.0.0 imp.double.net
 0.0.0.0 imp.earnify.com
 0.0.0.0 imp.emxdgt.com
@@ -60533,6 +60544,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 js.pmcontent.com
 0.0.0.0 js.ptengine.cn
 0.0.0.0 js.ptengine.com
+0.0.0.0 js.ptengine.jp
 0.0.0.0 js.qwerty24.net
 0.0.0.0 js.rating-widget.com
 0.0.0.0 js.redtram.com
@@ -64944,6 +64956,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ljjaiargqfwtzu.com
 0.0.0.0 ljkihuolgoh.com
 0.0.0.0 ljkmwpvahv.com
+0.0.0.0 ljpv.s4d.xyz
 0.0.0.0 ljqnbiogjp.com
 0.0.0.0 ljrljohnoqa.com
 0.0.0.0 ljteas.com
@@ -66919,6 +66932,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m2m1.inner-active.mobi
 0.0.0.0 m2pub.adk2.co
 0.0.0.0 m2pub.com
+0.0.0.0 m2track.co
 0.0.0.0 m3.2mdn.net
 0.0.0.0 m3.ae.2mdn.net
 0.0.0.0 m3.au.2mdn.net
@@ -69637,6 +69651,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 messardu.com
 0.0.0.0 messer-schopp.de
 0.0.0.0 messiah.qualtrics.com
+0.0.0.0 messiupal.com
 0.0.0.0 messner.co.at
 0.0.0.0 mesterads.com
 0.0.0.0 mestkom.ru
@@ -70903,6 +70918,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mmp.inmobi.com
 0.0.0.0 mmpcqstnkcelx.com
 0.0.0.0 mmpnierhio.com
+0.0.0.0 mmpo.s4d.xyz
 0.0.0.0 mmpool.org
 0.0.0.0 mmptrack.com
 0.0.0.0 mmpuh.cn
@@ -78959,6 +78975,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 oucywciij.com
 0.0.0.0 oudccdjvh.com
 0.0.0.0 ouedkniss.com
+0.0.0.0 ouftukoo.net
 0.0.0.0 ougdqjentmp.com
 0.0.0.0 ougesqknoehod.com
 0.0.0.0 ougfkbyllars.com
@@ -90785,6 +90802,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rotator.tradetracker.nl
 0.0.0.0 rotator.trafficstars.com
 0.0.0.0 rotbarschfilet.de
+0.0.0.0 rotdubboy.com
 0.0.0.0 rotesblut.de
 0.0.0.0 rotibald.com
 0.0.0.0 rotita.com
@@ -90800,6 +90818,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rotursmarket.com
 0.0.0.0 rouashop.com
 0.0.0.0 roughroll.com
+0.0.0.0 roujaufu.net
 0.0.0.0 roulette-online.petrovka.info
 0.0.0.0 roulette.racyphotos.net
 0.0.0.0 roulettebot-plus.com
@@ -95536,6 +95555,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 shpovaw8wu.ru.com
 0.0.0.0 shpultiki.ru
 0.0.0.0 shqads.com
+0.0.0.0 shqbsdjatunl.com
 0.0.0.0 shr.fyi
 0.0.0.0 shrek.6.cn
 0.0.0.0 shrink-service.it
@@ -109080,6 +109100,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uesdpbrej.com
 0.0.0.0 uetqkude.com
 0.0.0.0 ueuerea.com
+0.0.0.0 ueuodgnrhb.com
 0.0.0.0 ueutwxdypf.bid
 0.0.0.0 uezbshzpdcbb.info
 0.0.0.0 uezychzvo.com
@@ -111676,6 +111697,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vfkuauks.com
 0.0.0.0 vfkwaaqc.com
 0.0.0.0 vfl-kassel-98er-jahrgang.de
+0.0.0.0 vfl81ea28aztw7y3.pro
 0.0.0.0 vfmfkei3yfgnn9dezx3efaxrhlspm1509497561.nuid.imrworldwide.com
 0.0.0.0 vfnemtpehzmzwc.com
 0.0.0.0 vfo.voyage-prive.co.uk
