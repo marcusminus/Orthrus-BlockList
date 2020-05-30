@@ -8204,6 +8204,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 acsurvey.qualtrics.com
 0.0.0.0 act.ameba.jp
 0.0.0.0 act.uc.cn
+0.0.0.0 act1-1.info
 0.0.0.0 acteon.com.ar
 0.0.0.0 actest.tynt.com
 0.0.0.0 actforvictory.112.2o7.net
@@ -11252,6 +11253,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads-cloud.rovio.com
 0.0.0.0 ads-collishop.adhese.com
 0.0.0.0 ads-colruytgroup.adhese.com
+0.0.0.0 ads-connect.com
 0.0.0.0 ads-corelio.adhese.com
 0.0.0.0 ads-d.viber.com
 0.0.0.0 ads-dazn.adhese.com
@@ -48260,6 +48262,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fxclix.com
 0.0.0.0 fxdepo.com
 0.0.0.0 fxdglnldbnyq.com
+0.0.0.0 fxfahn.com
 0.0.0.0 fxfhjs.com
 0.0.0.0 fxfxpyrq.com
 0.0.0.0 fxgm.com
@@ -55611,6 +55614,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ichkaufehierein.de
 0.0.0.0 ichlnk.com
 0.0.0.0 ici-sexe.tk
+0.0.0.0 icilfj.com
 0.0.0.0 icipourtoi.com
 0.0.0.0 icityfind.com
 0.0.0.0 icjeqbqdzhyx.com
@@ -56264,6 +56268,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 iikhhkwryiqq.bid
 0.0.0.0 iilrgkor.com
 0.0.0.0 iimueeipaitpb.com
+0.0.0.0 iiprpq1bsedg.com
 0.0.0.0 iiripeedqfj.com
 0.0.0.0 iiutq.xyz
 0.0.0.0 iivt.com
@@ -59021,6 +59026,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ivowhzku.com
 0.0.0.0 ivox.socratos.net
 0.0.0.0 ivoxua.socratos.net
+0.0.0.0 ivpraz.com
 0.0.0.0 ivqxarewpk.com
 0.0.0.0 ivr.com.tr
 0.0.0.0 ivrose.com
@@ -91742,6 +91748,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rzhujam.com
 0.0.0.0 rzizcnhoobxw.com
 0.0.0.0 rzjhxwfbxp.com
+0.0.0.0 rzjirk.com
 0.0.0.0 rzmrzylebgq.com
 0.0.0.0 rzpellets.com
 0.0.0.0 rzrkrotgh.com
@@ -103099,6 +103106,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 telemetry.sdk.inmobi.cn
 0.0.0.0 telemetry.sdk.inmobi.com
 0.0.0.0 telemetry.sdk.vip.ams1.inmobi.com
+0.0.0.0 telemetry.swiftkey.com
 0.0.0.0 telemetry.tradingview.com
 0.0.0.0 telemetry.v.dropbox.com
 0.0.0.0 telemetrytaxonomy.net
@@ -105110,6 +105118,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 touchclarity.natwest.com
 0.0.0.0 touche.adcentric.proximi-t.com
 0.0.0.0 touchg33.z19.web.core.windows.net
+0.0.0.0 touchtype-fluency.com
 0.0.0.0 touglesy.net
 0.0.0.0 tour.affbuzzads.com
 0.0.0.0 tour.brazzers.com
@@ -120745,6 +120754,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zxqudunt.com
 0.0.0.0 zxreyuxvrjzxa.com
 0.0.0.0 zxrtn.com
+0.0.0.0 zxsddfs.pro
 0.0.0.0 zxwdw.com
 0.0.0.0 zxwiejfbyr.com
 0.0.0.0 zxwnolwaump.com
