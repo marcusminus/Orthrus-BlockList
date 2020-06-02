@@ -4947,6 +4947,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 7x7.fun
 0.0.0.0 7x7.ruwe.net
 0.0.0.0 7x749.xyz
+0.0.0.0 7x7br2h1ujdoi391.in.net
 0.0.0.0 7xc4n.com
 0.0.0.0 7xi9g1.com1.z0.glb.clouddn.com
 0.0.0.0 7xsf3h.com1.z0.glb.clouddn.com
@@ -47815,7 +47816,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 frknseo.info
 0.0.0.0 frkohfqkpwvvq.com
 0.0.0.0 frmxnnjejpzbr.com
-0.0.0.0 frog.wix.com
 0.0.0.0 froggytest.fr.intellitxt.com
 0.0.0.0 frohaus.de
 0.0.0.0 froling.bee.pl
@@ -49453,7 +49453,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 geo.moatads.comgeo.moatads.com
 0.0.0.0 geo.mozilla.org
 0.0.0.0 geo.mtvnn.com
-0.0.0.0 geo.ngtv.io
 0.0.0.0 geo.offermatica.com
 0.0.0.0 geo.oovvuu.com
 0.0.0.0 geo.opt8.co
@@ -111327,6 +111326,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vastpixel3.adsafeprotected.com
 0.0.0.0 vastproxy.brand.inmobi.com
 0.0.0.0 vastproxy.tubemogul.com
+0.0.0.0 vastroll.ru
 0.0.0.0 vastx.moatads.com
 0.0.0.0 vatafapac.ru
 0.0.0.0 vatanir.adlantis.jp
