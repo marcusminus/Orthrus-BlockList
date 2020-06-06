@@ -7805,6 +7805,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 abie14.top
 0.0.0.0 abie15.top
 0.0.0.0 abie16.top
+0.0.0.0 abie17.top
 0.0.0.0 abie25.top
 0.0.0.0 abie9.top
 0.0.0.0 abikurier.com
@@ -19018,6 +19019,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aox7.xyz
 0.0.0.0 aoyinn.com
 0.0.0.0 aoyou2.top
+0.0.0.0 aoyou3.top
 0.0.0.0 ap-adcs.rqmob.com
 0.0.0.0 ap-central.load.exelator.com
 0.0.0.0 ap-gb.adskeeper.co.uk
@@ -21842,6 +21844,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 auqefmhsutnldv.com
 0.0.0.0 aurabom.ru
 0.0.0.0 aurdeert.net
+0.0.0.0 aurdosti.com
 0.0.0.0 aureate.com
 0.0.0.0 auredzeon.com
 0.0.0.0 aurelius.httpool.com
@@ -30785,6 +30788,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cheetah-d.openx.net
 0.0.0.0 cheetahmobile.hotrk0.com
 0.0.0.0 cheetahmobileprod.amobee.com
+0.0.0.0 cheewait.net
 0.0.0.0 cheezburger-analytics.com
 0.0.0.0 chef.a-ads.com
 0.0.0.0 chef.algolia.com
@@ -37879,6 +37883,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 defaultimg.com
 0.0.0.0 defeatural.com
 0.0.0.0 defeatureother.site
+0.0.0.0 defeaturesher.club
 0.0.0.0 defectivesun.com
 0.0.0.0 defenderxtactical.com
 0.0.0.0 defensa.org.es
@@ -39357,6 +39362,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dlog.hiido.com
 0.0.0.0 dlotljikswmvq.com
 0.0.0.0 dlouf.com
+0.0.0.0 dloungspiricapu.fun
 0.0.0.0 dlp.adgear.com
 0.0.0.0 dlp4luwpus5kr.cloudfront.net
 0.0.0.0 dlpgebxqq.com
@@ -39907,6 +39913,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dougmlee.com
 0.0.0.0 doulawpoznaniu.pl
 0.0.0.0 dounwil.ru
+0.0.0.0 doushoom.net
 0.0.0.0 doutthenhap.info
 0.0.0.0 dove.prod.saymedia.com
 0.0.0.0 dove.saymedia.com
@@ -43632,6 +43639,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 eselundziegenwandern.de
 0.0.0.0 esemeso.pl
 0.0.0.0 esentdemol.site
+0.0.0.0 eseparediscou.fun
 0.0.0.0 eset-affiliate.de
 0.0.0.0 eset.122.2o7.net
 0.0.0.0 eseventent.info
@@ -50313,6 +50321,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 glmaamwyjkx.com
 0.0.0.0 glo-glo-oom.com
 0.0.0.0 gloalrie.com
+0.0.0.0 gloarowu.com
 0.0.0.0 glob-tech.com.pl
 0.0.0.0 globadmedia.com
 0.0.0.0 global-beauty.shop
@@ -50357,6 +50366,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 globalnews.ca.d1.sc.omtrdc.net
 0.0.0.0 globalpagee-prod-webex.com
 0.0.0.0 globalsight.adx1.com
+0.0.0.0 globalsiteanalytics.com
 0.0.0.0 globalstars.ru
 0.0.0.0 globalsuccessclub.com
 0.0.0.0 globaltakeoff.net
@@ -51102,6 +51112,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gos-kanal.ru
 0.0.0.0 gosciniec-paproc.pl
 0.0.0.0 gosfragoods.com
+0.0.0.0 goshooph.com
 0.0.0.0 gosocial-d.openx.net
 0.0.0.0 gospecularavch.site
 0.0.0.0 gosquared.com
@@ -58478,6 +58489,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 iomixrscvtw.bid
 0.0.0.0 ioms.bfmio.com
 0.0.0.0 iomsew.com
+0.0.0.0 ionaloutlerscrisi.fun
 0.0.0.0 ionamin.1.p2l.info
 0.0.0.0 ionamin.t35.com
 0.0.0.0 ionetporwanie.online
@@ -58755,6 +58767,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ir0.mobify.com
 0.0.0.0 ir2.beap.gemini.yahoo.com
 0.0.0.0 iraiser.eu
+0.0.0.0 iraithiz.com
 0.0.0.0 iran-gold.com
 0.0.0.0 irangoodshop.com
 0.0.0.0 irantableegh.org
@@ -59479,6 +59492,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 japsulsa.com
 0.0.0.0 japtr.com
 0.0.0.0 japtron.es
+0.0.0.0 jarailso.com
 0.0.0.0 jardeesi.net
 0.0.0.0 jardimueble.es
 0.0.0.0 jarhcvnlj.com
@@ -69712,6 +69726,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 menteurbana.com.br
 0.0.0.0 mento-online.com
 0.0.0.0 mento-online24.com
+0.0.0.0 mentpyjam.fun
 0.0.0.0 mentvocacy.fun
 0.0.0.0 menu-electronics.com
 0.0.0.0 menuexamples.com
@@ -74884,6 +74899,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nginx14.iad1.videohub.tv
 0.0.0.0 nginx15.iad1.videohub.tv
 0.0.0.0 ngjzmt.com
+0.0.0.0 nglattemptenlan.fun
 0.0.0.0 ngleaccinemad.site
 0.0.0.0 nglingapparen.fun
 0.0.0.0 nglmedia.com
@@ -75092,6 +75108,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ninetynine-shop.eu
 0.0.0.0 ningbojipiao.com
 0.0.0.0 ningme.ru
+0.0.0.0 ningsovern.fun
 0.0.0.0 ningxiayy.com
 0.0.0.0 ninja.akamaized.net
 0.0.0.0 ninja.onap.io
@@ -76200,6 +76217,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ntracking.optimatic.com
 0.0.0.0 ntralpenedhy.pro
 0.0.0.0 ntrb.qc.coccoc.com
+0.0.0.0 ntryhospitesoili.fun
 0.0.0.0 ntryonoxojiyya.com
 0.0.0.0 ntsartingaccura.info
 0.0.0.0 ntsimprovide.info
@@ -76456,6 +76474,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nypmjsgpmhd.com
 0.0.0.0 nypost-d.openx.net
 0.0.0.0 nyrevi.ru
+0.0.0.0 nyshoweverislat.fun
 0.0.0.0 nysita.com
 0.0.0.0 nyskocbhfz.com
 0.0.0.0 nysubwayoffer.com
@@ -77950,6 +77969,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 onedrive.su
 0.0.0.0 onef.cf
 0.0.0.0 onefeed.co.uk
+0.0.0.0 onegalact.com
 0.0.0.0 onehergotwitran.info
 0.0.0.0 oneimpress.io
 0.0.0.0 onejoos.onthe.io
@@ -79135,6 +79155,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 oudccdjvh.com
 0.0.0.0 oudfatemehmousavi.com
 0.0.0.0 ouedkniss.com
+0.0.0.0 oufauthy.net
 0.0.0.0 ouftukoo.net
 0.0.0.0 ougdqjentmp.com
 0.0.0.0 ougesqknoehod.com
@@ -93042,6 +93063,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 saubersauger.com
 0.0.0.0 sauconysklep.pl
 0.0.0.0 sauconyteam.com
+0.0.0.0 saumooly.net
 0.0.0.0 sauna-am-wasserturm.de
 0.0.0.0 sauseschritt-schuhe.de
 0.0.0.0 sautemoo.net
@@ -95368,6 +95390,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sharrysweb.com
 0.0.0.0 shasnvadkustw.com
 0.0.0.0 shaunoog.com
+0.0.0.0 shauthou.net
 0.0.0.0 shawconnect.ca.d1.sc.omtrdc.net
 0.0.0.0 shawconnect.ca.ssl.d1.sc.omtrdc.net
 0.0.0.0 shawinternets.com
@@ -99052,6 +99075,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stagingsecurity.taptica.com
 0.0.0.0 stagolk.com
 0.0.0.0 staid.giftshopu.com
+0.0.0.0 staimpor.net
 0.0.0.0 stajniabatanka.pl
 0.0.0.0 stakenpolise.site
 0.0.0.0 stakeunited.com
@@ -110315,6 +110339,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 urhu.cn
 0.0.0.0 urhvlgfnbdhlf.com
 0.0.0.0 urifiel.pw
+0.0.0.0 urimteku.com
 0.0.0.0 uriqirelle.xyz
 0.0.0.0 uriren.pw
 0.0.0.0 uriuridfg.com
