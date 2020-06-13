@@ -19976,7 +19976,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 app.districtm.net
 0.0.0.0 app.dynamicrosoft.com
 0.0.0.0 app.engage.jio.com
-0.0.0.0 app.fahimpace.pro
 0.0.0.0 app.fancifulapp.cool
 0.0.0.0 app.flurry.com
 0.0.0.0 app.games-to-run123.com
@@ -24294,6 +24293,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bestdealfor20.life
 0.0.0.0 bestdeals.ws
 0.0.0.0 bestdevchenki.pw
+0.0.0.0 bestdisplayformats.com
 0.0.0.0 bestdnnblog.com
 0.0.0.0 bestdoska.ru
 0.0.0.0 beste-externe-festplatte.com
@@ -32766,7 +32766,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 coin-hive.com
 0.0.0.0 coin-miners.info
 0.0.0.0 coin-service.com
-0.0.0.0 coin.fahimpace.pro
 0.0.0.0 coin.mirtesen.ru
 0.0.0.0 coinad.com
 0.0.0.0 coinadster.com
@@ -38853,6 +38852,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 discuss.newrelic.com
 0.0.0.0 discuz.gtimg.cn
 0.0.0.0 discvr.net
+0.0.0.0 diseasons.club
 0.0.0.0 dishpurchasingcorporation.hb.omtrdc.net
 0.0.0.0 dishvoc.co1.qualtrics.com
 0.0.0.0 disk.adriver.ru
@@ -42252,6 +42252,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ek0.pl
 0.0.0.0 ek6-y.tlnk.io
 0.0.0.0 ek8k5dst5c.com
+0.0.0.0 ek9xrk5gyu.com
 0.0.0.0 ekanembtc.com
 0.0.0.0 ekansovi.com
 0.0.0.0 ekbcrhpyfuo.com
@@ -44540,6 +44541,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 eye.swfchan.com
 0.0.0.0 eyebinvex.com
 0.0.0.0 eyeblaster.com
+0.0.0.0 eyecurred.com
 0.0.0.0 eyefinity.actonsoftware.com
 0.0.0.0 eyein.com
 0.0.0.0 eyeota-sync.dotomi.com
@@ -44899,6 +44901,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 faggrim.com
 0.0.0.0 fagmomqua.site
 0.0.0.0 fahdsite.pro
+0.0.0.0 fahimpace.pro
 0.0.0.0 fahrdienstinberlin.de
 0.0.0.0 fahren-guenstig.de
 0.0.0.0 fahrrad-lager.de
@@ -45633,6 +45636,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fencemiracle.com
 0.0.0.0 fendde.com
 0.0.0.0 fendidiorbags.com
+0.0.0.0 fenedcarrago.club
 0.0.0.0 fengfengtie.com.cn
 0.0.0.0 fengfengtiecrv.com.cn
 0.0.0.0 fengfengtiessp.com.cn
@@ -52025,6 +52029,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 h38ub.voluumtrk.com
 0.0.0.0 h3btqpy2abc3.com
 0.0.0.0 h3lw971ym6.com
+0.0.0.0 h41s.com
 0.0.0.0 h4game.net
 0.0.0.0 h4k5.com
 0.0.0.0 h5-152-203-118.host.redstation.co.uk
@@ -52261,6 +52266,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hapjes-maken.eu
 0.0.0.0 hapket.ru
 0.0.0.0 haplittresonetert.info
+0.0.0.0 hapogzu9a19m5fhe56pb.pro
 0.0.0.0 happach.pl
 0.0.0.0 happen.spkt.io
 0.0.0.0 happer.info
@@ -53452,6 +53458,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hitfarm.com
 0.0.0.0 hitfilm.pl
 0.0.0.0 hitgelsin.com
+0.0.0.0 hitgodcut.club
 0.0.0.0 hitgraph.jp
 0.0.0.0 hitiz.com
 0.0.0.0 hitjazzband.pl
@@ -58841,7 +58848,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ivvoooxuyjfuo.com
 0.0.0.0 ivwbox.de
 0.0.0.0 ivxjpqksoclbyc.com
-0.0.0.0 ivy.aranlucas.pro
 0.0.0.0 ivy.pconline.com.cn
 0.0.0.0 ivycrest.net
 0.0.0.0 ivykiosk.com
@@ -69338,6 +69344,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 merreson.online
 0.0.0.0 merryholidays.org
 0.0.0.0 merrymilkfoods.com
+0.0.0.0 meryjane.pro
 0.0.0.0 merylaural.info
 0.0.0.0 mesa-maehroboter.de
 0.0.0.0 mesanasansor.com.tr
@@ -72151,6 +72158,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 muhsmr.de
 0.0.0.0 muhtoni.ru
 0.0.0.0 mujap.com
+0.0.0.0 mujgirreveals.club
 0.0.0.0 mujiangdashi.cn
 0.0.0.0 mujilora.com
 0.0.0.0 mujuclaster.ru
@@ -87134,6 +87142,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qoxsriddwmqx.com
 0.0.0.0 qoyagwzholjofg.com
 0.0.0.0 qp.si
+0.0.0.0 qp3lgzt6exyn.com
 0.0.0.0 qpb.sohu.com
 0.0.0.0 qpbaammdcwu.com
 0.0.0.0 qpcyafunjtir.com
@@ -89067,6 +89076,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 reimbergit.com.br
 0.0.0.0 reimburs.co
 0.0.0.0 reimcspb.b.sc.omtrdc.net
+0.0.0.0 reimpromot.fun
 0.0.0.0 reindaks.com
 0.0.0.0 reiners-nordsee.de
 0.0.0.0 reinigungaga.de
@@ -93589,6 +93599,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 secondmedia-d.openx.net
 0.0.0.0 secondscreenindexer.adswizz.com
 0.0.0.0 secondstreetmedia.com
+0.0.0.0 secreat.club
 0.0.0.0 secret-photos.com
 0.0.0.0 secret.xn--oogle-wmc.com
 0.0.0.0 secretbehindporn.com
@@ -94799,6 +94810,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 shapado.com
 0.0.0.0 shapebrothers.com.br
 0.0.0.0 shapzwwy.com
+0.0.0.0 shaque.vip
 0.0.0.0 shara-shantie.de
 0.0.0.0 shard85.onthe.io
 0.0.0.0 share-assets.mfcimg.com
@@ -96617,6 +96629,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 snapka.com.pl
 0.0.0.0 snapmobile.asia
 0.0.0.0 snaps.vidiemi.com
+0.0.0.0 snapsed.club
 0.0.0.0 snapservice.webengage.com
 0.0.0.0 snapsmedia.io
 0.0.0.0 snapsort-d.openx.net
@@ -101010,6 +101023,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sxlczj.cn
 0.0.0.0 sxljldh.top
 0.0.0.0 sxmdxy.com
+0.0.0.0 sxmgd1aqrr.com
 0.0.0.0 sxmmgiuilt.com
 0.0.0.0 sxmutan.com
 0.0.0.0 sxphoneshopping.site
@@ -104311,7 +104325,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tocho.pl
 0.0.0.0 todacell.com
 0.0.0.0 today.algolia.com
-0.0.0.0 today.usalastnews.pro
 0.0.0.0 todayapp.tv
 0.0.0.0 todaymediainc-d.openx.net
 0.0.0.0 todaymix.ru
@@ -117195,6 +117208,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xn--2000-f4dm3ea0a4b.xn--p1ai
 0.0.0.0 xn--20531-uua.biz
 0.0.0.0 xn--21955-gya.biz
+0.0.0.0 xn--2qu92fhtx4ff.icu
 0.0.0.0 xn--2qu92fhtx4ff.ink
 0.0.0.0 xn--2qu92fhtx4ff.ren
 0.0.0.0 xn--2qu92fhtx4ff.site
@@ -118948,6 +118962,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 z10a5cab6a.webengage.co
 0.0.0.0 z10a5cb751.webengage.co
 0.0.0.0 z11.cnzz.com
+0.0.0.0 z11yv3xpzk.com
 0.0.0.0 z12.cnzz.com
 0.0.0.0 z13.cnzz.com
 0.0.0.0 z134105663.webengage.co
