@@ -1355,6 +1355,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 1in.cqcounter.com
 0.0.0.0 1it.cqcounter.com
 0.0.0.0 1jo.cqcounter.com
+0.0.0.0 1jsskipuf8sd.com
 0.0.0.0 1jvd7f7w.top
 0.0.0.0 1k-daily-profitz.com
 0.0.0.0 1k.news-subscribe.com
@@ -4092,6 +4093,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 5yfi7sy.com
 0.0.0.0 5zi2.top
 0.0.0.0 5zi3.top
+0.0.0.0 5zi5.top
 0.0.0.0 6.adsco.re
 0.0.0.0 6.mamaswishes.com
 0.0.0.0 60.video-ak.cdn.spotify.com
@@ -10623,6 +10625,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adminv3.inq.com
 0.0.0.0 adminv3.touchcommerce.com
 0.0.0.0 admiral.mgr.consensu.org
+0.0.0.0 admiriam.club
 0.0.0.0 admission.net
 0.0.0.0 admitad-connect.com
 0.0.0.0 admitad.com
@@ -21646,6 +21649,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 audiencetrust.com
 0.0.0.0 audiens.com
 0.0.0.0 audienzz.ch
+0.0.0.0 audiesuree.club
 0.0.0.0 audio-ak-spotify-com.akamaized.net
 0.0.0.0 audio-ak.spotify.com.eip.akadns.net
 0.0.0.0 audio-akp-spotify-com.akamaized.net
@@ -21701,6 +21705,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aukalerim.com
 0.0.0.0 aukrouwy.net
 0.0.0.0 auktionshilfe.store
+0.0.0.0 aulingimpora.club
 0.0.0.0 aulisale.com
 0.0.0.0 aulist.com
 0.0.0.0 aulrains.com
@@ -46826,6 +46831,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 footymad.uk.intellitxt.com
 0.0.0.0 footyreflex.com
 0.0.0.0 foovyagf.com
+0.0.0.0 foowafoa.com
 0.0.0.0 fophaumpoor.com
 0.0.0.0 fopisa.ch
 0.0.0.0 foqbcgpwrq.com
@@ -47514,6 +47520,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 freelaptopwebsites.com
 0.0.0.0 freelogs.com
 0.0.0.0 freemaineads.com
+0.0.0.0 freementgd.club
 0.0.0.0 freeminecraft.cc
 0.0.0.0 freeminecraftgiftcode.net
 0.0.0.0 freemyapps.com
@@ -48032,6 +48039,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 futureplc-electronics.t.domdex.com
 0.0.0.0 futurepublications.uk.intellitxt.com
 0.0.0.0 futureresiduals.com
+0.0.0.0 futurershnh.club
 0.0.0.0 futureus.com
 0.0.0.0 futureusprod.amobee.com
 0.0.0.0 futuristicapparatus.com
@@ -53781,6 +53789,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 holdenavenue.pl
 0.0.0.0 holder.com.ua
 0.0.0.0 holexknw.loan
+0.0.0.0 holidates.club
 0.0.0.0 holiday-gift-offers.com
 0.0.0.0 holidayproductpromo.com
 0.0.0.0 holidays.hu
@@ -89003,6 +89012,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 regionalnyportal.eu
 0.0.0.0 regis.foultier.free.fr
 0.0.0.0 regisg.com
+0.0.0.0 regislandery.club
 0.0.0.0 register.appsflyer.com
 0.0.0.0 register.brightcove.com
 0.0.0.0 register.cinematrix.net
@@ -91139,6 +91149,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rubicon.adformdsp.net
 0.0.0.0 rubicon.digitru.st
 0.0.0.0 rubiconproject.com
+0.0.0.0 rubicwithias.club
 0.0.0.0 rubiginose.com
 0.0.0.0 rubiks.ca
 0.0.0.0 rubird.ru
@@ -94122,6 +94133,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 serien-sidekicks.de
 0.0.0.0 seriencev.com
 0.0.0.0 seriend.com
+0.0.0.0 seriodilov.club
 0.0.0.0 seriorladded.info
 0.0.0.0 serious-partners.com
 0.0.0.0 seriousfiles.com
@@ -100200,6 +100212,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stripe.rs-1117-a.com
 0.0.0.0 stripedburst.com
 0.0.0.0 stripedcollar.net
+0.0.0.0 striplesthosen.club
 0.0.0.0 strips.prod.vidible.tv
 0.0.0.0 stripsi.vidible.tv
 0.0.0.0 stripteas.com
@@ -101855,6 +101868,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tags.news.com.au
 0.0.0.0 tags.newscgp.com
 0.0.0.0 tags.onscroll.com
+0.0.0.0 tags.op-palvelut.fi
 0.0.0.0 tags.orquideassp.com
 0.0.0.0 tags.otherlevels.com
 0.0.0.0 tags.premiumads.com.br
@@ -109622,6 +109636,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 upgradefunnel.goat.manycomponents.com
 0.0.0.0 upgradeget.thegreatforupdatesafemove.download
 0.0.0.0 upgradenote.enterbestforupdating.bid
+0.0.0.0 upheasted.club
 0.0.0.0 uphuatdmwbdm.com
 0.0.0.0 upi-d.openx.net
 0.0.0.0 upi.112.2o7.net
@@ -117208,6 +117223,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xn--2000-f4dm3ea0a4b.xn--p1ai
 0.0.0.0 xn--20531-uua.biz
 0.0.0.0 xn--21955-gya.biz
+0.0.0.0 xn--2qu92fhtx4ff.club
 0.0.0.0 xn--2qu92fhtx4ff.icu
 0.0.0.0 xn--2qu92fhtx4ff.ink
 0.0.0.0 xn--2qu92fhtx4ff.ren
@@ -118202,6 +118218,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yimeize.cn
 0.0.0.0 yimfcnxzyqhpih.com
 0.0.0.0 ying.hitbox.com
+0.0.0.0 yingjiawm.com
 0.0.0.0 yingtaiboli.cn
 0.0.0.0 yinhaijuan.com
 0.0.0.0 yinlt.com
@@ -118290,6 +118307,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yljtytqq.com
 0.0.0.0 ylkhts.cc
 0.0.0.0 ylkkp.com
+0.0.0.0 ylkqw.com
 0.0.0.0 yllanala.pw
 0.0.0.0 yllasatra.xyz
 0.0.0.0 yllfdnftjo.com
