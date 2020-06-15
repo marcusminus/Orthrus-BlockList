@@ -2968,6 +2968,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 3c0012ab95c132f.com
 0.0.0.0 3c06b86c4147745b.com
 0.0.0.0 3c34083bda22d8.com
+0.0.0.0 3c3c3.com
 0.0.0.0 3c513c1d3255c.com
 0.0.0.0 3ca28642b714623b2.com
 0.0.0.0 3cd99930e27056f89.com
@@ -7691,6 +7692,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 abie15.top
 0.0.0.0 abie16.top
 0.0.0.0 abie17.top
+0.0.0.0 abie18.top
 0.0.0.0 abie25.top
 0.0.0.0 abie9.top
 0.0.0.0 abikurier.com
@@ -14526,6 +14528,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adstock.ru
 0.0.0.0 adstogo.com
 0.0.0.0 adstome.com
+0.0.0.0 adstonesik.club
 0.0.0.0 adstor360.com
 0.0.0.0 adstore.jp
 0.0.0.0 adstrack45.com
@@ -18547,6 +18550,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ankieta-online.pl
 0.0.0.0 ankiety-konsumenckie.pl
 0.0.0.0 anklets.shengen.ru
+0.0.0.0 ankunding.biz
 0.0.0.0 anlcld.com
 0.0.0.0 anlclqrvbsk.co
 0.0.0.0 anm.112.2o7.net
@@ -33042,6 +33046,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 collector.effectivemeasure.net
 0.0.0.0 collector.eqads.com
 0.0.0.0 collector.fitanalytics.com
+0.0.0.0 collector.getyourguide.com
 0.0.0.0 collector.githubapp.com
 0.0.0.0 collector.hpn.cliqz.com
 0.0.0.0 collector.insight-stats.com
@@ -34498,6 +34503,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 courierpostonline.us.intellitxt.com
 0.0.0.0 courselfnorter.site
 0.0.0.0 courses.appsee.com
+0.0.0.0 courthereb.club
 0.0.0.0 cousin.specutrums.com
 0.0.0.0 cover.m2y.siemens.ch
 0.0.0.0 cover9.adultfriendfinder.com
@@ -36344,6 +36350,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d36lvucg9kzous.cloudfront.net
 0.0.0.0 d36sxvmjoflc2i.cloudfront.net
 0.0.0.0 d36wtdrdo22bqa.cloudfront.net
+0.0.0.0 d36zfztxfflmqo.cloudfront.net
 0.0.0.0 d37gvrvc0wt4s1.cloudfront.net
 0.0.0.0 d37s9vd5t6mov7.cloudfront.net
 0.0.0.0 d38dub.ru
@@ -36468,6 +36475,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d5a5a.xyz
 0.0.0.0 d5c18469d17cb1d1.com
 0.0.0.0 d5d4f491e92.com
+0.0.0.0 d5etv3akk3gsa.cloudfront.net
 0.0.0.0 d5i9o0tpq9sa1.cloudfront.net
 0.0.0.0 d5nxst8fruw4z.cloudfront.net
 0.0.0.0 d5ou3dytze6uf.cloudfront.net
@@ -46050,6 +46058,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fim.adnxs.com
 0.0.0.0 fimc.net
 0.0.0.0 fimg-resp.seznam.cz
+0.0.0.0 fimpromote.club
 0.0.0.0 fimserve.askmen.com
 0.0.0.0 fimserve.com
 0.0.0.0 fimserve.myspace.com
@@ -51201,6 +51210,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gralfusnzpo004.top
 0.0.0.0 gralfusnzpo006.top
 0.0.0.0 gralfusnzpo007.top
+0.0.0.0 gralfusnzpo008.top
 0.0.0.0 gramater-jugend.at
 0.0.0.0 gramombird.com
 0.0.0.0 gramovi.info
@@ -65101,6 +65111,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 log.nexgen.neustar.biz
 0.0.0.0 log.ngaynay.vn
 0.0.0.0 log.ngsm.nexon.com
+0.0.0.0 log.nhipcaudautu.vn
 0.0.0.0 log.nordot.jp
 0.0.0.0 log.olark.com
 0.0.0.0 log.opentracker.net
@@ -67695,6 +67706,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 marketconnectionsinc.actonsoftware.com
 0.0.0.0 marketdecisions.qualtrics.com
 0.0.0.0 marketer.comscore.com
+0.0.0.0 marketeret.club
 0.0.0.0 marketfly.net
 0.0.0.0 marketgameland.com
 0.0.0.0 marketgid.com
@@ -78388,6 +78400,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 orlandomp.com
 0.0.0.0 ormeadobess.com
 0.0.0.0 ormnduxoewtl.com
+0.0.0.0 ornamedev.club
 0.0.0.0 ornament-i.com
 0.0.0.0 orncks.pro
 0.0.0.0 orpheus-lyra.de
@@ -89946,6 +89959,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ride-a-bike.net
 0.0.0.0 ride-a-bike.online
 0.0.0.0 ridepush.com
+0.0.0.0 ridferbad.com
 0.0.0.0 ridgelorridorsag.info
 0.0.0.0 ridingintractable.com
 0.0.0.0 ridutas.eu
@@ -92900,6 +92914,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 scienceboard.co1.qualtrics.com
 0.0.0.0 sciencerevenue.com
 0.0.0.0 scienceworldreport.us.intellitxt.com
+0.0.0.0 scientialy.club
 0.0.0.0 scientiamobile.com
 0.0.0.0 scientificshirt.com
 0.0.0.0 scintillatingscissors.com
@@ -99564,6 +99579,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stats.pepperdigitaldashboard.com.re.getclicky.com
 0.0.0.0 stats.persgroep.be
 0.0.0.0 stats.persgroep.nl
+0.0.0.0 stats.petrotimes.vn
 0.0.0.0 stats.piaggio.com
 0.0.0.0 stats.pingdom.com
 0.0.0.0 stats.platinumbucks.com
@@ -108868,6 +108884,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uggvuuquxj.com
 0.0.0.0 uggwyprzedaz.pl
 0.0.0.0 ughdqpwtfabsqg.com
+0.0.0.0 ughhimtoy.com
 0.0.0.0 ughmvqf.spitt.ru
 0.0.0.0 ughtedrab.ru
 0.0.0.0 ughwashis.ru
@@ -109417,6 +109434,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 unjqjnzvzyrtw.com
 0.0.0.0 unk.co1.qualtrics.com
 0.0.0.0 unk.vver.kiae.rr
+0.0.0.0 unknowlejir.club
 0.0.0.0 unknown.counsellor.gov.cn
 0.0.0.0 unknownads.com
 0.0.0.0 unknowntray.com
@@ -111421,6 +111439,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vg-no.c.richmetrics.com
 0.0.0.0 vg-old-setting.rayjump.com
 0.0.0.0 vg-setting.rayjump.com
+0.0.0.0 vg4u8rvq65t6.com
 0.0.0.0 vg74gi6mea.com
 0.0.0.0 vgark.mirtesen.ru
 0.0.0.0 vgbvsduys.com
@@ -119487,6 +119506,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zeusclicks.com
 0.0.0.0 zeushoki.com
 0.0.0.0 zeuspoker.olala2.com
+0.0.0.0 zeustechnology.com
 0.0.0.0 zevents.com
 0.0.0.0 zevszinklxyf.com
 0.0.0.0 zewkj.com
