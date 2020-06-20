@@ -183,6 +183,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 05xz0h2xo799.com
 0.0.0.0 06.video-ak.cdn.spotify.com
 0.0.0.0 0601chruopjsm.xyz
+0.0.0.0 0615nxbsho.xyz
 0.0.0.0 061606084448.c.mystat-in.net
 0.0.0.0 0638.info
 0.0.0.0 064bdf.r.axf8.net
@@ -5278,6 +5279,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 948828732.keywordblocks.com
 0.0.0.0 94982c5b634975e50103ce96082d2827.adk2.co
 0.0.0.0 94cdn.com
+0.0.0.0 94dwc.com
 0.0.0.0 94lm.com
 0.0.0.0 94nw.com
 0.0.0.0 94uyvwwh.com
@@ -12314,6 +12316,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.newtimes.com
 0.0.0.0 ads.nexage.com
 0.0.0.0 ads.ngenuity.com
+0.0.0.0 ads.nghenhinvietnam.vn
 0.0.0.0 ads.nicovideo.jp
 0.0.0.0 ads.nikkeibp.co.jp
 0.0.0.0 ads.ninemsn.com.au
@@ -14798,6 +14801,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adv.adultpartnership.com
 0.0.0.0 adv.adview.pl
 0.0.0.0 adv.all-free-download.com
+0.0.0.0 adv.anhsangvacuocsong.vn
 0.0.0.0 adv.aport.ru
 0.0.0.0 adv.axiatraders.com
 0.0.0.0 adv.bannercity.ru
@@ -21961,6 +21965,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 avenuea.com
 0.0.0.0 aveprize.com
 0.0.0.0 averaladmi.info
+0.0.0.0 averallasew.club
 0.0.0.0 avercarto.com
 0.0.0.0 avero.xyz
 0.0.0.0 averoconnector.com
@@ -27982,7 +27987,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 caigiees.com
 0.0.0.0 caiji.wiki
 0.0.0.0 cailawyer.cn
-0.0.0.0 cain.rd2d.pro
 0.0.0.0 caipys.de
 0.0.0.0 cairn-westie.com.pl
 0.0.0.0 caisstudents.ca
@@ -32512,6 +32516,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cniuv.com
 0.0.0.0 cnkok.com
 0.0.0.0 cnlhg.cn
+0.0.0.0 cnliken.com
 0.0.0.0 cnn.122.2o7.net
 0.0.0.0 cnn.allpolitics.printthis.clickability.com
 0.0.0.0 cnn.allpolitics.savethis.clickability.com
@@ -35353,6 +35358,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ctibank.com
 0.0.0.0 ctibrc.org
 0.0.0.0 ctiprlgcxftdsaiqvk.com
+0.0.0.0 ctivesprepaired.club
 0.0.0.0 ctj.adx1.com
 0.0.0.0 ctjtlrmy.com
 0.0.0.0 ctl-talkingdata-com.control.kochava.com
@@ -37992,6 +37998,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 denizunay.com
 0.0.0.0 denkagida.com.tr
 0.0.0.0 denlorian.com
+0.0.0.0 denmarried.club
 0.0.0.0 denniscarpenter.evergage.com
 0.0.0.0 dennispublishing.112.2o7.net
 0.0.0.0 denotatorum.site
@@ -41685,6 +41692,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ecuau.qualtrics.com
 0.0.0.0 ecuc123.net
 0.0.0.0 ecure.audienceinsights.net
+0.0.0.0 ecurrenchoutliness.fun
 0.0.0.0 ecustomeropinions.com
 0.0.0.0 ecuwa.cn
 0.0.0.0 ecviptrade.com
@@ -52056,6 +52064,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 h-api.online-metrix.net
 0.0.0.0 h-bid.com
 0.0.0.0 h-fail-test.online-metrix.net
+0.0.0.0 h-l.icu
 0.0.0.0 h-l.xyz
 0.0.0.0 h-signifyd.online-metrix.net
 0.0.0.0 h-villamotel.com
@@ -52171,6 +52180,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hadsipz.com
 0.0.0.0 hadskiz.com
 0.0.0.0 hadslims.com
+0.0.0.0 hadslimz.com
 0.0.0.0 hadsoks.com
 0.0.0.0 hadsokz.com
 0.0.0.0 haedong.es.kr
@@ -63337,7 +63347,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 lasimakiz.xyz
 0.0.0.0 lasred.com
 0.0.0.0 lassistslegisten.info
-0.0.0.0 last.lcnf.pro
 0.0.0.0 last.tax-lab.net
 0.0.0.0 lastampa01.webtrekk.net
 0.0.0.0 lastar.d1.sc.omtrdc.net
@@ -63564,6 +63573,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lcmkcvisyynkw.com
 0.0.0.0 lcmsystem.com
 0.0.0.0 lcmusic.pl
+0.0.0.0 lcnf.pro
 0.0.0.0 lcolevwciuwj.com
 0.0.0.0 lcpcjnsu.com
 0.0.0.0 lcpqoewrzuxh.com
@@ -64401,6 +64411,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 linghangshouji.com
 0.0.0.0 lingintirejohny.club
 0.0.0.0 lingospot.com
+0.0.0.0 lingovernmen.fun
 0.0.0.0 lingrethertantin.pro
 0.0.0.0 linicom.co.il
 0.0.0.0 linicom.co.uk
@@ -77330,6 +77341,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 oldenburger-inlinernacht.de
 0.0.0.0 oldership.com
 0.0.0.0 oldgames.zp.ua
+0.0.0.0 oldmilram.com
 0.0.0.0 oldqsuoemchpr.com
 0.0.0.0 oldrrb.bid
 0.0.0.0 oldsite.yieldmo.com
@@ -88606,6 +88618,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 rd.tabelog.com
 0.0.0.0 rd.yahoo.co.jp
 0.0.0.0 rd1.hitbox.com
+0.0.0.0 rd2d.pro
+0.0.0.0 rdance.cn
 0.0.0.0 rdarlierintedca.info
 0.0.0.0 rdb.adx1.com
 0.0.0.0 rdbd.xsread.com
@@ -93283,6 +93297,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sd.turn.com
 0.0.0.0 sd5doozry8.com
 0.0.0.0 sda.seesaa.jp
+0.0.0.0 sda.tamdiem247.com
 0.0.0.0 sdaaxz.xyz
 0.0.0.0 sdabfw.cn
 0.0.0.0 sdad.guru
@@ -94155,7 +94170,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 semantiqo.com
 0.0.0.0 semasa.icu
 0.0.0.0 semasio.net
-0.0.0.0 sematext.com
 0.0.0.0 semengineers.com
 0.0.0.0 semi-cod.com
 0.0.0.0 seminarski-diplomski.co.rs
@@ -94745,6 +94759,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 seven.jp-bankq.com
 0.0.0.0 sevenads.net
 0.0.0.0 sevendaystart.com
+0.0.0.0 sevenialfeminde.fun
 0.0.0.0 sevenoneintermedia.112.2o7.net
 0.0.0.0 sevenstars7.com
 0.0.0.0 seventrendsde.widget.criteo.com
@@ -95000,6 +95015,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 shapebrothers.com.br
 0.0.0.0 shapzwwy.com
 0.0.0.0 shaque.vip
+0.0.0.0 shaquevip.oss-cn-zhangjiakou.aliyuncs.com
 0.0.0.0 shara-shantie.de
 0.0.0.0 shard85.onthe.io
 0.0.0.0 share-assets.mfcimg.com
@@ -97310,6 +97326,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sosweetpet.com
 0.0.0.0 sosyaldestek-kredibasvuru.com
 0.0.0.0 sotuktraffic.com
+0.0.0.0 soueki.com
 0.0.0.0 soufeel.de
 0.0.0.0 soujoobafoo.com
 0.0.0.0 soulcat-berlin.de
@@ -99798,6 +99815,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stats.surfaid.ihost.com
 0.0.0.0 stats.sxp.smartclip.net
 0.0.0.0 stats.systemres.com.re.getclicky.com
+0.0.0.0 stats.tamdiem247.com
 0.0.0.0 stats.tazeros.com
 0.0.0.0 stats.technopia.it
 0.0.0.0 stats.telegraph.co.uk
@@ -100536,7 +100554,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 suavalds.com
 0.0.0.0 sub.powerapple.com
 0.0.0.0 sub.prod.vidible.tv
-0.0.0.0 sub.rd2d.pro
 0.0.0.0 sub2tech.com
 0.0.0.0 subad-server.com
 0.0.0.0 subaruofamerica.112.2o7.net
@@ -101494,6 +101511,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 syxchj.cn
 0.0.0.0 syxcwxur.com
 0.0.0.0 syxsa.cn
+0.0.0.0 syxylyche.pro
 0.0.0.0 syyycc.com
 0.0.0.0 syznate.ru
 0.0.0.0 sz-loc.ushareit.com
@@ -103289,6 +103307,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 teueondocabsu.com
 0.0.0.0 teutorigos-cat.com
 0.0.0.0 tevasandalen.de
+0.0.0.0 tevenienceention.fun
 0.0.0.0 tewoutrepozv.bid
 0.0.0.0 tex-sync.rockyou.net
 0.0.0.0 tex.ero-advertising.com
@@ -111460,7 +111479,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 vepxl1.net
 0.0.0.0 ver-pelis.net
 0.0.0.0 ver.braintest4you.com
-0.0.0.0 ver.rd2d.pro
 0.0.0.0 vera-antoniuk.at
 0.0.0.0 vera-etterich.de
 0.0.0.0 veraandharper.com
@@ -118258,6 +118276,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yesadsrv.com
 0.0.0.0 yesadvertising.com
 0.0.0.0 yesbank.demdex.net
+0.0.0.0 yescomition.club
 0.0.0.0 yese115.com
 0.0.0.0 yese161.com
 0.0.0.0 yese236.com
@@ -118911,6 +118930,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ytaahg.vo.llnwd.net
 0.0.0.0 ytbnm.cn
 0.0.0.0 ytbpmzbabph.com
+0.0.0.0 ytcard.cn
 0.0.0.0 ytcgivcxzawx.com
 0.0.0.0 ytcpfvgqp.com
 0.0.0.0 ytdksb.com
@@ -119459,6 +119479,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zayhipbcxig.com
 0.0.0.0 zayoei.co1.qualtrics.com
 0.0.0.0 zazeadshop.com
+0.0.0.0 zazkkk.com
 0.0.0.0 zb.news-subscribe.com
 0.0.0.0 zb.zeroredirect1.com
 0.0.0.0 zb1.zeroredirect1.com
