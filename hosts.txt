@@ -3075,6 +3075,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 3xtraffic.com
 0.0.0.0 3y0h.cn
 0.0.0.0 3y6c.cn
+0.0.0.0 3ye924.cn
 0.0.0.0 3ygww.com
 0.0.0.0 3ypackaging.com
 0.0.0.0 3zvw1.bemobtrk.com
@@ -20658,6 +20659,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 arearmark.club
 0.0.0.0 areasins.com
 0.0.0.0 areasnap.com
+0.0.0.0 areasons.club
 0.0.0.0 areasonsimon.club
 0.0.0.0 arecio.work
 0.0.0.0 arejoysew.com
@@ -30424,6 +30426,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 chainsawoffer.com
 0.0.0.0 chainwalladsy.com
 0.0.0.0 chainworksindustries.com
+0.0.0.0 chairmany.club
 0.0.0.0 chairscrack.com
 0.0.0.0 chairwaydenew.site
 0.0.0.0 chajv.top
@@ -33872,6 +33875,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 conversions.adaptv.advertising.com
 0.0.0.0 conversions.appsflyer.com
 0.0.0.0 conversions.genieventures.co.uk
+0.0.0.0 conversityz.club
 0.0.0.0 convert-video.online
 0.0.0.0 convert.bounceexchange.com
 0.0.0.0 convert.bouncex.com
@@ -38061,6 +38065,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dersmembrac.fun
 0.0.0.0 derstand.oewabox.at
 0.0.0.0 derstandard.nuggad.net
+0.0.0.0 derthundrew.club
 0.0.0.0 dertierplanet.com
 0.0.0.0 derwentleeds.co.uk
 0.0.0.0 derwesten.cleverpush.com
@@ -42261,6 +42266,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 eisgruebl.at
 0.0.0.0 eishockey-trikot.net
 0.0.0.0 eitbglobal.ojdinteractiva.com
+0.0.0.0 eitherewindoor.club
 0.0.0.0 eiuuiormjc.com
 0.0.0.0 eiv.baidu.com
 0.0.0.0 eiygqumgrobos.com
@@ -47642,6 +47648,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fremaks.net
 0.0.0.0 frembud.pl
 0.0.0.0 french-by-emma.de
+0.0.0.0 frenchayan.club
 0.0.0.0 frencsuym.com
 0.0.0.0 frenetikus.com
 0.0.0.0 frequenz7.de
@@ -56626,7 +56633,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 imdb.co1.qualtrics.com
 0.0.0.0 imedia-d.openx.net
 0.0.0.0 imedia.adk2.co
-0.0.0.0 imedia.co.il
 0.0.0.0 imediaaudiences.com
 0.0.0.0 imediarevenue.com
 0.0.0.0 imeds.ero-advertising.com
@@ -61936,6 +61942,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kissen.goodusale.com
 0.0.0.0 kisshorestaurant.vn
 0.0.0.0 kissingsuzykolber.us.intellitxt.com
+0.0.0.0 kissioncault.club
 0.0.0.0 kissmanga.com
 0.0.0.0 kissmyads.biz
 0.0.0.0 kissmyads.go2jump.org
@@ -63670,7 +63677,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 lead.network
 0.0.0.0 lead.program3.com
 0.0.0.0 lead.soperson.com
-0.0.0.0 leadacceptor.com
 0.0.0.0 leadad.mobi
 0.0.0.0 leadadvert.info
 0.0.0.0 leadaffiliates.com
@@ -67443,6 +67449,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mainsrvmaindswfjr.com
 0.0.0.0 mainstream.topbucks.com
 0.0.0.0 mainstreet.us.intellitxt.com
+0.0.0.0 maintawrte.club
 0.0.0.0 mainteck-fr.com
 0.0.0.0 maintenance.flurry.com
 0.0.0.0 maintenance.tubemogul.com
@@ -74763,7 +74770,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 nikstein.at
 0.0.0.0 nikxhdrys.com
 0.0.0.0 nilco.pl
-0.0.0.0 nile.works
 0.0.0.0 nilemixitupd.biz.pl
 0.0.0.0 nililotan.org
 0.0.0.0 niltutch.com
@@ -80052,6 +80058,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 paegcsvchsdlbj.com
 0.0.0.0 paella.adrise.tv
 0.0.0.0 paerdstall.lu
+0.0.0.0 paerst.cn
 0.0.0.0 pafderio.top
 0.0.0.0 pafiilate.byethost32.com
 0.0.0.0 pafovocg.bid
@@ -80781,7 +80788,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pbnyhdpowerncjjfn.com
 0.0.0.0 pbofytmakvye.com
 0.0.0.0 pbox.photobox.de
-0.0.0.0 pbpb.tv
 0.0.0.0 pbpdgojwzfdc.com
 0.0.0.0 pbrd.co
 0.0.0.0 pbs.alfasense.com
@@ -94319,6 +94325,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 serialowo.pl
 0.0.0.0 serie-vostfr.com
 0.0.0.0 serien-sidekicks.de
+0.0.0.0 seriencern.club
 0.0.0.0 seriencev.com
 0.0.0.0 seriend.com
 0.0.0.0 seriodilov.club
