@@ -3560,6 +3560,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 4269.content.swrve.com
 0.0.0.0 42740729.adoric-om.com
 0.0.0.0 42777217.adoric-om.com
+0.0.0.0 427tbezplqv5.com
 0.0.0.0 42824250.adoric-om.com
 0.0.0.0 428268562.keywordblocks.com
 0.0.0.0 4283.api.swrve.com
@@ -5279,6 +5280,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 7y6.xyz
 0.0.0.0 7y7.us
 0.0.0.0 7yhrut9uchwqk9szhqgltjijhxemq1516688617.nuid.imrworldwide.com
+0.0.0.0 7yucu023o36p.com
 0.0.0.0 7zeb6yyia4twzi6jx6sxdholkr2z41508205361.nuid.imrworldwide.com
 0.0.0.0 7zip.fr
 0.0.0.0 8.0769.it
@@ -16465,6 +16467,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 afsanalytics.com
 0.0.0.0 afsasdfa33.xyz
 0.0.0.0 afshanthough.pro
+0.0.0.0 afssdmin.com
 0.0.0.0 afte.mopo.jp
 0.0.0.0 after50days.com
 0.0.0.0 afterburn666.triplemining.com
@@ -17455,6 +17458,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aliapp.open.uc.cn
 0.0.0.0 alibaba.zzux.com
 0.0.0.0 alibabaslots.com
+0.0.0.0 alibdl.xyz
 0.0.0.0 alibdn.xyz
 0.0.0.0 alibestru.ru
 0.0.0.0 alibestsale.com
@@ -34507,6 +34511,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cguru.ga
 0.0.0.0 cguvvvdxa.com
 0.0.0.0 cgwhbzfxhwltpm.com
+0.0.0.0 cgx68vtoprov.com
 0.0.0.0 cgxxmy.com
 0.0.0.0 cgzpjnr3efhvjcg.ru
 0.0.0.0 ch-gmtdmp.mookie1.com
@@ -39957,6 +39962,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 create2fear.com
 0.0.0.0 createthegroup.122.2o7.net
 0.0.0.0 createyourhealth.pl
+0.0.0.0 creathere.club
 0.0.0.0 creatiby1.unicast.com
 0.0.0.0 creation.conversation-memory.com
 0.0.0.0 creativawebperu.es
@@ -54227,6 +54233,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fgbmjogeurrqe.com
 0.0.0.0 fgcash.com.br
 0.0.0.0 fgcterkdpns.com
+0.0.0.0 fgddl9szdof7.com
 0.0.0.0 fgddrrr.com
 0.0.0.0 fgfcgadieidjdbdfadg.ru
 0.0.0.0 fghdembabvwe.com
@@ -59597,6 +59604,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 givememyremote.us.intellitxt.com
 0.0.0.0 givenstyle.com
 0.0.0.0 giveskincs.nd.pl
+0.0.0.0 givestment.club
 0.0.0.0 givestmentdr.club
 0.0.0.0 givingsol.com
 0.0.0.0 givirsou.net
@@ -70861,6 +70869,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 itn.adapools.org
 0.0.0.0 itns.coinlab.biz
 0.0.0.0 itns.minercountry.com
+0.0.0.0 itnuzleafan.com
 0.0.0.0 ito2tuxvfwjhjv4bgmsk0t5lwb1xc1508203721.nuid.imrworldwide.com
 0.0.0.0 itocd.net
 0.0.0.0 itogai.com
@@ -73549,6 +73558,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 k34ohtasyazf8db764fp9rqlcct8t1516325571.nuid.imrworldwide.com
 0.0.0.0 k3hpv.bemobtrk.com
 0.0.0.0 k3node.com
+0.0.0.0 k4bg1u10omks.com
 0.0.0.0 k4home.pl
 0.0.0.0 k4kwks0xtn10lv2jrzolgrt9xa4qi1514606081.nuid.imrworldwide.com
 0.0.0.0 k4movie.com
@@ -76832,6 +76842,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 leaplunchroom.com
 0.0.0.0 leapmobs.com
 0.0.0.0 leaptrade.com
+0.0.0.0 learliamtempl.fun
 0.0.0.0 learn-german-faster.de
 0.0.0.0 learn.adjust.com
 0.0.0.0 learn.doubleclick.net
@@ -81422,6 +81433,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 main.exoclick.com
 0.0.0.0 main.exosrv.com
 0.0.0.0 main.hdpool.com
+0.0.0.0 main.jiukang.org
 0.0.0.0 main.macht.org
 0.0.0.0 main.monero.pool-moscow.ru
 0.0.0.0 main.nocroom.com
@@ -83904,6 +83916,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 meter.bitcoin.com
 0.0.0.0 meter.bostonglobe.com
 0.0.0.0 metering.pagesuite.com
+0.0.0.0 metermsew.club
 0.0.0.0 metertna.ru
 0.0.0.0 methingewsf.club
 0.0.0.0 methodcash.com
@@ -86469,6 +86482,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 moneywin24.com
 0.0.0.0 moneywp.website
 0.0.0.0 moneywp.xyz
+0.0.0.0 mongdaughc.fun
 0.0.0.0 mongo.minerpool.net
 0.0.0.0 mongo.pexaproject.com
 0.0.0.0 mongo1.coinfoundry.org
@@ -92350,6 +92364,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 npujhntk.com
 0.0.0.0 npuwpglke.bid
 0.0.0.0 npvos.com
+0.0.0.0 npvxkna.cn
 0.0.0.0 npzlzsxkq.bid
 0.0.0.0 nq6lh.bemobtrk.com
 0.0.0.0 nq7ce2947edku4yqt5cdxzt6rpzn51509503902.nuid.imrworldwide.com
@@ -96450,6 +96465,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 oxzp5x.edvfwlacluo.com
 0.0.0.0 oyaqzikgjw.com
 0.0.0.0 oybahnktadxjju.com
+0.0.0.0 oyeesfrencha.fun
 0.0.0.0 oyfncnedrymc.com
 0.0.0.0 oyfsdpmhncobvj.com
 0.0.0.0 oyhnizdr4bxkz0.com
@@ -109872,6 +109888,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rmpaplceikdml.com
 0.0.0.0 rmputwrbacfrf.com
 0.0.0.0 rmqmxwb.cn
+0.0.0.0 rmqygg2zv24y.com
 0.0.0.0 rmrinivmnm0lrzahy2p8p5si3adlp1507020422.nuid.imrworldwide.com
 0.0.0.0 rms.admeta.com
 0.0.0.0 rms.uzelbilisim.com.tr
@@ -119534,6 +119551,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sqqwer.ru
 0.0.0.0 sqrmweiehtpwp.com
 0.0.0.0 sqsdyfgyjdjbx.com
+0.0.0.0 sqtr1v.com
 0.0.0.0 squalid-linen.fun
 0.0.0.0 squamishplumbing.ca
 0.0.0.0 squarefootball.uk.intellitxt.com
@@ -120143,6 +120161,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 st.marketgid.com
 0.0.0.0 st.n.ads2-adnow.com
 0.0.0.0 st.n.lc2ads.ru
+0.0.0.0 st.onlygip.tech
 0.0.0.0 st.pay-click.ru
 0.0.0.0 st.pba.xl.pt
 0.0.0.0 st.pc.adonweb.ru
@@ -133202,6 +133221,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 unetbootin.org
 0.0.0.0 unewqmemh.bid
 0.0.0.0 unexqnotmzyf.com
+0.0.0.0 unfeaecmhszmsx.com
 0.0.0.0 ungie.co1.qualtrics.com
 0.0.0.0 ungstlateriag.club
 0.0.0.0 unh.az1.qualtrics.com
@@ -136111,6 +136131,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vid33000c.pubmatic.com
 0.0.0.0 vid44000.pubmatic.com
 0.0.0.0 vid44000c.pubmatic.com
+0.0.0.0 vid4vip.com
 0.0.0.0 vidafilm.mx
 0.0.0.0 vidalak.com
 0.0.0.0 vidamsag.postr.hu
@@ -143566,6 +143587,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xn--2qu92fhtx4ff.ink
 0.0.0.0 xn--2qu92fhtx4ff.ren
 0.0.0.0 xn--2qu92fhtx4ff.site
+0.0.0.0 xn--2qu92fhtx4ff.top
 0.0.0.0 xn--2qu96gouvko1a.com
 0.0.0.0 xn--2qux23c9ziyrq.icu
 0.0.0.0 xn--2qux23confgml.club
@@ -144336,6 +144358,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yanabmw.ru
 0.0.0.0 yanbenji.cn
 0.0.0.0 yandepit.com
+0.0.0.0 yanderthundr.fun
 0.0.0.0 yandex-account-security.com
 0.0.0.0 yandex.st
 0.0.0.0 yandexadexchange.net
