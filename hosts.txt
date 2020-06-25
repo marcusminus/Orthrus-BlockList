@@ -4728,6 +4728,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 67734549.adoric-om.com
 0.0.0.0 67774983.adoric-om.com
 0.0.0.0 678742302.keywordblocks.com
+0.0.0.0 6789.run
 0.0.0.0 68.news-subscribe.com
 0.0.0.0 680.stats.misstrends.com
 0.0.0.0 681840531.keywordblocks.com
@@ -25804,7 +25805,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 basterr.popunder.ru
 0.0.0.0 bastille01.webtrekk.net
 0.0.0.0 basvformu*.xyz
-0.0.0.0 basvformu5.xyz
 0.0.0.0 bat.archi
 0.0.0.0 bat.bing.com
 0.0.0.0 bat.coinlab.biz
@@ -52099,6 +52099,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ewscorpuschristi.112.2o7.net
 0.0.0.0 ewscripps.112.2o7.net
 0.0.0.0 ewscripps.hb.omtrdc.net
+0.0.0.0 ewseriencern.fun
 0.0.0.0 ewsmemphis.112.2o7.net
 0.0.0.0 ewsnaples.112.2o7.net
 0.0.0.0 ewstcpalm.112.2o7.net
@@ -63543,6 +63544,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hesterinoc.info
 0.0.0.0 hesxz.com
 0.0.0.0 hetchi.com
+0.0.0.0 hethelcontai.fun
 0.0.0.0 heti-naplo.com
 0.0.0.0 hetofreplome.info
 0.0.0.0 hetperc.com
@@ -90060,6 +90062,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 netupdater.info
 0.0.0.0 netvigie.com
 0.0.0.0 netwalkervpn.s.xoxknct.com
+0.0.0.0 netwayer.de
 0.0.0.0 netwayz.com.sg
 0.0.0.0 netweek.it
 0.0.0.0 network-ca.247realmedia.com
@@ -103437,6 +103440,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 precisionmechanical.org
 0.0.0.0 precrack.com
 0.0.0.0 pred.space
+0.0.0.0 prederablyw.fun
 0.0.0.0 predicta.net
 0.0.0.0 predictad.com
 0.0.0.0 predictiondisplay.com
@@ -114584,6 +114588,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sennesgroup.com
 0.0.0.0 sennheiser.evyy.net
 0.0.0.0 senolati.com
+0.0.0.0 senrecomines.fun
 0.0.0.0 senrzuolwqvj.com
 0.0.0.0 sensay.mirtesen.ru
 0.0.0.0 sense360eng.com.herokudns.com
@@ -128054,6 +128059,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 topofblogs.com
 0.0.0.0 toppage.vn
 0.0.0.0 topparagliding.pl
+0.0.0.0 topperyregard.fun
 0.0.0.0 topping.com.ua
 0.0.0.0 toppool.top
 0.0.0.0 topqualitylink.com
@@ -135120,6 +135126,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vad.appier.net
 0.0.0.0 vaddesobhanadri.com
 0.0.0.0 vadideo.com
+0.0.0.0 vadioc.cn
 0.0.0.0 vadpay.com
 0.0.0.0 vads.adbrite.com
 0.0.0.0 vads.net.vn
@@ -136516,7 +136523,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 viokan.xvhod.ru
 0.0.0.0 violetluck.com
 0.0.0.0 violetmagic.com
-0.0.0.0 viously.com
 0.0.0.0 vioxx.1.p2l.info
 0.0.0.0 vip-bj.f2pool.com
 0.0.0.0 vip-chengdu.f2pool.com
@@ -139845,6 +139851,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wheretogo.bid
 0.0.0.0 wheshaud.net
 0.0.0.0 whethere.club
+0.0.0.0 whetherecyclo.fun
 0.0.0.0 whfpbc.99.com.cn
 0.0.0.0 whgaty.com
 0.0.0.0 whgvyswets.com
