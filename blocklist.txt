@@ -65665,6 +65665,7 @@
 ||fclog.baidu.com^
 ||fcm.doublemax.net^
 ||fcmatch.google.com^
+||fcmatch.youtube.com^
 ||fcmi.com^
 ||fcmotode.widget.criteo.com^
 ||fcn-bcn.pool.minergate.com^
@@ -147716,6 +147717,7 @@
 ||schreinerei-raum-zeit.de^
 ||schreurs.latestconsolegames.com^
 ||schroder87.leathermenshoes.com^
+||schubbyve.club^
 ||schueco01.webtrekk.net^
 ||schueren54.browndecorationlights.com^
 ||schuetz63.fashionwomenaccessories.com^
@@ -163313,6 +163315,7 @@
 ||techiwant.com^
 ||techjmx.com^
 ||techjoomo.com^
+||techlab-cdn.com^
 ||techmagnate.g2afse.com^
 ||technet.coinfoundry.org^
 ||technewsworld.us.intellitxt.com^
@@ -170122,6 +170125,7 @@
 ||tste.startribune.com^
 ||tsternie.com^
 ||tstlabs.co.uk^
+||tstobkl.pro^
 ||tsuda.ceramiccoffecups.com^
 ||tsuitufixxlf.com^
 ||tsuluto.ru^
