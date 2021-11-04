@@ -11716,7 +11716,6 @@
 ||ad.ma.doubleclick.net^
 ||ad.madvertise.de^
 ||ad.mail.ru^
-||ad.mail.ru^|
 ||ad.mail.sohu.com^
 ||ad.mailo.com^
 ||ad.mainichi.jp^
